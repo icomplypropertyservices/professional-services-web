@@ -26,7 +26,7 @@ jobs:
       - name: Static export
         env:
           SITE_URL: https://icomplyprofessionalservices.co.uk
-          XPLACE_TOWN_LIMIT: "50"
+          XPLACE_TOWN_LIMIT: "0"
         run: |
           php website/bin/static-export.php
           php website/bin/check-static-export.php
