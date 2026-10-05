@@ -1,193 +1,156 @@
 ---
-status: preview-draft
-keyword: chartered-surveyor-near-me
-structure_index: 157
-note: PREVIEW ONLY — unique per-keyword H2 structure (rebuild after shared_thin_shell REJECT)
-brand: iComply Professional Services
-pricing: POA only
+slug: chartered-surveyor-near-me
+title: Chartered Surveyor Near Me | iComply Professional Services
+description: Need a chartered surveyor near you? iComply connects you with a suitable UK surveying practice. Free, no-obligation matching. Request a quote — POA.
+family: surveyor
+group: property-prof
+hub: surveyors
+profession: surveyor
+service_label: Chartered surveyor
+og_image: /assets/images/hero-workshop.jpg
 ---
-# Chartered Surveyor Near Me | iComply Professional Services
 
-## Meta block (required)
+# Chartered Surveyor Near Me
 
-| Field | Value |
-|-------|-------|
-| title | Chartered Surveyor Near Me | iComply Professional Services |
-| description | Preview page for Chartered Surveyor Near Me. Unique template structure for this keyword. POA support from iComply Professional Services — not production. |
-| og:title | Chartered Surveyor Near Me | iComply Professional Services |
-| og:description | Preview page for Chartered Surveyor Near Me. Unique template structure for this keyword. POA support from iComply Professional Services — not production. |
-| og:url | https://icomplyprofessionalservices.co.uk/pages/keywords/chartered-surveyor-near-me |
-| og:type | website |
-| og:image | https://icomplyprofessionalservices.co.uk/assets/images/placeholders/kw/chartered-surveyor-near-me-1.jpg |
-| canonical | https://icomplyprofessionalservices.co.uk/pages/keywords/chartered-surveyor-near-me |
+Looking for **chartered surveyor near me** usually starts with a practical problem that needs a qualified person. Chartered surveyors are RICS members (MRICS or FRICS) who have passed professional assessment and follow RICS standards.
 
-### JSON-LD schema
+We act as the middleman between you and the professional. Share a short brief and we match you with a chartered surveyor who has the right experience and capacity. Enquiring is free, and you are under no obligation to accept a quote.
 
-```json
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "ProfessionalService",
-      "name": "iComply Professional Services",
-      "url": "https://icomplyprofessionalservices.co.uk/",
-      "areaServed": "GB",
-      "priceRange": "POA"
-    },
-    {
-      "@type": "WebPage",
-      "name": "Chartered Surveyor Near Me | iComply Professional Services",
-      "url": "https://icomplyprofessionalservices.co.uk/pages/keywords/chartered-surveyor-near-me",
-      "description": "Preview page for Chartered Surveyor Near Me. Unique template structure for this keyword. POA support from iComply Professional Services \u2014 not production."
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Is the \"Chartered Surveyor Near Me\" page live production?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. It is a PREVIEW draft until Jack explicitly says go."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does this keyword share a thin template with others?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. This file uses a unique H2 structure generated for this slug alone."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Do you list fixed prices?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. All commercial work is price on application (POA) after scoping."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Will \"Chartered Surveyor Near Me\" get town or village pages?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Later, on the FULL UK 34,235 allowlist, prioritising TOP5000 waves \u2014 still PREVIEW until Jack says go."
-          }
-        }
-      ]
-    }
-  ]
-}
-```
+**[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-## Preview notice
+![Client explaining what they need before being matched with a chartered surveyor](/assets/images/hero-workshop.jpg)
 
-Unique template structure for `chartered-surveyor-near-me` (fingerprint index 157). Not a shared family shell.
+## Where surveyors can help
 
-![Chartered Surveyor Near Me workshop](/assets/images/placeholders/kw/chartered-surveyor-near-me-1.jpg)
-![Chartered Surveyor Near Me documentation](/assets/images/placeholders/kw/chartered-surveyor-near-me-2.jpg)
-![Chartered Surveyor Near Me coverage](/assets/images/placeholders/kw/chartered-surveyor-near-me-3.jpg)
+You do not need to have everything worked out. Clients often come to us with situations like these:
 
-This preview keyword hub is dedicated to **Chartered Surveyor Near Me** (`chartered-surveyor-near-me`). Its section headings are unique to this slug (structure index 157). It is not a Property Services page and not a shared thin shell.
+- A buyer wanting a survey before exchanging contracts.
+- An owner worried about cracks, damp or roof problems.
+- A neighbour planning work that affects a shared wall.
+- A landlord or developer needing cost or measurement advice.
+- A dispute over where a boundary lies.
 
-## What we will not claim (chartered · 60/3)
+If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of surveyor fits best.
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+## What a chartered surveyor is likely to cost (POA)
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+Survey fees depend on the type of report, the size and age of the property and how far the surveyor must travel. Specialist and commercial work is usually quoted individually. iComply does not publish fees; the surveyor quotes you, POA.
 
-On `chartered-surveyor-near-me`, this heading focuses practice managers on the angle encoded as structure 157.0. That keeps the outline distinct from every other P0 keyword page.
+Ask for the scope of the inspection in writing, and check whether follow-up calls or additional investigations are included.
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+## Looking for a chartered surveyor close to home
 
-## Discovery and qualification (chartered · 60/4)
+When you search for a chartered surveyor near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+**Need a chartered surveyor?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-On `chartered-surveyor-near-me`, this heading focuses practice managers on the angle encoded as structure 157.1. That keeps the outline distinct from every other P0 keyword page.
+## Checking surveyors are qualified and regulated
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+Many surveyors are members of the Royal Institution of Chartered Surveyors (RICS), and RICS-regulated firms must follow professional standards, hold insurance and offer a complaints process. Chartered surveyors use the letters MRICS or FRICS. Some specialist roles have their own bodies, such as the Faculty of Party Wall Surveyors or the Property Care Association for damp and timber specialists.
 
-## Technical foundations (chartered · 60/8)
+Check the RICS directory, ask which report type you are getting and confirm whether the surveyor is independent of the sale. For asbestos work, look for organisations accredited by UKAS for surveying.
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+## Getting ready for your first conversation
 
-On `chartered-surveyor-near-me`, this heading focuses practice managers on the angle encoded as structure 157.2. That keeps the outline distinct from every other P0 keyword page.
+A short, clear brief saves time on both sides. Useful details include:
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+- For party wall matters, a description of the planned works
+- The age of the property, if known
+- Any particular concerns, such as cracks, damp or extensions
+- Any previous reports or drawings
+- Your lender's requirements, if a mortgage is involved
+- Why you need the survey and any deadline
 
-## Image and alt-text plan (chartered · 60/37)
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+## How long things usually take
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+Residential inspections can often be booked within a week or two, with reports following within a few working days. Party wall matters follow statutory notice periods, and specialist investigations may need extra visits.
 
-On `chartered-surveyor-near-me`, this heading focuses practice managers on the angle encoded as structure 157.3. That keeps the outline distinct from every other P0 keyword page.
+![Planning the first appointment after an enquiry for chartered surveyor near me](/assets/images/finance-desk.jpg)
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+## From enquiry to quote in four steps
 
-## Who this intent serves (chartered · 60/0)
+1. **Enquire for free** with your town or postcode and a short description.
+1. **We clarify** anything unclear, so the introduction is useful from the start.
+1. **We connect you** with a chartered surveyor who suits your situation.
+1. **The practice takes over**, confirms scope and fees in writing and does the work.
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+## Good questions for your first call
 
-On `chartered-surveyor-near-me`, this heading focuses practice managers on the angle encoded as structure 157.4. That keeps the outline distinct from every other P0 keyword page.
+Once you are introduced, these questions help you decide whether the surveyor is right for you:
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+- Can I call you to talk through the findings?
+- Are you independent of the agent or seller?
+- Which type of survey or report do you recommend, and why?
+- What happens if you find something that needs further investigation?
+- When can you inspect, and when will I receive the report?
+- Do you hold professional indemnity insurance?
 
-## Why firms search this phrase (chartered · 60/1)
+## When to think twice
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+Most professionals are honest and competent, but it is worth knowing the warning signs:
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+- Quotes without a clear description of the inspection
+- Links to the selling agent that are not disclosed
+- No professional indemnity insurance
+- A report type that does not match the property's age or condition
 
-On `chartered-surveyor-near-me`, this heading focuses practice managers on the angle encoded as structure 157.5. That keeps the outline distinct from every other P0 keyword page.
+## Before you choose a chartered surveyor
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+These practical points are worth knowing before you speak to anyone about a chartered surveyor:
 
-## Scope we can support (chartered · 60/2)
+- Check the RICS directory.
+- Chartered status covers many specialisms.
+- Ask about relevant experience.
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+A good surveyor will talk you through each of these in plain English.
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+![Professional reviewing a client's brief before an introduction for chartered surveyor near me](/assets/images/insurance-advisory.jpg)
 
-On `chartered-surveyor-near-me`, this heading focuses practice managers on the angle encoded as structure 157.6. That keeps the outline distinct from every other P0 keyword page.
+## FAQs about chartered surveyor near me
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+### Which survey do I need when buying a home?
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs. We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public. Expansion 1 for `chartered-surveyor-near-me` / fingerprint 157.
+For a conventional property in reasonable condition, a RICS Level 2 survey is often enough. Older, larger or altered properties often justify a Level 3 building survey. A surveyor can recommend the right level.
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded. Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover. Expansion 2 for `chartered-surveyor-near-me` / fingerprint 157.
+### Is a mortgage valuation the same as a survey?
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public. iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages. Expansion 3 for `chartered-surveyor-near-me` / fingerprint 157.
+No. A mortgage valuation is carried out for the lender. A survey is carried out for you and looks at the property's condition.
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover. Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not. Expansion 4 for `chartered-surveyor-near-me` / fingerprint 157.
+### Can you find a chartered surveyor in my area?
 
-## FAQs
+Send us your town or postcode with a short description of what you need. We look for a suitable surveying practice with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
 
-**Is the "Chartered Surveyor Near Me" page live production?**
+### How quickly will I hear back?
 
-No. It is a PREVIEW draft until Jack explicitly says go.
+Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
 
-**Does this keyword share a thin template with others?**
+### Can I contact you on WhatsApp?
 
-No. This file uses a unique H2 structure generated for this slug alone.
+Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
 
-**Do you list fixed prices?**
+### Is it free to use iComply?
 
-No. All commercial work is price on application (POA) after scoping.
+Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
 
-**Will "Chartered Surveyor Near Me" get town or village pages?**
+## Related searches
 
-Later, on the FULL UK 34,235 allowlist, prioritising TOP5000 waves — still PREVIEW until Jack says go.
+- [Surveyors](/keywords/surveyors/)
+- [Building surveyor near me](/keywords/building-surveyor-near-me/)
+- [Measured surveyor near me](/keywords/measured-surveyor-near-me/)
+- [Surveyors near me](/keywords/surveyors-near-me/)
+- [Quantity surveyor near me](/keywords/quantity-surveyor-near-me/)
+- [Browse all surveyors](/hubs/surveyors/)
 
+## Ready to be matched?
 
-## Enquire
+Tell us what you need and where you are. We will match you with a suitable surveyor, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
 
-Scoped **POA** quote: [/pages/contact](/pages/contact).
+[Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

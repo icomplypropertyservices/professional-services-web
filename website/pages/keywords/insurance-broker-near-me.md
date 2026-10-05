@@ -1,193 +1,158 @@
 ---
-status: preview-draft
-keyword: insurance-broker-near-me
-structure_index: 380
-note: PREVIEW ONLY — unique per-keyword H2 structure (rebuild after shared_thin_shell REJECT)
-brand: iComply Professional Services
-pricing: POA only
+slug: insurance-broker-near-me
+title: Insurance Broker Near Me | iComply Professional Services
+description: Find an insurance broker near you with iComply: one free enquiry, matched to a suitable UK insurance broker. No obligation. Request a quote — POA.
+family: insurance
+group: insurance
+hub: insurance-brokers
+profession: insurance broker
+service_label: Insurance broker
+og_image: /assets/images/hero-workshop.jpg
 ---
-# Insurance Broker Near Me | iComply Professional Services
 
-## Meta block (required)
+# Insurance Broker Near Me
 
-| Field | Value |
-|-------|-------|
-| title | Insurance Broker Near Me | iComply Professional Services |
-| description | Preview page for Insurance Broker Near Me. Unique template structure for this keyword. POA support from iComply Professional Services — not production. |
-| og:title | Insurance Broker Near Me | iComply Professional Services |
-| og:description | Preview page for Insurance Broker Near Me. Unique template structure for this keyword. POA support from iComply Professional Services — not production. |
-| og:url | https://icomplyprofessionalservices.co.uk/pages/keywords/insurance-broker-near-me |
-| og:type | website |
-| og:image | https://icomplyprofessionalservices.co.uk/assets/images/placeholders/kw/insurance-broker-near-me-1.jpg |
-| canonical | https://icomplyprofessionalservices.co.uk/pages/keywords/insurance-broker-near-me |
+Searching for **insurance broker near me**? You probably want someone suitable, available and within reach. Insurance brokers find, compare and arrange cover from insurers, advise on what you need and help with claims.
 
-### JSON-LD schema
+We act as the middleman between you and the professional. Share a short brief and we match you with an insurance broker who has the right experience and capacity. Enquiring is free, and you are under no obligation to accept a quote.
 
-```json
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "ProfessionalService",
-      "name": "iComply Professional Services",
-      "url": "https://icomplyprofessionalservices.co.uk/",
-      "areaServed": "GB",
-      "priceRange": "POA"
-    },
-    {
-      "@type": "WebPage",
-      "name": "Insurance Broker Near Me | iComply Professional Services",
-      "url": "https://icomplyprofessionalservices.co.uk/pages/keywords/insurance-broker-near-me",
-      "description": "Preview page for Insurance Broker Near Me. Unique template structure for this keyword. POA support from iComply Professional Services \u2014 not production."
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Is the \"Insurance Broker Near Me\" page live production?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. It is a PREVIEW draft until Jack explicitly says go."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does this keyword share a thin template with others?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. This file uses a unique H2 structure generated for this slug alone."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Do you list fixed prices?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. All commercial work is price on application (POA) after scoping."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Will \"Insurance Broker Near Me\" get town or village pages?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Later, on the FULL UK 34,235 allowlist, prioritising TOP5000 waves \u2014 still PREVIEW until Jack says go."
-          }
-        }
-      ]
-    }
-  ]
-}
-```
+**[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-## Preview notice
+![Next steps after an iComply introduction for an insurance broker](/assets/images/hero-workshop.jpg)
 
-Unique template structure for `insurance-broker-near-me` (fingerprint index 380). Not a shared family shell.
+## What insurance brokers commonly help with
 
-![Insurance Broker Near Me workshop](/assets/images/placeholders/kw/insurance-broker-near-me-1.jpg)
-![Insurance Broker Near Me documentation](/assets/images/placeholders/kw/insurance-broker-near-me-2.jpg)
-![Insurance Broker Near Me coverage](/assets/images/placeholders/kw/insurance-broker-near-me-3.jpg)
+Every enquiry is different, but these are typical starting points for clients who contact insurance brokers:
 
-This preview keyword hub is dedicated to **Insurance Broker Near Me** (`insurance-broker-near-me`). Its section headings are unique to this slug (structure index 380). It is not a Property Services page and not a shared thin shell.
+- High-value homes or contents.
+- A business needing liability, property or specialist cover.
+- A claim history or unusual risk that standard insurers decline.
+- New premises, vehicles or staff.
+- Renewal prices that have jumped.
 
-## Scope we can support (insurance · 89/2)
+If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of insurance broker fits best.
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+## Near me: how local matching works
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+When you search for an insurance broker near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
 
-On `insurance-broker-near-me`, this heading focuses practice managers on the angle encoded as structure 380.0. That keeps the outline distinct from every other P0 keyword page.
+Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+## Qualifications and registration to look for
 
-## What we will not claim (insurance · 89/3)
+Insurance brokers and intermediaries in the UK must be authorised by the FCA, or be appointed representatives of an authorised firm. Check them on the FCA register. Many brokers belong to the British Insurance Brokers' Association (BIBA), and some hold Chartered status from the Chartered Insurance Institute.
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+Brokers must understand your demands and needs, explain key policy features and exclusions, and tell you how they are paid. Complaints that are not resolved can go to the Financial Ombudsman Service.
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+A broker works on your behalf to find suitable products from providers. Ask how many providers they compare and how they are paid.
 
-On `insurance-broker-near-me`, this heading focuses practice managers on the angle encoded as structure 380.1. That keeps the outline distinct from every other P0 keyword page.
+iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+**Need an insurance broker?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-## Discovery and qualification (insurance · 89/4)
+## Key things to know about an insurance broker
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+A few points come up again and again with an insurance broker:
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+- Brokers act for you, not the insurer.
+- Disclose everything relevant.
+- Review cover each year.
 
-On `insurance-broker-near-me`, this heading focuses practice managers on the angle encoded as structure 380.2. That keeps the outline distinct from every other P0 keyword page.
+A good insurance broker will talk you through each of these in plain English.
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+## When to think twice
 
-## Workshop sequence (insurance · 89/14)
+Most professionals are honest and competent, but it is worth knowing the warning signs:
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+- Reluctance to explain exclusions
+- No help offered at claim time
+- Not on the FCA register
+- Pressure to skip disclosures
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+## How iComply matches you
 
-On `insurance-broker-near-me`, this heading focuses practice managers on the angle encoded as structure 380.3. That keeps the outline distinct from every other P0 keyword page.
+1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
+1. **We review your brief.** We check the type of insurance broker you need, your location and your timing.
+1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
+1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
 
-## Regulated-advice boundary (insurance · 89/35)
+![Planning the first appointment after an enquiry for insurance broker near me](/assets/images/healthcare-consult.jpg)
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+## Questions to ask an insurance broker
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+Asking a few direct questions early tells you a lot about how a practice works:
 
-On `insurance-broker-near-me`, this heading focuses practice managers on the angle encoded as structure 380.4. That keeps the outline distinct from every other P0 keyword page.
+- How many insurers do you approach for a risk like mine?
+- Are you FCA authorised, and how are you paid?
+- What happens if I disclose something incorrectly?
+- Will you help if I need to make a claim?
+- What are the key exclusions in the cover you recommend?
+- How do you handle mid-term changes?
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+## Information that helps us match you
 
-## Who this intent serves (insurance · 89/0)
+You do not need all of this to enquire, but the more you can share, the better the match:
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+- Claims history for the past five years
+- Any contract requirements for cover
+- Your current policy documents and renewal date
+- Values of property, stock or vehicles
+- What is most important to you, such as cover limits or cost
+- A description of what needs insuring
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
-On `insurance-broker-near-me`, this heading focuses practice managers on the angle encoded as structure 380.5. That keeps the outline distinct from every other P0 keyword page.
+## Costs and quotes for an insurance broker
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+Brokers are often paid commission by the insurer and sometimes charge a broker fee; they must disclose how they are paid if you ask. Premiums are set by insurers based on risk. iComply does not publish prices; the broker quotes you, POA.
 
-## Why firms search this phrase (insurance · 89/1)
+Compare cover, excesses and exclusions, not just the premium. The cheapest policy is not always the best value when you need to claim.
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+## How long things usually take
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+Straightforward quotes can often be arranged within days. Complex business risks or specialist cover may take a few weeks while insurers review information, so start before your renewal date.
 
-On `insurance-broker-near-me`, this heading focuses practice managers on the angle encoded as structure 380.6. That keeps the outline distinct from every other P0 keyword page.
+![Professional reviewing a client's brief before an introduction for insurance broker near me](/assets/images/insurance-advisory.jpg)
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+## FAQs about insurance broker near me
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft. Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded. Expansion 1 for `insurance-broker-near-me` / fingerprint 380.
+### Is a broker more expensive than buying direct?
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs. We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public. Expansion 2 for `insurance-broker-near-me` / fingerprint 380.
+Not necessarily. Brokers can access insurers and schemes not available directly, and help with claims. The right choice depends on how complex your needs are.
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded. Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover. Expansion 3 for `insurance-broker-near-me` / fingerprint 380.
+### What is non-disclosure?
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public. iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages. Expansion 4 for `insurance-broker-near-me` / fingerprint 380.
+Failing to tell an insurer something relevant. It can reduce or void a claim, so answer questions fully and ask your broker if unsure.
 
-## FAQs
+### How do I find an insurance broker near me?
 
-**Is the "Insurance Broker Near Me" page live production?**
+Send us your town or postcode with a short description of what you need. We look for a suitable insurance brokerage with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
 
-No. It is a PREVIEW draft until Jack explicitly says go.
+### Is it free to use iComply?
 
-**Does this keyword share a thin template with others?**
+Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
 
-No. This file uses a unique H2 structure generated for this slug alone.
+### Can I contact you on WhatsApp?
 
-**Do you list fixed prices?**
+Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
 
-No. All commercial work is price on application (POA) after scoping.
+### How quickly will I hear back?
 
-**Will "Insurance Broker Near Me" get town or village pages?**
+Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
 
-Later, on the FULL UK 34,235 allowlist, prioritising TOP5000 waves — still PREVIEW until Jack says go.
+## Other services you may need
 
+- [Insurance brokers near me](/keywords/insurance-brokers-near-me/)
+- [Cyber insurance broker near me](/keywords/cyber-insurance-broker-near-me/)
+- [Income protection broker near me](/keywords/income-protection-broker-near-me/)
+- [Life insurance advisor near me](/keywords/life-insurance-advisor-near-me/)
+- [Dental insurance near me](/keywords/dental-insurance-near-me/)
+- [Browse all insurance brokers](/hubs/insurance-brokers/)
 
-## Enquire
+## Ready to be matched?
 
-Scoped **POA** quote: [/pages/contact](/pages/contact).
+Tell us what you need and where you are. We will match you with a suitable insurance broker, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
+
+[Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

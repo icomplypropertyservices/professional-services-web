@@ -1,193 +1,156 @@
 ---
-status: preview-draft
-keyword: accountant-near-me
-structure_index: 15
-note: PREVIEW ONLY — unique per-keyword H2 structure (rebuild after shared_thin_shell REJECT)
-brand: iComply Professional Services
-pricing: POA only
+slug: accountant-near-me
+title: Accountant Near Me | iComply Professional Services
+description: Looking for an accountant near you? Tell iComply what you need and we match you with a suitable UK accountant. Free to enquire. Request a quote — POA.
+family: accountant
+group: accountancy
+hub: accountants
+profession: accountant
+service_label: Accountant
+og_image: /assets/images/insurance-advisory.jpg
 ---
-# Accountant Near Me | iComply Professional Services
 
-## Meta block (required)
+# Accountant Near Me
 
-| Field | Value |
-|-------|-------|
-| title | Accountant Near Me | iComply Professional Services |
-| description | Preview page for Accountant Near Me. Unique template structure for this keyword. POA support from iComply Professional Services — not production. |
-| og:title | Accountant Near Me | iComply Professional Services |
-| og:description | Preview page for Accountant Near Me. Unique template structure for this keyword. POA support from iComply Professional Services — not production. |
-| og:url | https://icomplyprofessionalservices.co.uk/pages/keywords/accountant-near-me |
-| og:type | website |
-| og:image | https://icomplyprofessionalservices.co.uk/assets/images/placeholders/kw/accountant-near-me-1.jpg |
-| canonical | https://icomplyprofessionalservices.co.uk/pages/keywords/accountant-near-me |
+If you have typed **accountant near me** into a search bar, you are likely looking for help soon and not too far away. An accountant prepares accounts and tax returns, keeps you compliant with HMRC and Companies House, and can advise on tax, cash flow and business decisions.
 
-### JSON-LD schema
+Rather than calling round, you can send one enquiry to iComply. We look at your needs, location and timing, then introduce you to a suitable accountancy practice. They quote you directly, POA, and you decide whether to go ahead.
 
-```json
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "ProfessionalService",
-      "name": "iComply Professional Services",
-      "url": "https://icomplyprofessionalservices.co.uk/",
-      "areaServed": "GB",
-      "priceRange": "POA"
-    },
-    {
-      "@type": "WebPage",
-      "name": "Accountant Near Me | iComply Professional Services",
-      "url": "https://icomplyprofessionalservices.co.uk/pages/keywords/accountant-near-me",
-      "description": "Preview page for Accountant Near Me. Unique template structure for this keyword. POA support from iComply Professional Services \u2014 not production."
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Is the \"Accountant Near Me\" page live production?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. It is a PREVIEW draft until Jack explicitly says go."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does this keyword share a thin template with others?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. This file uses a unique H2 structure generated for this slug alone."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Do you list fixed prices?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. All commercial work is price on application (POA) after scoping."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Will \"Accountant Near Me\" get town or village pages?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Later, on the FULL UK 34,235 allowlist, prioritising TOP5000 waves \u2014 still PREVIEW until Jack says go."
-          }
-        }
-      ]
-    }
-  ]
-}
-```
+**[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-## Preview notice
+![Professional reviewing a client's brief before an introduction for accountant near me](/assets/images/insurance-advisory.jpg)
 
-Unique template structure for `accountant-near-me` (fingerprint index 15). Not a shared family shell.
+## What accountants commonly help with
 
-![Accountant Near Me workshop](/assets/images/placeholders/kw/accountant-near-me-1.jpg)
-![Accountant Near Me documentation](/assets/images/placeholders/kw/accountant-near-me-2.jpg)
-![Accountant Near Me coverage](/assets/images/placeholders/kw/accountant-near-me-3.jpg)
+Accountants help clients in many situations. Some of the most common are:
 
-This preview keyword hub is dedicated to **Accountant Near Me** (`accountant-near-me`). Its section headings are unique to this slug (structure index 15). It is not a Property Services page and not a shared thin shell.
+- A growing business that needs management accounts and cash-flow forecasting.
+- A sole trader filing a first Self Assessment return.
+- Someone behind on filings who needs to catch up with HMRC.
+- A business sale, restructure or investment round that needs proper numbers.
+- A VAT registration or a change of VAT scheme.
 
-## Why firms search this phrase (accountant · 15/1)
+If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of accountant fits best.
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+## Your relationship with the practice
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+After the introduction, the practice will usually run its own onboarding: identity checks required under money-laundering rules, an engagement letter and authority to act with HMRC. From then on the relationship is between you and the accountant. You stay free to change firms later; a professional clearance letter makes handovers straightforward.
 
-On `accountant-near-me`, this heading focuses practice managers on the angle encoded as structure 15.0. That keeps the outline distinct from every other P0 keyword page.
+## Practical points about an accountant
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+These practical points are worth knowing before you speak to anyone about an accountant:
 
-## Scope we can support (accountant · 15/2)
+- Agree exactly which returns and filings the fee covers.
+- Ask how the practice handles Making Tax Digital.
+- A good accountant should help you plan, not only file.
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+A good accountant will talk you through each of these in plain English.
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+**Need an accountant?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-On `accountant-near-me`, this heading focuses practice managers on the angle encoded as structure 15.1. That keeps the outline distinct from every other P0 keyword page.
+## Qualifications and registration to look for
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+In the UK, the word "accountant" on its own is not a protected title, so anyone can use it. Titles such as Chartered Accountant (ICAEW, ICAS or Chartered Accountants Ireland), Chartered Certified Accountant (ACCA) and Chartered Management Accountant (CIMA) are protected, and members are bound by their body's ethics, training and complaints rules. Only registered auditors can sign statutory audit reports.
 
-## What we will not claim (accountant · 15/3)
+Every practice offering accountancy services must also be supervised for anti-money-laundering purposes, either by a professional body or by HMRC. It is reasonable to ask which body supervises a firm, whether they hold professional indemnity insurance, and how complaints are handled.
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+## How our free matching service works
 
-On `accountant-near-me`, this heading focuses practice managers on the angle encoded as structure 15.2. That keeps the outline distinct from every other P0 keyword page.
+1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
+1. **We review your brief.** We check the type of accountant you need, your location and your timing.
+1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
+1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+There is no charge to you for the introduction, and no obligation to accept any quote.
 
-## Discovery and qualification (accountant · 15/4)
+## What to ask before you instruct anyone
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+Asking a few direct questions early tells you a lot about how a practice works:
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+- Who will actually prepare my accounts, and who reviews them?
+- Is your fee fixed for the year or based on time spent?
+- Do you have experience with businesses or income like mine?
+- How quickly do you usually reply to emails and calls?
+- What do you need from me each month or each year?
+- How do you handle Making Tax Digital requirements?
 
-On `accountant-near-me`, this heading focuses practice managers on the angle encoded as structure 15.3. That keeps the outline distinct from every other P0 keyword page.
+![Accountancy practice ready to take on a new enquiry for accountant near me](/assets/images/healthcare-consult.jpg)
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+## How fees usually work (POA)
 
-## Evidence partners usually want (accountant · 15/5)
+Accountancy fees depend on the complexity of your affairs, the quality of your records and how much of the work you want the accountant to take on. Many practices offer fixed monthly or annual packages; others charge for time. Either can be fair if the scope is written down. iComply does not set or publish fees: the practice will quote you, and that quote is POA.
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+Ask for an engagement letter before work starts. It should list what is included, your responsibilities, deadlines and how extra work is charged. Comparing two or three written scopes is usually more useful than comparing headline prices.
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+## Near me: how local matching works
 
-On `accountant-near-me`, this heading focuses practice managers on the angle encoded as structure 15.4. That keeps the outline distinct from every other P0 keyword page.
+When you search for an accountant near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
 
-## Mobile and speed basics (accountant · 15/21)
+## When to think twice
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+Be cautious if you notice any of the following:
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+- No clear answer about who handles your file day to day
+- Promises of tax savings that sound too good to be true
+- Pressure to sign up to schemes you do not understand
+- No engagement letter or written scope before work begins
 
-On `accountant-near-me`, this heading focuses practice managers on the angle encoded as structure 15.5. That keeps the outline distinct from every other P0 keyword page.
+## Getting ready for your first conversation
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+You do not need all of this to enquire, but the more you can share, the better the match:
 
-## Who this intent serves (accountant · 15/0)
+- Your Unique Taxpayer Reference or company number
+- The deadlines you know about and any letters from HMRC
+- How often you want contact: once a year or monthly
+- Rough annual turnover or income range
+- Whether you are VAT registered or close to the threshold
+- The services you think you need, even if you are unsure
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+![Planning the first appointment after an enquiry for accountant near me](/assets/images/finance-desk.jpg)
 
-On `accountant-near-me`, this heading focuses practice managers on the angle encoded as structure 15.6. That keeps the outline distinct from every other P0 keyword page.
+## FAQs about accountant near me
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+### Do I need a chartered accountant?
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not. Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs. Expansion 1 for `accountant-near-me` / fingerprint 15.
+Not always. For simple Self Assessment a qualified, supervised accountant may be enough. For audits, complex group structures or specialist tax work, a chartered or certified firm is often the safer choice. We can match you to either.
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft. Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded. Expansion 2 for `accountant-near-me` / fingerprint 15.
+### Can I switch accountant part-way through the year?
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs. We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public. Expansion 3 for `accountant-near-me` / fingerprint 15.
+Yes. Your new accountant will contact the old one for professional clearance and any information they need. Tell us your timing and we will match you with a practice that can take over smoothly.
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded. Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover. Expansion 4 for `accountant-near-me` / fingerprint 15.
+### How do I find an accountant near me?
 
-## FAQs
+Send us your town or postcode with a short description of what you need. We look for a suitable accountancy practice with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
 
-**Is the "Accountant Near Me" page live production?**
+### How quickly will I hear back?
 
-No. It is a PREVIEW draft until Jack explicitly says go.
+Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
 
-**Does this keyword share a thin template with others?**
+### Do I have to accept a quote?
 
-No. This file uses a unique H2 structure generated for this slug alone.
+No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
 
-**Do you list fixed prices?**
+### Is iComply regulated?
 
-No. All commercial work is price on application (POA) after scoping.
+iComply is a matching service. We are not a accountant and we do not give professional advice. The professionals we introduce are registered with their own bodies, and you can check them.
 
-**Will "Accountant Near Me" get town or village pages?**
+## Other services you may need
 
-Later, on the FULL UK 34,235 allowlist, prioritising TOP5000 waves — still PREVIEW until Jack says go.
+- [Cheap accountant near me](/keywords/cheap-accountant-near-me/)
+- [Non resident accountant near me](/keywords/non-resident-accountant-near-me/)
+- [Chartered accountant near me](/keywords/chartered-accountant-near-me/)
+- [Best accountant near me](/keywords/best-accountant-near-me/)
+- [Restaurant accountant near me](/keywords/restaurant-accountant-near-me/)
+- [Browse all accountants](/hubs/accountants/)
 
+## Get a free quote for an accountant
 
-## Enquire
+One short enquiry is all it takes. We connect you with an accountant who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
 
-Scoped **POA** quote: [/pages/contact](/pages/contact).
+[Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

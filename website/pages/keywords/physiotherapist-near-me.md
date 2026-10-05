@@ -1,193 +1,156 @@
 ---
-status: preview-draft
-keyword: physiotherapist-near-me
-structure_index: 541
-note: PREVIEW ONLY — unique per-keyword H2 structure (rebuild after shared_thin_shell REJECT)
-brand: iComply Professional Services
-pricing: POA only
+slug: physiotherapist-near-me
+title: Physiotherapist Near Me | iComply Professional Services
+description: Looking for a physiotherapist near you? Tell iComply what you need and we match you with a suitable UK physiotherapist. Free to enquire. Request a quote — POA.
+family: physio
+group: healthcare
+hub: physiotherapists
+profession: physiotherapist
+service_label: Physiotherapist
+og_image: /assets/images/hero-workshop.jpg
 ---
-# Physiotherapist Near Me | iComply Professional Services
 
-## Meta block (required)
+# Physiotherapist Near Me
 
-| Field | Value |
-|-------|-------|
-| title | Physiotherapist Near Me | iComply Professional Services |
-| description | Preview page for Physiotherapist Near Me. Unique template structure for this keyword. POA support from iComply Professional Services — not production. |
-| og:title | Physiotherapist Near Me | iComply Professional Services |
-| og:description | Preview page for Physiotherapist Near Me. Unique template structure for this keyword. POA support from iComply Professional Services — not production. |
-| og:url | https://icomplyprofessionalservices.co.uk/pages/keywords/physiotherapist-near-me |
-| og:type | website |
-| og:image | https://icomplyprofessionalservices.co.uk/assets/images/placeholders/kw/physiotherapist-near-me-1.jpg |
-| canonical | https://icomplyprofessionalservices.co.uk/pages/keywords/physiotherapist-near-me |
+If you have typed **physiotherapist near me** into a search bar, you are likely looking for help soon and not too far away. Physiotherapists assess movement and pain, then use exercise, manual therapy and advice to help you recover from injury, surgery or long-term conditions.
 
-### JSON-LD schema
+iComply Professional Services is a free matching service. You tell us what you need and where you are; we connect you with a suitable UK physiotherapist who can quote for the work. The practice provides the service, and every quote is POA.
 
-```json
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "ProfessionalService",
-      "name": "iComply Professional Services",
-      "url": "https://icomplyprofessionalservices.co.uk/",
-      "areaServed": "GB",
-      "priceRange": "POA"
-    },
-    {
-      "@type": "WebPage",
-      "name": "Physiotherapist Near Me | iComply Professional Services",
-      "url": "https://icomplyprofessionalservices.co.uk/pages/keywords/physiotherapist-near-me",
-      "description": "Preview page for Physiotherapist Near Me. Unique template structure for this keyword. POA support from iComply Professional Services \u2014 not production."
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Is the \"Physiotherapist Near Me\" page live production?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. It is a PREVIEW draft until Jack explicitly says go."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does this keyword share a thin template with others?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. This file uses a unique H2 structure generated for this slug alone."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Do you list fixed prices?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. All commercial work is price on application (POA) after scoping."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Will \"Physiotherapist Near Me\" get town or village pages?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Later, on the FULL UK 34,235 allowlist, prioritising TOP5000 waves \u2014 still PREVIEW until Jack says go."
-          }
-        }
-      ]
-    }
-  ]
-}
-```
+**[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-## Preview notice
+![Planning the first appointment after an enquiry for physiotherapist near me](/assets/images/hero-workshop.jpg)
 
-Unique template structure for `physiotherapist-near-me` (fingerprint index 541). Not a shared family shell.
+## What physiotherapists commonly help with
 
-![Physiotherapist Near Me workshop](/assets/images/placeholders/kw/physiotherapist-near-me-1.jpg)
-![Physiotherapist Near Me documentation](/assets/images/placeholders/kw/physiotherapist-near-me-2.jpg)
-![Physiotherapist Near Me coverage](/assets/images/placeholders/kw/physiotherapist-near-me-3.jpg)
+Physiotherapists help clients in many situations. Some of the most common are:
 
-This preview keyword hub is dedicated to **Physiotherapist Near Me** (`physiotherapist-near-me`). Its section headings are unique to this slug (structure index 541). It is not a Property Services page and not a shared thin shell.
+- Back or neck pain that is not settling.
+- A sports injury such as a sprain, strain or ligament tear.
+- A child with a developmental or movement problem.
+- A frozen shoulder or other painful, stiff joint.
+- Work-related aches from desk or manual work.
 
-## Scope we can support (physiotherapist · 56/2)
+If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of physiotherapist fits best.
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+## After the introduction
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+Once introduced, the clinic will book your assessment and agree a treatment plan with you. Clinical responsibility sits with the physiotherapist. iComply does not provide medical advice.
 
-On `physiotherapist-near-me`, this heading focuses practice managers on the angle encoded as structure 541.0. That keeps the outline distinct from every other P0 keyword page.
+## From enquiry to quote in four steps
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+1. **Enquire for free** with your town or postcode and a short description.
+1. **We clarify** anything unclear, so the introduction is useful from the start.
+1. **We connect you** with a physiotherapist who suits your situation.
+1. **The practice takes over**, confirms scope and fees in writing and does the work.
 
-## What we will not claim (physiotherapist · 56/3)
+We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+**Need a physiotherapist?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+## Getting ready for your first conversation
 
-On `physiotherapist-near-me`, this heading focuses practice managers on the angle encoded as structure 541.1. That keeps the outline distinct from every other P0 keyword page.
+A short, clear brief saves time on both sides. Useful details include:
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+- Your health insurance details, if you have cover
+- Any scans, X-rays or letters from your GP or surgeon
+- Any operations you have had, with dates
+- Your goals, such as returning to running or walking without pain
+- What activities are affected, such as work or sport
+- Where it hurts and how the problem started
 
-## Discovery and qualification (physiotherapist · 56/4)
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+## Practical points about a physiotherapist
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+A few points come up again and again with a physiotherapist:
 
-On `physiotherapist-near-me`, this heading focuses practice managers on the angle encoded as structure 541.2. That keeps the outline distinct from every other P0 keyword page.
+- Exercise is central to most plans.
+- Ask how progress will be measured.
+- Check HCPC registration.
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+A good physiotherapist will talk you through each of these in plain English.
 
-## Supplier and tool diligence (physiotherapist · 56/19)
+## Costs and quotes for a physiotherapist
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+Physiotherapy is usually charged per session, with the first assessment often longer than follow-ups. Home visits, specialist neurological physiotherapy and sports rehabilitation programmes may be priced differently. iComply does not publish prices; the clinic quotes you, POA.
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+Ask whether your health insurer requires a GP referral or pre-authorisation, and whether the clinic bills the insurer directly.
 
-On `physiotherapist-near-me`, this heading focuses practice managers on the angle encoded as structure 541.3. That keeps the outline distinct from every other P0 keyword page.
+![Client explaining what they need before being matched with a physiotherapist](/assets/images/insurance-advisory.jpg)
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+## Questions to ask a physiotherapist
 
-## Brand separation from Property Services (physiotherapist · 56/36)
+Asking a few direct questions early tells you a lot about how a practice works:
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+- Do you offer home visits or video sessions?
+- How long is the first assessment, and what will it involve?
+- When would you refer me back to my GP or a specialist?
+- How will we measure progress?
+- Will I get exercises to do at home?
+- How many sessions do you usually expect for problems like this?
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+## Looking for a physiotherapist close to home
 
-On `physiotherapist-near-me`, this heading focuses practice managers on the angle encoded as structure 541.4. That keeps the outline distinct from every other P0 keyword page.
+When you search for a physiotherapist near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
 
-## Who this intent serves (physiotherapist · 56/0)
+## Warning signs to watch for
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+Be cautious if you notice any of the following:
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+- No HCPC registration
+- No home exercise plan or progress review
+- A long block of prepaid sessions before any assessment
+- No referral back when problems do not improve
 
-On `physiotherapist-near-me`, this heading focuses practice managers on the angle encoded as structure 541.5. That keeps the outline distinct from every other P0 keyword page.
+## How to check you are in safe hands
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+"Physiotherapist" and "physical therapist" are protected titles in the UK. Anyone using them must be registered with the Health and Care Professions Council (HCPC), and you can check the HCPC register online. Most physiotherapists are also members of the Chartered Society of Physiotherapy (CSP), shown by the letters MCSP.
 
-## Why firms search this phrase (physiotherapist · 56/1)
+Sports therapists, massage therapists and personal trainers can be helpful for some needs, but they are not physiotherapists. For an injury, post-surgery rehabilitation or a neurological condition, check that you are booking an HCPC-registered physiotherapist.
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+![Next steps after an iComply introduction for a physiotherapist](/assets/images/finance-desk.jpg)
 
-On `physiotherapist-near-me`, this heading focuses practice managers on the angle encoded as structure 541.6. That keeps the outline distinct from every other P0 keyword page.
+## Physiotherapist Near Me: FAQs
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+### Do I need a GP referral for private physio?
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft. Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded. Expansion 1 for `physiotherapist-near-me` / fingerprint 541.
+No, you can usually book directly as a self-paying patient. Your insurer may require a referral, so check your policy.
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs. We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public. Expansion 2 for `physiotherapist-near-me` / fingerprint 541.
+### Can physio help if I have already had a scan?
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded. Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover. Expansion 3 for `physiotherapist-near-me` / fingerprint 541.
+Yes. Bring the report with you. A physiotherapist will combine it with their own assessment to plan treatment.
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public. iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages. Expansion 4 for `physiotherapist-near-me` / fingerprint 541.
+### How do I find a physiotherapist near me?
 
-## FAQs
+Send us your town or postcode with a short description of what you need. We look for a suitable physiotherapy clinic with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
 
-**Is the "Physiotherapist Near Me" page live production?**
+### Do I have to accept a quote?
 
-No. It is a PREVIEW draft until Jack explicitly says go.
+No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
 
-**Does this keyword share a thin template with others?**
+### How quickly will I hear back?
 
-No. This file uses a unique H2 structure generated for this slug alone.
+Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
 
-**Do you list fixed prices?**
+### Is it free to use iComply?
 
-No. All commercial work is price on application (POA) after scoping.
+Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
 
-**Will "Physiotherapist Near Me" get town or village pages?**
+## Related searches
 
-Later, on the FULL UK 34,235 allowlist, prioritising TOP5000 waves — still PREVIEW until Jack says go.
+- [Hip pain physiotherapy near me](/keywords/hip-pain-physiotherapy-near-me/)
+- [Home visit physiotherapist near me](/keywords/home-visit-physiotherapist-near-me/)
+- [Frozen shoulder physiotherapy near me](/keywords/frozen-shoulder-physiotherapy-near-me/)
+- [Back pain physiotherapist near me](/keywords/back-pain-physiotherapist-near-me/)
+- [Back pain physiotherapy near me](/keywords/back-pain-physiotherapy-near-me/)
+- [Browse all physiotherapists](/hubs/physiotherapists/)
 
+## Get a free quote for a physiotherapist
 
-## Enquire
+Tell us what you need and where you are. We will match you with a suitable physiotherapist, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
 
-Scoped **POA** quote: [/pages/contact](/pages/contact).
+[Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)
