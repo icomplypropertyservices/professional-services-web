@@ -1,193 +1,160 @@
 ---
-status: preview-draft
-keyword: architect-near-me
-structure_index: 34
-note: PREVIEW ONLY — unique per-keyword H2 structure (rebuild after shared_thin_shell REJECT)
-brand: iComply Professional Services
-pricing: POA only
+slug: architect-near-me
+title: Architect Near Me | iComply Professional Services
+description: Looking for an architect near you? Tell iComply what you need and we match you with a suitable UK architect. Free to enquire. Request a quote — POA.
+family: architect
+group: property-prof
+hub: architects
+profession: architect
+service_label: Architect
+og_image: /assets/images/hero-workshop.jpg
 ---
-# Architect Near Me | iComply Professional Services
 
-## Meta block (required)
+# Architect Near Me
 
-| Field | Value |
-|-------|-------|
-| title | Architect Near Me | iComply Professional Services |
-| description | Preview page for Architect Near Me. Unique template structure for this keyword. POA support from iComply Professional Services — not production. |
-| og:title | Architect Near Me | iComply Professional Services |
-| og:description | Preview page for Architect Near Me. Unique template structure for this keyword. POA support from iComply Professional Services — not production. |
-| og:url | https://icomplyprofessionalservices.co.uk/pages/keywords/architect-near-me |
-| og:type | website |
-| og:image | https://icomplyprofessionalservices.co.uk/assets/images/placeholders/kw/architect-near-me-1.jpg |
-| canonical | https://icomplyprofessionalservices.co.uk/pages/keywords/architect-near-me |
+Searching for **architect near me**? You probably want someone suitable, available and within reach. An architect designs buildings and alterations, prepares drawings for planning and building regulations, and can oversee construction.
 
-### JSON-LD schema
+Rather than calling round, you can send one enquiry to iComply. We look at your needs, location and timing, then introduce you to a suitable architecture practice. They quote you directly, POA, and you decide whether to go ahead.
 
-```json
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "ProfessionalService",
-      "name": "iComply Professional Services",
-      "url": "https://icomplyprofessionalservices.co.uk/",
-      "areaServed": "GB",
-      "priceRange": "POA"
-    },
-    {
-      "@type": "WebPage",
-      "name": "Architect Near Me | iComply Professional Services",
-      "url": "https://icomplyprofessionalservices.co.uk/pages/keywords/architect-near-me",
-      "description": "Preview page for Architect Near Me. Unique template structure for this keyword. POA support from iComply Professional Services \u2014 not production."
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Is the \"Architect Near Me\" page live production?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. It is a PREVIEW draft until Jack explicitly says go."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does this keyword share a thin template with others?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. This file uses a unique H2 structure generated for this slug alone."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Do you list fixed prices?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. All commercial work is price on application (POA) after scoping."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Will \"Architect Near Me\" get town or village pages?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Later, on the FULL UK 34,235 allowlist, prioritising TOP5000 waves \u2014 still PREVIEW until Jack says go."
-          }
-        }
-      ]
-    }
-  ]
-}
-```
+**[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-## Preview notice
+![Planning the first appointment after an enquiry for architect near me](/assets/images/hero-workshop.jpg)
 
-Unique template structure for `architect-near-me` (fingerprint index 34). Not a shared family shell.
+## What architects commonly help with
 
-![Architect Near Me workshop](/assets/images/placeholders/kw/architect-near-me-1.jpg)
-![Architect Near Me documentation](/assets/images/placeholders/kw/architect-near-me-2.jpg)
-![Architect Near Me coverage](/assets/images/placeholders/kw/architect-near-me-3.jpg)
+Every enquiry is different, but these are typical starting points for clients who contact architects:
 
-This preview keyword hub is dedicated to **Architect Near Me** (`architect-near-me`). Its section headings are unique to this slug (structure index 34). It is not a Property Services page and not a shared thin shell.
+- A feasibility study before buying a property.
+- An energy-efficient renovation or eco build.
+- An office, shop or commercial refurbishment.
+- Help with a planning application or appeal.
+- Alterations to a listed building or a home in a conservation area.
 
-## Campaign learning loops (architect · 34/40)
+If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of architect fits best.
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+## How our free matching service works
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
+1. **We review your brief.** We check the type of architect you need, your location and your timing.
+1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
+1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
 
-On `architect-near-me`, this heading focuses practice managers on the angle encoded as structure 34.0. That keeps the outline distinct from every other P0 keyword page.
+We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+## Good questions for your first call
 
-## Who this intent serves (architect · 34/0)
+Once you are introduced, these questions help you decide whether the architect is right for you:
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+- What other consultants might I need, such as a structural engineer?
+- How do you handle planning and building regulations?
+- Who will do the drawings and attend site?
+- How do you charge: fixed fee, percentage or hourly?
+- Are you ARB registered?
+- Which RIBA work stages will you cover?
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+**Need an architect?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-On `architect-near-me`, this heading focuses practice managers on the angle encoded as structure 34.1. That keeps the outline distinct from every other P0 keyword page.
+## After the introduction
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+After the introduction, the practice will usually arrange a site visit or video call, discuss your brief and send a fee proposal. If you appoint them, your contract is with the practice. iComply does not design buildings or manage projects.
 
-## Why firms search this phrase (architect · 34/1)
+## How fees usually work (POA)
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+Architects commonly charge a fixed fee per stage, a percentage of the build cost, or an hourly rate for smaller pieces of work. The scope, from initial sketches to full contract administration, makes a big difference. iComply does not publish fees; the practice will give you a POA proposal.
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+Ask for a written fee proposal linked to the RIBA stages, and check what is excluded, such as planning fees, surveys and other consultants.
 
-On `architect-near-me`, this heading focuses practice managers on the angle encoded as structure 34.2. That keeps the outline distinct from every other P0 keyword page.
+## When to think twice
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+Most professionals are honest and competent, but it is worth knowing the warning signs:
 
-## Scope we can support (architect · 34/2)
+- Unrealistic promises about planning permission
+- No professional indemnity insurance
+- No written appointment or scope of services
+- Reluctance to discuss budget early
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+![Architecture practice ready to take on a new enquiry for architect near me](/assets/images/finance-desk.jpg)
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+## Near me: how local matching works
 
-On `architect-near-me`, this heading focuses practice managers on the angle encoded as structure 34.3. That keeps the outline distinct from every other P0 keyword page.
+When you search for an architect near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
 
-## What we will not claim (architect · 34/3)
+## How to check you are in safe hands
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+"Architect" is a protected title in the UK. Only people on the Architects Registration Board (ARB) register can call themselves architects, and they must follow the ARB code of conduct and hold professional indemnity insurance. Many practices are also RIBA Chartered Practices. Architectural designers and technologists can do excellent work too, but they are not registered architects, so it is worth knowing which you are hiring.
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+Before you appoint anyone, check the ARB register and ask for a written appointment that sets out services, fees and responsibilities. Building regulations approval, planning permission and party wall matters are separate processes that your architect can help you navigate.
 
-On `architect-near-me`, this heading focuses practice managers on the angle encoded as structure 34.4. That keeps the outline distinct from every other P0 keyword page.
+Please note that iComply is a matching service only. We are not regulated as a architect, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+## Practical points about an architect
 
-## Discovery and qualification (architect · 34/4)
+A few points come up again and again with an architect:
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+- Check the ARB register.
+- Agree scope by RIBA stage.
+- Discuss budget openly.
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+A good architect will talk you through each of these in plain English.
 
-On `architect-near-me`, this heading focuses practice managers on the angle encoded as structure 34.5. That keeps the outline distinct from every other P0 keyword page.
+## Typical timescales
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+Design and planning usually take several months before building starts. A householder planning application normally has a statutory determination period of around eight weeks once validated, though decisions can take longer. Listed building consent and complex sites take more time.
 
-## Evidence partners usually want (architect · 34/5)
+## Information that helps us match you
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+You do not need all of this to enquire, but the more you can share, the better the match:
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+- Your timing hopes, including when you want to start building
+- Your budget range for the whole project
+- Whether you need full services or just planning drawings
+- Any neighbours or boundary issues you already know about
+- The property address and whether it is listed or in a conservation area
+- Photos of the existing building and the space you want to change
 
-On `architect-near-me`, this heading focuses practice managers on the angle encoded as structure 34.6. That keeps the outline distinct from every other P0 keyword page.
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+![Client explaining what they need before being matched with an architect](/assets/images/insurance-advisory.jpg)
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover. Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not. Expansion 1 for `architect-near-me` / fingerprint 34.
+## FAQs: an architect
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages. This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft. Expansion 2 for `architect-near-me` / fingerprint 34.
+### Do I need an architect for an extension?
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not. Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs. Expansion 3 for `architect-near-me` / fingerprint 34.
+Not legally, but a registered architect brings design skill, planning experience and accountability. For simple work, an architectural technologist or designer may be enough. We can match you to the right level of help.
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft. Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded. Expansion 4 for `architect-near-me` / fingerprint 34.
+### Will an architect guarantee planning permission?
 
-## FAQs
+No one can guarantee planning permission. A good architect will explain local policy, the risks and how to give your application the best chance.
 
-**Is the "Architect Near Me" page live production?**
+### How do I find an architect near me?
 
-No. It is a PREVIEW draft until Jack explicitly says go.
+Send us your town or postcode with a short description of what you need. We look for a suitable architecture practice with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
 
-**Does this keyword share a thin template with others?**
+### How quickly will I hear back?
 
-No. This file uses a unique H2 structure generated for this slug alone.
+Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
 
-**Do you list fixed prices?**
+### Can I contact you on WhatsApp?
 
-No. All commercial work is price on application (POA) after scoping.
+Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
 
-**Will "Architect Near Me" get town or village pages?**
+### Do I have to accept a quote?
 
-Later, on the FULL UK 34,235 allowlist, prioritising TOP5000 waves — still PREVIEW until Jack says go.
+No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
 
+## Other services you may need
 
-## Enquire
+- [Office architect near me](/keywords/office-architect-near-me/)
+- [Garage conversion architect near me](/keywords/garage-conversion-architect-near-me/)
+- [Contemporary house architect near me](/keywords/contemporary-house-architect-near-me/)
+- [Chartered architect near me](/keywords/chartered-architect-near-me/)
+- [Conservation area architect near me](/keywords/conservation-area-architect-near-me/)
+- [Browse all architects](/hubs/architects/)
 
-Scoped **POA** quote: [/pages/contact](/pages/contact).
+## Ready to be matched?
+
+One short enquiry is all it takes. We connect you with an architect who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
+
+[Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

@@ -1,193 +1,160 @@
 ---
-status: preview-draft
-keyword: building-surveyor-near-me
-structure_index: 118
-note: PREVIEW ONLY — unique per-keyword H2 structure (rebuild after shared_thin_shell REJECT)
-brand: iComply Professional Services
-pricing: POA only
+slug: building-surveyor-near-me
+title: Building Surveyor Near Me | iComply Professional Services
+description: Need a building surveyor near you? iComply connects you with a suitable UK surveying practice. Free, no-obligation matching. Request a quote — POA.
+family: surveyor
+group: property-prof
+hub: surveyors
+profession: surveyor
+service_label: Building surveyor
+og_image: /assets/images/insurance-advisory.jpg
 ---
-# Building Surveyor Near Me | iComply Professional Services
 
-## Meta block (required)
+# Building Surveyor Near Me
 
-| Field | Value |
-|-------|-------|
-| title | Building Surveyor Near Me | iComply Professional Services |
-| description | Preview page for Building Surveyor Near Me. Unique template structure for this keyword. POA support from iComply Professional Services — not production. |
-| og:title | Building Surveyor Near Me | iComply Professional Services |
-| og:description | Preview page for Building Surveyor Near Me. Unique template structure for this keyword. POA support from iComply Professional Services — not production. |
-| og:url | https://icomplyprofessionalservices.co.uk/pages/keywords/building-surveyor-near-me |
-| og:type | website |
-| og:image | https://icomplyprofessionalservices.co.uk/assets/images/placeholders/kw/building-surveyor-near-me-1.jpg |
-| canonical | https://icomplyprofessionalservices.co.uk/pages/keywords/building-surveyor-near-me |
+Looking for **building surveyor near me** usually starts with a practical problem that needs a qualified person. Building surveyors assess building condition, design and manage repairs and refurbishments, and advise on defects and regulations.
 
-### JSON-LD schema
+We act as the middleman between you and the professional. Share a short brief and we match you with a building surveyor who has the right experience and capacity. Enquiring is free, and you are under no obligation to accept a quote.
 
-```json
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "ProfessionalService",
-      "name": "iComply Professional Services",
-      "url": "https://icomplyprofessionalservices.co.uk/",
-      "areaServed": "GB",
-      "priceRange": "POA"
-    },
-    {
-      "@type": "WebPage",
-      "name": "Building Surveyor Near Me | iComply Professional Services",
-      "url": "https://icomplyprofessionalservices.co.uk/pages/keywords/building-surveyor-near-me",
-      "description": "Preview page for Building Surveyor Near Me. Unique template structure for this keyword. POA support from iComply Professional Services \u2014 not production."
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Is the \"Building Surveyor Near Me\" page live production?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. It is a PREVIEW draft until Jack explicitly says go."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does this keyword share a thin template with others?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. This file uses a unique H2 structure generated for this slug alone."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Do you list fixed prices?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. All commercial work is price on application (POA) after scoping."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Will \"Building Surveyor Near Me\" get town or village pages?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Later, on the FULL UK 34,235 allowlist, prioritising TOP5000 waves \u2014 still PREVIEW until Jack says go."
-          }
-        }
-      ]
-    }
-  ]
-}
-```
+**[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-## Preview notice
+![Planning the first appointment after an enquiry for building surveyor near me](/assets/images/insurance-advisory.jpg)
 
-Unique template structure for `building-surveyor-near-me` (fingerprint index 118). Not a shared family shell.
+## Common reasons people contact surveyors
 
-![Building Surveyor Near Me workshop](/assets/images/placeholders/kw/building-surveyor-near-me-1.jpg)
-![Building Surveyor Near Me documentation](/assets/images/placeholders/kw/building-surveyor-near-me-2.jpg)
-![Building Surveyor Near Me coverage](/assets/images/placeholders/kw/building-surveyor-near-me-3.jpg)
+Surveyors help clients in many situations. Some of the most common are:
 
-This preview keyword hub is dedicated to **Building Surveyor Near Me** (`building-surveyor-near-me`). Its section headings are unique to this slug (structure index 118). It is not a Property Services page and not a shared thin shell.
+- Insurance needing an accurate rebuild valuation.
+- A commercial tenant at the end of a lease.
+- A renovation project that needs a building surveyor to oversee work.
+- An owner worried about cracks, damp or roof problems.
+- A dispute over where a boundary lies.
 
-## Canonical URL discipline (building · 21/39)
+If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of surveyor fits best.
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+## Qualifications and registration to look for
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+Many surveyors are members of the Royal Institution of Chartered Surveyors (RICS), and RICS-regulated firms must follow professional standards, hold insurance and offer a complaints process. Chartered surveyors use the letters MRICS or FRICS. Some specialist roles have their own bodies, such as the Faculty of Party Wall Surveyors or the Property Care Association for damp and timber specialists.
 
-On `building-surveyor-near-me`, this heading focuses practice managers on the angle encoded as structure 118.0. That keeps the outline distinct from every other P0 keyword page.
+Check the RICS directory, ask which report type you are getting and confirm whether the surveyor is independent of the sale. For asbestos work, look for organisations accredited by UKAS for surveying.
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
 
-## Who this intent serves (building · 21/0)
+## Timing and urgency
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+Residential inspections can often be booked within a week or two, with reports following within a few working days. Party wall matters follow statutory notice periods, and specialist investigations may need extra visits.
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+**Need a building surveyor?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-On `building-surveyor-near-me`, this heading focuses practice managers on the angle encoded as structure 118.1. That keeps the outline distinct from every other P0 keyword page.
+## What happens after you are introduced
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+Once introduced, the surveyor will confirm terms of engagement before the inspection. The report and professional responsibility for it sit with the surveyor. iComply does not inspect properties.
 
-## Why firms search this phrase (building · 21/1)
+## From enquiry to quote in four steps
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
+1. **We review your brief.** We check the type of surveyor you need, your location and your timing.
+1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
+1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+There is no charge to you for the introduction, and no obligation to accept any quote.
 
-On `building-surveyor-near-me`, this heading focuses practice managers on the angle encoded as structure 118.2. That keeps the outline distinct from every other P0 keyword page.
+## What to ask before you instruct anyone
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+Once you are introduced, these questions help you decide whether the surveyor is right for you:
 
-## Scope we can support (building · 21/2)
+- What will the report cover, and what is excluded?
+- Which type of survey or report do you recommend, and why?
+- Are you independent of the agent or seller?
+- Can I call you to talk through the findings?
+- Do you hold professional indemnity insurance?
+- When can you inspect, and when will I receive the report?
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+![Client explaining what they need before being matched with a building surveyor](/assets/images/healthcare-consult.jpg)
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+## Finding a building surveyor near you
 
-On `building-surveyor-near-me`, this heading focuses practice managers on the angle encoded as structure 118.3. That keeps the outline distinct from every other P0 keyword page.
+When you search for a building surveyor near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
 
-## What we will not claim (building · 21/3)
+## Red flags when choosing a building surveyor
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+Be cautious if you notice any of the following:
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+- Quotes without a clear description of the inspection
+- Reluctance to discuss findings after the report
+- No professional indemnity insurance
+- Links to the selling agent that are not disclosed
 
-On `building-surveyor-near-me`, this heading focuses practice managers on the angle encoded as structure 118.4. That keeps the outline distinct from every other P0 keyword page.
+## Getting ready for your first conversation
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+You do not need all of this to enquire, but the more you can share, the better the match:
 
-## Discovery and qualification (building · 21/4)
+- For party wall matters, a description of the planned works
+- Access arrangements and who holds the keys
+- The property address and type
+- Why you need the survey and any deadline
+- Any particular concerns, such as cracks, damp or extensions
+- The age of the property, if known
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+## How fees usually work (POA)
 
-On `building-surveyor-near-me`, this heading focuses practice managers on the angle encoded as structure 118.5. That keeps the outline distinct from every other P0 keyword page.
+Survey fees depend on the type of report, the size and age of the property and how far the surveyor must travel. Specialist and commercial work is usually quoted individually. iComply does not publish fees; the surveyor quotes you, POA.
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+Ask for the scope of the inspection in writing, and check whether follow-up calls or additional investigations are included.
 
-## Content and UX expectations (building · 21/7)
+## Practical points about a building surveyor
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+A few points come up again and again with a building surveyor:
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+- Useful for older or altered buildings.
+- They can manage building projects.
+- Ask about dilapidations experience.
 
-On `building-surveyor-near-me`, this heading focuses practice managers on the angle encoded as structure 118.6. That keeps the outline distinct from every other P0 keyword page.
+A good surveyor will talk you through each of these in plain English.
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+![Surveying practice ready to take on a new enquiry for building surveyor near me](/assets/images/hero-workshop.jpg)
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover. Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not. Expansion 1 for `building-surveyor-near-me` / fingerprint 118.
+## Building Surveyor Near Me: FAQs
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages. This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft. Expansion 2 for `building-surveyor-near-me` / fingerprint 118.
+### Which survey do I need when buying a home?
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not. Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs. Expansion 3 for `building-surveyor-near-me` / fingerprint 118.
+For a conventional property in reasonable condition, a RICS Level 2 survey is often enough. Older, larger or altered properties often justify a Level 3 building survey. A surveyor can recommend the right level.
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft. Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded. Expansion 4 for `building-surveyor-near-me` / fingerprint 118.
+### Is a mortgage valuation the same as a survey?
 
-## FAQs
+No. A mortgage valuation is carried out for the lender. A survey is carried out for you and looks at the property's condition.
 
-**Is the "Building Surveyor Near Me" page live production?**
+### How do I find a building surveyor near me?
 
-No. It is a PREVIEW draft until Jack explicitly says go.
+Send us your town or postcode with a short description of what you need. We look for a suitable surveying practice with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
 
-**Does this keyword share a thin template with others?**
+### Is it free to use iComply?
 
-No. This file uses a unique H2 structure generated for this slug alone.
+Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
 
-**Do you list fixed prices?**
+### Can I contact you on WhatsApp?
 
-No. All commercial work is price on application (POA) after scoping.
+Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
 
-**Will "Building Surveyor Near Me" get town or village pages?**
+### Do I have to accept a quote?
 
-Later, on the FULL UK 34,235 allowlist, prioritising TOP5000 waves — still PREVIEW until Jack says go.
+No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
 
+## People also look for
 
-## Enquire
+- [Commercial building surveyor near me](/keywords/commercial-building-surveyor-near-me/)
+- [Measured surveyor near me](/keywords/measured-surveyor-near-me/)
+- [Surveyor near me](/keywords/surveyor-near-me/)
+- [Property surveyor near me](/keywords/property-surveyor-near-me/)
+- [Project management surveyor near me](/keywords/project-management-surveyor-near-me/)
+- [Browse all surveyors](/hubs/surveyors/)
 
-Scoped **POA** quote: [/pages/contact](/pages/contact).
+## Get a free quote for a building surveyor
+
+One short enquiry is all it takes. We connect you with a building surveyor who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
+
+[Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

@@ -336,3 +336,45 @@ button {
   .mobile-cta { display: flex; }
   .nav a:not(.cta) { font-size: 0.88rem; }
 }
+
+/* Contact + WhatsApp (sitewide) */
+.preview-bar a { color: #1a0d00; }
+.nav .nav-contact { font-weight: 650; white-space: nowrap; }
+.nav .nav-wa { color: #7ff0a8; }
+.cta-wa {
+  background: #25D366;
+  border-color: #25D366;
+  color: #fff !important;
+}
+.footer-contact address { font-style: normal; line-height: 1.45; }
+.contact-details {
+  background: #fff6ee;
+  border: 1px solid #ffd7b8;
+  border-radius: 12px;
+  padding: 1rem 1.2rem;
+  margin: 0 0 1.2rem;
+}
+.wa-float {
+  position: fixed;
+  right: 1.25rem;
+  bottom: 1.25rem;
+  z-index: 50;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: #25D366;
+  color: #fff !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.25);
+  text-decoration: none;
+  font-size: 0.62rem;
+  font-weight: 750;
+  letter-spacing: 0.01em;
+}
+.wa-float:hover { filter: brightness(1.06); }
+@media (max-width: 900px) {
+  .wa-float { bottom: 5rem; right: 1rem; }
+  .nav .nav-contact { display: none; }
+}

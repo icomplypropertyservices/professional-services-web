@@ -18,4 +18,12 @@ return [
     'preview_only' => true,
     'min_body_words' => 800,
     'min_images' => 3,
+    // Public contact (Jack-confirmed 2026-10-06)
+    'phone' => '07517806082',
+    'phone_display' => '07517 806082',
+    'phone_e164' => '+447517806082',
+    'whatsapp' => '447517806082',
+    'email' => 'icomplypropertyservices@gmail.com',
+    'address' => '17 Woodlands Park Road, Offerton, Stockport, Cheshire SK2 5DE',
+    'address_parts' => ['street' => '17 Woodlands Park Road', 'locality' => 'Offerton, Stockport', 'region' => 'Cheshire', 'postcode' => 'SK2 5DE', 'country' => 'GB'],
 ];

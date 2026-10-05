@@ -438,3 +438,18 @@ function ps_path_vertical(string $path): array
     }
     return ['Professional Services', 'general'];
 }
+
+/**
+ * Agency-intent filter for end-client keyword pages (INTENT-LOCK-MIDDLEMAN).
+ * Profession names such as "recruitment agency" are end-client demand and stay IN.
+ */
+function ps_is_agency_keyword_slug_strict(string $slug): bool
+{
+    $slug = strtolower($slug);
+    foreach (['website', 'web-design', 'digital-marketing', 'marketing-agency', 'seo-agency', 'local-seo'] as $bad) {
+        if (str_contains($slug, $bad)) {
+            return true;
+        }
+    }
+    return in_array('seo', explode('-', $slug), true);
+}

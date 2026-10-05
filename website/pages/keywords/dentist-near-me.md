@@ -1,193 +1,160 @@
 ---
-status: preview-draft
-keyword: dentist-near-me
-structure_index: 256
-note: PREVIEW ONLY — unique per-keyword H2 structure (rebuild after shared_thin_shell REJECT)
-brand: iComply Professional Services
-pricing: POA only
+slug: dentist-near-me
+title: Dentist Near Me | iComply Professional Services
+description: Looking for a dentist near you? Tell iComply what you need and we match you with a suitable UK private dentist. Free to enquire. Request a quote — POA.
+family: dentist
+group: healthcare
+hub: private-dentists
+profession: private dentist
+service_label: Dentist
+og_image: /assets/images/finance-desk.jpg
 ---
-# Dentist Near Me | iComply Professional Services
 
-## Meta block (required)
+# Dentist Near Me
 
-| Field | Value |
-|-------|-------|
-| title | Dentist Near Me | iComply Professional Services |
-| description | Preview page for Dentist Near Me. Unique template structure for this keyword. POA support from iComply Professional Services — not production. |
-| og:title | Dentist Near Me | iComply Professional Services |
-| og:description | Preview page for Dentist Near Me. Unique template structure for this keyword. POA support from iComply Professional Services — not production. |
-| og:url | https://icomplyprofessionalservices.co.uk/pages/keywords/dentist-near-me |
-| og:type | website |
-| og:image | https://icomplyprofessionalservices.co.uk/assets/images/placeholders/kw/dentist-near-me-1.jpg |
-| canonical | https://icomplyprofessionalservices.co.uk/pages/keywords/dentist-near-me |
+Looking for **dentist near me** usually starts with a practical problem that needs a qualified person. Dentists examine, diagnose and treat problems with teeth and gums, from check-ups and fillings to extractions, crowns and preventive care.
 
-### JSON-LD schema
+We act as the middleman between you and the professional. Share a short brief and we match you with a dentist who has the right experience and capacity. Enquiring is free, and you are under no obligation to accept a quote.
 
-```json
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "ProfessionalService",
-      "name": "iComply Professional Services",
-      "url": "https://icomplyprofessionalservices.co.uk/",
-      "areaServed": "GB",
-      "priceRange": "POA"
-    },
-    {
-      "@type": "WebPage",
-      "name": "Dentist Near Me | iComply Professional Services",
-      "url": "https://icomplyprofessionalservices.co.uk/pages/keywords/dentist-near-me",
-      "description": "Preview page for Dentist Near Me. Unique template structure for this keyword. POA support from iComply Professional Services \u2014 not production."
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Is the \"Dentist Near Me\" page live production?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. It is a PREVIEW draft until Jack explicitly says go."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does this keyword share a thin template with others?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. This file uses a unique H2 structure generated for this slug alone."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Do you list fixed prices?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. All commercial work is price on application (POA) after scoping."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Will \"Dentist Near Me\" get town or village pages?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Later, on the FULL UK 34,235 allowlist, prioritising TOP5000 waves \u2014 still PREVIEW until Jack says go."
-          }
-        }
-      ]
-    }
-  ]
-}
-```
+**[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-## Preview notice
+![Next steps after an iComply introduction for a dentist](/assets/images/finance-desk.jpg)
 
-Unique template structure for `dentist-near-me` (fingerprint index 256). Not a shared family shell.
+## Common reasons people contact private dentists
 
-![Dentist Near Me workshop](/assets/images/placeholders/kw/dentist-near-me-1.jpg)
-![Dentist Near Me documentation](/assets/images/placeholders/kw/dentist-near-me-2.jpg)
-![Dentist Near Me coverage](/assets/images/placeholders/kw/dentist-near-me-3.jpg)
+Private dentists help clients in many situations. Some of the most common are:
 
-This preview keyword hub is dedicated to **Dentist Near Me** (`dentist-near-me`). Its section headings are unique to this slug (structure index 256). It is not a Property Services page and not a shared thin shell.
+- Straightening teeth with braces or clear aligners.
+- Children's dental care.
+- Toothache, swelling or a broken tooth.
+- A routine check-up and hygiene appointment.
+- Improving the look of teeth with whitening, bonding or veneers.
 
-## Discovery and qualification (dentist · 62/4)
+If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of private dentist fits best.
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+## What happens after you are introduced
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+Once introduced, the practice will register you and book an examination, after which the dentist will propose a treatment plan. Clinical decisions are between you and the dentist. iComply does not provide dental advice.
 
-On `dentist-near-me`, this heading focuses practice managers on the angle encoded as structure 256.0. That keeps the outline distinct from every other P0 keyword page.
+## Getting ready for your first conversation
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+You do not need all of this to enquire, but the more you can share, the better the match:
 
-## Enquiry path that stays POA-honest (dentist · 62/11)
+- Whether you want to pay per treatment or join a dental plan
+- Whether you are anxious about treatment
+- Any pain, swelling or sensitivity and how long it has lasted
+- Medical history and current medication
+- Times and days you can attend
+- Any dental insurance you hold
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+**Need a dentist?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-On `dentist-near-me`, this heading focuses practice managers on the angle encoded as structure 256.1. That keeps the outline distinct from every other P0 keyword page.
+## How long things usually take
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+Many private practices can see new patients within days, and urgent pain can often be seen the same or next day. Longer courses of treatment such as implants or aligners take months. For swelling that affects breathing or swallowing, seek emergency care at once.
 
-## Supplier and tool diligence (dentist · 62/19)
+## Looking for a dentist close to home
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+When you search for a dentist near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
 
-On `dentist-near-me`, this heading focuses practice managers on the angle encoded as structure 256.2. That keeps the outline distinct from every other P0 keyword page.
+## Red flags when choosing a dentist
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+Most professionals are honest and competent, but it is worth knowing the warning signs:
 
-## Who this intent serves (dentist · 62/0)
+- Unclear arrangements if something fails
+- A dentist you cannot find on the GDC register
+- No discussion of risks or alternatives
+- Pressure to agree to extensive cosmetic treatment
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+![Client explaining what they need before being matched with a dentist](/assets/images/healthcare-consult.jpg)
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+## Qualifications and registration to look for
 
-On `dentist-near-me`, this heading focuses practice managers on the angle encoded as structure 256.3. That keeps the outline distinct from every other P0 keyword page.
+Dentists, dental hygienists, dental therapists and dental nurses must be registered with the General Dental Council (GDC), and you can check the GDC register online. Specialist titles such as orthodontist or endodontist can only be used by people on a GDC specialist list. Private clinics providing regulated healthcare in England must register with the Care Quality Commission (CQC), which inspects and publishes ratings. In Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA.
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+If something goes wrong with private dental treatment, start with the practice's complaints process. The Dental Complaints Service can help with private dental complaints that are not resolved.
 
-## Why firms search this phrase (dentist · 62/1)
+Please note that iComply is a matching service only. We are not regulated as a private dentist, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+## What a dentist is likely to cost (POA)
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+Private dental fees vary between practices and depend on the treatment, materials and dentist's experience. Practices should give you a written treatment plan with costs before starting anything beyond an examination. Many also offer monthly membership plans. iComply does not publish prices; the practice quotes you, POA.
 
-On `dentist-near-me`, this heading focuses practice managers on the angle encoded as structure 256.4. That keeps the outline distinct from every other P0 keyword page.
+Ask what is included in a quote, such as follow-up reviews and adjustments, and whether finance options are regulated credit agreements.
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+## How our free matching service works
 
-## Scope we can support (dentist · 62/2)
+1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
+1. **We review your brief.** We check the type of private dentist you need, your location and your timing.
+1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
+1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+There is no charge to you for the introduction, and no obligation to accept any quote.
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+## Questions to ask a dentist
 
-On `dentist-near-me`, this heading focuses practice managers on the angle encoded as structure 256.5. That keeps the outline distinct from every other P0 keyword page.
+Asking a few direct questions early tells you a lot about how a practice works:
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+- What guarantees apply to crowns, implants or aligners?
+- How many appointments will this take?
+- What are the alternatives, including not treating?
+- Is the dentist GDC registered, and do they have experience with this treatment?
+- Who handles emergencies out of hours?
+- Can I see before-and-after examples for cosmetic work?
 
-## What we will not claim (dentist · 62/3)
+## Practical points about a dentist
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+A few points come up again and again with a dentist:
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+- Regular check-ups catch problems early.
+- Ask for a written treatment plan.
+- Mention anxiety so the team can help.
 
-On `dentist-near-me`, this heading focuses practice managers on the angle encoded as structure 256.6. That keeps the outline distinct from every other P0 keyword page.
+A good private dentist will talk you through each of these in plain English.
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+![Dental practice ready to take on a new enquiry for dentist near me](/assets/images/hero-workshop.jpg)
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded. Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover. Expansion 1 for `dentist-near-me` / fingerprint 256.
+## FAQs about dentist near me
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public. iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages. Expansion 2 for `dentist-near-me` / fingerprint 256.
+### Can I see a private dentist and stay with my NHS dentist?
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover. Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not. Expansion 3 for `dentist-near-me` / fingerprint 256.
+Yes, you can use both. Some patients see a private dentist for specific treatments and keep NHS care for routine check-ups, if their NHS practice agrees.
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages. This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft. Expansion 4 for `dentist-near-me` / fingerprint 256.
+### Do I need a check-up before treatment?
 
-## FAQs
+Almost always. A dentist needs to examine you, and often take X-rays, before recommending treatment.
 
-**Is the "Dentist Near Me" page live production?**
+### Can you find a dentist in my area?
 
-No. It is a PREVIEW draft until Jack explicitly says go.
+Send us your town or postcode with a short description of what you need. We look for a suitable dental practice with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
 
-**Does this keyword share a thin template with others?**
+### Do I have to accept a quote?
 
-No. This file uses a unique H2 structure generated for this slug alone.
+No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
 
-**Do you list fixed prices?**
+### Can I contact you on WhatsApp?
 
-No. All commercial work is price on application (POA) after scoping.
+Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
 
-**Will "Dentist Near Me" get town or village pages?**
+### How quickly will I hear back?
 
-Later, on the FULL UK 34,235 allowlist, prioritising TOP5000 waves — still PREVIEW until Jack says go.
+Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
 
+## Other services you may need
 
-## Enquire
+- [Best private crown near me](/keywords/best-private-crown-near-me/)
+- [Best cosmetic dentist near me](/keywords/best-cosmetic-dentist-near-me/)
+- [Best clear aligners near me](/keywords/best-clear-aligners-near-me/)
+- [Bridge near me](/keywords/bridge-near-me/)
+- [Wisdom tooth removal near me](/keywords/wisdom-tooth-removal-near-me/)
+- [Browse all private dentists](/hubs/private-dentists/)
 
-Scoped **POA** quote: [/pages/contact](/pages/contact).
+## Get a free quote for a dentist
+
+Tell us what you need and where you are. We will match you with a suitable private dentist, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
+
+[Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

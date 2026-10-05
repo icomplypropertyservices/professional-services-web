@@ -48,6 +48,76 @@ function ps_jsonld_script(array $data): string
     return '<script type="application/ld+json">' . $json . '</script>';
 }
 
+function ps_wa_url(string $text = ''): string
+{
+    $url = 'https://wa.me/' . (string) ps_config()['whatsapp'];
+    if ($text !== '') {
+        $url .= '?text=' . rawurlencode($text);
+    }
+    return $url;
+}
+
+function ps_tel_url(): string
+{
+    return 'tel:' . (string) ps_config()['phone_e164'];
+}
+
+/** Schema.org organisation node with ContactPoint + PostalAddress (NAP). */
+function ps_org_jsonld(): array
+{
+    $cfg = ps_config();
+    $a = $cfg['address_parts'];
+    return [
+        '@type' => 'ProfessionalService',
+        '@id' => ps_site_url() . '/#organization',
+        'name' => (string) $cfg['brand'],
+        'url' => ps_site_url() . '/',
+        'image' => ps_site_url() . '/assets/images/hero-workshop.jpg',
+        'telephone' => (string) $cfg['phone_e164'],
+        'email' => (string) $cfg['email'],
+        'areaServed' => 'GB',
+        'priceRange' => 'POA',
+        'address' => [
+            '@type' => 'PostalAddress',
+            'streetAddress' => $a['street'],
+            'addressLocality' => $a['locality'],
+            'addressRegion' => $a['region'],
+            'postalCode' => $a['postcode'],
+            'addressCountry' => $a['country'],
+        ],
+        'contactPoint' => [[
+            '@type' => 'ContactPoint',
+            'contactType' => 'customer service',
+            'telephone' => (string) $cfg['phone_e164'],
+            'email' => (string) $cfg['email'],
+            'areaServed' => 'GB',
+            'availableLanguage' => 'en-GB',
+        ]],
+    ];
+}
+
+/** Add the organisation/ContactPoint node to any page JSON-LD. */
+function ps_jsonld_with_org(array $jsonld): array
+{
+    $org = ps_org_jsonld();
+    if (isset($jsonld['@graph']) && is_array($jsonld['@graph'])) {
+        foreach ($jsonld['@graph'] as $i => $node) {
+            if (($node['@type'] ?? '') === 'ProfessionalService' && !isset($node['@id'])) {
+                $jsonld['@graph'][$i] = $org;
+                return $jsonld;
+            }
+            if (($node['@id'] ?? '') === $org['@id']) {
+                return $jsonld;
+            }
+        }
+        $jsonld['@graph'][] = $org;
+        return $jsonld;
+    }
+    $ctx = $jsonld['@context'] ?? 'https://schema.org';
+    unset($jsonld['@context']);
+    return ['@context' => $ctx, '@graph' => [$jsonld, $org]];
+}
+
 function ps_footer_html(string $brand, array $cfg): string
 {
     return '<footer class="site-footer"><div class="footer-inner">'
@@ -75,13 +145,16 @@ function ps_footer_html(string $brand, array $cfg): string
         . '<li><a href="/about/">About</a></li>'
         . '<li><a href="/hubs/">Profession hubs</a></li>'
         . '</ul></div>'
-        . '<div class="footer-col"><h3>Contact</h3><ul>'
-        . '<li><a href="/contact/">Enquire — POA</a></li>'
-        . '<li><a href="/contact/">Request an introduction</a></li>'
+        . '<div class="footer-col"><h3>Contact</h3><ul class="footer-contact">'
+        . '<li><a href="' . ps_h(ps_tel_url()) . '">Call ' . ps_h((string) $cfg['phone_display']) . '</a></li>'
+        . '<li><a href="' . ps_h(ps_wa_url()) . '" target="_blank" rel="noopener">WhatsApp us</a></li>'
+        . '<li><a href="mailto:' . ps_h((string) $cfg['email']) . '">' . ps_h((string) $cfg['email']) . '</a></li>'
+        . '<li><address>' . ps_h((string) $cfg['address']) . '</address></li>'
+        . '<li><a href="/contact/">Enquire — get a free quote</a></li>'
         . '<li><a href="/contact/">Practice: request clients</a></li>'
         . '</ul></div>'
         . '</div>'
-        . '<p class="footer-bottom fine">© iComply Professional Services. Separate from Property Services. Preview site — not live on the apex domain.</p>'
+        . '<p class="footer-bottom fine">© iComply Professional Services · ' . ps_h((string) $cfg['address']) . ' · Separate from iComply Property Services.</p>'
         . '</div></footer>';
 }
 
@@ -144,14 +217,16 @@ function ps_render_document(array $page): string
         . '<meta name="twitter:card" content="summary_large_image">' . "\n"
         . '<link rel="icon" href="/assets/images/hero-workshop.jpg" type="image/jpeg">' . "\n"
         . '<link rel="stylesheet" href="/assets/css/site.css">' . "\n"
-        . ps_jsonld_script($jsonld) . "\n"
+        . ps_jsonld_script(ps_jsonld_with_org($jsonld)) . "\n"
         . '</head>' . "\n"
         . '<body>' . "\n"
         . '<a class="skip" href="#content">Skip to content</a>' . "\n"
-        . '<div class="preview-bar">PREVIEW — not live on the apex domain. Quotes are POA.</div>' . "\n"
+        . '<div class="preview-bar">Free matching with UK professionals · Quotes are POA · <a href="' . ps_h(ps_tel_url()) . '">' . ps_h((string) $cfg['phone_display']) . '</a></div>' . "\n"
         . '<header class="site-header"><div class="header-inner">'
         . '<a class="brand" href="/">iComply <span>Professional Services</span></a>'
         . '<nav class="nav" aria-label="Primary">' . $navHtml
+        . '<a class="nav-contact" href="' . ps_h(ps_tel_url()) . '">Call ' . ps_h((string) $cfg['phone_display']) . '</a>'
+        . '<a class="nav-contact nav-wa" href="' . ps_h(ps_wa_url()) . '" target="_blank" rel="noopener">WhatsApp</a>'
         . '<a class="cta cta-primary" href="/contact/">Get a free quote</a></nav>'
         . '</div></header>' . "\n"
         . ps_breadcrumb_html($path) . "\n"
@@ -164,11 +239,13 @@ function ps_render_document(array $page): string
         . '<ul class="trust-points"><li>End-client introductions</li><li>POA after discovery</li><li>Practices stay regulated providers</li></ul></div>'
         . '<div class="convert-actions">'
         . '<a class="cta cta-primary" href="/contact/">Get a free quote</a>'
+        . '<a class="cta cta-wa" href="' . ps_h(ps_wa_url('Hi iComply Professional Services, I need help finding a professional')) . '" target="_blank" rel="noopener">WhatsApp us</a>'
         . '<a class="cta cta-secondary" href="/contact/">Practice: request clients</a>'
         . '</div></aside>' . "\n"
         . '</article>' . "\n"
         . ps_footer_html($brand, $cfg) . "\n"
         . '<div class="mobile-cta"><a class="cta cta-primary" href="/contact/">Get a free quote</a></div>' . "\n"
+        . '<a href="' . ps_h(ps_wa_url('Hi iComply Professional Services, I need help finding a professional')) . '" class="wa-float" target="_blank" rel="noopener" aria-label="Chat on WhatsApp">WhatsApp</a>' . "\n"
         . '<script src="/assets/js/site.js" defer></script>' . "\n"
         . '</body></html>' . "\n";
 }

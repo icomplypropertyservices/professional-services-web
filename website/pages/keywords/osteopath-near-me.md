@@ -1,193 +1,157 @@
 ---
-status: preview-draft
-keyword: osteopath-near-me
-structure_index: 512
-note: PREVIEW ONLY — unique per-keyword H2 structure (rebuild after shared_thin_shell REJECT)
-brand: iComply Professional Services
-pricing: POA only
+slug: osteopath-near-me
+title: Osteopath Near Me | iComply Professional Services
+description: Looking for an osteopath near you? Tell iComply what you need and we match you with a suitable UK osteopath. Free to enquire. Request a quote — POA.
+family: osteopath
+group: healthcare
+hub: osteopaths
+profession: osteopath
+service_label: Osteopath
+og_image: /assets/images/finance-desk.jpg
 ---
-# Osteopath Near Me | iComply Professional Services
 
-## Meta block (required)
+# Osteopath Near Me
 
-| Field | Value |
-|-------|-------|
-| title | Osteopath Near Me | iComply Professional Services |
-| description | Preview page for Osteopath Near Me. Unique template structure for this keyword. POA support from iComply Professional Services — not production. |
-| og:title | Osteopath Near Me | iComply Professional Services |
-| og:description | Preview page for Osteopath Near Me. Unique template structure for this keyword. POA support from iComply Professional Services — not production. |
-| og:url | https://icomplyprofessionalservices.co.uk/pages/keywords/osteopath-near-me |
-| og:type | website |
-| og:image | https://icomplyprofessionalservices.co.uk/assets/images/placeholders/kw/osteopath-near-me-1.jpg |
-| canonical | https://icomplyprofessionalservices.co.uk/pages/keywords/osteopath-near-me |
+Looking for **osteopath near me** usually starts with a practical problem that needs a qualified person. Osteopaths use hands-on treatment, exercise and advice to help with back pain, neck pain, joint problems and muscle tension.
 
-### JSON-LD schema
+iComply Professional Services is a free matching service. You tell us what you need and where you are; we connect you with a suitable UK osteopath who can quote for the work. The practice provides the service, and every quote is POA.
 
-```json
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "ProfessionalService",
-      "name": "iComply Professional Services",
-      "url": "https://icomplyprofessionalservices.co.uk/",
-      "areaServed": "GB",
-      "priceRange": "POA"
-    },
-    {
-      "@type": "WebPage",
-      "name": "Osteopath Near Me | iComply Professional Services",
-      "url": "https://icomplyprofessionalservices.co.uk/pages/keywords/osteopath-near-me",
-      "description": "Preview page for Osteopath Near Me. Unique template structure for this keyword. POA support from iComply Professional Services \u2014 not production."
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Is the \"Osteopath Near Me\" page live production?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. It is a PREVIEW draft until Jack explicitly says go."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does this keyword share a thin template with others?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. This file uses a unique H2 structure generated for this slug alone."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Do you list fixed prices?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. All commercial work is price on application (POA) after scoping."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Will \"Osteopath Near Me\" get town or village pages?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Later, on the FULL UK 34,235 allowlist, prioritising TOP5000 waves \u2014 still PREVIEW until Jack says go."
-          }
-        }
-      ]
-    }
-  ]
-}
-```
+**[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-## Preview notice
+![Client explaining what they need before being matched with an osteopath](/assets/images/finance-desk.jpg)
 
-Unique template structure for `osteopath-near-me` (fingerprint index 512). Not a shared family shell.
+## What osteopaths commonly help with
 
-![Osteopath Near Me workshop](/assets/images/placeholders/kw/osteopath-near-me-1.jpg)
-![Osteopath Near Me documentation](/assets/images/placeholders/kw/osteopath-near-me-2.jpg)
-![Osteopath Near Me coverage](/assets/images/placeholders/kw/osteopath-near-me-3.jpg)
+You do not need to have everything worked out. Clients often come to us with situations like these:
 
-This preview keyword hub is dedicated to **Osteopath Near Me** (`osteopath-near-me`). Its section headings are unique to this slug (structure index 512). It is not a Property Services page and not a shared thin shell.
+- An older relative who wants to stay active and mobile.
+- Headaches that seem linked to posture or neck tension.
+- Joint stiffness that limits walking or exercise.
+- Aches during or after pregnancy.
+- Sports-related strains and overuse problems.
 
-## Why firms search this phrase (osteopath · 27/1)
+If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of osteopath fits best.
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+## What to ask before you instruct anyone
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+Once you are introduced, these questions help you decide whether the osteopath is right for you:
 
-On `osteopath-near-me`, this heading focuses practice managers on the angle encoded as structure 512.0. That keeps the outline distinct from every other P0 keyword page.
+- When would you suggest I see my GP instead?
+- What does treatment involve, and are there risks?
+- What will happen in the first appointment?
+- Do you accept my health insurance?
+- Are you registered with the statutory regulator, and can I check that online?
+- How many sessions do you expect I will need?
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+## Practical points about an osteopath
 
-## Scope we can support (osteopath · 27/2)
+A few points come up again and again with an osteopath:
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+- Check GOsC registration.
+- Expect a full case history.
+- Ask about home exercises.
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+Raise any of these with the osteopath you are introduced to; they should be happy to explain.
 
-On `osteopath-near-me`, this heading focuses practice managers on the angle encoded as structure 512.1. That keeps the outline distinct from every other P0 keyword page.
+**Need an osteopath?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+## What an osteopath is likely to cost (POA)
 
-## What we will not claim (osteopath · 27/3)
+Treatment is usually charged per session, with a longer first appointment for assessment. iComply does not publish prices; the practitioner quotes you, POA.
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+Be cautious about paying for long courses of treatment up front. A good practitioner will review progress regularly and tell you if another approach would suit you better.
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+## When to think twice
 
-On `osteopath-near-me`, this heading focuses practice managers on the angle encoded as structure 512.2. That keeps the outline distinct from every other P0 keyword page.
+Be cautious if you notice any of the following:
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+- Claims to treat conditions unrelated to muscles and joints
+- Pressure to pay for many sessions in advance
+- No clear review of progress
+- Discouraging you from seeing your GP
 
-## Discovery and qualification (osteopath · 27/4)
+## What happens after you are introduced
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+Once introduced, the practice will book your first appointment and agree a treatment plan with you. The practitioner is responsible for your care. iComply does not provide medical advice.
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+![Osteopathy clinic ready to take on a new enquiry for osteopath near me](/assets/images/healthcare-consult.jpg)
 
-On `osteopath-near-me`, this heading focuses practice managers on the angle encoded as structure 512.3. That keeps the outline distinct from every other P0 keyword page.
+## How our free matching service works
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+1. **Enquire for free** with your town or postcode and a short description.
+1. **We clarify** anything unclear, so the introduction is useful from the start.
+1. **We connect you** with an osteopath who suits your situation.
+1. **The practice takes over**, confirms scope and fees in writing and does the work.
 
-## File and policy hygiene links (osteopath · 27/18)
+There is no charge to you for the introduction, and no obligation to accept any quote.
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+## How long things usually take
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+Appointments are often available within a few days. Many people notice change within a few sessions, though longer-standing problems can take more time. Seek urgent medical help for severe pain after an accident, numbness around the groin, or loss of bladder or bowel control.
 
-On `osteopath-near-me`, this heading focuses practice managers on the angle encoded as structure 512.4. That keeps the outline distinct from every other P0 keyword page.
+## Finding an osteopath near you
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+When you search for an osteopath near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
 
-## Image and alt-text plan (osteopath · 27/37)
+Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+## Information that helps us match you
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+A short, clear brief saves time on both sides. Useful details include:
 
-On `osteopath-near-me`, this heading focuses practice managers on the angle encoded as structure 512.5. That keeps the outline distinct from every other P0 keyword page.
+- The days and times you can attend
+- Any scans or letters from your GP
+- Anything that makes it better or worse
+- Any treatment you have tried already
+- Whether you are pregnant
+- Where the pain is and how it started
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
-## Who this intent serves (osteopath · 27/0)
+## Qualifications and registration to look for
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+"Osteopath" is a protected title in the UK. Every osteopath must be registered with the General Osteopathic Council (GOsC), which sets standards and investigates concerns. You can check the GOsC register online before you book.
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+Osteopaths use hands-on techniques such as massage, stretching and joint mobilisation, along with advice on exercise and posture. They assess your medical history first and should refer you to your GP if your symptoms need medical investigation.
 
-On `osteopath-near-me`, this heading focuses practice managers on the angle encoded as structure 512.6. That keeps the outline distinct from every other P0 keyword page.
+Please note that iComply is a matching service only. We are not regulated as a osteopath, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+![Professional reviewing a client's brief before an introduction for osteopath near me](/assets/images/hero-workshop.jpg)
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not. Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs. Expansion 1 for `osteopath-near-me` / fingerprint 512.
+## FAQs: an osteopath
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft. Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded. Expansion 2 for `osteopath-near-me` / fingerprint 512.
+### Do I need a referral?
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs. We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public. Expansion 3 for `osteopath-near-me` / fingerprint 512.
+No, you can usually book directly. Health insurers may need a GP referral before they pay.
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded. Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover. Expansion 4 for `osteopath-near-me` / fingerprint 512.
+### Is treatment painful?
 
-## FAQs
+Some techniques can feel uncomfortable, and you may feel sore for a day or two. Your practitioner should explain what to expect and adapt treatment to your comfort.
 
-**Is the "Osteopath Near Me" page live production?**
+### How do I find an osteopath near me?
 
-No. It is a PREVIEW draft until Jack explicitly says go.
+Send us your town or postcode with a short description of what you need. We look for a suitable osteopathy clinic with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
 
-**Does this keyword share a thin template with others?**
+### How quickly will I hear back?
 
-No. This file uses a unique H2 structure generated for this slug alone.
+Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
 
-**Do you list fixed prices?**
+### Is iComply regulated?
 
-No. All commercial work is price on application (POA) after scoping.
+iComply is a matching service. We are not a osteopath and we do not give professional advice. The professionals we introduce are registered with their own bodies, and you can check them.
 
-**Will "Osteopath Near Me" get town or village pages?**
+### Can I contact you on WhatsApp?
 
-Later, on the FULL UK 34,235 allowlist, prioritising TOP5000 waves — still PREVIEW until Jack says go.
+Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
 
+## Related searches
 
-## Enquire
+- [Osteopaths](/keywords/osteopaths/)
+- [Osteopath](/keywords/osteopath/)
+- [Browse all osteopaths](/hubs/osteopaths/)
 
-Scoped **POA** quote: [/pages/contact](/pages/contact).
+## Get a free quote for an osteopath
+
+One short enquiry is all it takes. We connect you with an osteopath who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
+
+[Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

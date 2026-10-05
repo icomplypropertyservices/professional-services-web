@@ -1,193 +1,156 @@
 ---
-status: preview-draft
-keyword: financial-planner-near-me
-structure_index: 312
-note: PREVIEW ONLY — unique per-keyword H2 structure (rebuild after shared_thin_shell REJECT)
-brand: iComply Professional Services
-pricing: POA only
+slug: financial-planner-near-me
+title: Financial Planner Near Me | iComply Professional Services
+description: A financial planner near you: get matched free with a suitable UK financial adviser via iComply Professional Services. Request a quote — POA.
+family: fa
+group: finance
+hub: financial-advisors
+profession: financial adviser
+service_label: Financial planner
+og_image: /assets/images/insurance-advisory.jpg
 ---
-# Financial Planner Near Me | iComply Professional Services
 
-## Meta block (required)
+# Financial Planner Near Me
 
-| Field | Value |
-|-------|-------|
-| title | Financial Planner Near Me | iComply Professional Services |
-| description | Preview page for Financial Planner Near Me. Unique template structure for this keyword. POA support from iComply Professional Services — not production. |
-| og:title | Financial Planner Near Me | iComply Professional Services |
-| og:description | Preview page for Financial Planner Near Me. Unique template structure for this keyword. POA support from iComply Professional Services — not production. |
-| og:url | https://icomplyprofessionalservices.co.uk/pages/keywords/financial-planner-near-me |
-| og:type | website |
-| og:image | https://icomplyprofessionalservices.co.uk/assets/images/placeholders/kw/financial-planner-near-me-1.jpg |
-| canonical | https://icomplyprofessionalservices.co.uk/pages/keywords/financial-planner-near-me |
+Searching for **financial planner near me**? You probably want someone suitable, available and within reach. Financial planners take a whole-life view of your finances, linking goals with investments, pensions, tax and protection.
 
-### JSON-LD schema
+iComply Professional Services is a free matching service. You tell us what you need and where you are; we connect you with a suitable UK financial adviser who can quote for the work. The practice provides the service, and every quote is POA.
 
-```json
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "ProfessionalService",
-      "name": "iComply Professional Services",
-      "url": "https://icomplyprofessionalservices.co.uk/",
-      "areaServed": "GB",
-      "priceRange": "POA"
-    },
-    {
-      "@type": "WebPage",
-      "name": "Financial Planner Near Me | iComply Professional Services",
-      "url": "https://icomplyprofessionalservices.co.uk/pages/keywords/financial-planner-near-me",
-      "description": "Preview page for Financial Planner Near Me. Unique template structure for this keyword. POA support from iComply Professional Services \u2014 not production."
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Is the \"Financial Planner Near Me\" page live production?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. It is a PREVIEW draft until Jack explicitly says go."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does this keyword share a thin template with others?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. This file uses a unique H2 structure generated for this slug alone."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Do you list fixed prices?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. All commercial work is price on application (POA) after scoping."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Will \"Financial Planner Near Me\" get town or village pages?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Later, on the FULL UK 34,235 allowlist, prioritising TOP5000 waves \u2014 still PREVIEW until Jack says go."
-          }
-        }
-      ]
-    }
-  ]
-}
-```
+**[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-## Preview notice
+![Next steps after an iComply introduction for a financial planner](/assets/images/insurance-advisory.jpg)
 
-Unique template structure for `financial-planner-near-me` (fingerprint index 312). Not a shared family shell.
+## What financial advisers commonly help with
 
-![Financial Planner Near Me workshop](/assets/images/placeholders/kw/financial-planner-near-me-1.jpg)
-![Financial Planner Near Me documentation](/assets/images/placeholders/kw/financial-planner-near-me-2.jpg)
-![Financial Planner Near Me coverage](/assets/images/placeholders/kw/financial-planner-near-me-3.jpg)
+Every enquiry is different, but these are typical starting points for clients who contact financial advisers:
 
-This preview keyword hub is dedicated to **Financial Planner Near Me** (`financial-planner-near-me`). Its section headings are unique to this slug (structure index 312). It is not a Property Services page and not a shared thin shell.
+- Financial planning around divorce.
+- An annual review of an existing plan.
+- Investing a lump sum from savings, inheritance or a business sale.
+- Protecting family income with life or income protection cover.
+- Advice for business owners on extracting profits.
 
-## Discovery and qualification (financial · 21/4)
+If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of financial adviser fits best.
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+## Looking for a financial planner close to home
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+When you search for a financial planner near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
 
-On `financial-planner-near-me`, this heading focuses practice managers on the angle encoded as structure 312.0. That keeps the outline distinct from every other P0 keyword page.
+Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+## Before you choose a financial planner
 
-## Risk themes for this profession (financial · 21/12)
+A few points come up again and again with a financial planner:
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+- Planning is broader than product advice.
+- Cash-flow models support decisions.
+- Ongoing reviews keep plans on track.
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+A good financial adviser will talk you through each of these in plain English.
 
-On `financial-planner-near-me`, this heading focuses practice managers on the angle encoded as structure 312.1. That keeps the outline distinct from every other P0 keyword page.
+**Need a financial planner?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+## Red flags when choosing a financial planner
 
-## Title and description craft (financial · 21/38)
+Be cautious if you notice any of the following:
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+- Not on the FCA register, or a clone firm using a real firm's name
+- Unclear or hidden charges
+- Pressure to transfer pensions or invest quickly
+- Unregulated investments presented as safe
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+## What to prepare before you enquire
 
-On `financial-planner-near-me`, this heading focuses practice managers on the angle encoded as structure 312.2. That keeps the outline distinct from every other P0 keyword page.
+A short, clear brief saves time on both sides. Useful details include:
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+- Pensions, investments and their latest statements
+- Family situation and dependants
+- Property and mortgage details
+- Your goals in plain words, such as retiring at 60
+- Your attitude to risk and investment experience
+- Debts and other commitments
 
-## Who this intent serves (financial · 21/0)
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+## What to ask before you instruct anyone
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+Asking a few direct questions early tells you a lot about how a practice works:
 
-On `financial-planner-near-me`, this heading focuses practice managers on the angle encoded as structure 312.3. That keeps the outline distinct from every other P0 keyword page.
+- How will you report on performance?
+- How do you assess my attitude to risk and capacity for loss?
+- How do you charge for initial advice and ongoing service?
+- What will the ongoing service include each year?
+- Which platforms or providers do you typically use, and why?
+- Are you FCA authorised, and is your advice independent or restricted?
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+![Financial advice firm ready to take on a new enquiry for financial planner near me](/assets/images/finance-desk.jpg)
 
-## Why firms search this phrase (financial · 21/1)
+## Typical timescales
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+A first meeting is often available within a week or two. A full recommendation usually follows after the adviser has gathered information and researched options, which can take a few weeks.
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+## What a financial planner is likely to cost (POA)
 
-On `financial-planner-near-me`, this heading focuses practice managers on the angle encoded as structure 312.4. That keeps the outline distinct from every other P0 keyword page.
+Advisers often charge for initial advice, then an ongoing fee for reviews, which may be fixed or a percentage of the money they look after. Firms must set out charges clearly before advising you. iComply does not publish fees; the firm quotes you, POA.
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+Ask for charges in pounds as well as percentages, and check what the ongoing service includes. The FCA's Consumer Duty expects firms to provide fair value.
 
-## Scope we can support (financial · 21/2)
+## How iComply matches you
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
+1. **We review your brief.** We check the type of financial adviser you need, your location and your timing.
+1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
+1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+There is no charge to you for the introduction, and no obligation to accept any quote.
 
-On `financial-planner-near-me`, this heading focuses practice managers on the angle encoded as structure 312.5. That keeps the outline distinct from every other P0 keyword page.
+## Checking financial advisers are qualified and regulated
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+Financial advice in the UK is regulated by the Financial Conduct Authority (FCA). Check that any adviser or firm is authorised, or is an appointed representative of an authorised firm, on the FCA register. If something goes wrong you can complain to the firm, then to the Financial Ombudsman Service, and the Financial Services Compensation Scheme may protect you if an authorised firm fails.
 
-## What we will not claim (financial · 21/3)
+Advisers must tell you whether their advice is independent (considering the whole market) or restricted (limited to certain products or providers), and how they charge. Chartered status from the Chartered Insurance Institute or the Personal Finance Society, and certifications such as CFP, show advanced qualifications.
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+Please note that iComply is a matching service only. We are not regulated as a financial adviser, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+![Client explaining what they need before being matched with a financial planner](/assets/images/hero-workshop.jpg)
 
-On `financial-planner-near-me`, this heading focuses practice managers on the angle encoded as structure 312.6. That keeps the outline distinct from every other P0 keyword page.
+## FAQs about financial planner near me
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+### What is the difference between independent and restricted advice?
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded. Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover. Expansion 1 for `financial-planner-near-me` / fingerprint 312.
+Independent advisers consider products from across the market. Restricted advisers focus on certain products or providers. Both can give good advice; they must tell you which they offer.
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public. iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages. Expansion 2 for `financial-planner-near-me` / fingerprint 312.
+### Is the first meeting free?
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover. Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not. Expansion 3 for `financial-planner-near-me` / fingerprint 312.
+Many firms offer a free initial consultation to explain their service and charges. Formal advice is then charged as agreed in writing.
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages. This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft. Expansion 4 for `financial-planner-near-me` / fingerprint 312.
+### Can you find a financial planner in my area?
 
-## FAQs
+Send us your town or postcode with a short description of what you need. We look for a suitable financial advice firm with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
 
-**Is the "Financial Planner Near Me" page live production?**
+### Do I have to accept a quote?
 
-No. It is a PREVIEW draft until Jack explicitly says go.
+No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
 
-**Does this keyword share a thin template with others?**
+### How quickly will I hear back?
 
-No. This file uses a unique H2 structure generated for this slug alone.
+Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
 
-**Do you list fixed prices?**
+### Can I contact you on WhatsApp?
 
-No. All commercial work is price on application (POA) after scoping.
+Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
 
-**Will "Financial Planner Near Me" get town or village pages?**
+## Related searches
 
-Later, on the FULL UK 34,235 allowlist, prioritising TOP5000 waves — still PREVIEW until Jack says go.
+- [Divorce financial advisor near me](/keywords/divorce-financial-advisor-near-me/)
+- [Independent financial adviser near me](/keywords/independent-financial-adviser-near-me/)
+- [Financial advisors near me](/keywords/financial-advisors-near-me/)
+- [Protection financial advisor near me](/keywords/protection-financial-advisor-near-me/)
+- [Investment financial advisor near me](/keywords/investment-financial-advisor-near-me/)
+- [Browse all financial advisers](/hubs/financial-advisors/)
 
+## Ready to be matched?
 
-## Enquire
+One short enquiry is all it takes. We connect you with a financial planner who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
 
-Scoped **POA** quote: [/pages/contact](/pages/contact).
+[Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

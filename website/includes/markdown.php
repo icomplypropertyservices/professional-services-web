@@ -69,7 +69,12 @@ function ps_inline(string $text, int &$imageCounter): string
     $tokens = [];
     $text = preg_replace_callback('/!\[([^\]]*)\]\(([^)]+)\)/', function (array $m) use (&$tokens, &$imageCounter): string {
         $alt = trim($m[1]);
-        $src = ps_placeholder_src($imageCounter);
+        // Keyword pages pick their own branded JPG; core pages keep the rotation.
+        $wanted = trim($m[2]);
+        $src = (!empty($GLOBALS['ps_honor_image_src']) && preg_match('#^/assets/images/[a-z0-9-]+\.jpg$#', $wanted)
+            && is_file(PS_ROOT . $wanted))
+            ? $wanted
+            : ps_placeholder_src($imageCounter);
         $imageCounter++;
         $tokens[] = '<img src="' . ps_h($src) . '" alt="' . ps_h($alt) . '" width="1200" height="675">';
         return "\x00TOK" . (count($tokens) - 1) . "\x00";

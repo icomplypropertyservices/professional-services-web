@@ -47,9 +47,14 @@ foreach ($requiredCounts as $key) {
         $errors[] = 'count ' . $key;
     }
 }
-// Cleanup gate: agency keywords must stay unpublished
-if ((int) ($report['counts']['keywords'] ?? 0) !== 0) {
-    $errors[] = 'keywords must be held/unpublished in cleanup export';
+// P0 end-client keyword gate: every P0 slug (agency intents excluded) must be exported.
+$p0 = ps_read_lines(dirname(__DIR__) . '/data/keywords/PS-KEYWORDS-P0.txt');
+$p0 = array_values(array_filter($p0, static fn (string $s): bool => !ps_is_agency_keyword_slug_strict($s) && !str_contains($s, 'near-me-near-me')));
+if ((int) ($report['counts']['keywords'] ?? 0) !== count($p0) || (int) ($report['p0_keywords'] ?? -1) !== count($p0)) {
+    $errors[] = 'keywords count ' . ($report['counts']['keywords'] ?? 0) . ' != P0 ' . count($p0);
+}
+if ((int) ($report['keyword_h2_fingerprints'] ?? 0) !== count($p0)) {
+    $errors[] = 'keyword H2 structures not unique';
 }
 if ((int) ($report['counts']['xplace'] ?? 0) !== 0) {
     $errors[] = 'xplace must be 0';
@@ -125,6 +130,78 @@ foreach ($samples as $path) {
     }
 }
 
+// Every P0 keyword page: STRICT bar + client-facing + middleman + CTA + contact.
+$titles = [];
+$descs = [];
+$sitemapEarly = (string) @file_get_contents($dist . '/sitemap.xml');
+foreach ($p0 as $slug) {
+    $path = '/keywords/' . $slug . '/';
+    $file = $dist . $path . 'index.html';
+    if (!is_file($file)) {
+        $errors[] = 'missing ' . $path;
+        continue;
+    }
+    $html = (string) file_get_contents($file);
+    foreach (ps_quality_errors($html, $path) as $err) {
+        $errors[] = $path . ' ' . $err;
+    }
+    preg_match('/<article class="page" id="content">(.*)<\/article>/s', $html, $am);
+    $article = $am[1] ?? '';
+    foreach ($scaffoldMarkers as $bad) {
+        if (stripos($article, $bad) !== false) {
+            $errors[] = $path . ' scaffold:' . $bad;
+        }
+    }
+    if (preg_match('/\b(SEO agency|website design|web design|digital marketing)\b/i', $article)) {
+        $errors[] = $path . ' agency framing';
+    }
+    if (!preg_match('/middleman|connect you|match you|matching service/i', $article)) {
+        $errors[] = $path . ' missing referral framing';
+    }
+    if (substr_count($article, 'Get a free quote') < 2) {
+        $errors[] = $path . ' missing Get a free quote CTAs';
+    }
+    if (!str_contains($html, '"FAQPage"') || !str_contains($html, '"ContactPoint"')) {
+        $errors[] = $path . ' jsonld FAQPage/ContactPoint';
+    }
+    if (!preg_match('/<title>([^<]+)<\/title>/', $html, $tm) || !preg_match('/<meta name="description" content="([^"]+)"/', $html, $dm)) {
+        $errors[] = $path . ' title/description';
+        continue;
+    }
+    $d = html_entity_decode($dm[1], ENT_QUOTES | ENT_HTML5, 'UTF-8');
+    if (mb_strlen($d) < 140 || mb_strlen($d) > 160) {
+        $errors[] = $path . ' description length ' . mb_strlen($d);
+    }
+    if (isset($titles[$tm[1]]) || isset($descs[$d])) {
+        $errors[] = $path . ' duplicate title/description';
+    }
+    $titles[$tm[1]] = true;
+    $descs[$d] = true;
+    if (!str_contains($sitemapEarly, '<loc>' . ps_canonical_for($path) . '</loc>')) {
+        $errors[] = $path . ' not in sitemap';
+    }
+    if (count(glob($dist . $path . '*', GLOB_ONLYDIR) ?: []) > 0) {
+        $errors[] = $path . ' has nested keyword-place pages (XPLACE must be 0)';
+    }
+}
+
+// Contact + WhatsApp bubble on every HTML page.
+$it = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($dist, FilesystemIterator::SKIP_DOTS));
+$htmlPages = 0;
+foreach ($it as $f) {
+    if (!$f->isFile() || $f->getFilename() !== 'index.html') {
+        continue;
+    }
+    $htmlPages++;
+    $h = (string) file_get_contents($f->getPathname());
+    foreach (['class="wa-float"', 'https://wa.me/447517806082', 'tel:+447517806082', 'mailto:icomplypropertyservices@gmail.com', 'SK2 5DE'] as $need) {
+        if (!str_contains($h, $need)) {
+            $errors[] = substr($f->getPathname(), strlen($dist)) . ' missing contact ' . $need;
+            break;
+        }
+    }
+}
+
 // marketing hub must be unpublished
 if (is_file($dist . '/hubs/marketing-consultants/index.html')) {
     $errors[] = 'marketing-consultants hub must be unpublished';
@@ -181,4 +258,7 @@ if ($errors !== []) {
 echo "CHECK OK pages=" . ($report['html_pages'] ?? 0)
     . " min_words=" . ($report['min_body_words'] ?? 0)
     . " hubs=" . ($report['counts']['hubs'] ?? 0)
-    . " keywords_held=1\n";
+    . " core=" . ($report['counts']['core'] ?? 0)
+    . " keywords=" . ($report['counts']['keywords'] ?? 0)
+    . " xplace=" . ($report['counts']['xplace'] ?? 0)
+    . " html_files=" . $htmlPages . "\n";

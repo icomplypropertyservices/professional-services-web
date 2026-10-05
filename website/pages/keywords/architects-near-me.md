@@ -1,0 +1,156 @@
+---
+slug: architects-near-me
+title: Architects Near Me | iComply Professional Services
+description: Looking for "architects near me"? Tell iComply what you need and we match you with a suitable UK architect. Free to enquire. Request a quote — POA.
+family: architect
+group: property-prof
+hub: architects
+profession: architect
+service_label: Architect
+og_image: /assets/images/insurance-advisory.jpg
+---
+
+# Architects Near Me
+
+Looking for **architects near me** usually starts with a practical problem that needs a qualified person. An architect designs buildings and alterations, prepares drawings for planning and building regulations, and can oversee construction.
+
+We act as the middleman between you and the professional. Share a short brief and we match you with an architect who has the right experience and capacity. Enquiring is free, and you are under no obligation to accept a quote.
+
+**[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
+
+![Next steps after an iComply introduction for an architect](/assets/images/insurance-advisory.jpg)
+
+## What architects commonly help with
+
+Architects help clients in many situations. Some of the most common are:
+
+- An energy-efficient renovation or eco build.
+- A rear or side extension to add space.
+- A new-build house on a plot.
+- Help with a planning application or appeal.
+- A loft or garage conversion.
+
+If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of architect fits best.
+
+## What to ask before you instruct anyone
+
+Asking a few direct questions early tells you a lot about how a practice works:
+
+- Which RIBA work stages will you cover?
+- How will you help keep the build within budget?
+- Who will do the drawings and attend site?
+- How do you charge: fixed fee, percentage or hourly?
+- Can I see similar projects you have completed?
+- What other consultants might I need, such as a structural engineer?
+
+## Practical points about an architect
+
+A few points come up again and again with an architect:
+
+- Check the ARB register.
+- Agree scope by RIBA stage.
+- Discuss budget openly.
+
+Raise any of these with the architect you are introduced to; they should be happy to explain.
+
+**Need an architect?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
+
+## Finding an architect near you
+
+When you search for an architect near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
+
+Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
+
+## Qualifications and registration to look for
+
+"Architect" is a protected title in the UK. Only people on the Architects Registration Board (ARB) register can call themselves architects, and they must follow the ARB code of conduct and hold professional indemnity insurance. Many practices are also RIBA Chartered Practices. Architectural designers and technologists can do excellent work too, but they are not registered architects, so it is worth knowing which you are hiring.
+
+Before you appoint anyone, check the ARB register and ask for a written appointment that sets out services, fees and responsibilities. Building regulations approval, planning permission and party wall matters are separate processes that your architect can help you navigate.
+
+iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
+
+## How iComply matches you
+
+1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
+1. **We review your brief.** We check the type of architect you need, your location and your timing.
+1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
+1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
+
+There is no charge to you for the introduction, and no obligation to accept any quote.
+
+![Planning the first appointment after an enquiry for architects near me](/assets/images/healthcare-consult.jpg)
+
+## When to think twice
+
+Most professionals are honest and competent, but it is worth knowing the warning signs:
+
+- Using the title "architect" without ARB registration
+- Unrealistic promises about planning permission
+- Reluctance to discuss budget early
+- No professional indemnity insurance
+
+## Costs and quotes for an architect
+
+Architects commonly charge a fixed fee per stage, a percentage of the build cost, or an hourly rate for smaller pieces of work. The scope, from initial sketches to full contract administration, makes a big difference. iComply does not publish fees; the practice will give you a POA proposal.
+
+Ask for a written fee proposal linked to the RIBA stages, and check what is excluded, such as planning fees, surveys and other consultants.
+
+## What to prepare before you enquire
+
+A short, clear brief saves time on both sides. Useful details include:
+
+- Any neighbours or boundary issues you already know about
+- Your timing hopes, including when you want to start building
+- Whether you need full services or just planning drawings
+- Your budget range for the whole project
+- The property address and whether it is listed or in a conservation area
+- Photos of the existing building and the space you want to change
+
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+
+## How long things usually take
+
+Design and planning usually take several months before building starts. A householder planning application normally has a statutory determination period of around eight weeks once validated, though decisions can take longer. Listed building consent and complex sites take more time.
+
+![Client explaining what they need before being matched with an architect](/assets/images/hero-workshop.jpg)
+
+## Architects Near Me: FAQs
+
+### Do I need an architect for an extension?
+
+Not legally, but a registered architect brings design skill, planning experience and accountability. For simple work, an architectural technologist or designer may be enough. We can match you to the right level of help.
+
+### Will an architect guarantee planning permission?
+
+No one can guarantee planning permission. A good architect will explain local policy, the risks and how to give your application the best chance.
+
+### Can you find an architect in my area?
+
+Send us your town or postcode with a short description of what you need. We look for a suitable architecture practice with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
+
+### Is it free to use iComply?
+
+Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
+
+### Is iComply regulated?
+
+iComply is a matching service. We are not a architect and we do not give professional advice. The professionals we introduce are registered with their own bodies, and you can check them.
+
+### Can I contact you on WhatsApp?
+
+Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
+
+## People also look for
+
+- [Eco home architect near me](/keywords/eco-home-architect-near-me/)
+- [Listed building architect near me](/keywords/listed-building-architect-near-me/)
+- [Garage conversion architect near me](/keywords/garage-conversion-architect-near-me/)
+- [House architect near me](/keywords/house-architect-near-me/)
+- [Contemporary house architect near me](/keywords/contemporary-house-architect-near-me/)
+- [Browse all architects](/hubs/architects/)
+
+## Request your free quote
+
+One short enquiry is all it takes. We connect you with an architect who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
+
+[Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

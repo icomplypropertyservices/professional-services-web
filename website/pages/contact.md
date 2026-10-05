@@ -41,6 +41,15 @@ pricing: POA only
 ![Client preparing a short brief to find the right professional](/assets/images/hero-workshop.jpg)
 ![Insurance and advice introductions discussed with clear next steps](/assets/images/insurance-advisory.jpg)
 
+## Contact details
+
+- **Call:** [07517 806082](tel:+447517806082)
+- **WhatsApp:** [Message us on WhatsApp](https://wa.me/447517806082)
+- **Email:** [icomplypropertyservices@gmail.com](mailto:icomplypropertyservices@gmail.com)
+- **Address:** 17 Woodlands Park Road, Offerton, Stockport, Cheshire SK2 5DE
+
+Prefer to write it down? Use the free quote form below and we will reply about matching you with a suitable professional.
+
 ## Enquire — we connect you
 
 Use this page if you need a UK professional, or if you run a practice and want client introductions. iComply is the middleman: we take a clear brief and connect people with suitable firms. Quotes are **POA**.

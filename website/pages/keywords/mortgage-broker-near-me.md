@@ -1,193 +1,162 @@
 ---
-status: preview-draft
-keyword: mortgage-broker-near-me
-structure_index: 496
-note: PREVIEW ONLY — unique per-keyword H2 structure (rebuild after shared_thin_shell REJECT)
-brand: iComply Professional Services
-pricing: POA only
+slug: mortgage-broker-near-me
+title: Mortgage Broker Near Me | iComply Professional Services
+description: Looking for a mortgage broker near you? Tell iComply what you need and we match you with a suitable UK mortgage broker. Free to enquire. Request a quote — POA.
+family: mortgage
+group: finance
+hub: mortgage-advisors
+profession: mortgage broker
+service_label: Mortgage broker
+og_image: /assets/images/finance-desk.jpg
 ---
-# Mortgage Broker Near Me | iComply Professional Services
 
-## Meta block (required)
+# Mortgage Broker Near Me
 
-| Field | Value |
-|-------|-------|
-| title | Mortgage Broker Near Me | iComply Professional Services |
-| description | Preview page for Mortgage Broker Near Me. Unique template structure for this keyword. POA support from iComply Professional Services — not production. |
-| og:title | Mortgage Broker Near Me | iComply Professional Services |
-| og:description | Preview page for Mortgage Broker Near Me. Unique template structure for this keyword. POA support from iComply Professional Services — not production. |
-| og:url | https://icomplyprofessionalservices.co.uk/pages/keywords/mortgage-broker-near-me |
-| og:type | website |
-| og:image | https://icomplyprofessionalservices.co.uk/assets/images/placeholders/kw/mortgage-broker-near-me-1.jpg |
-| canonical | https://icomplyprofessionalservices.co.uk/pages/keywords/mortgage-broker-near-me |
+Searching for **mortgage broker near me**? You probably want someone suitable, available and within reach. Mortgage brokers compare mortgages from different lenders, check affordability and manage your application through to offer.
 
-### JSON-LD schema
+Rather than calling round, you can send one enquiry to iComply. We look at your needs, location and timing, then introduce you to a suitable mortgage brokerage. They quote you directly, POA, and you decide whether to go ahead.
 
-```json
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "ProfessionalService",
-      "name": "iComply Professional Services",
-      "url": "https://icomplyprofessionalservices.co.uk/",
-      "areaServed": "GB",
-      "priceRange": "POA"
-    },
-    {
-      "@type": "WebPage",
-      "name": "Mortgage Broker Near Me | iComply Professional Services",
-      "url": "https://icomplyprofessionalservices.co.uk/pages/keywords/mortgage-broker-near-me",
-      "description": "Preview page for Mortgage Broker Near Me. Unique template structure for this keyword. POA support from iComply Professional Services \u2014 not production."
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Is the \"Mortgage Broker Near Me\" page live production?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. It is a PREVIEW draft until Jack explicitly says go."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does this keyword share a thin template with others?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. This file uses a unique H2 structure generated for this slug alone."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Do you list fixed prices?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. All commercial work is price on application (POA) after scoping."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Will \"Mortgage Broker Near Me\" get town or village pages?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Later, on the FULL UK 34,235 allowlist, prioritising TOP5000 waves \u2014 still PREVIEW until Jack says go."
-          }
-        }
-      ]
-    }
-  ]
-}
-```
+**[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-## Preview notice
+![Professional reviewing a client's brief before an introduction for mortgage broker near me](/assets/images/finance-desk.jpg)
 
-Unique template structure for `mortgage-broker-near-me` (fingerprint index 496). Not a shared family shell.
+## What mortgage brokers commonly help with
 
-![Mortgage Broker Near Me workshop](/assets/images/placeholders/kw/mortgage-broker-near-me-1.jpg)
-![Mortgage Broker Near Me documentation](/assets/images/placeholders/kw/mortgage-broker-near-me-2.jpg)
-![Mortgage Broker Near Me coverage](/assets/images/placeholders/kw/mortgage-broker-near-me-3.jpg)
+You do not need to have everything worked out. Clients often come to us with situations like these:
 
-This preview keyword hub is dedicated to **Mortgage Broker Near Me** (`mortgage-broker-near-me`). Its section headings are unique to this slug (structure index 496). It is not a Property Services page and not a shared thin shell.
+- Buying to let as a landlord.
+- A mortgage for a later-life or expat situation.
+- A first-time buyer working out how much they can borrow.
+- Self-employed or contractor income.
+- A remortgage as a fixed rate ends.
 
-## Mobile and speed basics (mortgage · 11/21)
+If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of mortgage broker fits best.
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+## What to ask before you instruct anyone
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+Once you are introduced, these questions help you decide whether the mortgage broker is right for you:
 
-On `mortgage-broker-near-me`, this heading focuses practice managers on the angle encoded as structure 496.0. That keeps the outline distinct from every other P0 keyword page.
+- When is any fee payable, and is it refundable?
+- Do you also advise on protection insurance?
+- How are you paid: fee, commission or both?
+- Do you search the whole of the market or a panel of lenders?
+- What happens if my circumstances change before completion?
+- Are you FCA authorised, and can I see your entry on the register?
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+## From enquiry to quote in four steps
 
-## Who this intent serves (mortgage · 11/0)
+1. **Enquire for free** with your town or postcode and a short description.
+1. **We clarify** anything unclear, so the introduction is useful from the start.
+1. **We connect you** with a mortgage broker who suits your situation.
+1. **The practice takes over**, confirms scope and fees in writing and does the work.
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+There is no charge to you for the introduction, and no obligation to accept any quote.
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+**Need a mortgage broker?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-On `mortgage-broker-near-me`, this heading focuses practice managers on the angle encoded as structure 496.1. That keeps the outline distinct from every other P0 keyword page.
+## Key things to know about a mortgage broker
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+A few points come up again and again with a mortgage broker:
 
-## Why firms search this phrase (mortgage · 11/1)
+- Ask whether they search the whole market.
+- Understand fees before you start.
+- Get a decision in principle early.
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+Raise any of these with the mortgage broker you are introduced to; they should be happy to explain.
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+## Timing and urgency
 
-On `mortgage-broker-near-me`, this heading focuses practice managers on the angle encoded as structure 496.2. That keeps the outline distinct from every other P0 keyword page.
+An initial conversation can often happen within a few days. An agreement in principle can follow quickly, and a full mortgage offer usually takes a few weeks once the application and valuation are complete. Start a remortgage review several months before your deal ends.
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+## What a mortgage broker is likely to cost (POA)
 
-## Scope we can support (mortgage · 11/2)
+Some brokers charge a fee, some are paid only by the lender, and some combine both. They must explain this before they give advice. iComply does not publish fees; the broker tells you their charges, POA.
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+Ask when any fee is payable and whether it is refundable if the mortgage does not go ahead.
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+![Mortgage brokerage ready to take on a new enquiry for mortgage broker near me](/assets/images/hero-workshop.jpg)
 
-On `mortgage-broker-near-me`, this heading focuses practice managers on the angle encoded as structure 496.3. That keeps the outline distinct from every other P0 keyword page.
+## Finding a mortgage broker near you
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+When you search for a mortgage broker near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
 
-## What we will not claim (mortgage · 11/3)
+Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+## How to check you are in safe hands
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover.
+Mortgage advice is regulated by the Financial Conduct Authority (FCA). Any broker or adviser you use should be authorised, or be an appointed representative of an authorised firm, and you can check this on the FCA register. Advisers typically hold a qualification such as CeMAP.
 
-On `mortgage-broker-near-me`, this heading focuses practice managers on the angle encoded as structure 496.4. That keeps the outline distinct from every other P0 keyword page.
+Brokers must tell you whether they search the whole of the market or a limited panel of lenders, and how they are paid, whether by lender commission, a fee, or both. If something goes wrong, you can complain to the firm and then to the Financial Ombudsman Service.
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+A broker works on your behalf to find suitable products from providers. Ask how many providers they compare and how they are paid.
 
-## Discovery and qualification (mortgage · 11/4)
+iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
 
-Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded.
+## Warning signs to watch for
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages.
+Most professionals are honest and competent, but it is worth knowing the warning signs:
 
-On `mortgage-broker-near-me`, this heading focuses practice managers on the angle encoded as structure 496.5. That keeps the outline distinct from every other P0 keyword page.
+- Pressure to borrow more than you are comfortable with
+- Advice to give inaccurate information to a lender
+- A firm or adviser not on the FCA register
+- No explanation of how the broker is paid
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft.
+## What to prepare before you enquire
 
-## File and policy hygiene links (mortgage · 11/18)
+A short, clear brief saves time on both sides. Useful details include:
 
-We support practices — legal, clinical, accountancy, advice and insurance — rather than replacing their regulated advice to the public.
+- Your credit history, including any problems
+- Any questions about protection insurance
+- When your current deal ends, if remortgaging
+- Your plans for the next few years
+- Your income details, such as payslips or accounts
+- The property type and price range
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not.
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
-On `mortgage-broker-near-me`, this heading focuses practice managers on the angle encoded as structure 496.6. That keeps the outline distinct from every other P0 keyword page.
+## What happens after you are introduced
 
-Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs.
+Once introduced, the broker will gather your information, check affordability and recommend suitable options. Advice and responsibility for it sit with the authorised firm. iComply does not give mortgage advice. Your home may be repossessed if you do not keep up repayments on your mortgage.
 
-Engagements start with discovery, a written scope, and a POA proposal. Partners keep ownership of policies, files and client relationships after handover. Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not. Expansion 1 for `mortgage-broker-near-me` / fingerprint 496.
+![Planning the first appointment after an enquiry for mortgage broker near me](/assets/images/healthcare-consult.jpg)
 
-iComply Professional Services helps UK professional firms evaluate structured operational and digital support. We do not invent fixed sterling fees on preview pages. This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft. Expansion 2 for `mortgage-broker-near-me` / fingerprint 496.
+## Mortgage Broker Near Me: FAQs
 
-Jack's rule is strict: each keyword page needs its own section structure, not a family shell with find-and-replace. Shared chrome is fine; identical H2 sequences are not. Fail-closed quality still applies: at least eight hundred unique body words, three images with alt text, complete meta and Open Graph tags, canonical URL, Schema.org JSON-LD, and FAQs. Expansion 3 for `mortgage-broker-near-me` / fingerprint 496.
+### Is a broker better than going to my bank?
 
-This page remains PREVIEW only until Jack authorises go-live. There is no production DNS cutover and no Netlify production promote from this draft. Keyword times place expansion will use the FULL UK allowlist of 34,235 places. TOP5000 is only a prioritised shipping subset. Junk doubled near-me slugs are excluded. Expansion 4 for `mortgage-broker-near-me` / fingerprint 496.
+A broker can compare many lenders and may find options your bank does not offer. Your bank can only offer its own products. Either can suit you; a broker gives you a wider view.
 
-## FAQs
+### Will speaking to a broker affect my credit score?
 
-**Is the "Mortgage Broker Near Me" page live production?**
+An initial conversation does not. Formal applications usually involve a credit search, and the broker should tell you before that happens.
 
-No. It is a PREVIEW draft until Jack explicitly says go.
+### How do I find a mortgage broker near me?
 
-**Does this keyword share a thin template with others?**
+Send us your town or postcode with a short description of what you need. We look for a suitable mortgage brokerage with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
 
-No. This file uses a unique H2 structure generated for this slug alone.
+### Is it free to use iComply?
 
-**Do you list fixed prices?**
+Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
 
-No. All commercial work is price on application (POA) after scoping.
+### How quickly will I hear back?
 
-**Will "Mortgage Broker Near Me" get town or village pages?**
+Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
 
-Later, on the FULL UK 34,235 allowlist, prioritising TOP5000 waves — still PREVIEW until Jack says go.
+### Can I contact you on WhatsApp?
 
+Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
 
-## Enquire
+## People also look for
 
-Scoped **POA** quote: [/pages/contact](/pages/contact).
+- [Mortgage advisor near me](/keywords/mortgage-advisor-near-me/)
+- [Best contractor mortgage near me](/keywords/best-contractor-mortgage-near-me/)
+- [Online mortgage broker near me](/keywords/online-mortgage-broker-near-me/)
+- [Bridging finance broker near me](/keywords/bridging-finance-broker-near-me/)
+- [Top mortgage advisers near me](/keywords/top-mortgage-advisers-near-me/)
+- [Browse all mortgage brokers](/hubs/mortgage-advisors/)
+
+## Get a free quote for a mortgage broker
+
+One short enquiry is all it takes. We connect you with a mortgage broker who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
+
+[Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)
