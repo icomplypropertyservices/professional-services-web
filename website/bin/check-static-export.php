@@ -30,12 +30,9 @@ if ((int) ($report['min_body_words'] ?? 0) < 800) {
     $errors[] = 'min words ' . ($report['min_body_words'] ?? 'missing');
 }
 
-// Lean CI may set XPLACE_TOWN_LIMIT=0 (core+hubs+P0 only). Then ×place/area town
-// pages are intentionally absent; do not fail the smoke on those counts.
-$xplaceLimitEnv = getenv('XPLACE_TOWN_LIMIT');
-$xplaceLimit = $xplaceLimitEnv !== false
-    ? (int) $xplaceLimitEnv
-    : (int) ($report['xplace_town_limit'] ?? 0);
+// Slim CI (XPLACE_TOWN_LIMIT=0): core + hubs + P0 keywords only.
+// Require ×place/areas only when the export actually builds towns.
+$xplaceLimit = (int) ($report['xplace_town_limit'] ?? 0);
 $requiredCounts = ['core', 'hubs', 'keywords'];
 if ($xplaceLimit > 0) {
     $requiredCounts[] = 'xplace';
@@ -44,6 +41,14 @@ if ($xplaceLimit > 0) {
 foreach ($requiredCounts as $key) {
     if ((int) ($report['counts'][$key] ?? 0) < 1) {
         $errors[] = 'count ' . $key;
+    }
+}
+if ($xplaceLimit === 0) {
+    if ((int) ($report['counts']['xplace'] ?? 0) !== 0) {
+        $errors[] = 'slim CI expected xplace=0';
+    }
+    if ((int) ($report['counts']['areas'] ?? 0) !== 0) {
+        $errors[] = 'slim CI expected areas=0';
     }
 }
 
@@ -116,4 +121,5 @@ if ($errors !== []) {
 
 echo 'check-static-export OK pages=' . ($report['html_pages'] ?? '?')
     . ' min_words=' . ($report['min_body_words'] ?? '?')
-    . ' xplace_towns=' . count($towns) . "\n";
+    . ' xplace_towns=' . count($towns)
+    . ' xplace_limit=' . $xplaceLimit . "\n";
