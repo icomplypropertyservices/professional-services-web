@@ -1,0 +1,5 @@
+{
+  "_doc": "Enabled keyword x place units for the on-demand renderer. A request renders only if (keyword, place) is inside an enabled unit AND inside the allowlist (PS-KEYWORDS-ALL x UK-FULL-PLACES). Everything else is 404. Order: W1 P0 x TOP5000 SUB001..071, W2 P0 x rest of FULL UK, P1, P1 heads, P2/ALL.",
+  "url_pattern": "/keywords/<keyword>/<place>/",
+  "enabled": []
+}
