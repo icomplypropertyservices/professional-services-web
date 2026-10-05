@@ -35,6 +35,8 @@ $xplaceLimit = $xplaceLimitEnv !== false
     ? (int) $xplaceLimitEnv
     : (int) ($report['xplace_town_limit'] ?? 0);
 
+// Review-first / cleanup: XPLACE_TOWN_LIMIT=0 skips ×place matrix and areas-matrix counts.
+// The /areas/ index page is still required via $samples below.
 $requiredCounts = ['core', 'hubs'];
 if ($xplaceLimit > 0) {
     $requiredCounts[] = 'xplace';
