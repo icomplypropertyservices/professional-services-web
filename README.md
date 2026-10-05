@@ -1,11 +1,56 @@
 # iComply Professional Services
 
-Site for https://icomplyprofessionalservices.co.uk
+Preview site for the brand domain `https://icomplyprofessionalservices.co.uk`.
 
-- Separate brand from Property Services (`icomplypropertyservices/main-web`)
-- Host: Netlify (preview first; production only when Jack says go)
-- Stack: PHP static-export → `dist/` (same architecture as Property)
+This repository is **not** Property Services (`main-web`). It does not publish Property catalogues, gas, electrical, fire, shop, or Property legal copy.
 
-Ops locks and page packs live under `/workspace/icomply-ops/professional-services/` on the agent box — not in this repo until exported for ship.
+The live host for this scaffold is the Netlify **preview** site:
 
-See `DEPLOY.md` (added with scaffold) for Netlify site ID + GitHub Actions secrets.
+- Site name: `icomply-professional-services`
+- Site ID: `dc86da59-3989-4b57-bac1-d214b9ca2072`
+- Preview URL: `https://icomply-professional-services.netlify.app`
+
+The apex domain is **not** attached. Production DNS is Jack-go only. Workflows never pass `netlify deploy --prod`.
+
+Brand colours: navy `#0B1F3A`, accent orange `#FF6B00`.
+
+## Local run
+
+Requires PHP 8.3 CLI.
+
+```bash
+php website/bin/static-export.php
+php website/bin/check-static-export.php
+php -S 127.0.0.1:8080 -t dist
+```
+
+`static-export.php` writes `dist/` (gitignored). Netlify does not execute PHP on requests. The build publishes the static tree.
+
+Environment:
+
+| Variable | Default | Role |
+|---|---|---|
+| `SITE_URL` | `https://icomplyprofessionalservices.co.uk` | Canonical host written into HTML. Not an attached DNS name. |
+| `XPLACE_TOWN_LIMIT` | `50` | How many leading TOP5000 towns are paired with each P0 keyword. |
+
+## What the export writes
+
+- Home, about, contact, areas hub
+- Vertical hubs from `website/pages/hubs/`
+- 684 P0 keyword pages from `website/pages/keywords/`
+- Area pages and keyword×place pages generated at build time
+
+Keyword×place HTML is **not** stored in git. The generator reads:
+
+- `website/data/keywords/PS-KEYWORDS-P0.txt`
+- `website/data/areas/UK-TOP5000-TOWNS-BY-POP-2026-10-05.slugs.txt` (5,000 slugs)
+
+**Preview subset:** P0 × the first **50** towns (London through the 50th line of the allowlist). Full TOP5000 would be 684 × 5,000 pages and is intentionally not rendered in this preview build. Raise `XPLACE_TOWN_LIMIT` when a later wave is required. Each pair gets its own H2 sequence. The exporter exits non-zero if body copy is under 800 words, fewer than 3 images, or meta / JSON-LD / FAQ / canonical checks fail.
+
+Ops locks stay authoritative at `/workspace/icomply-ops/professional-services/` on the agent box. `website/ops-snapshot/` is a pack copy for this build, not the lock store.
+
+## Netlify
+
+`netlify.toml` publishes `dist/`, sets PHP 8.3, and records the preview site ID. `NETLIFY_AUTH_TOKEN` is a GitHub Actions secret and is not in this repo.
+
+See [DEPLOY.md](DEPLOY.md).

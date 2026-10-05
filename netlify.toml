@@ -1,0 +1,55 @@
+# iComply Professional Services — PREVIEW SITE ONLY
+# Site name: icomply-professional-services
+# Preview URL: https://icomply-professional-services.netlify.app
+# NETLIFY_SITE_ID: dc86da59-3989-4b57-bac1-d214b9ca2072
+# Do not attach icomplyprofessionalservices.co.uk. Do not promote to production.
+# Apex DNS is Jack-go only. NETLIFY_AUTH_TOKEN stays in GitHub Actions secrets.
+
+[build]
+  command = "php website/bin/static-export.php && php website/bin/check-static-export.php"
+  publish = "dist"
+
+[build.environment]
+  PHP_VERSION = "8.3"
+  SITE_URL = "https://icomplyprofessionalservices.co.uk"
+  XPLACE_TOWN_LIMIT = "50"
+  NETLIFY_SITE_ID = "dc86da59-3989-4b57-bac1-d214b9ca2072"
+
+# Publish directory is dist/. These rules 404 paths that must not be public
+# if a future publish root is wrong. They do not attach a custom domain.
+[[redirects]]
+  from = "/website/*"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/config/*"
+  to = "/404.html"
+  status = 404
+
+[[redirects]]
+  from = "/includes/*"
+  to = "/404.html"
+  status = 404
+
+[[redirects]]
+  from = "/bin/*"
+  to = "/404.html"
+  status = 404
+
+[[redirects]]
+  from = "/data/*"
+  to = "/404.html"
+  status = 404
+
+[[redirects]]
+  from = "/templates/*"
+  to = "/404.html"
+  status = 404
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
+    X-Preview-Site = "icomply-professional-services"

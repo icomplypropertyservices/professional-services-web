@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="UK coverage map">
+  <rect width="1200" height="675" fill="#0B1F3A"/>
+  <ellipse cx="430" cy="340" rx="180" ry="240" fill="#14325c" stroke="#FF6B00" stroke-width="6"/>
+  <circle cx="400" cy="250" r="10" fill="#FF6B00"/>
+  <circle cx="450" cy="320" r="10" fill="#ffffff"/>
+  <circle cx="390" cy="400" r="10" fill="#FF6B00"/>
+  <text x="680" y="280" fill="#ffffff" font-family="Georgia, serif" font-size="40">UK coverage</text>
+  <text x="680" y="340" fill="#FF6B00" font-family="Arial, sans-serif" font-size="24">TOP5000 preview wave</text>
+  <text x="680" y="390" fill="#d5deea" font-family="Arial, sans-serif" font-size="20">Not a branch list</text>
+</svg>

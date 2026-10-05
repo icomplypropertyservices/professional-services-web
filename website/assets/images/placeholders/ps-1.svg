@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Professional services workshop">
+  <rect width="1200" height="675" fill="#0B1F3A"/>
+  <rect x="70" y="80" width="1060" height="515" rx="18" fill="#14325c"/>
+  <rect x="120" y="150" width="420" height="18" rx="6" fill="#FF6B00"/>
+  <rect x="120" y="200" width="620" height="12" rx="4" fill="#d5deea"/>
+  <rect x="120" y="230" width="540" height="12" rx="4" fill="#9aadc4"/>
+  <rect x="120" y="260" width="480" height="12" rx="4" fill="#9aadc4"/>
+  <circle cx="900" cy="340" r="120" fill="#FF6B00"/>
+  <text x="120" y="480" fill="#ffffff" font-family="Georgia, serif" font-size="42">iComply Professional Services</text>
+  <text x="120" y="530" fill="#FF6B00" font-family="Arial, sans-serif" font-size="24">Practice workshop  preview</text>
+</svg>
