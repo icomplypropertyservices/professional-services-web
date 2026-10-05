@@ -29,7 +29,19 @@ if (($report['preview_only'] ?? false) !== true || ($report['apex_attached'] ?? 
 if ((int) ($report['min_body_words'] ?? 0) < 800) {
     $errors[] = 'min words ' . ($report['min_body_words'] ?? 'missing');
 }
-foreach (['core', 'hubs', 'keywords', 'xplace', 'areas'] as $key) {
+
+// Lean CI may set XPLACE_TOWN_LIMIT=0 (core+hubs+P0 only). Then ×place/area town
+// pages are intentionally absent; do not fail the smoke on those counts.
+$xplaceLimitEnv = getenv('XPLACE_TOWN_LIMIT');
+$xplaceLimit = $xplaceLimitEnv !== false
+    ? (int) $xplaceLimitEnv
+    : (int) ($report['xplace_town_limit'] ?? 0);
+$requiredCounts = ['core', 'hubs', 'keywords'];
+if ($xplaceLimit > 0) {
+    $requiredCounts[] = 'xplace';
+    $requiredCounts[] = 'areas';
+}
+foreach ($requiredCounts as $key) {
     if ((int) ($report['counts'][$key] ?? 0) < 1) {
         $errors[] = 'count ' . $key;
     }
