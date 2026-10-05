@@ -159,13 +159,34 @@ function ps_rewrite_href(string $href): string
     return $href;
 }
 
+/**
+ * Cycle branded JPGs for content images (hero / section treatment).
+ *
+ * @return list<string>
+ */
+function ps_branded_images(): array
+{
+    return [
+        '/assets/images/hero-workshop.jpg',
+        '/assets/images/healthcare-consult.jpg',
+        '/assets/images/finance-desk.jpg',
+        '/assets/images/insurance-advisory.jpg',
+    ];
+}
+
 function ps_placeholder_src(int $imageIndex): string
 {
-    $n = ($imageIndex % 3) + 1;
-    return '/assets/images/placeholders/ps-' . $n . '.svg';
+    $imgs = ps_branded_images();
+    return $imgs[$imageIndex % count($imgs)];
+}
+
+function ps_default_og_image(): string
+{
+    return ps_site_url() . '/assets/images/hero-workshop.jpg';
 }
 
 require __DIR__ . '/markdown.php';
+require __DIR__ . '/service_content.php';
 require __DIR__ . '/layout.php';
 require __DIR__ . '/quality.php';
 require __DIR__ . '/matrix.php';

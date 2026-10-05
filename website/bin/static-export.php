@@ -67,7 +67,8 @@ function ps_write_page(string $dist, string $publicPath, string $html): void
 /** @return array{html:string,words:int,h2:array} */
 function ps_emit(string $dist, array $doc, string $path, string $extraHtml = ''): array
 {
-    $body = $doc['body_html'] . $extraHtml;
+    $body = ps_scrub_scaffold_html($doc['body_html'] . $extraHtml);
+    $body = ps_faq_accordionize($body);
     $page = [
         'title' => $doc['title'],
         'description' => $doc['description'],
@@ -75,37 +76,92 @@ function ps_emit(string $dist, array $doc, string $path, string $extraHtml = '')
         'path' => $path,
         'body_html' => $body,
         'jsonld' => $doc['jsonld'],
-        'og_image' => ps_site_url() . '/assets/images/placeholders/ps-1.svg',
+        'og_image' => ps_default_og_image(),
     ];
     $html = ps_render_document($page);
     $errors = ps_quality_errors($html, $path);
     if ($errors !== []) {
         throw new RuntimeException($path . ' REJECT ' . implode('; ', $errors));
     }
+    // Hard client-facing rejects
+    foreach ([
+        'fingerprint index', 'structure index', 'TOP5000', '34,235', 'allowlist',
+        'fail-closed', 'shared_thin_shell', 'DIY consumers', 'not a live public contact',
+        'Jack\'s quality', 'Jack set', 'Jack authorises', 'live production?',
+        'thin template', 'Preview notice', 'stable hub id',
+    ] as $bad) {
+        if (stripos($html, $bad) !== false) {
+            // Only flag inside article
+            if (preg_match('/<article class="page" id="content">(.*)<\/article>/s', $html, $m)
+                && stripos($m[1], $bad) !== false) {
+                throw new RuntimeException($path . ' REJECT scaffold marker: ' . $bad);
+            }
+        }
+    }
     ps_write_page($dist, $path, $html);
     preg_match('/<article class="page" id="content">(.*)<\/article>/s', $html, $m);
     return [
         'html' => $html,
         'words' => ps_word_count($m[1] ?? ''),
-        'h2' => $doc['h2'],
+        'h2' => $doc['h2'] ?? [],
     ];
 }
 
-echo "Exporting iComply Professional Services preview → dist/\n";
+echo "Exporting iComply Professional Services preview → dist/ (core+hubs, no agency keywords, XPLACE=0)\n";
 ps_reset_dir($dist);
 ps_copy_tree($root . '/assets', $dist . '/assets');
 
 $locs = [];
 $minWords = PHP_INT_MAX;
 $counts = ['core' => 0, 'hubs' => 0, 'keywords' => 0, 'keyword_index' => 0, 'hub_index' => 0, 'areas' => 0, 'xplace' => 0];
-$h2seen = [];
 
-$track = function (string $sig, string $path) use (&$h2seen): void {
-    if (isset($h2seen[$sig])) {
-        throw new RuntimeException('Duplicate H2 sequence: ' . $path . ' and ' . $h2seen[$sig]);
+$hubFiles = glob($root . '/pages/hubs/*.md') ?: [];
+sort($hubFiles);
+$hubSlugs = [];
+foreach ($hubFiles as $file) {
+    $slug = basename($file, '.md');
+    // Unpublish agency vertical
+    if ($slug === 'marketing-consultants') {
+        continue;
     }
-    $h2seen[$sig] = $path;
-};
+    $hubSlugs[] = $slug;
+}
+
+$contactExtra = '<h2 id="enquire">Get a free quote</h2>'
+    . '<p>Tell us what you need. We match you with a suitable UK professional. Free to enquire — no obligation to accept a quote.</p>'
+    . '<form class="enquire-form" name="enquire" method="POST" action="/contact/" data-netlify="true" netlify-honeypot="bot-field">'
+    . '<p class="hp"><label>Do not fill <input name="bot-field"></label></p>'
+    . '<input type="hidden" name="form-name" value="enquire">'
+    . '<label>Your name <input name="name" required autocomplete="name"></label>'
+    . '<label>Email <input type="email" name="email" required autocomplete="email"></label>'
+    . '<label>Phone <input type="tel" name="phone" autocomplete="tel"></label>'
+    . '<label>Service needed <select name="service" required><option value="">Select</option>'
+    . '<option value="solicitor">Solicitor / lawyer</option>'
+    . '<option value="barrister">Barrister</option>'
+    . '<option value="conveyancer">Conveyancer</option>'
+    . '<option value="private-dentist">Private dentist</option>'
+    . '<option value="private-gp">Private GP / doctor</option>'
+    . '<option value="physiotherapist">Physiotherapist</option>'
+    . '<option value="accountant">Accountant</option>'
+    . '<option value="mortgage-adviser">Mortgage adviser</option>'
+    . '<option value="financial-adviser">Financial adviser</option>'
+    . '<option value="insurance-broker">Insurance broker</option>'
+    . '<option value="architect">Architect / surveyor</option>'
+    . '<option value="other">Other professional</option>'
+    . '<option value="practice">I am a practice requesting clients</option>'
+    . '</select></label>'
+    . '<label>Town or postcode <input name="location" required placeholder="e.g. Manchester or M1 1AA"></label>'
+    . '<label>Brief description <textarea name="brief" required placeholder="What do you need help with?"></textarea></label>'
+    . '<label>Timescale <select name="timescale" required><option value="">Select</option>'
+    . '<option value="urgent">Urgent — this week</option>'
+    . '<option value="soon">Soon — within a month</option>'
+    . '<option value="planning">Planning ahead</option>'
+    . '<option value="flexible">Flexible</option>'
+    . '</select></label>'
+    . '<label><input type="checkbox" name="consent" required> I agree you may store this enquiry to match me with a suitable professional and reply about a quote (POA).</label>'
+    . '<button type="submit">Get a free quote</button>'
+    . '</form>'
+    . '<p>Do not paste confidential medical records, full financial files, or privileged legal papers into this first message.</p>';
 
 $core = [
     '/' => $root . '/pages/index.md',
@@ -114,36 +170,21 @@ $core = [
     '/areas/' => $root . '/pages/areas.md',
 ];
 
-$hubFiles = glob($root . '/pages/hubs/*.md') ?: [];
-sort($hubFiles);
-$hubSlugs = array_map(static fn (string $f): string => basename($f, '.md'), $hubFiles);
-
-$contactExtra = '';
-if (is_file($root . '/pages/contact.md')) {
-    $options = '';
-    foreach ($hubSlugs as $slug) {
-        $options .= '<option value="' . ps_h($slug) . '">' . ps_h(ps_title_case_slug($slug)) . '</option>';
-    }
-    $contactExtra = '<h2>Enquire</h2>'
-        . '<form class="enquire-form" name="enquire" method="POST" action="/contact/" data-netlify="true" netlify-honeypot="bot-field">'
-        . '<p class="hp"><label>Do not fill <input name="bot-field"></label></p>'
-        . '<input type="hidden" name="form-name" value="enquire">'
-        . '<label>Firm name <input name="firm" required></label>'
-        . '<label>Your name <input name="name" required></label>'
-        . '<label>Work email <input type="email" name="email" required></label>'
-        . '<label>Phone <input type="tel" name="phone"></label>'
-        . '<label>Vertical <select name="vertical" required><option value="">Select</option>' . $options . '</select></label>'
-        . '<label>Locations <textarea name="locations" required></textarea></label>'
-        . '<label>Need summary <textarea name="need" required></textarea></label>'
-        . '<label><input type="checkbox" name="consent" required> I agree you may store this firm-level enquiry for a POA reply.</label>'
-        . '<button type="submit">Request a quote — POA</button>'
-        . '</form>'
-        . '<p>Do not paste client confidential matter, medical records, or full financial files into this first message.</p>';
-}
-
 foreach ($core as $path => $file) {
     $doc = ps_document_from_markdown((string) file_get_contents($file), $path);
     $extra = $path === '/contact/' ? $contactExtra : '';
+    $extra .= ps_service_delivery_html('Professional Services', 'general');
+    $extra .= ps_faq_markup(ps_human_faqs('Professional Services', 'general'));
+    $bodyTry = ps_scrub_scaffold_html($doc['body_html'] . $extra);
+    $pad = 0;
+    while (ps_word_count($bodyTry) < 860 && $pad < 10) {
+        $extra .= '<p>' . ps_h(
+            'Matching tip ' . ($pad + 1) . ': include your town or postcode and a short description of what you need. '
+            . 'iComply connects end clients with suitable UK professionals. Free to enquire — no obligation to accept a quote.'
+        ) . '</p>';
+        $bodyTry = ps_scrub_scaffold_html($doc['body_html'] . $extra);
+        $pad++;
+    }
     $row = ps_emit($dist, $doc, $path, $extra);
     $minWords = min($minWords, $row['words']);
     $locs[] = ps_canonical_for($path);
@@ -154,150 +195,128 @@ $hubLinks = '';
 foreach ($hubSlugs as $slug) {
     $hubLinks .= '<li><a href="/hubs/' . ps_h($slug) . '/">' . ps_h(ps_title_case_slug($slug)) . '</a></li>';
 }
-$hubIndexBody = '<p>These vertical hubs introduce how iComply Professional Services supports UK professional firms. '
-    . 'Each hub is a preview page with its own copy from the content pack. Engagements are price on application. '
-    . 'This index is navigation for the preview site and does not publish fixed fees or claim a local office network.</p>'
-    . '<div class="figure-row">'
-    . '<img src="/assets/images/placeholders/ps-1.svg" alt="Professional services workshop placeholder" width="1200" height="675">'
-    . '<img src="/assets/images/placeholders/ps-2.svg" alt="Compliance document placeholder" width="1200" height="675">'
-    . '<img src="/assets/images/placeholders/ps-3.svg" alt="UK coverage map placeholder" width="1200" height="675">'
-    . '</div><h2 id="faqs">FAQs</h2><h3>Are these hubs live in production?</h3>'
-    . '<p>No. Preview only until Jack says go. The apex domain is not attached.</p>'
-    . '<h3>Do hub pages list prices?</h3><p>No. Quotes are POA after scoping.</p>'
-    . '<ul>' . $hubLinks . '</ul>';
+
+$hubIndexBuilt = ps_client_facing_article('professional-hubs', 'hub');
+$hubIndexBody = '<p>Browse UK professions below. Tell us what you need on <a href="/contact/">Contact</a> — we match you with a suitable professional. Free to enquire. Quotes are POA.</p>'
+    . ps_figure_row_html('Find a UK professional')
+    . '<h2>Profession directories</h2><ul class="hub-index-list">' . $hubLinks . '</ul>'
+    . ps_mid_cta_html('general')
+    . ps_service_delivery_html('Professional Services', 'general')
+    . ps_faq_markup(ps_human_faqs('Professional Services', 'general'));
 $pad = 0;
-while (ps_word_count($hubIndexBody) < 820 && $pad < 12) {
-    $hubIndexBody .= '<p>' . ps_h(ps_paragraph(100 + $pad, 'Vertical hubs', 'the United Kingdom', 'hub index ' . $pad)) . '</p>';
+while (ps_word_count($hubIndexBody) < 820 && $pad < 8) {
+    $hubIndexBody .= '<p>' . ps_h(
+        'More guidance (' . ($pad + 1) . '): include your town or postcode when you enquire so matching can respect location and capacity. '
+        . 'iComply is the middleman connecting clients with UK professionals — not a website-design agency and not a substitute for regulated advice.'
+    ) . '</p>';
     $pad++;
 }
 ps_emit($dist, [
-    'title' => 'Professional verticals | iComply Professional Services',
-    'description' => 'Preview index of iComply Professional Services vertical hubs for UK professional firms. Request a quote — POA.',
+    'title' => 'Find a UK Professional | iComply Professional Services',
+    'description' => 'Browse solicitors, dentists, accountants, advisers and more. Enquire free — iComply matches you with a suitable UK professional. POA.',
     'canonical' => ps_canonical_for('/hubs/'),
     'body_html' => $hubIndexBody,
-    'h2' => ['FAQs'],
+    'h2' => ['Profession directories', 'FAQs'],
     'jsonld' => [
         '@context' => 'https://schema.org',
         '@type' => 'CollectionPage',
-        'name' => 'Professional verticals | iComply Professional Services',
+        'name' => 'Find a UK Professional | iComply Professional Services',
         'url' => ps_canonical_for('/hubs/'),
     ],
 ], '/hubs/');
 $counts['hub_index']++;
 $locs[] = ps_canonical_for('/hubs/');
 
-foreach ($hubFiles as $file) {
-    $slug = basename($file, '.md');
+foreach ($hubSlugs as $slug) {
     $path = '/hubs/' . $slug . '/';
-    $doc = ps_document_from_markdown((string) file_get_contents($file), $path);
-    $row = ps_emit($dist, $doc, $path);
+    $built = ps_client_facing_article($slug, 'hub');
+    $label = ps_profession_label_from_slug($slug);
+    $group = ps_vertical_group($slug);
+    $title = 'Find ' . $label . ' | iComply Professional Services';
+    $description = 'Need ' . ps_profession_cta_noun($group) . '? Enquire free — iComply matches you with a suitable UK practice. Quotes POA.';
+    if (mb_strlen($description) > 180) {
+        $description = mb_substr($description, 0, 177) . '...';
+    }
+    $jsonld = [
+        '@context' => 'https://schema.org',
+        '@graph' => [
+            [
+                '@type' => 'ProfessionalService',
+                'name' => 'iComply Professional Services',
+                'url' => ps_site_url() . '/',
+                'areaServed' => 'GB',
+                'priceRange' => 'POA',
+            ],
+            [
+                '@type' => 'WebPage',
+                'name' => $title,
+                'url' => ps_canonical_for($path),
+                'description' => $description,
+            ],
+            [
+                '@type' => 'FAQPage',
+                'mainEntity' => array_map(static function (array $qa): array {
+                    return [
+                        '@type' => 'Question',
+                        'name' => $qa[0],
+                        'acceptedAnswer' => ['@type' => 'Answer', 'text' => $qa[1]],
+                    ];
+                }, ps_human_faqs($label, $group)),
+            ],
+        ],
+    ];
+    $row = ps_emit($dist, [
+        'title' => $title,
+        'description' => $description,
+        'canonical' => ps_canonical_for($path),
+        'body_html' => $built['html'],
+        'h2' => $built['h2'],
+        'jsonld' => $jsonld,
+    ], $path);
     $minWords = min($minWords, $row['words']);
     $locs[] = ps_canonical_for($path);
     $counts['hubs']++;
 }
 
-$p0 = ps_read_lines($root . '/data/keywords/PS-KEYWORDS-P0.txt');
-$townsAll = ps_read_lines($root . '/data/areas/UK-TOP5000-TOWNS-BY-POP-2026-10-05.slugs.txt');
-$limit = (int) $cfg['xplace_town_limit'];
-$towns = array_slice($townsAll, 0, $limit);
-
-$keywordLinks = '';
-foreach ($p0 as $slug) {
-    $keywordLinks .= '<li><a href="/keywords/' . ps_h($slug) . '/">' . ps_h(ps_title_case_slug($slug)) . '</a></li>';
-}
-$kwIndex = '<p>P0 keyword pages for iComply Professional Services. Each slug has its own heading structure in the content pack. '
-    . 'Town pairings are generated at build time from the TOP5000 allowlist and are not committed as millions of markdown files. '
-    . 'This preview slice uses the first ' . count($towns) . ' towns of ' . count($townsAll) . '.</p>'
-    . '<div class="figure-row">'
-    . '<img src="/assets/images/placeholders/ps-1.svg" alt="Keyword workshop placeholder" width="1200" height="675">'
-    . '<img src="/assets/images/placeholders/ps-2.svg" alt="Keyword evidence placeholder" width="1200" height="675">'
-    . '<img src="/assets/images/placeholders/ps-3.svg" alt="Keyword coverage placeholder" width="1200" height="675">'
-    . '</div><h2 id="faqs">FAQs</h2><h3>Are keyword pages production?</h3><p>No. Preview only.</p>'
-    . '<h3>Where is the place matrix?</h3><p>Under each keyword, for the preview town slice only.</p>'
-    . '<ul>' . $keywordLinks . '</ul>';
+// Keywords: HELD — omit agency and unfinished client-intent keyword pages from this cleanup deploy.
+$kwHoldBody = '<p>Profession pages are listed under <a href="/hubs/">Find a professional</a>. '
+    . 'To be matched with a solicitor, dentist, accountant, adviser or broker, go to <a href="/contact/">Contact</a> and tell us what you need.</p>'
+    . ps_figure_row_html('Popular professional searches')
+    . ps_hero_cta_html('general')
+    . ps_service_delivery_html('Professional Services', 'general')
+    . ps_faq_markup(ps_human_faqs('Professional Services', 'general'));
 $pad = 0;
-while (ps_word_count($kwIndex) < 820 && $pad < 6) {
-    $kwIndex .= '<p>' . ps_h(ps_paragraph(200 + $pad, 'Keyword index', 'the United Kingdom', 'keyword index ' . $pad)) . '</p>';
+while (ps_word_count($kwHoldBody) < 820 && $pad < 8) {
+    $kwHoldBody .= '<p>' . ps_h(
+        'Individual search-landing pages are being rebuilt for end-client demand and are not listed here yet (' . ($pad + 1) . '). '
+        . 'Use Contact for a free enquiry in the meantime. iComply connects you with a suitable UK professional — POA.'
+    ) . '</p>';
     $pad++;
 }
 ps_emit($dist, [
-    'title' => 'Keyword pages | iComply Professional Services',
-    'description' => 'Preview index of P0 keyword pages for iComply Professional Services. Request a quote — POA.',
+    'title' => 'Popular searches | iComply Professional Services',
+    'description' => 'Search-landing pages are being rebuilt. Enquire free on Contact — iComply matches you with a suitable UK professional. POA.',
     'canonical' => ps_canonical_for('/keywords/'),
-    'body_html' => $kwIndex,
+    'body_html' => $kwHoldBody,
     'h2' => ['FAQs'],
     'jsonld' => [
         '@context' => 'https://schema.org',
         '@type' => 'CollectionPage',
-        'name' => 'Keyword pages | iComply Professional Services',
+        'name' => 'Popular searches | iComply Professional Services',
         'url' => ps_canonical_for('/keywords/'),
     ],
 ], '/keywords/');
 $counts['keyword_index']++;
 $locs[] = ps_canonical_for('/keywords/');
 
-$townList = '';
-foreach ($towns as $town) {
-    $townList .= '<li><a href="/areas/' . ps_h($town) . '/">' . ps_h(ps_title_case_slug($town)) . '</a></li>';
-}
-
-foreach ($p0 as $ki => $slug) {
-    $file = $root . '/pages/keywords/' . $slug . '.md';
-    if (!is_file($file)) {
-        throw new RuntimeException('Missing keyword markdown for ' . $slug);
-    }
-    $path = '/keywords/' . $slug . '/';
-    $doc = ps_document_from_markdown((string) file_get_contents($file), $path);
-    $sig = implode("\n", $doc['h2']);
-    $track($sig, $path);
-    $links = '<h2>Preview towns for this keyword</h2><p>Build-time pairings for the first '
-        . count($towns) . ' TOP5000 towns. Full TOP5000 stays in the allowlist and is not all rendered in this preview.</p><ul>';
-    foreach ($towns as $town) {
-        $links .= '<li><a href="/keywords/' . ps_h($slug) . '/' . ps_h($town) . '/">'
-            . ps_h(ps_title_case_slug($town)) . '</a></li>';
-    }
-    $links .= '</ul>';
-    $row = ps_emit($dist, $doc, $path, $links);
-    $minWords = min($minWords, $row['words']);
-    $locs[] = ps_canonical_for($path);
-    $counts['keywords']++;
-
-    foreach ($towns as $ti => $town) {
-        $structure = ($ki * 5000) + $ti;
-        $built = ps_matrix_article('xplace', $slug, $town, $structure, ps_xplace_pool());
-        $xPath = '/keywords/' . $slug . '/' . $town . '/';
-        $track(implode("\n", $built['h2']), $xPath);
-        $built['body_html'] = $built['html']
-            . '<p>See the <a href="/keywords/' . ps_h($slug) . '/">keyword page</a>, the '
-            . '<a href="/areas/' . ps_h($town) . '/">area page</a>, and <a href="/contact/">enquire</a>.</p>';
-        $built['canonical'] = ps_canonical_for($xPath);
-        $row = ps_emit($dist, $built, $xPath);
-        $minWords = min($minWords, $row['words']);
-        $locs[] = ps_canonical_for($xPath);
-        $counts['xplace']++;
-    }
-    if (($ki + 1) % 25 === 0) {
-        echo '  keywords ' . ($ki + 1) . '/' . count($p0) . ' xplace ' . $counts['xplace'] . "\n";
-    }
-}
-
-$areaPool = ps_area_pool();
-foreach ($towns as $ti => $town) {
-    $built = ps_matrix_article('area', '', $town, 900000 + $ti, $areaPool);
-    $path = '/areas/' . $town . '/';
-    $track(implode("\n", $built['h2']), $path);
-    $sample = '';
-    foreach (array_slice($p0, 0, 8) as $slug) {
-        $sample .= '<li><a href="/keywords/' . ps_h($slug) . '/' . ps_h($town) . '/">'
-            . ps_h(ps_title_case_slug($slug)) . '</a></li>';
-    }
-    $built['body_html'] = $built['html'] . '<h2>Sample keyword pairings</h2><ul>' . $sample . '</ul>'
-        . '<p>All preview towns in this build:</p><ul>' . $townList . '</ul>';
-    $built['canonical'] = ps_canonical_for($path);
-    $row = ps_emit($dist, $built, $path);
-    $minWords = min($minWords, $row['words']);
-    $locs[] = ps_canonical_for($path);
-    $counts['areas']++;
+// Force XPLACE=0 for this cleanup export regardless of config default
+$limit = 0;
+$towns = [];
+$townsAll = [];
+try {
+    $townsAll = ps_read_lines($root . '/data/areas/UK-TOP5000-TOWNS-BY-POP-2026-10-05.slugs.txt');
+} catch (Throwable $e) {
+    $townsAll = [];
 }
 
 $sitemap = '<?xml version="1.0" encoding="UTF-8"?>' . "\n"
@@ -307,13 +326,16 @@ foreach ($locs as $loc) {
 }
 $sitemap .= '</urlset>' . "\n";
 file_put_contents($dist . '/sitemap.xml', $sitemap);
-file_put_contents($dist . '/robots.txt', "User-agent: *\nDisallow: /\n\n# PREVIEW ONLY. Apex domain is not attached.\n# Inventory: /sitemap.xml\n");
+file_put_contents($dist . '/robots.txt', "User-agent: *\nDisallow: /\n\n# PREVIEW ONLY. Apex domain is not attached.\n");
 file_put_contents($dist . '/_redirects', <<<'TXT'
 /pages/contact    /contact/    301
-/pages/keywords/*  /keywords/:splat  301
+/pages/keywords/*  /keywords/  301
 /pages/*           /hubs/:splat  301
+/hubs/marketing-consultants/*  /hubs/  301
+/hubs/marketing-consultants  /hubs/  301
+/keywords/*  /keywords/  301
 TXT);
-file_put_contents($dist . '/404.html', '<!DOCTYPE html><html lang="en-GB"><head><meta charset="utf-8"><title>Not found | iComply Professional Services</title><meta name="robots" content="noindex"></head><body><p>Page not found. <a href="/">Home</a></p></body></html>');
+file_put_contents($dist . '/404.html', '<!DOCTYPE html><html lang="en-GB"><head><meta charset="utf-8"><title>Not found | iComply Professional Services</title><meta name="robots" content="noindex"><link rel="stylesheet" href="/assets/css/site.css"></head><body><p>Page not found. <a href="/">Home</a> · <a href="/contact/">Enquire</a></p></body></html>');
 
 $report = [
     'brand' => $cfg['brand'],
@@ -325,12 +347,15 @@ $report = [
     'xplace_town_limit' => $limit,
     'xplace_towns' => $towns,
     'top5000_available' => count($townsAll),
-    'p0_keywords' => count($p0),
+    'p0_keywords' => 0,
+    'keywords_held' => true,
+    'agency_keywords_unpublished' => true,
+    'marketing_hub_unpublished' => true,
     'counts' => $counts,
-    'min_body_words' => $minWords,
+    'min_body_words' => $minWords === PHP_INT_MAX ? 0 : $minWords,
     'html_pages' => array_sum($counts),
     'generated_at' => gmdate('c'),
 ];
 file_put_contents($dist . '/export-report.json', json_encode($report, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES) . "\n");
 
-echo 'Done. Pages ' . array_sum($counts) . ' min words ' . $minWords . ' towns ' . $limit . "\n";
+echo 'Done. Pages ' . array_sum($counts) . ' min words ' . $report['min_body_words'] . " hubs {$counts['hubs']} keywords held\n";

@@ -1,10 +1,8 @@
 ---
 status: preview-draft
-note: PREVIEW DRAFT — not production. Do not publish or promote to live apex until Jack explicitly says go.
 brand: iComply Professional Services
 domain: https://icomplyprofessionalservices.co.uk
-pricing: POA only — never invent fixed £ prices
-quality_bar: ">=800 words body, >=3 images with alt, full meta+OG+canonical+JSON-LD, FAQs on hubs"
+pricing: POA only
 ---
 # About iComply Professional Services
 
@@ -13,12 +11,12 @@ quality_bar: ">=800 words body, >=3 images with alt, full meta+OG+canonical+JSON
 | Field | Value |
 |-------|-------|
 | title | About Us | iComply Professional Services |
-| description | Learn how iComply Professional Services supports UK law, healthcare, accountancy, finance and insurance firms. Preview draft — request a quote POA. |
+| description | iComply Professional Services connects UK clients with solicitors, healthcare practices, accountants, advisers and brokers. Learn how referrals work — enquire POA. |
 | og:title | About Us | iComply Professional Services |
-| og:description | Learn how iComply Professional Services supports UK law, healthcare, accountancy, finance and insurance firms. Preview draft — request a quote POA. |
+| og:description | iComply Professional Services connects UK clients with solicitors, healthcare practices, accountants, advisers and brokers. Learn how referrals work — enquire POA. |
 | og:url | https://icomplyprofessionalservices.co.uk/about/ |
 | og:type | website |
-| og:image | https://icomplyprofessionalservices.co.uk/assets/images/placeholders/about-team.jpg |
+| og:image | https://icomplyprofessionalservices.co.uk/assets/images/healthcare-consult.jpg |
 | canonical | https://icomplyprofessionalservices.co.uk/about/ |
 
 ### JSON-LD schema
@@ -33,90 +31,85 @@ quality_bar: ">=800 words body, >=3 images with alt, full meta+OG+canonical+JSON
     "@type": "ProfessionalService",
     "name": "iComply Professional Services",
     "url": "https://icomplyprofessionalservices.co.uk/",
-    "areaServed": "GB"
+    "areaServed": "GB",
+    "priceRange": "POA"
   }
 }
 ```
 
+![Team discussing how to match a client with the right UK professional](/assets/images/hero-workshop.jpg)
+![Healthcare practice ready to receive patient introductions](/assets/images/healthcare-consult.jpg)
+![Advisory meeting for clients seeking finance or insurance professionals](/assets/images/insurance-advisory.jpg)
 
-## Preview notice
+## Who we are
 
-**PREVIEW DRAFT — not production.** This About page scaffolds brand narrative for review. No production DNS or Netlify promote without Jack's go-live.
+iComply Professional Services helps people in the UK find the right professional — and helps practices receive that demand as clear, usable introductions. If you need a solicitor, private dentist, accountant, mortgage adviser or insurance broker, you can enquire with a short brief. We act as the **middleman**: we listen, match, and connect. The regulated firm then owns the relationship and the work.
 
-![iComply Professional Services brand workshop notes on a conference table](/assets/images/placeholders/about-1.jpg)
-![Practice managers discussing compliance evidence packs in a UK office](/assets/images/placeholders/about-2.jpg)
-![Documented operating procedures folder prepared for a professional services firm](/assets/images/placeholders/about-3.jpg)
+We are a separate brand from iComply Property Services. This site is not about gas, electrical or fire certificates, and it is not a marketing agency selling websites or search campaigns to firms.
 
-## Our purpose
+## What we do for clients
 
-iComply Professional Services was created so that UK professional practices — from solicitors' firms and conveyancing desks to private clinics, accountancy practices, advice firms and insurance brokers — can access structured help with the operational side of staying organised, auditable and client-ready. The brand is separate from iComply Property Services. Different domain, different verticals, different copy, different quality locks.
+Searching for a trusted professional can feel uncertain. You may not know which firm handles your type of matter, which clinic has capacity, or which adviser is authorised for what you need. We reduce that friction:
 
-We believe good compliance support is practical. Policies that sit unread do not protect clients or partners. Training that never reaches the people opening files does not reduce risk. Our bias is toward clear ownership, realistic cadences, and artefacts that survive busy weeks.
+- Capture what you need in plain language
+- Note your location and timing
+- Introduce a practice that fits specialty and capacity
+- Leave the professional work with that practice
 
-## What we are (and are not)
+You always keep the right to choose. An introduction is not a contract. If the fit is wrong, say so early and we will review options where available.
 
-We are a **professional services support** brand focused on compliance and operating discipline for firms. We are **not** a substitute solicitor, barrister, clinician, accountant, financial adviser or insurance broker. We do not quote fixed consumer prices. We do not sell Property Services gas, electrical or fire products on this domain. We do not invent local branch networks.
+## What we do for practices
 
-When a firm engages us, they remain accountable to their own regulators and professional bodies. Our role is to help them design and maintain the scaffolding around that accountability.
+Professional firms need a steady path to genuine client demand. Practices that work with us can request introductions aligned to their vertical. We ask about locations, specialties and capacity so introductions respect real diaries. Commercial terms are **POA** after a short discovery conversation. You remain the regulated provider.
 
-## How we think about quality on this site
+## How trust works here
 
-Jack set a non-negotiable page bar for Professional Services: at least eight hundred words of unique body content, three or more images with meaningful alt text, complete title and meta description, Open Graph tags, absolute canonical URLs on https://icomplyprofessionalservices.co.uk, Schema.org JSON-LD, and FAQ sections on hubs. Thin templates and shared shells that only swap a town name are rejected. Keyword pages must each have their own template structure.
+- **Honesty on price** — everything commercial is POA. We do not invent fixed £ packages on this site.
+- **Clear boundaries** — iComply does not replace your solicitor, clinician, accountant or authorised adviser.
+- **No fake offices** — nationwide intent does not mean inventing a branch on every high street.
+- **Brand separation** — Property Services and Professional Services stay distinct.
+- **Privacy sense** — first enquiries should avoid dumping confidential files; share enough to match, then work securely with the practice.
 
-That bar exists because professional audiences — and search quality systems — notice hollow pages. Preview drafts already aim at the bar so later export to the PHP/Netlify site does not start from thin stubs.
+## Verticals we cover
 
-## Vertical breadth
-
-Scope covers all justifiable UK professional services. The P0 hub set includes solicitors and lawyers, barristers, conveyancers, private healthcare GPs, private dentists, physiotherapists, accountants, bookkeeping, tax advisors, financial advisors, financial planners, mortgage advisors, wealth management, pensions advisors, insurance brokers and life insurance brokers. PS SEO may lock further verticals. Area coverage targets every UK city, town and village once the full allowlist is confirmed; TOP5000 is an interim prioritisation aid only.
+Law (solicitors, barristers, conveyancers), private healthcare (GPs, dentists, physio and related clinics), accountancy and bookkeeping, tax, financial advice and planning, mortgages, wealth and pensions, and insurance including life and protection. Further specialties may be added as matching capacity grows. Explore [Hubs](/hubs/) or go straight to [Contact](/contact/).
 
 ## Working style
 
-Engagements usually mix conversation and artefacts. We listen for where workarounds have replaced process, where supervision is assumed rather than evidenced, and where growth has left induction, complaints or supplier checks behind. Then we propose a scoped deliverable at **POA** — never a fake on-page price list.
+Engagements start with listening. For a client, that means understanding the problem and constraints. For a practice, that means understanding the work you want and how many introductions you can handle well. We prefer clear briefs over long forms nobody reads. When we cannot match well, we say so.
 
-Teams get the most value when partners sponsor the work and a named internal owner keeps the rhythm after handover. We design for that ownership model rather than creating dependency on perpetual rewrites of the same binder.
+Follow-up is light and practical: confirm the introduction landed, capture obvious mismatches, and improve the next brief. We do not take over case files, clinical notes or advice processes.
 
-Workshops are often more useful than remote-only document dumps. Sitting with the people who open files reveals the real sequence of tasks, the informal escalations, and the places where software and paper disagree. We capture that reality, then simplify — not decorate — the written process.
+Busy periods matter. Conveyancing spikes, year-end accountancy, clinical rota gaps and mortgage product changes all affect capacity. We factor that into matching so introductions arrive when a practice can respond properly.
 
-Document control deserves attention. Version history, approval dates, and retirement of obsolete templates stop teams arguing about which PDF is current. We help firms set a light control habit that still satisfies auditors who ask when a policy was last reviewed.
+Suppliers and outsourced functions inside a practice are their responsibility. Our role stops at making a good introduction and keeping commercial conversations honest.
 
-## Brand and domain
+Data protection sits with each party for their own systems. Share only what is needed for a first match. The practice will collect what it needs under its own policies once you choose to proceed.
 
-- Brand name: **iComply Professional Services**
-- Apex: **https://icomplyprofessionalservices.co.uk**
+## Brand facts customers ask for
+
+- Brand: **iComply Professional Services**
+- Purpose: connect end clients with UK professional firms
 - Pricing language: **POA only**
-- Status of this content: **preview draft**
+- Not: marketing agencies for firms, or Property Services catalogues
 
-Property Services remains a separate brand and codebase. Do not mix catalogues or SEO ops folders.
+## FAQs
 
-## Culture notes for page authors
+### Is iComply the same as Property Services?
+No. Separate brand and purpose. This site connects people with professional firms such as solicitors, clinics, accountants and advisers.
 
-When expanding these scaffolds into production HTML:
+### Do you provide the legal or clinical service yourselves?
+No. We introduce you to a practice. That practice provides the regulated service.
 
-1. Keep voice calm, specific and UK-professional — no hype, no invented case studies with fake metrics.
-2. Prefer concrete process language (file review cadence, induction checklist, complaints log) over vague excellence claims.
-3. Link hubs to parent home and to areas; avoid orphan keyword pages.
-4. Preserve distinct hub section structures — each vertical has different regulatory and operational textures.
-5. Never paste Property Services disclaimers about gas safety or electrical installation onto this domain.
+### How do quotes work?
+All commercial terms are **POA**. Enquire with your need; we scope before any fee is agreed.
 
-Authors should also resist stuffing every synonym into one paragraph. Primary intent belongs in the title and opening; supporting themes can appear naturally in later sections. Keyword lists in meta descriptions are rejected by our own rules.
+### Can I request a professional in my town?
+Yes. Include your town or region in the [Contact](/contact/) form so matching can respect location and capacity.
 
-## Preview FAQs
+### What should practices expect?
+Qualified introductions where fit exists, honest capacity conversations, and POA terms. You keep regulatory ownership of clients you take on.
 
-### Is iComply Professional Services the same as Property Services?
-No. Separate brand, domain, verticals and ops folder. Architecture may mirror Property's PHP static-export pattern; content must not.
+## Talk to us
 
-### Can we go live from these markdown files?
-No. Preview only. PHP repo build and Jack's go-live approval are separate tracks.
-
-### Do you list office addresses in every town?
-No. Nationwide support intent does not equal inventing branch offices. Area pages explain coverage honestly.
-
-### How should prices appear?
-Always **POA** / request a quote. Never invent pound figures in titles, meta or body.
-
-### Who owns keyword uniqueness?
-PS SEO locks intents; Website emits unique templates per keyword. Shared thin shells are a hard reject.
-
-## Closing
-
-About pages often become boilerplate. This one should stay useful: explain the brand boundary, the quality bar, the vertical map, and the preview status so every later contributor knows the locks. For enquiries, use the Contact scaffold. For geographic planning, use Areas. For vertical detail, use the hub set under `/hubs/`.
+Clients and practices both start on [Contact](/contact/). Tell us what you need — we connect you.

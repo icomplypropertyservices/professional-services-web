@@ -268,6 +268,8 @@ function ps_document_from_markdown(string $raw, string $publicPath): array
         $jsonld = ps_fix_jsonld_urls($jsonld, $canonical);
     }
     $body = ps_markdown_to_html(ps_body_markdown($raw));
+    $body = ps_scrub_scaffold_html($body);
+    $body = ps_faq_accordionize($body);
     preg_match_all('/<h2[^>]*>(.*?)<\/h2>/s', $body, $h2m);
     $h2 = array_map(static fn (string $h): string => trim(strip_tags($h)), $h2m[1]);
     return [

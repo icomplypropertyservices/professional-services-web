@@ -10,8 +10,8 @@ function ps_breadcrumbs(string $path): array
         'about' => 'About',
         'contact' => 'Contact',
         'areas' => 'Areas',
-        'hubs' => 'Hubs',
-        'keywords' => 'Keywords',
+        'hubs' => 'Find a professional',
+        'keywords' => 'Services',
     ];
     foreach ($parts as $i => $part) {
         $acc .= '/' . $part;
@@ -48,6 +48,43 @@ function ps_jsonld_script(array $data): string
     return '<script type="application/ld+json">' . $json . '</script>';
 }
 
+function ps_footer_html(string $brand, array $cfg): string
+{
+    return '<footer class="site-footer"><div class="footer-inner">'
+        . '<div class="footer-brand"><a class="brand" href="/">iComply <span>Professional Services</span></a>'
+        . '<p>We connect UK clients with solicitors, healthcare practices, accountants, advisers and brokers. '
+        . 'Practices receive the introduction. Engagements are <strong>POA</strong> — no fixed sterling catalogue prices.</p>'
+        . '<p><a class="cta cta-primary" href="/contact/">Get a free quote</a></p></div>'
+        . '<div class="footer-grid">'
+        . '<div class="footer-col"><h3>Services</h3><ul>'
+        . '<li><a href="/hubs/">All professions</a></li>'
+        . '<li><a href="/hubs/solicitors-lawyers/">Solicitors &amp; lawyers</a></li>'
+        . '<li><a href="/hubs/private-healthcare-gps/">Private healthcare</a></li>'
+        . '<li><a href="/hubs/private-dentists/">Private dentists</a></li>'
+        . '<li><a href="/hubs/accountants/">Accountants</a></li>'
+        . '<li><a href="/hubs/financial-advisors/">Financial advisers</a></li>'
+        . '<li><a href="/hubs/insurance-brokers/">Insurance brokers</a></li>'
+        . '<li><a href="/keywords/">Popular searches</a></li>'
+        . '</ul></div>'
+        . '<div class="footer-col"><h3>Areas</h3><ul>'
+        . '<li><a href="/areas/">UK coverage</a></li>'
+        . '<li><a href="/contact/">Enquire with your town</a></li>'
+        . '</ul></div>'
+        . '<div class="footer-col"><h3>Company</h3><ul>'
+        . '<li><a href="/">Home</a></li>'
+        . '<li><a href="/about/">About</a></li>'
+        . '<li><a href="/hubs/">Profession hubs</a></li>'
+        . '</ul></div>'
+        . '<div class="footer-col"><h3>Contact</h3><ul>'
+        . '<li><a href="/contact/">Enquire — POA</a></li>'
+        . '<li><a href="/contact/">Request an introduction</a></li>'
+        . '<li><a href="/contact/">Practice: request clients</a></li>'
+        . '</ul></div>'
+        . '</div>'
+        . '<p class="footer-bottom fine">© iComply Professional Services. Separate from Property Services. Preview site — not live on the apex domain.</p>'
+        . '</div></footer>';
+}
+
 /**
  * @param array{title:string,description:string,canonical:string,path:string,body_html:string,jsonld:array,og_image?:string} $page
  */
@@ -58,7 +95,7 @@ function ps_render_document(array $page): string
     $title = $page['title'];
     $description = $page['description'];
     $canonical = $page['canonical'];
-    $ogImage = $page['og_image'] ?? (ps_site_url() . '/assets/images/placeholders/ps-1.svg');
+    $ogImage = $page['og_image'] ?? ps_default_og_image();
     $path = $page['path'];
     $jsonld = $page['jsonld'];
     if ($jsonld === []) {
@@ -73,8 +110,8 @@ function ps_render_document(array $page): string
     $nav = [
         ['Home', '/'],
         ['About', '/about/'],
-        ['Hubs', '/hubs/'],
-        ['Keywords', '/keywords/'],
+        ['Find a professional', '/hubs/'],
+        ['Popular searches', '/keywords/'],
         ['Areas', '/areas/'],
     ];
     $navHtml = '';
@@ -99,33 +136,33 @@ function ps_render_document(array $page): string
         . '<meta property="og:image" content="' . ps_h($ogImage) . '">' . "\n"
         . '<meta property="og:site_name" content="' . ps_h($brand) . '">' . "\n"
         . '<meta name="twitter:card" content="summary_large_image">' . "\n"
-        . '<link rel="icon" href="/assets/images/placeholders/ps-1.svg" type="image/svg+xml">' . "\n"
+        . '<link rel="icon" href="/assets/images/hero-workshop.jpg" type="image/jpeg">' . "\n"
         . '<link rel="stylesheet" href="/assets/css/site.css">' . "\n"
         . ps_jsonld_script($jsonld) . "\n"
         . '</head>' . "\n"
         . '<body>' . "\n"
         . '<a class="skip" href="#content">Skip to content</a>' . "\n"
-        . '<div class="preview-bar">PREVIEW only — ' . ps_h($brand)
-        . ' is not live on the apex domain. This host is <a href="' . ps_h($previewUrl) . '">'
-        . ps_h(parse_url($previewUrl, PHP_URL_HOST) ?: $previewUrl) . '</a>. Quotes are POA.</div>' . "\n"
+        . '<div class="preview-bar">PREVIEW — not live on the apex domain. Quotes are POA.</div>' . "\n"
         . '<header class="site-header"><div class="header-inner">'
         . '<a class="brand" href="/">iComply <span>Professional Services</span></a>'
         . '<nav class="nav" aria-label="Primary">' . $navHtml
-        . '<a class="cta" href="/contact/">Enquire</a></nav>'
+        . '<a class="cta cta-primary" href="/contact/">Get a free quote</a></nav>'
         . '</div></header>' . "\n"
         . ps_breadcrumb_html($path) . "\n"
         . '<article class="page" id="content">' . "\n"
         . '<h1>' . ps_h($title) . '</h1>' . "\n"
         . $page['body_html'] . "\n"
-        . '<p class="enquire"><a class="cta" href="/contact/">Request a quote — POA</a></p>' . "\n"
+        . '<aside class="convert-band" aria-label="Request an introduction">'
+        . '<div class="convert-copy"><strong>Need a professional — or client introductions?</strong>'
+        . '<p>Tell us what you need and where. We connect UK clients with suitable practices. Quotes are POA.</p>'
+        . '<ul class="trust-points"><li>End-client introductions</li><li>POA after discovery</li><li>Practices stay regulated providers</li></ul></div>'
+        . '<div class="convert-actions">'
+        . '<a class="cta cta-primary" href="/contact/">Get a free quote</a>'
+        . '<a class="cta cta-secondary" href="/contact/">Practice: request clients</a>'
+        . '</div></aside>' . "\n"
         . '</article>' . "\n"
-        . '<footer class="site-footer"><div class="footer-inner">'
-        . '<p><strong>' . ps_h($brand) . '</strong> — compliance and operational support for UK professional firms. '
-        . 'Separate from Property Services. No fixed sterling prices; every engagement is POA.</p>'
-        . '<p class="fine">Brand domain ' . ps_h(preg_replace('#^https://#', '', ps_site_url()) ?? '')
-        . ' is not attached to this Netlify preview. Production DNS is Jack-go only. '
-        . 'Preview site id ' . ps_h((string) $cfg['netlify_site_id']) . '.</p>'
-        . '<p><a href="/">Home</a> · <a href="/about/">About</a> · <a href="/contact/">Contact</a> · <a href="/areas/">Areas</a></p>'
-        . '</div></footer>' . "\n"
+        . ps_footer_html($brand, $cfg) . "\n"
+        . '<div class="mobile-cta"><a class="cta cta-primary" href="/contact/">Get a free quote</a></div>' . "\n"
+        . '<script src="/assets/js/site.js" defer></script>' . "\n"
         . '</body></html>' . "\n";
 }

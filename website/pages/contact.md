@@ -1,10 +1,8 @@
 ---
 status: preview-draft
-note: PREVIEW DRAFT — not production. Do not publish or promote to live apex until Jack explicitly says go.
 brand: iComply Professional Services
 domain: https://icomplyprofessionalservices.co.uk
-pricing: POA only — never invent fixed £ prices
-quality_bar: ">=800 words body, >=3 images with alt, full meta+OG+canonical+JSON-LD, FAQs on hubs"
+pricing: POA only
 ---
 # Contact iComply Professional Services
 
@@ -13,12 +11,12 @@ quality_bar: ">=800 words body, >=3 images with alt, full meta+OG+canonical+JSON
 | Field | Value |
 |-------|-------|
 | title | Contact Us | iComply Professional Services |
-| description | Contact iComply Professional Services for a POA quote on compliance support for UK professional firms. Preview draft — not live routing yet. |
+| description | Enquire to find a UK solicitor, dentist, accountant, adviser or broker — or request practice introductions. iComply connects you. Quotes POA. |
 | og:title | Contact Us | iComply Professional Services |
-| og:description | Contact iComply Professional Services for a POA quote on compliance support for UK professional firms. Preview draft — not live routing yet. |
+| og:description | Enquire to find a UK solicitor, dentist, accountant, adviser or broker — or request practice introductions. iComply connects you. Quotes POA. |
 | og:url | https://icomplyprofessionalservices.co.uk/contact/ |
 | og:type | website |
-| og:image | https://icomplyprofessionalservices.co.uk/assets/images/placeholders/contact-desk.jpg |
+| og:image | https://icomplyprofessionalservices.co.uk/assets/images/finance-desk.jpg |
 | canonical | https://icomplyprofessionalservices.co.uk/contact/ |
 
 ### JSON-LD schema
@@ -39,110 +37,91 @@ quality_bar: ">=800 words body, >=3 images with alt, full meta+OG+canonical+JSON
 }
 ```
 
+![Reception ready for professional services enquiries](/assets/images/finance-desk.jpg)
+![Client preparing a short brief to find the right professional](/assets/images/hero-workshop.jpg)
+![Insurance and advice introductions discussed with clear next steps](/assets/images/insurance-advisory.jpg)
 
-## Preview notice
+## Enquire — we connect you
 
-**PREVIEW DRAFT — not production.** Form endpoints, inbox routing and phone numbers are not finalised here. Do not treat this page as a live public contact channel until Jack approves go-live and Website wires real handlers.
+Use this page if you need a UK professional, or if you run a practice and want client introductions. iComply is the middleman: we take a clear brief and connect people with suitable firms. Quotes are **POA**.
 
-![Reception desk prepared for professional services client enquiries](/assets/images/placeholders/contact-1.jpg)
-![Laptop showing a structured enquiry form for compliance support quotes](/assets/images/placeholders/contact-2.jpg)
-![UK map pin markers representing nationwide professional services enquiries](/assets/images/placeholders/contact-3.jpg)
+The form below captures enough context for a meaningful reply. Required fields are marked in the form labels.
 
-## How to enquire (intended live pattern)
+## What to tell us (clients)
 
-When this page is wired for production, enquiries should capture enough context for a meaningful **POA** quote:
+1. **What you need** — solicitor, dentist, accountant, mortgage adviser, broker, or other
+2. **Short problem statement** — enough to match specialty (for example conveyancing, toothache, limited-company accounts, remortgage)
+3. **Location** — town or region
+4. **Timing** — routine versus urgent
+5. **How to reach you** — work or personal email and optional phone
 
-1. **Firm or practice name**
-2. **Vertical** (for example solicitors, private dentist, mortgage advisor, insurance broker)
-3. **Primary locations** (towns and cities served — free text until area pickers exist)
-4. **Approximate team size**
-5. **What you need** (policy pack, audit readiness, process redesign, training outline, file review framework, other)
-6. **Urgency** (routine improvement versus upcoming inspection or audit pressure)
-7. **Preferred contact method** and a work email
+Do not paste confidential medical records, full financial files, or privileged legal papers into the first message.
 
-Until routing is live, treat this scaffold as the content specification for the PHP contact template.
+## What to tell us (practices)
 
-## What happens after you write
+1. Firm or practice name and vertical
+2. Locations and capacity
+3. Types of introductions you want
+4. Named contact and work email
+5. Anything we should know before matching
 
-Our intended response path:
+## What happens next
 
-- Acknowledge receipt.
-- Clarify scope if the vertical or deliverable is ambiguous.
-- Issue a written **POA** proposal with assumptions, exclusions and suggested next workshop or document set.
-- Only start billable work after you accept the proposal.
+- We acknowledge receipt
+- We clarify the brief if needed
+- We introduce a suitable practice when fit and capacity allow — or explain if we cannot match yet
+- Any commercial terms with iComply are written **POA** with assumptions before fees are agreed
+- The regulated practice owns the professional relationship once connected
 
-We will not publish fixed package prices on this page. Different firms need different depth.
+We do not publish fixed package prices. Different needs need different depth.
 
-## Who should contact us
+## Who this contact path is for
 
-- Managing partners and practice managers in solicitors' firms and conveyancing businesses
-- Chambers directors or practice managers supporting barristers' workflows
-- Clinic owners and practice managers in private GP, dental and physiotherapy settings
-- Accountancy principals, bookkeeping bureau owners and tax practice leads
-- Advice firm compliance officers and mortgage, wealth and pensions practice managers
-- Insurance and life brokerage principals responsible for product governance evidence
+- People seeking a solicitor, barrister, conveyancer, private GP, dentist, physiotherapist, accountant, bookkeeper, tax adviser, financial adviser, mortgage adviser, wealth or pensions specialist, or insurance broker
+- Practice managers and principals who want end-client introductions aligned to their profession
 
-End consumers seeking legal, clinical or financial advice should contact a regulated firm directly — not this brand for that purpose.
+## Who should use a different channel
 
-## Information we will not ask you to send first
+- Anyone needing emergency medical care — contact emergency services
+- Anyone needing immediate legal protection in a crisis — contact appropriate emergency or duty services
+- Property Services gas, electrical or fire jobs — that is a different iComply brand
 
-Do not paste client confidential matter, medical records, or full financial files into an initial web form. Share only firm-level context. If a later engagement needs sample files, we agree a secure method and a minimised dataset.
+## Boundaries we keep
 
-## Service boundaries (stated again for contact clarity)
-
-iComply Professional Services supports firms with compliance and operational frameworks. We do not:
+We will not:
 
 - Act as your solicitor, barrister, clinician, accountant or FCA-authorised adviser
-- Place insurance as a broker ourselves on this brand's public pages
-- Guarantee regulatory outcomes
-- Quote invented prices in sterling
+- Invent fixed £ prices on this page
+- Promise a named firm before capacity is checked
+- Ask you to upload entire confidential files in the first enquiry
 
-If your enquiry is really about Property Services installation work, you are on the wrong domain. This site is Professional Services only.
+## Practical tips for a fast match
 
-## Nationwide enquiries
+Write one or two plain sentences about the need. Name the town. Say if you can travel or need remote. If you already spoke to a firm and only need a second opinion introduction, say so. Practices should state weekly capacity honestly so clients are not left waiting.
 
-You can enquire from anywhere in the UK. Area hubs and keyword times place pages will expand town-level landing coverage after PS SEO locks. Contact handling itself is central; local pages do not imply a physical office in every settlement.
+Mobile users can complete the form without horizontal scrolling. If something fails to send, retry once and keep a copy of your message text.
 
-Multi-site firms should list each significant location and say whether they want one national operating model or site-by-site tailoring. That choice changes workshop design and document ownership maps, which is why we ask early.
+## Coverage note
 
-## Accessibility and response expectations (preview targets)
+We match across the UK using the location you provide. See [Areas](/areas/) for coverage language, then return here to enquire with your real town or region.
 
-When live, we aim for clear form labels, error messages that explain how to fix input, and acknowledgement within a sensible business-hours window. Exact SLAs will be set in operations docs, not invented here as marketing promises.
+## FAQs
 
-Mobile users should be able to complete the form without horizontal scrolling. Required fields must be marked in text, not only by colour. These are Website implementation notes captured here so the scaffold stays useful.
+### How quickly will someone reply?
+Straightforward enquiries are usually reviewed within a few working days. Urgent briefs should say so clearly in the need summary.
 
-## Preview FAQs
+### Will I speak to iComply or the professional first?
+Often iComply confirms the brief, then the matched practice contacts you about the professional work. Paths can vary with urgency and capacity.
 
-### Is the contact form live today?
-Not from this markdown preview. Website PHP export will implement the real form later under PREVIEW hosting rules.
+### Is there a fee to enquire?
+Sending an enquiry does not create a fixed fee. Any commercial work is **POA** after scoping.
 
-### Will you call me with a fixed price?
-No. Quotes are **POA** after scoping.
+### Can I enquire for someone else?
+Yes, if you have permission to share their contact details and a clear brief. The practice will confirm consent where required.
 
-### Can I attach policies in the first message?
-Prefer a short description first. Large attachments can follow once a secure channel is agreed.
+### Do you guarantee a match in every town?
+No. We match where specialty and capacity exist. If we cannot help yet, we say so.
 
-### Do you take consumer instructions?
-No. This channel is for professional firms seeking support services.
+## Start the form
 
-### What if I am not sure which hub fits?
-Describe your regulated activity in the need summary. We will map you to the right vertical conversation.
-
-## Draft form field specification (for Website)
-
-| Field | Type | Required |
-|-------|------|----------|
-| Firm name | text | yes |
-| Your name | text | yes |
-| Work email | email | yes |
-| Phone | tel | optional |
-| Vertical | select or hub list | yes |
-| Locations | textarea | yes |
-| Team size band | select | optional |
-| Need summary | textarea | yes |
-| Urgency | select | optional |
-| Consent to store enquiry | checkbox | yes |
-
-## Closing
-
-Contact pages fail when they are empty shells or when they over-promise. This scaffold keeps the enquiry path concrete, restates POA and preview status, and gives Website a field list to implement. For brand context see [About](/about/). For vertical detail see the hub index on the [home page](/).
+Complete the enquire form below. Clients: tell us the profession and problem. Practices: tell us the introductions you can take. We connect you — POA.
