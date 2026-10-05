@@ -1,0 +1,50 @@
+name: Netlify draft on main
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# PREVIEW ONLY. Push to main updates the preview alias. It does not run
+# `netlify deploy --prod` and does not attach apex DNS.
+# Production DNS for icomplyprofessionalservices.co.uk is Jack-go only.
+# SITE_ID: dc86da59-3989-4b57-bac1-d214b9ca2072
+# Preview host: https://icomply-professional-services.netlify.app
+
+permissions:
+  contents: read
+
+jobs:
+  draft-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: "8.3"
+
+      - name: Static export
+        env:
+          SITE_URL: https://icomplyprofessionalservices.co.uk
+          XPLACE_TOWN_LIMIT: "50"
+        run: |
+          php website/bin/static-export.php
+          php website/bin/check-static-export.php
+
+      - name: Alias deploy (not production promote)
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        run: |
+          set -euo pipefail
+          if [ -z "${NETLIFY_AUTH_TOKEN}" ] || [ -z "${NETLIFY_SITE_ID}" ]; then
+            echo "NETLIFY_AUTH_TOKEN and NETLIFY_SITE_ID must be set on the repo. No token is stored in git."
+            exit 1
+          fi
+          if [ "${NETLIFY_SITE_ID}" != "dc86da59-3989-4b57-bac1-d214b9ca2072" ]; then
+            echo "Refusing deploy: SITE_ID is not the Professional Services preview site."
+            exit 1
+          fi
+          npx --yes netlify-cli deploy --dir=dist --site="${NETLIFY_SITE_ID}" --alias preview --message "main preview ${GITHUB_SHA}"
