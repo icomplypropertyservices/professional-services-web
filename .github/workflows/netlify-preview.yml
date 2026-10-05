@@ -50,4 +50,4 @@ jobs:
           if [ -n "${PR_NUMBER}" ] && [ "${PR_NUMBER}" != "null" ]; then
             ALIAS="pr-${PR_NUMBER}"
           fi
-          npx --yes netlify-cli deploy --dir=dist --site="${NETLIFY_SITE_ID}" --alias "${ALIAS}" --message "preview ${GITHUB_SHA}"
+          npx --yes netlify-cli deploy --no-build --dir=dist --site="${NETLIFY_SITE_ID}" --alias "${ALIAS}" --message "preview ${GITHUB_SHA}"

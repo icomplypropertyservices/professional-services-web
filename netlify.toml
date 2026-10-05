@@ -12,7 +12,8 @@
 [build.environment]
   PHP_VERSION = "8.3"
   SITE_URL = "https://icomplyprofessionalservices.co.uk"
-  XPLACE_TOWN_LIMIT = "50"
+  # Review-first: no ×place matrix pages on preview until content is approved.
+  XPLACE_TOWN_LIMIT = "0"
   NETLIFY_SITE_ID = "dc86da59-3989-4b57-bac1-d214b9ca2072"
 
 # Publish directory is dist/. These rules 404 paths that must not be public

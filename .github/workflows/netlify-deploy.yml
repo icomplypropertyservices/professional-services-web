@@ -47,4 +47,4 @@ jobs:
             echo "Refusing deploy: SITE_ID is not the Professional Services preview site."
             exit 1
           fi
-          npx --yes netlify-cli deploy --dir=dist --site="${NETLIFY_SITE_ID}" --alias preview --message "main preview ${GITHUB_SHA}"
+          npx --yes netlify-cli deploy --no-build --dir=dist --site="${NETLIFY_SITE_ID}" --alias preview --message "main preview ${GITHUB_SHA}"
