@@ -93,6 +93,12 @@ function ps_render_document(array $page): string
     $cfg = ps_config();
     $brand = (string) $cfg['brand'];
     $title = $page['title'];
+    // Visible H1 = customer headline only; <title>/og keep brand suffix.
+    $h1 = preg_replace('/\s*\|\s*' . preg_quote($brand, '/') . '\s*$/u', '', $title) ?? $title;
+    $h1 = trim($h1);
+    if ($h1 === '') {
+        $h1 = $title;
+    }
     $description = $page['description'];
     $canonical = $page['canonical'];
     $ogImage = $page['og_image'] ?? ps_default_og_image();
@@ -150,7 +156,7 @@ function ps_render_document(array $page): string
         . '</div></header>' . "\n"
         . ps_breadcrumb_html($path) . "\n"
         . '<article class="page" id="content">' . "\n"
-        . '<h1>' . ps_h($title) . '</h1>' . "\n"
+        . '<h1>' . ps_h($h1) . '</h1>' . "\n"
         . $page['body_html'] . "\n"
         . '<aside class="convert-band" aria-label="Request an introduction">'
         . '<div class="convert-copy"><strong>Need a professional — or client introductions?</strong>'

@@ -174,19 +174,8 @@ function ps_scrub_scaffold_html(string $html): string
         $html = preg_replace($re, '', $html) ?? $html;
     }
     $html = preg_replace('/\s*\((?:solicitor|barrister|dentist|accountant|author|hub|kw)\s*·[^)]+\)/i', '', $html) ?? $html;
-    $replacements = [
-        'marketing agency for firms' => 'professional referral partner',
-        'marketing agency for firms' => 'professional referral partner',
-        'marketing agency for firms' => 'professional referral partner',
-        'marketing agency for firms' => 'client-introduction partner',
-        'marketing agency for firms' => 'client-introduction partner',
-        'marketing agency for firms' => 'client-introduction partner',
-        'client introductions' => 'client introductions',
-        'client introductions for' => 'client introductions for',
-    ];
-    foreach ($replacements as $from => $to) {
-        $html = str_ireplace($from, $to, $html);
-    }
+    // Keep “not a marketing agency for firms” intact — we ARE the middleman/referral match.
+    // Do not rewrite that phrase to “client-introduction partner” (negates the sentence).
     $html = preg_replace('/(?:\s*<p>\s*<\/p>)+/', '', $html) ?? $html;
     return trim($html);
 }
