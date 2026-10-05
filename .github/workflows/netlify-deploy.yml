@@ -1,21 +1,22 @@
-name: Netlify draft on main
+name: Netlify primary on main
 
 on:
   push:
     branches: [main]
   workflow_dispatch:
 
-# PREVIEW ONLY. Push to main updates the preview alias. It does not run
-# `netlify deploy --prod` and does not attach apex DNS.
-# Production DNS for icomplyprofessionalservices.co.uk is Jack-go only.
-# SITE_ID: dc86da59-3989-4b57-bac1-d214b9ca2072
-# Preview host: https://icomply-professional-services.netlify.app
+# PREVIEW-ONLY Netlify site (no apex DNS).
+# `--prod` updates this site's Netlify primary URL:
+#   https://icomply-professional-services.netlify.app
+# It does NOT attach icomplyprofessionalservices.co.uk — apex stays off (Jack-go only).
+# SITE_ID must remain dc86da59-3989-4b57-bac1-d214b9ca2072
+# PR drafts still use netlify-preview.yml (--alias pr-N / preview).
 
 permissions:
   contents: read
 
 jobs:
-  draft-deploy:
+  primary-deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -33,7 +34,7 @@ jobs:
           php website/bin/static-export.php
           php website/bin/check-static-export.php
 
-      - name: Alias deploy (not production promote)
+      - name: Deploy to Netlify primary URL (preview site; not apex)
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
@@ -47,4 +48,6 @@ jobs:
             echo "Refusing deploy: SITE_ID is not the Professional Services preview site."
             exit 1
           fi
-          npx --yes netlify-cli deploy --no-build --dir=dist --site="${NETLIFY_SITE_ID}" --alias preview --message "main preview ${GITHUB_SHA}"
+          # --prod = promote to this site's primary Netlify host only.
+          # Apex DNS icomplyprofessionalservices.co.uk is not attached and must stay off.
+          npx --yes netlify-cli deploy --dir=dist --site="${NETLIFY_SITE_ID}" --prod --no-build --message "main primary ${GITHUB_SHA}"
