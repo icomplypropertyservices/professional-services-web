@@ -1,0 +1,53 @@
+{
+ "intro": "You've searched for a private dental clinic near you, so you're probably looking for a dentist who can see you without the waiting lists or restrictions that can come with NHS care. You might need a check-up, cosmetic work, or a practice with hours that fit around your life. We introduce people to private dentists across the UK, and they quote you directly.",
+ "need_heading": "What people searching for a private dental clinic near me usually need",
+ "need_lead": "Most people want a convenient, local practice that can offer the treatment they need on a timeline that suits them.",
+ "needs": [
+  "You want a check-up or hygiene appointment soon and don't want to wait for an NHS slot.",
+  "You're interested in cosmetic dentistry, such as whitening or veneers, and need a private clinic that offers it.",
+  "You need extended hours, like early mornings or evenings, to fit appointments around work or family.",
+  "You've been quoted for treatment elsewhere and want to compare what another local private clinic would advise.",
+  "You're looking for a practice that offers a membership plan to spread the cost of routine care."
+ ],
+ "context_heading": "Understanding private dental care and your rights",
+ "context": [
+  "Private dental clinics provide general and cosmetic dentistry without NHS constraints, often with extended hours. Unlike NHS treatment, private care is paid for directly or through a plan, and you'll usually get a written treatment plan and quote before work begins. It's worth asking about membership plans and finance options to manage costs.",
+  "All dentists, dental hygienists, dental therapists and dental nurses must be registered with the General Dental Council (GDC), and you can check the GDC register online. Private clinics providing regulated healthcare in England must also register with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales it's Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA. If something goes wrong with private treatment, start with the practice's complaints process, and the Dental Complaints Service can help if it's not resolved."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "The treatment you think you need, such as a check-up, cosmetic work, or emergency care.",
+  "Your preferred location or how far you're willing to travel for appointments.",
+  "Any preference for appointment times, like evenings or weekends.",
+  "Whether you're interested in a membership plan or finance options.",
+  "Any anxiety about dental visits or specific accessibility needs you have.",
+  "Your budget range, so the dentist can suggest suitable options."
+ ],
+ "questions_heading": "Questions to ask the private dentist",
+ "questions": [
+  "What does a new patient consultation include and what will it cost?",
+  "Are you registered with the General Dental Council, and what is your GDC number?",
+  "Is the practice registered with the Care Quality Commission (or the relevant regulator in my nation)?",
+  "Do you offer a membership plan or finance options to spread the cost of treatment?",
+  "What are your opening hours, and do you offer emergency appointments?",
+  "How do you handle complaints if I'm unhappy with my treatment?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check if a private dental clinic is properly registered?",
+   "a": "You can check the dentist's registration on the General Dental Council (GDC) register. In England, you can also check whether the clinic is registered with the Care Quality Commission (CQC) and see its inspection rating; in Wales, Scotland and Northern Ireland, the relevant regulators are Healthcare Inspectorate Wales, Healthcare Improvement Scotland and the RQIA."
+  },
+  {
+   "q": "What should I do if I have a problem with private dental treatment?",
+   "a": "First, raise your concern with the practice directly through its complaints process. If you're not satisfied with the response, the Dental Complaints Service can help resolve complaints about private dental treatment."
+  },
+  {
+   "q": "Can I spread the cost of private dental treatment?",
+   "a": "Many private clinics offer membership plans for routine care and finance options for larger treatments. Ask the dentist for details of any plans and finance arrangements, including terms and conditions, before you commit."
+  },
+  {
+   "q": "How do I choose between private dental clinics near me?",
+   "a": "Compare what each clinic offers for your specific needs, check the dentist's GDC registration and the clinic's regulator registration, and read online feedback carefully. Ask about costs, opening hours and payment options so you can judge which clinic suits you best."
+  }
+ ]
+}

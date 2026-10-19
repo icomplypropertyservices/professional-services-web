@@ -1,0 +1,69 @@
+{
+ "intro": "If you have typed \"measured surveyor near me\", you probably have a building that needs drawing accurately before work can move forward. Perhaps an architect has asked for existing plans, or you are extending, converting or renovating and need to know exactly what is there. A measured surveyor records the building as it stands, so the drawings that follow start from solid ground.",
+ "need_heading": "What people searching for a measured surveyor usually need",
+ "need_lead": "Most enquiries come from owners and professionals who need reliable existing drawings of a real building before anything is designed or changed.",
+ "needs": [
+  "You are planning an extension or loft conversion and your architect needs accurate existing floor plans, elevations and sections to work from.",
+  "You are renovating an older property and want the quirks of the building recorded properly before designs are drawn up.",
+  "You are converting a building to a new use and need a clear record of its current layout and levels.",
+  "You need drawings of a building you have just bought, or are about to buy, so you can plan changes with confidence.",
+  "You are managing a project and need the existing structure surveyed so the design team is working from one accurate set of drawings."
+ ],
+ "context_heading": "Getting the level of detail right",
+ "context": [
+  "A measured survey can be as simple as outline plans or as detailed as a full set of plans, elevations and sections, and the cost and time follow that choice. Laser scanning can capture a building quickly and in fine detail, which suits complex or irregular spaces, but it is worth agreeing with your architect what is actually needed for the design stage you are at.",
+  "Many surveyors are members of the Royal Institution of Chartered Surveyors (RICS), and RICS-regulated firms must follow professional standards, hold insurance and offer a complaints process. Chartered surveyors use the letters MRICS or FRICS after their name. You can check the RICS directory to confirm a surveyor's membership before you instruct them."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the building, including its type, approximate age and whether it is listed or in a conservation area.",
+  "Say what the drawings are for, such as an extension, a loft conversion, a renovation or a change of use.",
+  "Mention the level of detail your architect has asked for, whether plans only or plans, elevations and sections.",
+  "Give the location of the property so we can introduce you to a surveyor who covers your area.",
+  "Say whether the building is empty or occupied, and whether access is straightforward.",
+  "Mention any particular features that need care, such as irregular walls, vaulted ceilings or recent alterations."
+ ],
+ "questions_heading": "Questions to ask the surveyor",
+ "questions": [
+  "What level of detail will the drawings include, and will that suit my architect's requirements?",
+  "Will you produce plans, elevations and sections, or only some of these?",
+  "Will you use laser scanning, and does that change what I receive?",
+  "Are you a member of RICS, and is your firm regulated by RICS?",
+  "What do you need from me to access the building, and how should I prepare it?",
+  "What will the drawings be delivered as, and in what format will my architect receive them?"
+ ],
+ "faqs": [
+  {
+   "q": "What does a measured surveyor actually produce?",
+   "a": "Measured surveyors produce accurate floor plans, elevations and sections of existing buildings. These become the base drawings an architect designs from, so their accuracy matters for everything that follows."
+  },
+  {
+   "q": "Do I need laser scanning for my survey?",
+   "a": "Not necessarily. Laser scanning captures a building quickly and in fine detail and suits complex or irregular spaces, but a conventional measured survey may be enough for simpler buildings. Agree the level of detail with your architect first."
+  },
+  {
+   "q": "How do I check a surveyor's credentials?",
+   "a": "Many surveyors are members of the Royal Institution of Chartered Surveyors (RICS), and chartered surveyors use MRICS or FRICS after their name. You can check the RICS directory, and RICS-regulated firms must hold insurance and offer a complaints process."
+  },
+  {
+   "q": "What should I have ready before the surveyor visits?",
+   "a": "It helps to have any existing drawings, plans or deeds you hold, and to know what your architect needs the drawings for. Clear access to all parts of the building, including lofts and outbuildings, lets the surveyor work efficiently."
+  }
+ ],
+ "extra_heading": "How a measured survey differs from a building survey",
+ "extra": [
+  "People often arrive at \"measured surveyor near me\" after being told they need a survey, and it is easy to confuse the two. A building survey is an inspection of a property's condition, usually carried out for a buyer before purchase, and it reports on defects and what needs attention. A measured survey is about geometry rather than condition: it records the building as it stands so that accurate plans, elevations and sections can be drawn.",
+  "That distinction matters when you are briefing whoever you speak to. If your architect needs existing drawings to design an extension, a measured survey is the job; if you are buying and want to know whether the roof needs work, that is a different service entirely. Saying clearly which one you need saves everyone time and avoids an appointment that does not give you what you were expecting.",
+  "It also helps to think about who will use the drawings and for what. A builder pricing a refurbishment may need less detail than an architect submitting a planning application, and the level of detail you agree should reflect that. Being clear about the end use from the start is the simplest way to get drawings that are fit for purpose."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Is a measured survey the same as a building survey?",
+   "a": "No. A measured survey records the size, shape and layout of a building to produce accurate drawings, while a building survey assesses condition and reports on defects. If you are unsure which you need, explain your plans to the surveyor and they can tell you."
+  },
+  {
+   "q": "Can the surveyor work from my existing plans instead of visiting?",
+   "a": "Sometimes old drawings can be used as a starting point, but they may not match what is actually there after years of alterations. A visit lets the surveyor check the building as it stands, which is the whole point of a measured survey."
+  }
+ ]
+}

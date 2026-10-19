@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for back pain treatment near you usually means the pain has gone on long enough to get in the way of work, sleep or everyday movement, and you want someone local who can look at it properly. Back pain can come from muscles, joints, discs or nerves, and different practitioners approach it differently. We introduce you to a suitable UK professional who quotes you directly, so you can compare what is offered before deciding.",
+ "need_heading": "What people searching for back pain treatment near them usually need",
+ "need_lead": "Most people typing this search want a local practitioner who can assess their back, explain what is likely going on and set out a treatment plan.",
+ "needs": [
+  "You have had back pain for a while and it is not settling with rest, so you want a proper assessment rather than guesswork.",
+  "The pain flares up with sitting, lifting or driving and you need practical advice on movement and posture.",
+  "You have had an episode of back pain before and want help getting back to normal activity without making it worse.",
+  "You are unsure whether you need physiotherapy, osteopathy or a GP review, and want guidance on the right first step.",
+  "You want a local practitioner you can see regularly for hands-on treatment alongside an exercise plan you can do at home."
+ ],
+ "context_heading": "Choosing a registered practitioner for back pain",
+ "context": [
+  "Physiotherapist and physical therapist are protected titles in the UK, so anyone using them must be registered with the Health and Care Professions Council (HCPC), and you can check the register online. Most physiotherapists are also members of the Chartered Society of Sports Physiotherapy's parent body, the Chartered Society of Physiotherapy, shown by the letters MCSP. Sports therapists, massage therapists and personal trainers can help with some needs but are not physiotherapists, so check the title and registration if you want physiotherapy.",
+  "Back pain treatment options include physiotherapy, osteopathy, chiropractic care, exercise and, for some, specialist medical review. Persistent pain, pain that spreads down a leg, or pain with numbness or weakness may need a GP review before or alongside treatment. Combining hands-on treatment with exercise you keep up at home is generally the approach practitioners emphasise."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Describe where the pain is and whether it spreads into your leg, hip or foot.",
+  "Say how long the pain has lasted and whether it started suddenly or came on gradually.",
+  "Mention what makes it better or worse, such as sitting, standing, bending or sleeping.",
+  "Tell us whether you have seen a GP or had any scans, and what you were told.",
+  "Explain what you want from treatment, such as pain relief, returning to sport or getting back to work.",
+  "Say how far you can travel and whether you would prefer a clinic visit, home visit or online appointment."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you registered with the HCPC, and what is your registration number?",
+  "How would you assess my back pain at the first appointment?",
+  "Will treatment include exercises I do at home, and how often should I do them?",
+  "How will we know whether the treatment is working?",
+  "Would you recommend I see my GP about this as well?",
+  "What should I do if the pain gets worse between appointments?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a GP referral before seeing a physiotherapist for back pain?",
+   "a": "In the UK you can usually see a physiotherapist directly without a GP referral, though some clinics ask for one. If your pain is persistent, spreads down your leg or comes with numbness or weakness, a GP review is sensible first."
+  },
+  {
+   "q": "What is the difference between a physiotherapist and an osteopath or chiropractor?",
+   "a": "Physiotherapists, osteopaths and chiropractors are separate regulated professions with different training and approaches, and all can see people with back pain. Physiotherapist is a protected title, so anyone using it must be registered with the HCPC."
+  },
+  {
+   "q": "How do I know the practitioner near me is properly registered?",
+   "a": "Check the HCPC register online for anyone calling themselves a physiotherapist, and look for the letters MCSP if they are a member of the Chartered Society of Physiotherapy. Ask about registration when you first make contact."
+  },
+  {
+   "q": "Can back pain treatment be combined with exercise?",
+   "a": "Yes, and most practitioners emphasise keeping active alongside treatment. Ask what exercises suit your situation and how to progress them safely at home."
+  }
+ ]
+}

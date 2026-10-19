@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for an exotic vet near me, you are likely worried about a pet that is not a cat or dog — perhaps a reptile, bird or small mammal that needs someone with specialist knowledge. Not every practice treats these species, so finding the right vet quickly matters. We can introduce you to a UK vet who works with exotic animals, and they will quote you directly.",
+ "need_heading": "What people searching for an exotic vet usually need",
+ "need_lead": "You need a vet who is confident and experienced with species that are outside the usual companion animal remit.",
+ "needs": [
+  "Your reptile has stopped eating or is showing signs of lethargy, and you need a vet who understands husbandry and diet as well as medicine.",
+  "Your bird is unwell and you want a practice that can handle avian patients without adding stress.",
+  "Your small mammal, such as a rabbit or guinea pig, needs treatment from a vet who sees these species regularly.",
+  "You are worried about an amphibian or invertebrate and need advice on whether a vet can help.",
+  "You want to register your exotic pet with a local practice before an emergency arises, so you are not searching in a panic."
+ ],
+ "context_heading": "What to understand about exotic vets",
+ "context": [
+  "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS), and you can search the RCVS register by name before you book. Many practices also join the voluntary RCVS Practice Standards Scheme, which inspects premises, equipment and clinical processes. Some vets hold further qualifications such as an RCVS certificate, advanced practitioner status or specialist status in a particular species or discipline.",
+  "Exotic vets treat reptiles, birds, small mammals, amphibians and other non-traditional pets that need specialist knowledge of husbandry, diet and medicine. Many exotic problems relate to environment and diet, so it helps to bring photos of your set-up to an appointment. If your animal has a complex or unusual condition, it is reasonable to ask whether the vet treating it holds a relevant qualification, or whether they refer to someone who does."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "The species of your pet, including the exact type of reptile, bird or small mammal, as some vets specialise in particular groups.",
+  "The age of your pet and how long you have had it, as this can affect the advice you receive.",
+  "The symptoms you have noticed, including changes in appetite, behaviour, droppings or breathing.",
+  "Whether this is an emergency or a routine check, so we can help you find a suitable vet quickly.",
+  "Your location and how far you are willing to travel to see an exotic vet.",
+  "Any previous treatment or diagnosis your pet has received, and whether you have pet insurance."
+ ],
+ "questions_heading": "Questions to ask the vet",
+ "questions": [
+  "Do you see this species regularly, and what proportion of your caseload is exotic pets?",
+  "What qualifications or experience do you have in treating this type of animal?",
+  "Do you have the equipment and facilities to handle and treat my pet safely?",
+  "What is your approach to anaesthesia and pain relief for this species?",
+  "Do you offer out-of-hours cover, and who would I contact in an emergency?",
+  "Can you provide a written estimate of costs before treatment begins?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I know if a vet is qualified to treat exotic pets?",
+   "a": "All vets in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS), and you can check the register by name. Some vets hold further qualifications in zoological medicine or a particular species group, so it is reasonable to ask about their experience and qualifications before booking."
+  },
+  {
+   "q": "What should I bring to an appointment with an exotic vet?",
+   "a": "Bring photos of your pet's enclosure, including lighting and heating, as many problems relate to environment and diet. Also bring any records of feeding, cleaning and previous treatments, and a fresh sample of droppings if relevant."
+  },
+  {
+   "q": "Are exotic vets more expensive than regular vets?",
+   "a": "Fees vary between practices and depend on the treatment needed. Exotic pets may require special equipment or medicines, which can affect the cost. You can ask for a written estimate before treatment begins, and it is wise to compare quotes."
+  },
+  {
+   "q": "Can iComply help in an emergency?",
+   "a": "We can introduce you to a vet who sees exotic species, but we are not an emergency service. If your pet needs urgent care, contact a vet practice directly or call NHS 111 for advice if you are unsure. For life-threatening situations, call 999."
+  }
+ ]
+}

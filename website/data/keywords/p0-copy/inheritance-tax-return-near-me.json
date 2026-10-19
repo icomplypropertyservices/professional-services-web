@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for an inheritance tax return near you usually means someone has died and you are named as an executor, or you are helping an executor work out what has to be sent to HMRC. The inheritance tax account values the estate and works out any tax due before probate can be granted, and it is easy to get wrong on your own. iComply can introduce you to a suitable UK tax adviser who handles this work and quotes you directly, with the price on application.",
+ "need_heading": "What people searching for an inheritance tax return usually need",
+ "need_lead": "Most people behind this search are executors facing an estate that may owe inheritance tax and want someone local to take the return off their hands.",
+ "needs": [
+  "You are an executor and have been told that an inheritance tax account must be filed before probate can go ahead.",
+  "You need the estate's assets and liabilities valued accurately, including property, shares and anything held in trust.",
+  "You are unsure whether the estate counts as an excepted estate and would rather have that judgement made properly.",
+  "You want to know how much tax has to be paid, and by when, so that interest does not start running on anything paid late.",
+  "You would prefer to sit down with a tax adviser nearby or deal with one who knows your area and can act as agent with HMRC."
+ ],
+ "context_heading": "Why the valuation matters so much",
+ "context": [
+  "The inheritance tax return rests on the values you put on everything in the estate, so a house, a share portfolio or a business interest needs a defensible figure rather than a guess. If a value is later found to be too low, HMRC can revisit it, and interest runs on tax that is paid late.",
+  "Not every estate has to file a full account: some qualify as excepted estates, which means a shorter route. Whether yours does depends on the size and makeup of the estate, so it is worth having that checked before you assume either way. A tax adviser can tell you which route applies and prepare the figures."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say that you are looking for help with an inheritance tax return and whether you are the executor or acting for one.",
+  "Describe the main assets in the estate, such as a home, savings, shares or a business, without needing exact figures at this stage.",
+  "Mention whether the person who died left a will and whether probate has already been applied for.",
+  "Say roughly where you are, since you searched for help near you, and whether you would prefer to meet in person or work remotely.",
+  "Note whether any inheritance tax has already been paid or whether you are waiting on the return before paying.",
+  "Mention any deadline you are aware of, such as a date HMRC or a solicitor has given you."
+ ],
+ "questions_heading": "Questions to ask the tax adviser",
+ "questions": [
+  "Will you prepare and file the inheritance tax account on my behalf, and deal with HMRC as my agent?",
+  "How will you value the property and any shares in the estate, and will a professional valuation be needed?",
+  "Can you tell me whether this estate might qualify as an excepted estate?",
+  "What will your fee be, and is it fixed or based on time spent?",
+  "Are you a member of the Chartered Institute of Taxation or the Association of Taxation Technicians, or otherwise qualified in tax?",
+  "Do you hold professional indemnity insurance, and how are you supervised for anti-money-laundering purposes?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I always have to file an inheritance tax return when someone dies?",
+   "a": "No. Some estates qualify as excepted estates and take a shorter route, while others need a full inheritance tax account. Whether yours does depends on the size and nature of the estate, so it is worth having that checked rather than assumed."
+  },
+  {
+   "q": "When does inheritance tax have to be paid?",
+   "a": "Tax is generally due before probate is granted, and interest runs on anything paid late. The exact timing depends on the estate and the date of death, so ask the adviser to set out the dates that apply to you."
+  },
+  {
+   "q": "Can a local tax adviser deal with HMRC for me?",
+   "a": "Yes, a tax adviser can act as your agent and correspond with HMRC on the estate's behalf. Ask them to confirm this at the outset so you know who is handling what."
+  },
+  {
+   "q": "How do I judge whether an adviser is right for this work?",
+   "a": "\"Tax adviser\" is not a protected title in the UK, so ask about qualifications such as CTA or ATT membership, and about supervision and professional indemnity insurance. Comparing fees and what is included helps you judge for yourself rather than relying on labels."
+  }
+ ]
+}

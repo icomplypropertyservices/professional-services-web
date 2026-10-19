@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for a surveyor near me usually means you own or are buying property and need a professional eye on it. Perhaps you are buying a home and want to know what you are taking on, or a problem has appeared in a building you already own. We introduce you to a suitable UK surveyor who will quote you directly, so you can compare and decide.",
+ "need_heading": "What people searching for a surveyor near me usually need",
+ "need_lead": "Most people typing this search want a local professional who can look at a property and tell them plainly what condition it is in.",
+ "needs": [
+  "You are buying a house and want to know about its condition before committing, rather than relying on the lender's valuation alone.",
+  "You have spotted cracks, damp or another worrying sign in a property and want someone to look at it and explain what is going on.",
+  "You are planning building work or an extension and need advice on the site and the structure before work begins.",
+  "You are selling and want an independent report on your property's condition to support the sale.",
+  "You are in a dispute with a neighbour or another party over a boundary, a party wall or building work, and need expert input."
+ ],
+ "context_heading": "Choosing the right kind of surveyor",
+ "context": [
+  "Surveyors do a wide range of work: inspecting, measuring and valuing property and land, reporting on condition, advising on building work and helping resolve disputes. The right one for you depends on your job, so be clear about what you need before you start. Many surveyors are members of the Royal Institution of Chartered Surveyors (RICS), and RICS-regulated firms must follow professional standards, hold insurance and offer a complaints process. Chartered surveyors use the letters MRICS or FRICS. Some specialist roles have their own bodies, such as the Faculty of Party Wall Surveyors or the Property Care Association for damp and timber specialists.",
+  "You can check the RICS directory to find members near you, and ask which report type you are getting and whether the surveyor is independent of the sale. For asbestos work, look for organisations accredited by UKAS for surveying. Because quotes are price on application, ask each surveyor what their fee covers so you can compare like with like."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the property, including its age, type and general location, so we can introduce you to a surveyor suited to it.",
+  "Explain what prompted the search, such as a purchase, a problem you have noticed or planned building work.",
+  "Say which type of surveyor you think you need, or ask for help working it out.",
+  "Mention any specialist element, such as damp, timber, asbestos or a party wall dispute.",
+  "Give your rough timescale in your own words, without needing exact dates.",
+  "Note whether you are the buyer, owner, seller or another party, as this affects independence and the advice given."
+ ],
+ "questions_heading": "Questions to ask the surveyor",
+ "questions": [
+  "Which type of survey or report are you recommending for this property, and what does it include?",
+  "Are you a member of RICS, and is your firm regulated by RICS?",
+  "Will you be independent of the sale, or connected to the seller or agent in any way?",
+  "What will your fee cover, and are there any extras such as specialist inspections?",
+  "How will you report your findings to me, and can we talk them through afterwards?",
+  "If you find a problem, what are the next steps and who else might I need to involve?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I find a surveyor near me?",
+   "a": "You can check the RICS directory for members in your area, and ask about their experience with the type of property you have. We can also introduce you to a suitable UK surveyor who will quote you directly."
+  },
+  {
+   "q": "Do I need a survey if my lender is doing a valuation?",
+   "a": "A lender's valuation is for the lender's purposes, not a full picture of condition for you. If you want to know what you are buying, ask a surveyor which report suits the property."
+  },
+  {
+   "q": "What is the difference between a valuation and a condition survey?",
+   "a": "A valuation focuses on what the property is worth, while a condition survey reports on its state and any problems. Tell the surveyor what you need so they recommend the right report."
+  },
+  {
+   "q": "What should I have ready before the surveyor visits?",
+   "a": "Have any plans, previous reports or details of work done available, and note the specific concerns you want looked at. Mention access arrangements and anything the surveyor should know about the property."
+  }
+ ],
+ "extra_heading": "What happens when a surveyor visits",
+ "extra": [
+  "When you have found a surveyor near you and booked a visit, they will usually arrange access and walk around the property themselves, looking at the structure, roof, walls, floors and services and noting anything that concerns them. It helps to tell them in advance about the specific worries that prompted your search, so they spend time on those rather than only giving a general once-over.",
+  "A surveyor's visit is not the same as a builder's quote or a lender's valuation. The surveyor is there to report on condition and flag problems, not to carry out repairs or tell you what work will cost, so expect a written report afterwards rather than a price for fixing things. Reading that report carefully and asking follow-up questions is part of getting your money's worth.",
+  "If the report raises something specialist, such as damp, timber decay or asbestos, the surveyor may suggest a further inspection by someone with that expertise. That is normal and not a sign the original survey was wasted, so ask how any specialist findings should be handled before you decide on next steps."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Will the surveyor come inside the property?",
+   "a": "Yes, a condition survey normally involves going into the property and looking at its structure and services, as well as the outside. Tell the surveyor about access arrangements and any areas you especially want examined when you book."
+  },
+  {
+   "q": "Can I be there during the survey?",
+   "a": "Some surveyors are happy for you to attend, while others prefer to work alone and talk you through the report afterwards. Ask when you enquire, and if you do attend, save detailed questions for the follow-up so the surveyor can concentrate on the inspection."
+  },
+  {
+   "q": "Does the surveyor's report include repair costs?",
+   "a": "A condition report describes what the surveyor found and flags problems, but it is not usually a builder's estimate of repair costs. If you need figures for work, ask the surveyor what the report covers and speak to a builder separately."
+  }
+ ]
+}

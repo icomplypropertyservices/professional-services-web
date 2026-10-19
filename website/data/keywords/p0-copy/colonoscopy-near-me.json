@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a colonoscopy near me usually means you want a camera test of your large bowel without travelling far, either to investigate symptoms or to screen for polyps and cancer. You may be looking for a private consultant who can see you soon, or you may simply want a convenient local clinic. We introduce you to a suitable UK professional who quotes you directly, so you can compare what is available close to home.",
+ "need_heading": "What people searching for a colonoscopy near me usually need",
+ "need_lead": "Most people want a local, clear answer about having a colonoscopy, whether for symptoms or screening.",
+ "needs": [
+  "You have noticed bleeding or a change in your bowel habits and your GP has suggested a colonoscopy to find the cause.",
+  "You are due for bowel cancer screening and would prefer to arrange a private colonoscopy close to where you live.",
+  "You have a family history of polyps or bowel cancer and want to discuss whether a colonoscopy is right for you.",
+  "You need the test at a time that suits you, and travelling a long distance would make the bowel preparation and appointment harder.",
+  "You want to understand what the appointment involves, including how polyps can be removed during the test, before you commit."
+ ],
+ "context_heading": "Checking who provides your local colonoscopy",
+ "context": [
+  "A colonoscopy examines the large bowel with a camera, and it is usually carried out by a hospital consultant. In the UK, hospital consultants should appear on the General Medical Council's specialist register for their field, which you can check online. Private clinics providing regulated healthcare in England must register with the Care Quality Commission, which inspects and publishes ratings; in Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA.",
+  "Many private specialists also work in the NHS, so you may find the same consultant offers both. If you have private medical insurance, your insurer may require a GP referral and may limit you to certain consultants or hospitals, so check before you book. Bowel preparation is essential for a clear view, and you should report any bleeding to a doctor promptly."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you are looking for a colonoscopy near you, and give the town or area you would like to travel to.",
+  "Explain whether the test is to investigate symptoms such as bleeding or a change in bowel habit, or for screening because of family history.",
+  "Say whether you have a GP referral already, as some private hospitals and insurers will ask for one.",
+  "Let us know if you have private medical insurance and whether your insurer has any conditions about which consultants or hospitals you can use.",
+  "Describe any preferences that matter to you, such as wanting an appointment at a particular time of day or needing step-free access.",
+  "Ask about the practical arrangements for bowel preparation, as this will affect how you plan the day before your appointment."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you on the General Medical Council's specialist register for gastroenterology or surgery?",
+  "Which private hospital or clinic would the colonoscopy take place in, and is it registered with the relevant regulator?",
+  "What does the bowel preparation involve, and how should I plan my day around it?",
+  "Will you remove polyps during the test if you find them, and how will you tell me afterwards?",
+  "What should I do if I notice bleeding or other symptoms before my appointment?",
+  "Could you explain the quote clearly, including what is covered and what might be charged separately?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral from my GP to book a private colonoscopy?",
+   "a": "Not always, but many private hospitals and insurers do ask for a GP referral. It is worth checking with the consultant's secretary and your insurer before you book."
+  },
+  {
+   "q": "How do I check that a private clinic is properly regulated?",
+   "a": "In England, private clinics providing regulated healthcare must register with the Care Quality Commission, which publishes inspection ratings. In Wales, Scotland and Northern Ireland, the regulators are Healthcare Inspectorate Wales, Healthcare Improvement Scotland and the RQIA respectively."
+  },
+  {
+   "q": "Can polyps be removed during the colonoscopy?",
+   "a": "Yes, polyps can often be removed during the test. Your consultant will explain what they find and whether any further follow-up is needed."
+  },
+  {
+   "q": "What should I do if I have bleeding while waiting for my appointment?",
+   "a": "You should report any bleeding to a doctor promptly, as it may need to be looked at sooner. If you are worried, contact your GP or call NHS 111 for advice."
+  }
+ ]
+}

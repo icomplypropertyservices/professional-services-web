@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for a conveyancer usually means you're buying, selling or remortgaging a property and need someone to handle the legal side. You might be at the start of the process or already have an offer accepted and need to move quickly. We can introduce you to a suitable UK conveyancer who will quote you directly.",
+ "need_heading": "What people searching for a conveyancer usually need",
+ "need_lead": "Most people looking for a conveyancer are at a key stage in a property transaction and need clear, practical help.",
+ "needs": [
+  "You've had an offer accepted on a house and need a conveyancer to start the legal work without delay.",
+  "You're selling your home and want a conveyancer who can handle the paperwork and keep the buyer's side moving.",
+  "You're remortgaging and your lender needs the legal work done by a conveyancer on their panel.",
+  "You're buying a leasehold flat and need someone who understands the extra checks involved, such as service charges and lease terms.",
+  "You've been told by your lender or estate agent that you need to instruct a conveyancer before things can progress."
+ ],
+ "context_heading": "One key thing to understand about conveyancing",
+ "context": [
+  "Conveyancing in England and Wales is a reserved legal activity, which means it must be carried out by a solicitor regulated by the Solicitors Regulation Authority or a licensed conveyancer regulated by the Council for Licensed Conveyancers. Both must hold professional indemnity insurance and follow strict rules on handling client money.",
+  "Many lenders only work with conveyancers on their panel, so it's worth checking that any firm you're considering is on your lender's panel before you instruct them. The Law Society's Conveyancing Quality Scheme is a common accreditation, but it's not a mark of quality in itself, so always ask about experience and how they'll keep you informed."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Tell us whether you're buying, selling or remortgaging, and whether it's a freehold or leasehold property.",
+  "Let us know the property's location and value, as this helps us find a conveyancer familiar with the area.",
+  "If you have a mortgage, tell us which lender you're using so we can check panel requirements.",
+  "Mention any specific deadlines you're working towards, such as a target completion date or a related purchase.",
+  "Let us know if you've already instructed a conveyancer and are looking for a comparison quote.",
+  "Tell us about any unusual features, such as a shared ownership scheme, an unregistered title or a property with a history of disputes."
+ ],
+ "questions_heading": "Questions to ask the conveyancer",
+ "questions": [
+  "Are you regulated by the Solicitors Regulation Authority or the Council for Licensed Conveyancers?",
+  "Are you on my lender's panel for this mortgage?",
+  "What is your experience with properties like mine, for example leasehold or new build?",
+  "How will you keep me updated on progress, and who will be my main point of contact?",
+  "What are your fees and what do they include, and are there any additional costs such as search fees or VAT?",
+  "How do you handle client money, and what is your procedure for verifying bank details?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a conveyancer if I'm buying with a mortgage?",
+   "a": "Yes, your lender will usually require a conveyancer to act for them and to carry out the legal work, including checking the title and arranging searches. Even if you're a cash buyer, it's strongly advisable to use a conveyancer to protect your interests."
+  },
+  {
+   "q": "Can I use a conveyancer who isn't on my lender's panel?",
+   "a": "Some lenders will allow you to use a conveyancer who isn't on their panel, but they may charge an additional fee or require separate representation. It's always best to check with your lender first."
+  },
+  {
+   "q": "How long does conveyancing take?",
+   "a": "The time taken depends on many factors, such as whether you're in a chain, the complexity of the title and how quickly searches and enquiries are resolved. Your conveyancer should be able to give you an estimate based on your circumstances."
+  },
+  {
+   "q": "What should I do if I'm not happy with my conveyancer?",
+   "a": "First, raise your concerns with the conveyancer directly. If that doesn't resolve the issue, you can ask about their complaints procedure; if you're still unhappy, you may be able to complain to the Legal Ombudsman or the relevant regulator."
+  }
+ ],
+ "extra_heading": "What happens once you've instructed a conveyancer",
+ "extra": [
+  "After you instruct a conveyancer, the first step is usually receiving a client care letter and a request for identification and proof of funds, along with a fee breakdown. They will then write to the other side's conveyancer to confirm instructions and obtain the contract pack, which is the point where the legal work really begins.",
+  "From there your conveyancer checks the title, raises enquiries with the seller's side and orders the local authority, water and environmental searches. When those come back, they will report to you and, if you have a mortgage, send a report to your lender as well. Nothing should be signed or exchanged until you have had that report and had your questions answered.",
+  "Exchange and completion follow once enquiries and searches are resolved and your mortgage offer is in place. Your conveyancer will then deal with the transfer of funds, submit the stamp duty return to HMRC where it applies, and register the change of ownership with the relevant land registry. Keep in touch with them throughout, and always ring to verify bank details before sending money."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Will my conveyancer deal with stamp duty for me?",
+   "a": "Yes, in most residential purchases your conveyancer submits the stamp duty land tax return to HMRC and arranges payment from the completion funds. In Scotland the equivalent tax is handled under Scottish procedures, so ask your solicitor there to confirm how it works."
+  },
+  {
+   "q": "What identification will my conveyancer ask for?",
+   "a": "Expect to provide photo identification and proof of address, and evidence of where your deposit is coming from to meet anti-money laundering rules. Ask early what format they need, as missing documents are a common cause of delay."
+  },
+  {
+   "q": "Can my conveyancer act for both me and my lender?",
+   "a": "Often yes, because many lenders instruct the same firm to act for them as well as for you. If your lender insists on separate representation, your conveyancer will tell you, and that can affect the overall cost."
+  }
+ ]
+}

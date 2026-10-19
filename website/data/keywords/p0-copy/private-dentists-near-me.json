@@ -1,0 +1,69 @@
+{
+ "intro": "When you search for private dentists near me, you're likely looking for dental care outside the NHS, whether for a specific treatment, a second opinion, or simply because you want an appointment sooner. You want to find a local practice that suits your needs and budget. We can introduce you to a private dentist in your area who will quote you directly.",
+ "need_heading": "What people searching for private dentists near me usually need",
+ "need_lead": "Most people want convenient, local private dental care with clear information about treatments and costs.",
+ "needs": [
+  "You need a private dentist close to home or work for a check-up or routine cleaning.",
+  "You have a dental problem that needs urgent attention and want to see someone quickly.",
+  "You're considering a treatment like a crown, implant, or orthodontics and want a private dentist's opinion.",
+  "You want more choice over appointment times or materials than you've had with NHS dental care.",
+  "You're looking for a practice that offers payment plans to spread the cost of treatment."
+ ],
+ "context_heading": "What to understand about private dental care",
+ "context": [
+  "Private dentists are regulated by the General Dental Council (GDC), and you can check a dentist's registration on the GDC register online. Private clinics providing regulated healthcare in England must also be registered with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales it's Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA.",
+  "Private dentistry means you'll pay for your treatment, but many practices offer membership plans to spread the cost of routine care. Always ask for a written treatment plan with itemised costs before you commit, so you know exactly what's included."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention the type of dental care you're looking for, such as a check-up, emergency visit, or cosmetic treatment.",
+  "Say whether you have a specific urgency, like pain or a broken tooth.",
+  "Include your location and how far you're willing to travel to see a private dentist.",
+  "Let us know if you're interested in payment plans or membership options.",
+  "Mention any preferences, such as a practice that offers evening or weekend appointments.",
+  "Tell us if you have any particular concerns, like dental anxiety or a need for accessible facilities."
+ ],
+ "questions_heading": "Questions to ask the private dentist",
+ "questions": [
+  "What is the full cost of the treatment you're recommending, and can you provide an itemised written plan?",
+  "Are you registered with the General Dental Council, and what is your GDC number?",
+  "Do you offer any membership or payment plans to spread the cost of routine care?",
+  "How quickly can I be seen for an appointment, especially if I'm in pain?",
+  "What happens if I need to cancel or reschedule my appointment?",
+  "Can you explain the difference between the private treatments you offer and what would be available on the NHS?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check if a private dentist is properly qualified?",
+   "a": "You can check any dentist's registration on the General Dental Council (GDC) register online. The GDC is the regulator for dental professionals in the UK, and only registered dentists can practise."
+  },
+  {
+   "q": "What should I do if I'm unhappy with private dental treatment?",
+   "a": "First, raise your concerns with the practice's complaints process. If that doesn't resolve the issue, the Dental Complaints Service can help with private dental complaints."
+  },
+  {
+   "q": "Will a private dentist give me a treatment plan with costs?",
+   "a": "Yes, it's standard practice to provide a written treatment plan that itemises the recommended treatment and its costs. Always ask for this before agreeing to any treatment."
+  },
+  {
+   "q": "Can I spread the cost of private dental treatment?",
+   "a": "Many private practices offer membership plans that cover routine check-ups and cleanings, and some offer payment plans for larger treatments. Ask the dentist directly about the options available."
+  }
+ ],
+ "extra_heading": "Comparing private dentists near you",
+ "extra": [
+  "When you search for private dentists near me, you're likely comparing several practices in your area. It helps to think about what matters most to you: how close the practice is, whether it offers the treatments you might need, and how easy it is to get an appointment that fits around your life. Asking about these things early on can save you time later.",
+  "Private dentists set their own fees, so costs can vary between practices. Always ask for a written treatment plan with itemised costs before you commit, and check whether the dentist is registered with the General Dental Council (GDC) by looking on the GDC register online. If you're considering a practice in England, you can also check whether it is registered with the Care Quality Commission (CQC), which inspects and publishes ratings.",
+  "It's also worth asking about membership plans, which many practices offer to spread the cost of routine care, and whether there are options for spreading the cost of larger treatments. If you have dental anxiety or need accessible facilities, mention this when you enquire so the practice can tell you what they can offer."
+ ],
+ "extra_faqs": [
+  {
+   "q": "How do I choose between several private dentists near me?",
+   "a": "Start by making a shortlist based on location and the treatments you need. Then contact each practice to ask about appointment availability, fees, and whether they offer written treatment plans with itemised costs. You can also check the dentist's registration on the General Dental Council (GDC) register online and, in England, whether the practice is registered with the Care Quality Commission (CQC)."
+  },
+  {
+   "q": "Are private dentists near me more expensive than NHS dentists?",
+   "a": "Private dentists set their own fees, and you pay for your treatment. NHS dental charges are set nationally, but not everyone can access an NHS dentist. Private practices often offer membership plans to spread the cost of routine care, and you should always ask for a written treatment plan with itemised costs so you can compare."
+  }
+ ]
+}

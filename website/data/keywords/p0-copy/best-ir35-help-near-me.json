@@ -1,0 +1,53 @@
+{
+ "intro": "You're searching for the best IR35 help near you, which suggests you want clear, local guidance on how the off-payroll working rules apply to your contract. Whether you're a contractor or a client, understanding IR35 can feel daunting, and getting the right advice early can make a real difference.",
+ "need_heading": "What people searching for IR35 help usually need",
+ "need_lead": "Most people looking for IR35 help want to understand their status and avoid costly mistakes.",
+ "needs": [
+  "You're a contractor unsure whether your working arrangements fall inside or outside IR35 and want an expert to go through your contract.",
+  "You're a client engaging contractors and need to decide how to assess employment status and issue a Status Determination Statement.",
+  "You've received conflicting advice from online tools and want a professional to explain the rules in plain English.",
+  "You're about to sign a new contract and want to check the IR35 position before you commit.",
+  "You're worried about an upcoming HMRC compliance check and want help gathering evidence and preparing your case."
+ ],
+ "context_heading": "Understanding IR35 and finding the right help",
+ "context": [
+  "IR35 is the set of rules that determine whether a contractor working through an intermediary, such as a limited company, is effectively an employee for tax purposes. The rules hinge on concepts like control, substitution, and mutuality of obligation, which can be subtle and are not always easy to apply on your own. Online tools can give an indication, but they rarely capture the full picture of your working practices.",
+  "When looking for the best help, it's worth checking a professional's qualifications and experience. 'Tax adviser' is not a protected title, so ask whether they hold a recognised qualification such as those from the Chartered Institute of Taxation or the Association of Taxation Technicians, or whether they are an accountant or solicitor with tax expertise. Also ask about their supervision for anti-money-laundering purposes and whether they have professional indemnity insurance."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe your role and the sector you work in, as IR35 can apply differently across industries.",
+  "Explain the structure you use to provide your services, such as a limited company or umbrella company.",
+  "Mention whether you are the contractor or the client, so we can introduce you to the right kind of professional.",
+  "Share what you already know about your IR35 status and any concerns you have.",
+  "Say whether you need a contract check, help with a Status Determination Statement, or advice on evidence.",
+  "Include your location and whether you prefer to work with someone locally or remotely."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "What qualifications and experience do you have in dealing with IR35?",
+  "How will you assess my contract and working practices to determine IR35 status?",
+  "What evidence should I keep to support my position on substitution and control?",
+  "Can you explain the process if HMRC opens a compliance check?",
+  "Will you go through my contract before I sign it?",
+  "What are your fees and how are they structured?"
+ ],
+ "faqs": [
+  {
+   "q": "What does 'best IR35 help near me' actually mean?",
+   "a": "It means finding a tax adviser or other qualified professional who can give you accurate, tailored advice on IR35. 'Best' is subjective, so look for relevant qualifications, experience, and a clear explanation of how they work."
+  },
+  {
+   "q": "Can I rely on online IR35 tools to determine my status?",
+   "a": "Online tools can be a useful starting point, but they are not a substitute for professional advice. IR35 depends on the specific facts of your working arrangements, and a professional can help you interpret those facts correctly."
+  },
+  {
+   "q": "What should I do if I'm unsure whether IR35 applies to me?",
+   "a": "Speak to a qualified tax adviser who can go through your contract and working practices. Getting advice before you sign a contract or make changes can help you avoid problems later."
+  },
+  {
+   "q": "How can I check if a tax adviser is properly qualified?",
+   "a": "Ask about their professional qualifications, such as membership of the Chartered Institute of Taxation or the Association of Taxation Technicians. Also confirm they are supervised for anti-money-laundering purposes and have professional indemnity insurance."
+  }
+ ]
+}

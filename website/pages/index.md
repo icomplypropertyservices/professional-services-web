@@ -41,7 +41,7 @@ pricing: POA only
 
 Looking for a **solicitor**, **barrister**, **conveyancer**, **private dentist**, **private GP**, **accountant**, **mortgage adviser**, **IFA**, or **insurance broker**? iComply Professional Services is the middleman: you tell us what you need, we introduce you to a suitable UK practice, and that practice takes the work.
 
-We are not a marketing agency for firms. We do not sell website or search packages. We help people find professionals — and we help practices receive that demand as clear introductions. Every commercial conversation is **price on application (POA)**. There are no fixed sterling catalogue fees on this site.
+We help people find the right UK professional and introduce them to a practice that suits their brief. Enquiring is free, and the professional you are introduced to quotes you directly: every quote is **price on application (POA)**.
 
 ## How it works
 

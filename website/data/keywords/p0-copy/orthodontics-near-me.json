@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for orthodontics near me usually means you or someone in your family has teeth or a bite that needs straightening, and you want to find a local professional who can assess and treat it. You might be a parent worried about a child's crowded teeth, or an adult who has put off treatment for years. We introduce you to a suitable UK professional who will quote you directly, so you can compare options with no pressure.",
+ "need_heading": "What people looking for orthodontics near me usually need",
+ "need_lead": "Most people searching for orthodontics near me want a clear, local answer about whether treatment is needed and what it would involve.",
+ "needs": [
+  "A parent who has been told by a dentist that their child may need braces and wants to know what orthodontic treatment could involve locally.",
+  "An adult with crowded or protruding teeth who has decided now is the time to explore fixed braces or clear aligners.",
+  "Someone whose bite feels uneven or who has difficulty chewing and wants to understand whether orthodontics could help.",
+  "A person who had braces years ago and has noticed their teeth shifting, and wants to know about retainers or further treatment.",
+  "Someone who wants a local orthodontic opinion before deciding whether to ask their NHS dentist about eligibility for treatment."
+ ],
+ "context_heading": "What to understand before you choose an orthodontic provider",
+ "context": [
+  "Orthodontics is a regulated dental specialty. Only dentists and other dental professionals registered with the General Dental Council can practise, and the title orthodontist can only be used by someone on the GDC's specialist list. You can check any professional's registration and specialist status on the GDC register online. In England, private clinics providing regulated healthcare must also be registered with the Care Quality Commission, which inspects and publishes ratings; in Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA.",
+  "NHS orthodontic treatment is limited to children with a clear clinical need, so many adults and some children will be seen privately. Retainers after treatment are essential to keep teeth in their new position, and this is an ongoing commitment. If something goes wrong with private treatment, start with the practice's complaints process; the Dental Complaints Service can help with private dental complaints that are not resolved."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say whether the treatment is for yourself or for a child, and give the child's age if relevant.",
+  "Describe what you have noticed about the teeth or bite, such as crowding, gaps, or an overbite.",
+  "Mention whether you have already seen a dentist about this and what they said.",
+  "Say whether you have had orthodontic treatment before, including braces or retainers.",
+  "Explain whether you are looking for a private quote or want to know about NHS eligibility first.",
+  "Give your location and how far you are willing to travel for appointments."
+ ],
+ "questions_heading": "Questions to ask the orthodontic professional",
+ "questions": [
+  "Are you on the General Dental Council's specialist list for orthodontics?",
+  "What treatment options would you recommend for my situation, and why?",
+  "How long is the expected treatment time, and what appointments will be needed?",
+  "What is the full cost of treatment, including retainers and any follow-up visits?",
+  "What happens if I miss an appointment or treatment takes longer than planned?",
+  "How do you handle complaints if I am unhappy with the treatment?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral from my dentist to see an orthodontist?",
+   "a": "You can often approach an orthodontic practice directly, but some practices prefer a referral from your general dentist. It is worth asking when you enquire. If you are seeking NHS treatment, a referral from your dentist is usually the starting point."
+  },
+  {
+   "q": "Is orthodontic treatment available on the NHS?",
+   "a": "NHS orthodontic treatment is generally limited to children under a certain age who have a clear clinical need, assessed by a dentist. Adults usually need to pay privately. Your dentist can advise on eligibility."
+  },
+  {
+   "q": "What is the difference between an orthodontist and a dentist?",
+   "a": "An orthodontist is a dentist who has completed further specialist training in straightening teeth and correcting bites, and is on the GDC specialist list. A general dentist may offer some orthodontic treatments, but only a specialist can call themselves an orthodontist."
+  },
+  {
+   "q": "How can I check that a professional is properly registered?",
+   "a": "You can check the GDC register online for any dentist or orthodontist. In England, you can also check whether the clinic is registered with the Care Quality Commission; in Wales, Scotland and Northern Ireland the relevant regulator is Healthcare Inspectorate Wales, Healthcare Improvement Scotland and the RQIA respectively."
+  }
+ ]
+}

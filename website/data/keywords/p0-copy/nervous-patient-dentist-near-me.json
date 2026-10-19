@@ -1,0 +1,53 @@
+{
+ "intro": "If you are a nervous patient looking for a dentist near you, the thought of booking an appointment can feel overwhelming. You want to find a practice that understands dental anxiety and will take things at your pace. We can introduce you to a private dentist near you who is experienced with anxious patients, so you can have a conversation before committing to anything.",
+ "need_heading": "What people searching for a nervous patient dentist near me usually need",
+ "need_lead": "You are not just looking for a dentist; you are looking for someone who will listen without judgement and help you feel safe.",
+ "needs": [
+  "You might have avoided the dentist for years because of a bad experience or fear of pain, and now you need a way back in that feels manageable.",
+  "You may feel embarrassed about the state of your teeth and worry that a dentist will be critical or make you feel ashamed.",
+  "You could be anxious about specific things like the noise of the drill, the feeling of numbness, or not being in control during treatment.",
+  "You might need a dentist who can offer sedation or other ways to make treatment more comfortable, and you want to discuss this before you book.",
+  "You may be looking for a practice near you that can see you quickly for a first visit that is just a chat, with no treatment on the day."
+ ],
+ "context_heading": "Understanding your options as a nervous patient",
+ "context": [
+  "Dentists who are experienced with anxious patients often take extra time to explain each step and may offer sedation for treatment. You can ask about this when you first contact a practice, and it is fine to say clearly that you are nervous and what you are worried about.",
+  "All dentists, dental hygienists, dental therapists and dental nurses must be registered with the General Dental Council (GDC), and you can check the register online. Private clinics providing regulated healthcare in England must also register with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe how long you have been anxious about the dentist and whether there was a particular event that started it.",
+  "Mention any specific fears you have, such as the drill, needles, choking, or feeling unable to signal for a stop.",
+  "Say whether you would like to discuss sedation options and whether you have had sedation before.",
+  "Explain what you need from a first visit, such as a talk-only appointment with no treatment or a short check-up.",
+  "Let us know if you need a practice that is easy to get to, with parking or public transport nearby, because travel can add to anxiety.",
+  "Tell us if you have any other health conditions or medications that might affect your dental care, so the dentist can be prepared."
+ ],
+ "questions_heading": "Questions to ask the dentist",
+ "questions": [
+  "How do you usually help nervous patients feel at ease during a first visit?",
+  "Can I agree a stop signal with you so I can pause treatment if I need to?",
+  "What sedation options do you offer, and how do they work?",
+  "Can I visit the practice before booking to see the surgery and meet the team?",
+  "How long is a typical first appointment, and will any treatment be done on that day?",
+  "What is your approach if I feel overwhelmed during a procedure?"
+ ],
+ "faqs": [
+  {
+   "q": "Will the dentist think I am silly for being nervous?",
+   "a": "No, dental anxiety is very common and dentists who work with nervous patients are used to it. They will want to understand your fears so they can help you feel more comfortable."
+  },
+  {
+   "q": "Can I bring someone with me to my appointment?",
+   "a": "Many practices allow you to bring a friend or family member for support, but it is best to check with the practice beforehand. They can usually tell you what their policy is when you book."
+  },
+  {
+   "q": "What if I need to stop during treatment?",
+   "a": "You can agree a stop signal with your dentist before treatment starts, such as raising your hand. This lets you pause if you feel uncomfortable, and the dentist will check you are okay before continuing."
+  },
+  {
+   "q": "How do I know the dentist is qualified to help nervous patients?",
+   "a": "All dentists must be registered with the General Dental Council (GDC), and you can check the register online. You can also ask the practice directly about their experience with anxious patients and what they offer."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a fertility clinic near me usually means you're starting to look into why you haven't conceived, or you've been told you might need help to have a baby. You want a clinic that's easy to get to for appointments and scans, and you want to understand what happens next. We can introduce you to a UK fertility clinic that suits your situation, and they'll quote you directly.",
+ "need_heading": "What people searching for a fertility clinic near me usually need",
+ "need_lead": "Most people want a local clinic they can reach without too much travel, offering clear information and a plan that feels right for them.",
+ "needs": [
+  "You've been trying for a baby for a while and want to find out whether there's a medical reason why it isn't happening.",
+  "Your GP has suggested a referral or further tests, and you'd like to choose a clinic close to home.",
+  "You're considering treatments such as IUI or IVF and want to talk them through with a clinic near you.",
+  "You're thinking about egg freezing or donor treatment and want to understand what's involved at a local licensed centre.",
+  "You want somewhere convenient for the repeated appointments that fertility investigations and treatment can involve."
+ ],
+ "context_heading": "Checking a clinic is licensed and what that means",
+ "context": [
+  "Clinics that offer IVF, donor treatment, egg and embryo freezing and most other fertility treatments must be licensed by the Human Fertilisation and Embryology Authority (HFEA). The HFEA's Choose a Fertility Clinic tool shows each licensed clinic's inspection ratings, success rates and patient feedback, so you can compare local options before you decide.",
+  "Simple tests such as blood hormone checks may be offered by clinics outside HFEA licensing, but any treatment involving eggs, sperm or embryos should always be with a licensed centre. It's worth asking about licensing early on, along with whether counselling is offered, as it should be."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "How long you've been trying to conceive and whether you've had any tests or investigations so far.",
+  "Whether you've been referred by your GP or are looking into fertility care yourself.",
+  "Any treatments you're specifically interested in, such as IUI, IVF, egg freezing or donor programmes.",
+  "How far you're willing to travel to a clinic, and whether being close to home or work matters most.",
+  "Any preferences you have, such as a clinic that offers counselling or a particular type of consultation.",
+  "Whether you have a partner and whether you're seeking treatment as a couple or as an individual."
+ ],
+ "questions_heading": "Questions to ask the fertility clinic",
+ "questions": [
+  "Are you licensed by the HFEA for the treatments you're recommending?",
+  "What does a full costed treatment plan look like, including any extras that might come up?",
+  "Will counselling be offered to us as part of the process?",
+  "What tests or investigations will I need before we decide on a treatment?",
+  "How many appointments are likely to be involved, and can some be done locally?",
+  "What are your success rates for someone in our situation, and how do you present them?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral from my GP to go to a fertility clinic?",
+   "a": "Not always. Some clinics accept self-referrals for initial consultations and tests, while others may ask for a GP referral. It's worth asking the clinic directly when you enquire."
+  },
+  {
+   "q": "How do I check a fertility clinic is properly licensed?",
+   "a": "The HFEA's Choose a Fertility Clinic tool lists every licensed clinic along with its inspection ratings, success rates and patient feedback. You can use it to check any clinic you're considering."
+  },
+  {
+   "q": "What treatments count as fertility treatment that needs a licence?",
+   "a": "Treatments involving eggs, sperm or embryos, such as IVF, ICSI, donor treatment and egg or embryo freezing, must be carried out at an HFEA-licensed clinic. Simple tests like blood hormone checks may not need a licence."
+  },
+  {
+   "q": "Will counselling be available at the clinic?",
+   "a": "Counselling should be offered as part of fertility treatment, and it's a good question to ask when you first speak to a clinic. It can help you talk through the emotional side of investigations and treatment."
+  }
+ ]
+}

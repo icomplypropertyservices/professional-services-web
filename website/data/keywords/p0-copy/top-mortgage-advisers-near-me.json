@@ -1,0 +1,69 @@
+{
+ "intro": "You've searched for top mortgage advisers near you, so you're likely comparing a few local brokers before deciding who to speak to. You want someone who can look at your circumstances and recommend a suitable mortgage, not just the first name you find. Here's how to weigh up your options and what to have ready when you make contact.",
+ "need_heading": "What people searching for top mortgage advisers near me usually need",
+ "need_lead": "Most people want a local adviser they can talk to, who will compare options and explain the recommendation clearly.",
+ "needs": [
+  "You're buying your first home and want someone nearby who can explain the process and recommend a suitable mortgage for your deposit and income.",
+  "You're remortgaging and want to know whether a new deal with a different lender would suit you better than staying on your current rate.",
+  "You're self-employed or have irregular income and need an adviser who understands how lenders assess cases like yours.",
+  "You're moving home and need the mortgage arranged alongside the sale of your current property.",
+  "You want to check that any adviser you speak to is authorised by the FCA and will tell you how they search the market and how they are paid."
+ ],
+ "context_heading": "What 'top' means when you're comparing mortgage advisers",
+ "context": [
+  "There is no official ranking of mortgage advisers, so 'top' is a matter of fit rather than a label you can check. Instead, look at whether the adviser is authorised by the FCA, what qualification they hold, and whether they search the whole market or a limited panel. A good adviser will be clear about their approach and happy to answer your questions before you commit.",
+  "Mortgage advice is regulated by the Financial Conduct Authority, and any broker or adviser you use should be authorised or be an appointed representative of an authorised firm. You can check this on the FCA register. Brokers must also tell you how they are paid, whether by lender commission, a fee, or both, and if something goes wrong you can complain to the firm and then to the Financial Ombudsman Service."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Whether you are buying, remortgaging, moving home or reviewing an existing mortgage.",
+  "The approximate property value and the size of deposit or equity you have, if you know them.",
+  "Whether you are employed, self-employed, or have another source of income, and whether your income is regular.",
+  "Any credit issues or changes in circumstances that might affect what lenders will consider.",
+  "Whether you want advice on protection such as life insurance or income protection alongside the mortgage.",
+  "Your preferred way of working with an adviser, such as by phone, video call or in person locally."
+ ],
+ "questions_heading": "Questions to ask a mortgage adviser",
+ "questions": [
+  "Are you authorised by the FCA, and can you tell me your firm's reference number so I can check the register?",
+  "Do you search the whole of the market or a limited panel of lenders?",
+  "How are you paid for arranging a mortgage, and will you tell me the fee and any commission in writing?",
+  "What qualification do you hold, such as CeMAP, and how do you keep your knowledge up to date?",
+  "Will you also discuss protection products with me, such as life cover or income protection?",
+  "What happens if I have a complaint later, and how do I escalate it to the Financial Ombudsman Service if needed?"
+ ],
+ "faqs": [
+  {
+   "q": "How can I tell if a mortgage adviser is any good if there are no official rankings?",
+   "a": "There is no official ranking of mortgage advisers, so 'top' is about your own judgement. Check that the adviser is authorised by the FCA, ask about their qualifications and how they search the market, and see whether they explain things clearly and answer your questions fully."
+  },
+  {
+   "q": "Do I need to use a mortgage adviser near me, or can I use one further away?",
+   "a": "You can use an adviser wherever they are based, as long as they are authorised by the FCA. Many people prefer a local adviser for face-to-face meetings, but phone and video appointments are common, so distance need not be a barrier."
+  },
+  {
+   "q": "What will a mortgage adviser need from me to recommend a suitable mortgage?",
+   "a": "They will need details of your income, outgoings, deposit or equity, and the property you want to buy or remortgage. They may also ask about your credit history and future plans, because advice must be suitable for your circumstances."
+  },
+  {
+   "q": "Will a mortgage adviser also talk to me about protection?",
+   "a": "Many advisers will discuss protection such as life insurance or income protection alongside your mortgage, as it can affect your overall financial position. It is worth asking whether this is part of their service."
+  }
+ ],
+ "extra_heading": "Comparing several advisers without a ranking to rely on",
+ "extra": [
+  "Searching for top mortgage advisers near me suggests you expect to shortlist more than one, so it helps to ask each adviser the same questions and compare the answers side by side. Ask whether they search the whole of the market or a limited panel of lenders, how they are paid, and what qualification they hold, such as CeMAP. The answers, rather than any label, are what tell you who suits you.",
+  "One common misunderstanding is that a nearby adviser will automatically know your local housing market better than a distant one. In practice, what matters is whether the adviser understands your circumstances and can recommend a mortgage that is suitable for you, and advice must be suitable for your situation whichever firm you choose. Distance is mainly about how you prefer to meet, whether face to face, by phone or by video call.",
+  "It also helps to think about what kind of adviser you are comparing. Some work for a broker and can look across lenders, while others work for a single lender and can only offer that lender's products. Knowing which you are speaking to, and asking about protection alongside the mortgage, makes the comparison fairer."
+ ],
+ "extra_faqs": [
+  {
+   "q": "If I approach several mortgage advisers, will each one search the same lenders?",
+   "a": "Not necessarily. Brokers must tell you whether they search the whole of the market or a limited panel, so different advisers may look at different lenders. Ask each one the same question so you can compare their reach fairly."
+  },
+  {
+   "q": "Should I choose a local adviser or one who works for a lender?",
+   "a": "It depends on what you want. A broker may compare products across lenders, while an adviser working for a lender can only offer that lender's mortgages. Either way, check that they are authorised by the FCA and ask how they are paid before you go ahead."
+  }
+ ]
+}

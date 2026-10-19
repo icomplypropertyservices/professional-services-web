@@ -1,36 +1,71 @@
 ---
 slug: elderly-care-advisor-near-me
 title: Elderly Care Advisor Near Me | iComply Professional Services
-description: An elderly care adviser near you: get matched free with a suitable UK care advisor via iComply Professional Services. Request a quote — POA.
+description: Find an elderly care adviser near you with iComply: one free enquiry, matched to a suitable UK care advisor. No obligation. Request a quote — POA.
 family: care
 group: finance
 hub: care-advisors
 profession: care advisor
 service_label: Elderly care adviser
-og_image: /assets/images/hero-workshop.jpg
+og_image: /assets/images/finance-desk.jpg
 ---
 
 # Elderly Care Advisor Near Me
 
-If you have typed **elderly care advisor near me** into a search bar, you are likely looking for help soon and not too far away. Elderly care advisers support older people and families with care at home, residential options, funding and benefits.
+Searching for an elderly care advisor near me usually means you're trying to make sense of care options for an older relative or friend, and you want someone local who can explain what's available and how to pay for it. You might be facing a sudden hospital discharge, noticing that daily tasks have become harder, or planning ahead for the future. A care advisor can help you understand the choices and the support that exists.
 
-iComply Professional Services is a free matching service. You tell us what you need and where you are; we connect you with a suitable UK care advisor who can quote for the work. The practice provides the service, and every quote is POA.
+Elderly care advisers support older people and families with care at home, residential options, funding and benefits.
+
+We act as the middleman between you and the professional. Share a short brief and we match you with an elderly care adviser who has the right experience and capacity. Enquiring is free, and you are under no obligation to accept a quote.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Later-life care advice service ready to take on a new enquiry for elderly care advisor near me](/assets/images/hero-workshop.jpg)
+![Later-life care advice service ready to take on a new enquiry for elderly care advisor near me](/assets/images/finance-desk.jpg)
 
-## Where care advisors can help
+## What people searching for an elderly care advisor near me often need
 
-Every enquiry is different, but these are typical starting points for clients who contact care advisors:
+Every family's situation is different, but these are the kinds of practical questions that prompt this search.
 
-- Understanding how care is funded and assessed.
-- NHS Continuing Healthcare eligibility.
-- Selling a home to pay for care.
-- Comparing local care homes.
-- Choosing between home care and a care home.
+- You are wondering whether your parent can stay safely at home with some help, and what kind of home care might be arranged.
+- You need to understand how care is paid for, including what the local council might cover and what Attendance Allowance could provide.
+- You are considering a move to a residential home and want to know how to compare places and what questions to ask.
+- You are thinking about powers of attorney and want to put arrangements in place while your relative can still make their own decisions.
+- You have been told that home adaptations could make daily life easier and want to know what might be possible and who to approach.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of care advisor fits best.
+## From enquiry to quote in four steps
+
+1. **Enquire for free** with your town or postcode and a short description.
+1. **We clarify** anything unclear, so the introduction is useful from the start.
+1. **We connect you** with an elderly care adviser who suits your situation.
+1. **The practice takes over**, confirms scope and fees in writing and does the work.
+
+There is no charge to you for the introduction, and no obligation to accept any quote.
+
+## Understanding care advice and regulation
+
+Care homes and home care agencies in England are registered with the Care Quality Commission (CQC), which publishes inspection findings; Wales, Scotland and Northern Ireland have their own regulators. If advice involves financial products, such as immediate needs annuities, that part must be regulated by the Financial Conduct Authority (FCA), and the Society of Later Life Advisers (SOLLA) accredits specialist advisers. It is important to check whether the advice you receive is regulated.
+
+Local councils assess care needs and finances, and they must provide information and advice. An independent care advisor can help you understand the options and how they fit together, but they should be clear about whether their advice is regulated and what it covers.
+
+**Need an elderly care adviser?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
+
+## How fees usually work (POA)
+
+Care advisers may charge a fixed fee, an hourly rate, or (for regulated product advice) a fee or commission that must be disclosed. The adviser quotes you, POA.
+
+Ask whether initial guidance is free, and for written terms before detailed advice.
+
+## Key things to know about an elderly care adviser
+
+A few points come up again and again with an elderly care adviser:
+
+- Attendance Allowance may be available.
+- Home adaptations can help.
+- Plan powers of attorney.
+
+Raise any of these with the care advisor you are introduced to; they should be happy to explain.
+
+![Planning the first appointment after an enquiry for elderly care advisor near me](/assets/images/hero-workshop.jpg)
 
 ## How to check you are in safe hands
 
@@ -42,113 +77,82 @@ Adviser and advisor are simply two spellings of the same word. What matters is w
 
 iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
 
-## Costs and quotes for an elderly care adviser
+## Questions to ask the professional
 
-Care advisers may charge a fixed fee, an hourly rate, or (for regulated product advice) a fee or commission that must be disclosed. iComply does not publish fees; the adviser quotes you, POA.
+Asking a few direct questions early tells you a lot about how a practice works:
 
-Ask whether initial guidance is free, and for written terms before detailed advice.
-
-**Need an elderly care adviser?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
-
-## Finding an elderly care adviser near you
-
-When you search for an elderly care adviser near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
-
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
+- Are you regulated by the Financial Conduct Authority for any financial advice you give?
+- What experience do you have with situations like ours?
+- How do you charge for your services, and what will I receive for that?
+- Will you help us understand what the local council can provide and how to access it?
+- Can you explain the difference between care at home and residential care in our area?
+- What should we bring to our first meeting to make it as useful as possible?
 
 ## When to think twice
 
 Most professionals are honest and competent, but it is worth knowing the warning signs:
 
-- Unregulated advice on financial products
-- Advice that ignores entitlement to free care
+- Pressure to sell property quickly
 - Unclear fees
 - No mention of council assessments
+- Advice that ignores entitlement to free care
 
-## Questions to ask an elderly care adviser
-
-Asking a few direct questions early tells you a lot about how a practice works:
-
-- How do you compare care homes?
-- How does the property disregard or a deferred payment agreement work?
-- How do you charge?
-- Can you work with our solicitor?
-- What support do you offer after a decision?
-- What funding options are realistic in our situation?
-
-![Planning the first appointment after an enquiry for elderly care advisor near me](/assets/images/healthcare-consult.jpg)
-
-## What happens after you are introduced
-
-Once introduced, the adviser will discuss the situation and agree terms. Advice is between you and the adviser. iComply does not provide care or financial advice.
-
-## How our free matching service works
-
-1. **Enquire for free** with your town or postcode and a short description.
-1. **We clarify** anything unclear, so the introduction is useful from the start.
-1. **We connect you** with an elderly care adviser who suits your situation.
-1. **The practice takes over**, confirms scope and fees in writing and does the work.
-
-We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
-
-## Practical points about an elderly care adviser
-
-A few points come up again and again with an elderly care adviser:
-
-- Attendance Allowance may be available.
-- Home adaptations can help.
-- Plan powers of attorney.
-
-A good care advisor will talk you through each of these in plain English.
-
-## What to prepare before you enquire
+## What to tell iComply when you enquire
 
 A short, clear brief saves time on both sides. Useful details include:
 
-- Preferences about home or residential care
-- An overview of income, savings and property
-- Questions about funding
-- Where they live and where family live
-- The timescale, especially around hospital discharge
-- Powers of attorney in place
+- Describe the person needing care, including their age and any health conditions that affect daily life.
+- Explain what has changed recently, such as a hospital stay, a fall, or increasing difficulty with tasks like washing or cooking.
+- Say whether you are interested in care at home, residential care, or both.
+- Mention any financial questions you have, such as funding, benefits, or paying for care.
+- Let us know if you need help with legal matters like powers of attorney or home adaptations.
+- Tell us your rough location so we can introduce you to a professional who covers your area.
 
 Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
 ![Next steps after an iComply introduction for an elderly care adviser](/assets/images/insurance-advisory.jpg)
 
-## FAQs: an elderly care adviser
+## Elderly Care Advisor Near Me: FAQs
+
+### Do I need a care advisor if I can contact the council directly?
+
+The council must assess care needs and finances, and it can provide information and advice. An independent advisor can help you understand the options and prepare for that assessment, but you can approach the council yourself.
+
+### What is the difference between a care advisor and a financial advisor?
+
+A care advisor helps you navigate care options and practical arrangements. A financial advisor who is regulated by the Financial Conduct Authority can advise on financial products, such as annuities to pay for care.
+
+### Can a care advisor help with Attendance Allowance?
+
+Yes, many care advisors can explain Attendance Allowance and other benefits you may be entitled to. They can help you understand the application process, though they cannot make a claim for you.
+
+### How do I find a care advisor near me?
+
+You can search for local advisors through directories or ask organisations such as Citizens Advice for recommendations. iComply can introduce you to a professional who covers your area, and you can then check their credentials and ask about regulation.
 
 ### Who pays for care?
 
 It depends on needs, income and assets. Councils carry out financial assessments, and some people qualify for NHS Continuing Healthcare. An adviser can explain how the rules apply to you.
 
-### Can a care home take my house?
-
-Property may be counted in the financial assessment in some circumstances, but there are disregards and deferred payment options. Get advice early.
-
 ### Can you find an elderly care adviser in my area?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable later-life care advice service with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
-
-### How quickly will I hear back?
-
-Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
 
 ### Is iComply regulated?
 
 iComply is a matching service. We are not a care advisor and we do not give professional advice. The professionals we introduce are registered with their own bodies, and you can check them.
 
-### Do I have to accept a quote?
+### Is it free to use iComply?
 
-No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
+Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
 
-## Related searches
+## Other services you may need
 
-- [Care home advisor near me](/keywords/care-home-advisor-near-me/)
 - [Care advisor near me](/keywords/care-advisor-near-me/)
+- [Care home advisor near me](/keywords/care-home-advisor-near-me/)
 - [Browse all care advisors](/hubs/care-advisors/)
 
-## Ready to be matched?
+## Get a free quote for an elderly care adviser
 
 Tell us what you need and where you are. We will match you with a suitable care advisor, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
 

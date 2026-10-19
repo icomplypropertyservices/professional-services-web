@@ -1,0 +1,53 @@
+{
+ "intro": "You want to understand how your income, spending and assets fit together over time, and you'd like to speak to a cashflow planning adviser near you who can model that for you. iComply introduces you to a suitable UK financial adviser who will quote you directly. There's no obligation to proceed, and the quote is price on application.",
+ "need_heading": "What people searching for a cashflow planning adviser usually need",
+ "need_lead": "Most people want a clearer picture of whether their plans are realistic, and what could throw them off course.",
+ "needs": [
+  "You're approaching retirement and want to know whether your savings and pension will support the lifestyle you have in mind.",
+  "You're unsure whether you can afford to reduce your hours or stop working earlier than planned.",
+  "You want to see how a major expense, such as helping a child onto the property ladder, would affect your longer-term finances.",
+  "You'd like to understand how different assumptions about investment returns or inflation could change your outlook.",
+  "You want a stress test of your plan to see how it would cope with a market downturn or a period of higher inflation."
+ ],
+ "context_heading": "Why assumptions matter in cashflow planning",
+ "context": [
+  "A cashflow model is only as good as the assumptions behind it. Small changes to how long you live, what inflation does, or how investments perform can make a big difference to the picture, so it's worth asking the adviser to show you how sensitive your plan is to those factors.",
+  "Financial advice in the UK is regulated by the Financial Conduct Authority (FCA). You can check that any adviser or firm is authorised, or is an appointed representative of an authorised firm, on the FCA register. Advisers must also tell you whether their advice is independent or restricted, and how they charge."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you're looking for a cashflow planning adviser near you, so we can introduce you to someone who works in your area.",
+  "Say roughly what you'd like the plan to cover, such as retirement income, school fees, or a planned move.",
+  "Explain whether you already have savings, investments or pensions that the adviser would need to include in the model.",
+  "Let us know if you have a particular life event coming up, such as selling a business or receiving an inheritance.",
+  "Tell us whether you'd prefer to meet in person, speak by phone, or work online.",
+  "Include any preferences about the type of adviser, such as independent or restricted, so we can introduce you to a suitable professional."
+ ],
+ "questions_heading": "Questions to ask the adviser",
+ "questions": [
+  "What assumptions will you use in the cashflow model, and how will you show me the effect of changing them?",
+  "Will you stress test my plan against different market conditions and inflation rates?",
+  "How often will we look at the plan together, and what will that involve?",
+  "Are you independent or restricted, and how does that affect the advice you can give me?",
+  "How do you charge for building and updating a cashflow plan?",
+  "What information will you need from me to build an accurate model?"
+ ],
+ "faqs": [
+  {
+   "q": "What does a cashflow planning adviser actually do?",
+   "a": "They build a model of your income, spending and assets over time to show whether your goals are achievable. The model depends on assumptions, so they should explain those clearly and go through the plan with you regularly."
+  },
+  {
+   "q": "How do I check an adviser is properly authorised?",
+   "a": "You can check the FCA register to see if the adviser or firm is authorised, or is an appointed representative of an authorised firm. If something goes wrong, you can complain to the firm and then to the Financial Ombudsman Service."
+  },
+  {
+   "q": "Why is 'near me' important for cashflow planning?",
+   "a": "Working with someone nearby can make it easier to meet in person, especially for detailed discussions about your finances. It also means they'll have a good understanding of local factors that might affect your plan."
+  },
+  {
+   "q": "Will the adviser promise my plan will work out?",
+   "a": "No. Cashflow planning is based on assumptions and projections, not promises. The value of investments can go down as well as up, and your circumstances may change, so it's important to go through the plan together regularly."
+  }
+ ]
+}

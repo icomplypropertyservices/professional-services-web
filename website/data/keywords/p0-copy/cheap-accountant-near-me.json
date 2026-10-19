@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for a cheap accountant near you usually means you want straightforward help with your accounts or tax return without paying more than you need to. You might be self-employed, running a small business, or simply want someone local who can keep you right with HMRC. The good news is that you can compare what local accountants charge and what that fee actually covers, so you can judge value for yourself.",
+ "need_heading": "What people looking for a cheap accountant nearby usually need",
+ "need_lead": "Most people searching this way want a local accountant who can handle the essentials at a price that feels fair.",
+ "needs": [
+  "You are self-employed and need your Self Assessment tax return prepared and filed without paying for services you do not need.",
+  "You run a small limited company and want accounts and a confirmation statement prepared at a sensible cost.",
+  "You have recently started a business and want simple, clear help with your first set of accounts and tax obligations.",
+  "You want a local accountant you can speak to face to face or by phone, rather than dealing with a large call centre.",
+  "You have been doing your own accounts but want to hand over the paperwork to someone nearby who can keep you compliant."
+ ],
+ "context_heading": "Why cheap needs a closer look",
+ "context": [
+  "The word \"accountant\" is not a protected title in the UK, so anyone can call themselves one. That means the cheapest quote may not come from someone with a professional qualification. Titles such as Chartered Accountant, Chartered Certified Accountant and Chartered Management Accountant are protected, and members are bound by their body's rules on ethics, training and complaints.",
+  "Every accountancy practice must also be supervised for anti-money-laundering purposes, either by a professional body or by HMRC. Before you choose on price, it is worth asking which body supervises the firm, whether they hold professional indemnity insurance, and how complaints are handled. A low fee is only good value if the work is done properly."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say whether you are self-employed, a limited company director, or a landlord, as this affects what the accountant will need to do.",
+  "Mention the type of work you need, such as a Self Assessment tax return, annual accounts, or bookkeeping.",
+  "Explain roughly how many income and expense records you have each year, without using precise numbers if you prefer.",
+  "Say whether you are already registered for VAT or Making Tax Digital, as this changes the scope of the work.",
+  "Mention if you want someone who can meet in person locally, and how far you are willing to travel.",
+  "Note any deadlines coming up, such as a tax return due date, so the accountant knows how urgent it is."
+ ],
+ "questions_heading": "Questions to ask the accountant",
+ "questions": [
+  "What exactly does your fee cover, and which returns or filings are included?",
+  "How do you handle Making Tax Digital for my business?",
+  "Which professional body supervises your practice for anti-money-laundering purposes?",
+  "Do you hold professional indemnity insurance?",
+  "What is your process if I have a question or a problem with your work?",
+  "Will you help me plan ahead for tax and cash flow, or only file the paperwork?"
+ ],
+ "faqs": [
+  {
+   "q": "How can I tell if a cheap accountant is right for me?",
+   "a": "Ask what the fee includes and whether the person is a member of a protected title body such as ICAEW, ACCA or CIMA. A low price is only good value if the work is done properly and you understand what is covered."
+  },
+  {
+   "q": "Do I need a qualified accountant for a simple tax return?",
+   "a": "There is no legal requirement to use a qualified accountant for a Self Assessment tax return. However, a qualified member is bound by their body's rules on ethics and complaints, which can give you more reassurance."
+  },
+  {
+   "q": "What is Making Tax Digital and will a cheap accountant handle it?",
+   "a": "Making Tax Digital is HMRC's system for keeping digital records and submitting VAT returns. Ask any accountant you speak to how they handle it, as it may affect the fee."
+  },
+  {
+   "q": "Can I find a cheap accountant who is also local to me?",
+   "a": "Yes, many local practices offer competitive fees. iComply can introduce you to a UK accountant based on what you need, and they will quote you directly."
+  }
+ ],
+ "extra_heading": "Judging value when the fee is quoted on application",
+ "extra": [
+  "When you ask about a cheap accountant near you, the quote often comes as price on application rather than a figure on a page. That is not a dodge: the work varies so much between a single Self Assessment return and a limited company's accounts that a practice needs to know your situation before it can price fairly. Treat the conversation itself as part of the comparison.",
+  "Ask each accountant to set out in writing what the fee includes and, just as importantly, what it leaves out. Common extras are bookkeeping, payroll, VAT returns, year-end adjustments and the confirmation statement, so a low headline figure can climb once these are added. Comparing the whole package, not just the first number, is how you judge whether something is genuinely cheap for what you get.",
+  "It also helps to think about what a false economy looks like for your own circumstances. Missed deadlines, penalties and corrected filings usually cost more than the difference between a bargain quote and a fair one, and a practice that only files your paperwork without helping you plan may leave money on the table. A short first call is often enough to tell whether someone is listening to your situation or simply reading a price list."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Why do accountants quote price on application rather than a fixed fee?",
+   "a": "Because the work depends on your circumstances: your business structure, how tidy your records are, whether you are VAT registered and which filings you need. A practice that quotes blind may later add charges, so ask for the scope in writing before you compare."
+  },
+  {
+   "q": "Should I choose the lowest quote I receive?",
+   "a": "Not automatically. Check that the quote covers everything you need, that the practice is supervised for anti-money-laundering purposes, and that you are comfortable with how they handle questions and complaints. The lowest number is only meaningful once you know what sits behind it."
+  },
+  {
+   "q": "What should I have ready for a first conversation with a local accountant?",
+   "a": "A rough picture of your income and expenses, your business structure, whether you are registered for VAT or Making Tax Digital, and any deadlines coming up. With that, the accountant can give you a realistic quote and you can compare like with like."
+  }
+ ]
+}

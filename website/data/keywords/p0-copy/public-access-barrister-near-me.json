@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for a public access barrister near me, you likely want a barrister who can take your instructions directly, without going through a solicitor. This is for situations where you need specialist advocacy or advice and want to instruct a barrister yourself. We can introduce you to a suitable UK public access barrister who will assess your matter and quote you directly.",
+ "need_heading": "What people searching for a public access barrister near me usually need",
+ "need_lead": "You want direct access to a barrister for a matter that is suitable for public access, often because you need focused expertise or advocacy without instructing a solicitor first.",
+ "needs": [
+  "You are representing yourself in a court or tribunal case and need a barrister to advise on the law or present your case at a hearing.",
+  "You have a legal issue that requires specialist advice, such as a contract dispute or employment matter, and you want to instruct a barrister directly.",
+  "You are a professional, such as an accountant or surveyor, who needs a barrister's opinion for a client but does not want to go through a solicitor.",
+  "You are involved in a family or civil dispute and want a barrister to help you prepare documents or represent you at a hearing.",
+  "You have been quoted by a solicitor but want to explore instructing a public access barrister directly for a second opinion or advocacy."
+ ],
+ "context_heading": "Understanding public access barristers",
+ "context": [
+  "Public access barristers are registered with the Bar Standards Board to take instructions directly from clients for suitable matters. The barrister will first assess whether your case is suitable for public access, as some matters require a solicitor's involvement. If suitable, you will receive a client care letter setting out the terms, and fees are usually fixed per task.",
+  "Barristers in England and Wales are regulated by the Bar Standards Board. You can check the Barristers' Register to see whether someone holds a current practising certificate and whether they are authorised to accept instructions directly from the public. In Scotland, the equivalent professionals are advocates, regulated through the Faculty of Advocates."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Describe the type of legal matter you need help with, such as a hearing, advice, or document drafting.",
+  "Mention any upcoming deadlines or hearing dates so the barrister can assess urgency.",
+  "Explain whether you have already consulted a solicitor or have legal representation.",
+  "State your location and whether you are willing to travel or need remote services.",
+  "Indicate your budget range or whether you prefer fixed fees per task.",
+  "Include any relevant documents or background information you think is important."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you authorised to accept instructions directly from the public for my type of matter?",
+  "What is your experience in cases like mine?",
+  "How will you charge for your services, and can you provide a fixed fee estimate?",
+  "Will you be the person handling my case, or will it be passed to another barrister?",
+  "What information or documents do you need from me to get started?",
+  "How will we communicate, and what is your availability for meetings or hearings?"
+ ],
+ "faqs": [
+  {
+   "q": "What is a public access barrister?",
+   "a": "A public access barrister is a barrister registered with the Bar Standards Board to accept instructions directly from members of the public for suitable matters. This means you can instruct them without going through a solicitor."
+  },
+  {
+   "q": "Can I instruct a barrister directly for any case?",
+   "a": "Not always. The barrister will assess whether your matter is suitable for public access. Some cases may require a solicitor's involvement, and the barrister will advise you accordingly."
+  },
+  {
+   "q": "How do I check if a barrister is registered for public access?",
+   "a": "You can check the Barristers' Register to see whether a barrister holds a current practising certificate and is authorised to accept instructions directly from the public."
+  },
+  {
+   "q": "What are the fees for a public access barrister?",
+   "a": "Fees are usually fixed per task, but they vary depending on the barrister and the complexity of the work. You will receive a client care letter outlining the terms before any work begins."
+  }
+ ]
+}

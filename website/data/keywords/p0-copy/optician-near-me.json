@@ -1,0 +1,53 @@
+{
+ "intro": "Looking for an optician near you usually means something has changed with your eyes or your glasses, and you want it seen to without a long journey. Perhaps a test is overdue, a pair of glasses has broken, or your eyes have felt sore or gritty lately. Tell us what you need and we will introduce you to an opticians practice in your area, who will quote you directly.",
+ "need_heading": "What people searching for an optician near me usually need",
+ "need_lead": "Most people typing this search want a convenient practice they can reach easily, for one of a handful of everyday reasons.",
+ "needs": [
+  "You have noticed your vision has changed and want an eye examination to find out why.",
+  "Your current glasses are broken, scratched or uncomfortable and you need them repaired or replaced.",
+  "You are running low on contact lenses and want to sort out a supply close to home.",
+  "Your eyes have felt dry, gritty or irritated and you would like someone to take a proper look.",
+  "You have moved to a new area and want to register with a practice you can get to easily."
+ ],
+ "context_heading": "What to understand about opticians near you",
+ "context": [
+  "An eye examination is carried out by an optometrist, while dispensing opticians fit and supply glasses and, with extra training, contact lenses. Both must be registered with the General Optical Council, which you can check online before you book.",
+  "In many areas of the UK, community optometrists also provide minor eye condition and urgent eye care services, so it is worth asking what your local practice offers. If your eye is painful, suddenly changed or injured, seek urgent help rather than waiting for a routine appointment."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say what has prompted the search, such as a change in your vision, a broken frame or sore eyes.",
+  "Mention whether you are due a routine eye examination or need something more urgent.",
+  "Tell us whether you wear glasses, contact lenses, or both, and when you last had a test.",
+  "Include the town or area you would like the practice to be near, and how far you can travel.",
+  "Say whether you have a current prescription or need a new examination first.",
+  "Mention any extra help you need, such as accessibility, home visits or support with costs."
+ ],
+ "questions_heading": "Questions to ask the optician",
+ "questions": [
+  "Will the eye examination include a check on the health of my eyes as well as my vision?",
+  "Can I have a copy of my prescription once the examination is finished?",
+  "Do you offer OCT scans, and would one be useful in my case?",
+  "What would a repair or replacement of my current glasses involve?",
+  "Do you provide minor eye condition or urgent eye care services at this practice?",
+  "Can you talk me through the options for contact lenses and what fitting involves?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need an eye examination before I can order new glasses?",
+   "a": "Usually you will need a current prescription before new glasses can be made up, so the practice will advise whether an examination is needed first. If you already have a recent prescription, tell them when you enquire."
+  },
+  {
+   "q": "What is an OCT scan and should I ask about one?",
+   "a": "An OCT scan is a detailed imaging scan of the back of the eye that some practices offer alongside a standard examination. It is worth asking whether it is available and whether it would add anything in your situation."
+  },
+  {
+   "q": "Can an optician near me help with a sore or gritty eye?",
+   "a": "In many areas of the UK, community optometrists provide minor eye condition and urgent eye care services. Ask the practice what they can deal with directly, and seek urgent help if your eye is painful or your sight has suddenly changed."
+  },
+  {
+   "q": "How do I check that an optician is properly registered?",
+   "a": "Optometrists and dispensing opticians must be registered with the General Optical Council, and you can check the register online. It is a quick step worth taking before you book."
+  }
+ ]
+}

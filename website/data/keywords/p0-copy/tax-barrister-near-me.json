@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for a tax barrister near me, you are likely dealing with a tax dispute, an enquiry from HMRC, or a complex planning question that needs specialist legal insight. You want someone who understands tax law and can represent you before the tax tribunals or higher courts. We can introduce you to a suitable UK tax barrister who will quote you directly for the work.",
+ "need_heading": "What people searching for a tax barrister near me usually need",
+ "need_lead": "Most people looking for a tax barrister near me need expert help with a tax problem that has become too complex or serious for their accountant to handle alone.",
+ "needs": [
+  "You have received an enquiry letter from HMRC and need advice on how to respond and what your rights are.",
+  "You are facing a tax tribunal hearing and need a barrister to prepare your case and represent you.",
+  "You are planning a transaction or restructuring and need a legal opinion on the tax consequences.",
+  "You disagree with a decision by HMRC and want to know whether you have grounds to appeal.",
+  "Your accountant has suggested that you need a barrister's opinion to support your position."
+ ],
+ "context_heading": "Understanding how tax barristers work",
+ "context": [
+  "Tax barristers usually work from chambers and are regulated by the Bar Standards Board in England and Wales. You can check the Barristers' Register to confirm that a barrister holds a current practising certificate and is authorised to accept instructions directly from the public under the Public Access scheme. In Scotland, the equivalent professionals are advocates, regulated through the Faculty of Advocates.",
+  "Many tax barristers can be instructed through a solicitor in the traditional way, but those registered for Public Access can be instructed directly by members of the public for suitable matters. Accountants and tax advisers can often instruct barristers directly as well."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the tax issue you need help with, such as an HMRC enquiry, a tribunal appeal, or a planning question.",
+  "Mention any deadlines or hearing dates that are coming up, so we can understand the urgency.",
+  "Explain whether you have already involved an accountant or solicitor and whether they will continue to be involved.",
+  "Give an idea of the amount of tax at stake or the complexity of the issue, without quoting exact figures if you prefer not to.",
+  "State whether you are looking for advice, representation, or both.",
+  "Confirm your location and whether you are willing to travel or prefer to work remotely."
+ ],
+ "questions_heading": "Questions to ask the tax barrister",
+ "questions": [
+  "Are you authorised to accept instructions directly from the public under the Public Access scheme?",
+  "What is your experience with tax disputes and tribunal representation?",
+  "How do you charge for your work, and what are your estimated fees?",
+  "Will you be the person handling my case, or will it be passed to another barrister?",
+  "What information do you need from me to provide a quote?",
+  "Can you explain the likely process and timescales for my matter?"
+ ],
+ "faqs": [
+  {
+   "q": "Can I instruct a tax barrister directly without a solicitor?",
+   "a": "Yes, if the barrister is registered under the Public Access scheme, you can instruct them directly for suitable matters. Otherwise, you may need to go through a solicitor or your accountant."
+  },
+  {
+   "q": "How do I check if a tax barrister is regulated?",
+   "a": "You can check the Barristers' Register to see if someone holds a current practising certificate and is authorised to accept direct instructions. In Scotland, advocates are regulated by the Faculty of Advocates."
+  },
+  {
+   "q": "What information should I have ready before contacting a tax barrister?",
+   "a": "It helps to have a clear summary of your tax issue, any correspondence from HMRC, relevant dates, and an idea of what you want to achieve. This will help the barrister assess your case quickly."
+  },
+  {
+   "q": "Will a tax barrister near me be more expensive?",
+   "a": "Fees vary depending on the barrister's experience and the complexity of your case. It's best to ask for a quote and discuss your budget upfront; location may not be the main factor as many barristers work remotely."
+  }
+ ]
+}

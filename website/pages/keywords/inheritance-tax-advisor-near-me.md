@@ -1,94 +1,61 @@
 ---
 slug: inheritance-tax-advisor-near-me
 title: Inheritance Tax Advisor Near Me | iComply Professional Services
-description: Need an inheritance tax adviser near you? iComply connects you with a suitable UK tax practice. Free, no-obligation matching. Request a quote — POA.
+description: Find an inheritance tax adviser near you with iComply: one free enquiry, matched to a suitable UK tax adviser. No obligation. Request a quote — POA.
 family: tax
 group: accountancy
 hub: tax-advisors
 profession: tax adviser
 service_label: Inheritance tax adviser
-og_image: /assets/images/healthcare-consult.jpg
+og_image: /assets/images/insurance-advisory.jpg
 ---
 
 # Inheritance Tax Advisor Near Me
 
-Looking for **inheritance tax advisor near me** usually starts with a practical problem that needs a qualified person. Inheritance tax advisers plan lifetime gifts, trusts, reliefs such as business and agricultural relief, and wills to reduce tax lawfully.
+You're looking for an inheritance tax adviser near you because you want to understand how inheritance tax might affect your family and what can be done about it. Whether you're planning ahead or dealing with an estate, a local tax adviser can explain your options in plain terms. iComply introduces you to a suitable UK tax adviser who will quote you directly, with fees on application.
+
+Inheritance tax advisers plan lifetime gifts, trusts, reliefs such as business and agricultural relief, and wills to reduce tax lawfully.
 
 iComply Professional Services is a free matching service. You tell us what you need and where you are; we connect you with a suitable UK tax adviser who can quote for the work. The practice provides the service, and every quote is POA.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Tax practice ready to take on a new enquiry for inheritance tax advisor near me](/assets/images/healthcare-consult.jpg)
+![Tax practice ready to take on a new enquiry for inheritance tax advisor near me](/assets/images/insurance-advisory.jpg)
 
-## What tax advisers commonly help with
+## What people searching for an inheritance tax adviser near me usually need
 
-Tax advisers help clients in many situations. Some of the most common are:
+Most people want clear, local guidance on reducing inheritance tax lawfully while making sure their family is provided for.
 
-- Selling a property, shares or a business and wanting to understand the tax.
-- Income from overseas, or a move into or out of the UK.
-- A letter or enquiry from HMRC that needs a careful response.
-- A VAT question that could affect pricing or cash flow.
-- A business considering investment schemes such as EIS or SEIS.
+- You own a home and savings and want to know whether inheritance tax will apply to your estate.
+- You're thinking about giving money or property to family during your lifetime and want to understand the seven-year rule.
+- You have a business or farm and want to know how business or agricultural relief could affect what you pass on.
+- You're setting up a trust or updating your will and want to make sure it works alongside your inheritance tax planning.
+- You're dealing with an estate as an executor or family member and need advice on inheritance tax forms and deadlines.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of tax adviser fits best.
+## What to tell iComply when you enquire
 
-## Getting ready for your first conversation
+A short, clear brief saves time on both sides. Useful details include:
 
-You do not need all of this to enquire, but the more you can share, the better the match:
-
-- The names of any other advisers already involved
-- Copies of any HMRC letters, with reference numbers
-- A short summary of the question or problem in your own words
-- Any deadlines given by HMRC or a buyer or seller
-- The tax years involved
-- Whether you want a one-off answer or ongoing support
+- Give a rough outline of your estate, such as whether you own a home, have savings or hold investments.
+- Mention any business or agricultural assets, as these may affect reliefs.
+- Explain whether you are planning ahead or dealing with an estate after a death.
+- Say whether you already have a will and whether it has been updated recently.
+- Describe any gifts you have already made and when they were made.
+- Mention any trusts you have set up or are considering.
 
 Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
-## Costs and quotes for an inheritance tax adviser
+## Key things to know about an inheritance tax adviser
 
-Tax advice is usually charged by time or as a fixed fee for a defined piece of work, such as a written report or handling an HMRC enquiry. Complexity, deadlines and the amount at stake all affect the quote. iComply does not publish fees; the adviser you are matched with will quote you, POA.
-
-Ask whether the first conversation is free or chargeable, and ask for a written scope before detailed advice begins. If an HMRC enquiry is involved, ask whether you have fee protection insurance through an existing accountant.
-
-**Need an inheritance tax adviser?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
-
-## Before you choose an inheritance tax adviser
-
-These practical points are worth knowing before you speak to anyone about an inheritance tax adviser:
+A few points come up again and again with an inheritance tax adviser:
 
 - Gifts can fall out of the estate after seven years.
 - Relief rules are changing; get up-to-date advice.
 - Planning should fit your family's needs.
 
-Raise any of these with the tax adviser you are introduced to; they should be happy to explain.
+A good tax adviser will talk you through each of these in plain English.
 
-## What to ask before you instruct anyone
-
-Asking a few direct questions early tells you a lot about how a practice works:
-
-- Are you CTA or ATT qualified, or a member of another body?
-- Have you dealt with situations like mine before?
-- What are the main risks or uncertainties in my position?
-- Do you hold professional indemnity insurance?
-- How long will this take, and what happens next?
-- How do you charge for initial advice and for ongoing work?
-
-## How long things usually take
-
-Straightforward questions can often be answered within a couple of weeks. HMRC enquiries and appeals have their own deadlines, which should be included in your enquiry so we can prioritise advisers with capacity. Large transactions benefit from advice before contracts are signed, not after.
-
-![Planning the first appointment after an enquiry for inheritance tax advisor near me](/assets/images/finance-desk.jpg)
-
-## Finding an inheritance tax adviser near you
-
-When you search for an inheritance tax adviser near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
-
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
-
-## Your relationship with the practice
-
-Once introduced, the adviser will carry out identity checks, agree a written engagement and, where needed, get your authority to speak to HMRC. Advice and responsibility for it sit with the adviser, not with iComply.
+**Need an inheritance tax adviser?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
 ## Checking tax advisers are qualified and regulated
 
@@ -100,6 +67,34 @@ Adviser and advisor are simply two spellings of the same word. What matters is w
 
 Please note that iComply is a matching service only. We are not regulated as a tax adviser, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
 
+## How fees usually work (POA)
+
+Tax advice is usually charged by time or as a fixed fee for a defined piece of work, such as a written report or handling an HMRC enquiry. Complexity, deadlines and the amount at stake all affect the quote. The adviser you are matched with will quote you, POA.
+
+Ask whether the first conversation is free or chargeable, and ask for a written scope before detailed advice begins. If an HMRC enquiry is involved, ask whether you have fee protection insurance through an existing accountant.
+
+## Warning signs to watch for
+
+Be cautious if you notice any of the following:
+
+- Advice that relies on keeping information from HMRC
+- Schemes marketed as guaranteed or risk-free tax savings
+- Pressure to act quickly without written advice
+- Fees linked to a percentage of tax "saved" without clear terms
+
+![Client explaining what they need before being matched with an inheritance tax adviser](/assets/images/finance-desk.jpg)
+
+## Questions to ask the professional
+
+Asking a few direct questions early tells you a lot about how a practice works:
+
+- What qualifications and professional body memberships do you hold?
+- How do you charge for inheritance tax advice, and what will the fee cover?
+- Are you supervised for anti-money-laundering purposes, and do you have professional indemnity insurance?
+- How will you keep my advice up to date if inheritance tax rules change?
+- Will you work with my solicitor on my will, or do you provide that service yourself?
+- What information do you need from me to give accurate advice?
+
 ## How iComply matches you
 
 1. **Enquire for free** with your town or postcode and a short description.
@@ -109,45 +104,79 @@ Please note that iComply is a matching service only. We are not regulated as a t
 
 There is no charge to you for the introduction, and no obligation to accept any quote.
 
-![Professional reviewing a client's brief before an introduction for inheritance tax advisor near me](/assets/images/hero-workshop.jpg)
+## What to understand about inheritance tax advice
 
-## FAQs: an inheritance tax adviser
+Inheritance tax rules can change, and reliefs such as business and agricultural relief are subject to ongoing change. Advice that is a few years old may no longer reflect the current position, so it's worth checking that your adviser is up to date. A good adviser will explain how any planning fits your family's circumstances, not just the tax outcome.
 
-### Should I reply to HMRC before speaking to an adviser?
+Tax adviser is not a protected title in the UK, so anyone can call themselves one. The main specialist bodies are the Chartered Institute of Taxation, whose members hold the CTA qualification, and the Association of Taxation Technicians. Many accountants and solicitors also advise on inheritance tax.
 
-Note the deadline on the letter, but avoid sending a detailed reply before you have advice if the matter is complex. An adviser can often ask HMRC for more time where it is reasonable.
+## Choosing between a local adviser and one further afield
+
+Searching for an inheritance tax adviser near me usually means you would value sitting down with someone in person, perhaps with a partner or family member alongside you, and being able to ask questions without a screen in the way. That is a perfectly reasonable starting point, but it is worth knowing that the quality of the advice matters far more than the distance to the office.
+
+When you compare the local options, ask each one the same set of questions so you are judging like with like: their qualifications and professional body membership, whether they are supervised for anti-money-laundering purposes, whether they hold professional indemnity insurance, and how they charge. Because tax adviser is not a protected title, those answers tell you more about competence than a postcode does.
+
+It also helps to think about which part of inheritance tax you actually need help with. Planning lifetime gifts and trusts is a different piece of work from reporting an estate after a death, and some advisers are more comfortable with one than the other. Being clear about your situation before you enquire means the adviser you are introduced to is a sensible fit from the start.
+
+![Planning the first appointment after an enquiry for inheritance tax advisor near me](/assets/images/hero-workshop.jpg)
+
+## Inheritance Tax Advisor Near Me: FAQs
+
+### Do I need an inheritance tax adviser near me, or can I use someone further away?
+
+Many people prefer a local adviser for face-to-face meetings, but distance is not usually a barrier. What matters most is that the adviser has the right expertise for your situation and you feel comfortable working with them.
+
+### How do I know if an inheritance tax adviser is properly qualified?
+
+Tax adviser is not a protected title, so ask about qualifications and professional body membership. The Chartered Institute of Taxation and the Association of Taxation Technicians are the main specialist bodies, and their members follow a shared code of conduct.
+
+### Can an inheritance tax adviser help me reduce the tax on my estate?
+
+Yes, a good adviser can explain lawful ways to reduce inheritance tax, such as making gifts, using reliefs or setting up trusts. They will also make sure any planning fits your family's needs and that you understand the trade-offs.
+
+### What should I bring to a first meeting with an inheritance tax adviser?
+
+Bring a summary of your assets and liabilities, details of any gifts you have made, your will if you have one, and any trust documents. This helps the adviser give you accurate advice from the start.
+
+### Is it better to use an inheritance tax adviser in my own town?
+
+Local can be convenient for meetings, especially if you want to bring family along, but it is not the main thing to weigh up. Focus on qualifications, supervision and how the adviser explains things, and treat distance as a secondary consideration.
+
+### Will an adviser near me know about the specific reliefs that affect my estate?
+
+That depends on the adviser rather than the location, so ask directly about their experience with the reliefs that matter to you, such as business or agricultural relief. A good adviser will be honest if a particular area is outside their usual work.
+
+### Can I speak to more than one inheritance tax adviser before deciding?
+
+Yes, and comparing how each one explains your options and sets out their fees is a sensible way to choose. You are under no obligation to go ahead with any of them.
 
 ### Is tax planning legal?
 
 Using reliefs and allowances as Parliament intended is normal and legal. Aggressive avoidance schemes are a different matter and can carry serious risks. A qualified adviser will explain the difference clearly.
 
-### How do I find an inheritance tax adviser near me?
+### Can you find an inheritance tax adviser in my area?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable tax practice with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
-
-### Is it free to use iComply?
-
-Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
-
-### Do I have to accept a quote?
-
-No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
 
 ### Can I contact you on WhatsApp?
 
 Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
 
-## Related searches
+### Do I have to accept a quote?
 
-- [Best CSOP advisor near me](/keywords/best-csop-advisor-near-me/)
-- [Tax advisor near me](/keywords/tax-advisor-near-me/)
+No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
+
+## Other services you may need
+
+- [Best IR35 consultant near me](/keywords/best-ir35-consultant-near-me/)
 - [Tax appeal advisor near me](/keywords/tax-appeal-advisor-near-me/)
-- [Tax consultants near me](/keywords/tax-consultants-near-me/)
 - [Best IR35 advisor near me](/keywords/best-ir35-advisor-near-me/)
+- [Landlord tax advisor near me](/keywords/landlord-tax-advisor-near-me/)
+- [SEIS advisor near me](/keywords/seis-advisor-near-me/)
 - [Browse all tax advisers](/hubs/tax-advisors/)
 
-## Get a free quote for an inheritance tax adviser
+## Request your free quote
 
-Tell us what you need and where you are. We will match you with a suitable tax adviser, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
+One short enquiry is all it takes. We connect you with an inheritance tax adviser who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
 
 [Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

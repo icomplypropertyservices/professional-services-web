@@ -123,7 +123,7 @@ function ps_footer_html(string $brand, array $cfg): string
     return '<footer class="site-footer"><div class="footer-inner">'
         . '<div class="footer-brand"><a class="brand" href="/">iComply <span>Professional Services</span></a>'
         . '<p>We connect UK clients with solicitors, healthcare practices, accountants, advisers and brokers. '
-        . 'Practices receive the introduction. Engagements are <strong>POA</strong> — no fixed sterling catalogue prices.</p>'
+        . 'Practices receive the introduction. Quotes are <strong>POA</strong>.</p>'
         . '<p><a class="cta cta-primary" href="/contact/">Get a free quote</a></p></div>'
         . '<div class="footer-grid">'
         . '<div class="footer-col"><h3>Services</h3><ul>'
@@ -206,7 +206,6 @@ function ps_render_document(array $page): string
         . '<meta name="viewport" content="width=device-width, initial-scale=1">' . "\n"
         . '<title>' . ps_h($title) . '</title>' . "\n"
         . '<meta name="description" content="' . ps_h($description) . '">' . "\n"
-        . '<meta name="robots" content="noindex, nofollow">' . "\n"
         . '<link rel="canonical" href="' . ps_h($canonical) . '">' . "\n"
         . '<meta property="og:title" content="' . ps_h($title) . '">' . "\n"
         . '<meta property="og:description" content="' . ps_h($description) . '">' . "\n"

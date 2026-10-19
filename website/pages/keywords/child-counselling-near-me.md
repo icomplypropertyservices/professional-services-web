@@ -12,33 +12,27 @@ og_image: /assets/images/finance-desk.jpg
 
 # Child Counselling Near Me
 
-Searching for **child counselling near me**? You probably want someone suitable, available and within reach. Child counsellors use play, art and talk to help children and young people with anxiety, behaviour, family change and loss.
+Looking for child counselling near you usually means someone you care for is struggling and you want to find the right kind of help without travelling far. Perhaps your child is anxious, their behaviour has changed, or something difficult has happened in the family. We can introduce you to a UK counsellor who works with children, and they will discuss their approach and quote you directly.
 
-We act as the middleman between you and the professional. Share a short brief and we match you with counselling for a child who has the right experience and capacity. Enquiring is free, and you are under no obligation to accept a quote.
+Child counsellors use play, art and talk to help children and young people with anxiety, behaviour, family change and loss.
+
+iComply Professional Services is a free matching service. You tell us what you need and where you are; we connect you with a suitable UK counsellor who can quote for the work. The practice provides the service, and every quote is POA.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
 ![Planning the first appointment after an enquiry for child counselling near me](/assets/images/finance-desk.jpg)
 
-## Where counsellors can help
+## What parents searching for child counselling usually need
 
-You do not need to have everything worked out. Clients often come to us with situations like these:
+Most people who search for child counselling near me are trying to make sense of a change in a child they love and want to find the right support close to home.
 
-- Relationship difficulties or separation.
-- Problems with alcohol, drugs or other habits.
-- Grief after a death or loss.
-- Low mood or depression.
-- Support for a child or teenager.
+- Your child has become anxious or withdrawn and you are unsure whether this is a phase or something that needs professional help.
+- There has been a family change such as separation, a move or a bereavement, and your child is finding it hard to adjust.
+- Your child's behaviour at home or at school has changed and you want to understand what might be behind it.
+- You have noticed signs of low mood or worry in your child and want them to have someone outside the family to talk to.
+- Your child is struggling with friendships or school life and you would like support from someone experienced in working with young people.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of counsellor fits best.
-
-## Finding counselling for a child near you
-
-When you search for counselling for a child near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
-
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
-
-## Checking counsellors are qualified and regulated
+## Qualifications and registration to look for
 
 "Counsellor" and "psychotherapist" are not protected titles in the UK. To protect yourself, choose a practitioner on a register accredited by the Professional Standards Authority, such as BACP, UKCP or NCPS. Practitioner psychologists, who use titles such as clinical or counselling psychologist, must be registered with the HCPC.
 
@@ -46,22 +40,47 @@ Accredited registers require training, supervision, a code of ethics and a compl
 
 iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
 
+## What counselling for a child is likely to cost (POA)
+
+Private therapy is usually charged per session. Fees vary with the therapist's training, experience and location, and some offer reduced rates for people on lower incomes. The therapist quotes you, POA.
+
+Free talking therapies are also available through the NHS in England, and some employers offer support through an employee assistance programme. Ask your GP or HR team.
+
 **Need counselling for a child?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-## What happens after you are introduced
+## What to tell us when you enquire
 
-Once introduced, the therapist will usually offer a short call or first session to see whether you work well together. Therapy is confidential between you and them. iComply does not provide therapy or medical advice.
+You do not need all of this to enquire, but the more you can share, the better the match:
 
-## Good questions for your first call
+- The age of your child, as counsellors who work with younger children may use different approaches from those working with teenagers.
+- A short description of what you have noticed, such as anxiety, behaviour changes, low mood or difficulty at school.
+- Whether anything has changed recently in the family, such as a separation, bereavement or move.
+- Whether your child knows about the idea of counselling and how they feel about it.
+- Any preferences about location or whether you would like sessions to happen at school or another setting.
+- Whether you would like to be involved in sessions or kept informed, as parents are usually involved appropriately depending on the child's age.
 
-Once you are introduced, these questions help you decide whether the counsellor is right for you:
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
-- Which accredited register are you on?
-- Do you have experience with problems like mine?
-- How will we review whether therapy is helping?
-- What kind of therapy do you offer, and how does it work?
-- What are your confidentiality rules?
-- What happens if I need to cancel?
+## Practical points about counselling for a child
+
+A few points come up again and again with counselling for a child:
+
+- Check child-specific training and safeguarding.
+- Parents are involved appropriately.
+- Schools may offer support.
+
+Raise any of these with the counsellor you are introduced to; they should be happy to explain.
+
+![Counselling practice ready to take on a new enquiry for child counselling near me](/assets/images/healthcare-consult.jpg)
+
+## Red flags when choosing counselling for a child
+
+Most professionals are honest and competent, but it is worth knowing the warning signs:
+
+- Promises of a quick cure
+- No membership of an accredited register
+- Pressure to commit to many sessions
+- No clear explanation of confidentiality
 
 ## How our free matching service works
 
@@ -72,53 +91,42 @@ Once you are introduced, these questions help you decide whether the counsellor 
 
 There is no charge to you for the introduction, and no obligation to accept any quote.
 
-![Counselling practice ready to take on a new enquiry for child counselling near me](/assets/images/healthcare-consult.jpg)
+## Understanding child counselling and how to choose safely
 
-## Key things to know about counselling for a child
+Because children often find it easier to express themselves through play or creative activity, the sessions may look different from adult talking therapy.
 
-These practical points are worth knowing before you speak to anyone about counselling for a child:
+The titles counsellor and psychotherapist are not protected in the UK, so it is worth checking that the practitioner is on a register accredited by the Professional Standards Authority, such as BACP, UKCP or NCPS.
 
-- Check child-specific training and safeguarding.
-- Parents are involved appropriately.
-- Schools may offer support.
+## Questions to ask the counsellor
 
-Raise any of these with the counsellor you are introduced to; they should be happy to explain.
+Asking a few direct questions early tells you a lot about how a practice works:
 
-## Red flags when choosing counselling for a child
-
-Be cautious if you notice any of the following:
-
-- Promises of a quick cure
-- No clear explanation of confidentiality
-- Blurred professional boundaries or contact outside sessions
-- No membership of an accredited register
-
-## What counselling for a child is likely to cost (POA)
-
-Private therapy is usually charged per session. Fees vary with the therapist's training, experience and location, and some offer reduced rates for people on lower incomes. iComply does not publish prices; the therapist quotes you, POA.
-
-Free talking therapies are also available through the NHS in England, and some employers offer support through an employee assistance programme. Ask your GP or HR team.
-
-## Information that helps us match you
-
-A short, clear brief saves time on both sides. Useful details include:
-
-- Your availability, including evenings
-- Whether you have tried therapy before and what helped
-- Your budget expectations, so the practitioner can be honest about fit
-- How long you have been feeling this way
-- Whether you prefer in-person, video or phone sessions
-- What you would like help with, in a sentence or two
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+- What training and experience do you have in working with children of my child's age?
+- Which professional register are you on, and is it accredited by the Professional Standards Authority?
+- How do you usually work with children, for example through play, art or talking?
+- What will you explain to my child about confidentiality, and what are its limits?
+- How will you involve me as a parent, and how will we look at progress together?
+- Do you work with schools, and could sessions take place there if that suits my child better?
 
 ![Client explaining what they need before being matched with counselling for a child](/assets/images/hero-workshop.jpg)
 
-## FAQs: counselling for a child
+## FAQs about child counselling near me
 
-### What is the difference between counselling and psychotherapy?
+### How do I know a child counsellor is properly trained?
 
-The terms overlap. Counselling often focuses on a specific problem over a shorter period, while psychotherapy may explore deeper patterns over a longer time. A good practitioner will explain their approach.
+The titles counsellor and psychotherapist are not protected in the UK, so check that the practitioner is on a register accredited by the Professional Standards Authority, such as BACP, UKCP or NCPS. Accredited registers require training, supervision, a code of ethics and a complaints procedure, and it is reasonable to ask about child-specific training and safeguarding.
+
+### Will I be involved in my child's counselling?
+
+Parents are usually involved appropriately, though the exact arrangement depends on the child's age and what they are working through. It is worth asking the counsellor how they keep you informed while giving your child a safe space to talk.
+
+### Can my child get counselling support through school?
+
+Schools may offer support, so it is worth speaking to your child's school about what is available. If school support is not suitable or available, a counsellor working locally may be able to help.
+
+### What if my child is anxious about the idea of counselling?
+
+It is common for children to feel uncertain at first, and a counsellor experienced in working with young people will explain what sessions involve in a way your child can understand. You can ask how they help children feel comfortable before the first session.
 
 ### Can I get therapy on the NHS?
 
@@ -128,29 +136,25 @@ Yes. In England you can refer yourself to NHS Talking Therapies. Waiting times v
 
 Send us your town or postcode with a short description of what you need. We look for a suitable counselling practice with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
 
-### Do I have to accept a quote?
-
-No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
-
-### Is it free to use iComply?
-
-Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
-
 ### How quickly will I hear back?
 
 Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
 
-## People also look for
+### Can I contact you on WhatsApp?
 
-- [Private therapist near me](/keywords/private-therapist-near-me/)
-- [CBT therapist near me](/keywords/cbt-therapist-near-me/)
-- [ADHD counselling near me](/keywords/adhd-counselling-near-me/)
-- [Alcohol counselling near me](/keywords/alcohol-counselling-near-me/)
-- [Depression counselling near me](/keywords/depression-counselling-near-me/)
+Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
+
+## Related searches
+
+- [Autism counselling near me](/keywords/autism-counselling-near-me/)
+- [Cognitive behavioural therapist near me](/keywords/cognitive-behavioural-therapist-near-me/)
+- [Eating disorder counselling near me](/keywords/eating-disorder-counselling-near-me/)
+- [Addiction counselling near me](/keywords/addiction-counselling-near-me/)
+- [Bereavement counselling near me](/keywords/bereavement-counselling-near-me/)
 - [Browse all counsellors](/hubs/private-therapy/)
 
-## Ready to be matched?
+## Get a free quote for counselling for a child
 
-One short enquiry is all it takes. We connect you with counselling for a child who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
+Tell us what you need and where you are. We will match you with a suitable counsellor, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
 
 [Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

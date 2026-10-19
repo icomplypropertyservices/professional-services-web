@@ -1,0 +1,73 @@
+{
+ "intro": "When something goes badly wrong with your animal, you need help fast, and searching for an emergency vet usually means you are dealing with exactly that kind of moment. You may be facing a road accident, a suspected poisoning, a pet struggling to breathe or a difficult birth, and you need to know where to go and who to call. iComply can introduce you to a UK vet who handles urgent cases and quotes you directly, with the price on application.",
+ "need_heading": "What people searching for an emergency vet usually need",
+ "need_lead": "Urgent animal problems rarely happen at a convenient time, so the priority is reaching someone equipped to act straight away.",
+ "needs": [
+  "Your pet has been hit by a car or taken a fall and needs to be seen without delay.",
+  "You suspect your animal has swallowed something poisonous, such as medication, antifreeze or a toxic plant.",
+  "Your pet is struggling to breathe, has collapsed or is showing signs of bloat, which can worsen quickly.",
+  "A dog or cat is having a difficult birth and you are worried about the mother or the young.",
+  "Your usual practice is closed and you need to know where to take an animal that cannot wait until morning."
+ ],
+ "context_heading": "Phoning ahead and knowing who is treating your animal",
+ "context": [
+  "In a genuine emergency, phone the clinic before you set off so the team can prepare for your arrival, then travel straight there. If your animal may have swallowed something, bring the packaging with you, as it helps the vet understand what was taken and how to treat it.",
+  "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons, and you can search the RCVS register by name before you book. Emergency clinics usually send records back to your normal practice afterwards, so your own vet stays informed about what happened."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the species and breed of your animal and roughly how old it is.",
+  "Explain what has happened and when the problem started, including any accident, poisoning or sudden collapse.",
+  "Say whether your animal is breathing normally, conscious and able to stand.",
+  "Mention any known health conditions, medication or allergies your animal has.",
+  "Tell us your location and how far you are able to travel for urgent care.",
+  "Say whether you have a usual practice and whether they have already been contacted."
+ ],
+ "questions_heading": "Questions to ask the emergency vet",
+ "questions": [
+  "Are you able to see my animal straight away, and should I phone ahead before I set off?",
+  "What should I do for my animal on the way to you?",
+  "Will you send records of the treatment back to my normal practice afterwards?",
+  "Do you hold an RCVS certificate or advanced practitioner status in the kind of problem my animal has?",
+  "What will happen when we arrive, and who will be treating my animal?",
+  "If my animal needs care overnight, what are the arrangements for that?"
+ ],
+ "faqs": [
+  {
+   "q": "Should I phone before taking my animal to an emergency vet?",
+   "a": "Yes, in a genuine emergency it helps to phone ahead so the team can prepare for your arrival. Then travel straight there rather than waiting for a call back."
+  },
+  {
+   "q": "What should I bring with me?",
+   "a": "Bring the packaging of anything your animal may have swallowed, as it helps the vet identify what was taken. Any medication your animal is on, and its usual practice details, are also useful."
+  },
+  {
+   "q": "How can I check that a vet is properly registered?",
+   "a": "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons. You can search the RCVS register by name before you book, and veterinary nurses have their own register too."
+  },
+  {
+   "q": "Will my normal vet find out what happened?",
+   "a": "Emergency clinics usually send records back to your normal practice afterwards. It is worth mentioning your usual practice when you arrive so the notes reach the right place."
+  }
+ ],
+ "extra_heading": "If your usual practice is closed",
+ "extra": [
+  "Searching for an emergency vet often happens when your own practice has shut for the evening or the weekend, and the first thing to establish is who is covering out-of-hours care in your area. Many practices arrange cover through a dedicated emergency clinic rather than staying open themselves, so it is worth checking your practice's phone message or asking when you call. Knowing this in advance saves precious time when something actually goes wrong.",
+  "It also helps to keep a note of the out-of-hours arrangement somewhere you can find it quickly, along with your animal's usual practice details and any medication it takes. When your pet is unwell, you do not want to be searching for a phone number in a panic. If you are unsure who covers your area, iComply can introduce you to a UK vet who handles urgent cases and quotes you directly, with the price on application.",
+  "If you are travelling with your animal, or your pet is staying with someone else when something happens, the same applies: find out who provides emergency cover near where the animal actually is, not where you normally live. Phoning ahead so the team can prepare still matters, and bringing the packaging of anything swallowed helps whoever treats your animal."
+ ],
+ "extra_faqs": [
+  {
+   "q": "What if my own vet is closed and I do not know who covers emergencies?",
+   "a": "Check your practice's phone message, which usually explains the out-of-hours arrangement, or call the practice number and follow the instructions. If you still cannot find out, iComply can introduce you to a UK vet who handles urgent cases."
+  },
+  {
+   "q": "Does it matter which emergency vet I go to?",
+   "a": "It is worth asking whether the vet treating your animal holds an RCVS certificate or advanced practitioner status in the relevant kind of problem, particularly for complex cases. You can also search the RCVS register by name before you book."
+  },
+  {
+   "q": "Will going to an emergency clinic affect my normal practice?",
+   "a": "Emergency clinics usually send records back to your normal practice afterwards, so your own vet stays informed. Mentioning your usual practice when you arrive helps the notes reach the right place."
+  }
+ ]
+}

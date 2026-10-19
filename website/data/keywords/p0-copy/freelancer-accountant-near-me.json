@@ -1,0 +1,53 @@
+{
+ "intro": "You're self-employed and looking for an accountant who understands freelancer finances, not just general bookkeeping. Whether you're a sole trader or thinking about incorporation, you want someone nearby who can handle Self Assessment, VAT and the quirks of freelance income.",
+ "need_heading": "What freelancers usually need from an accountant",
+ "need_lead": "Freelancers often have irregular income, multiple income streams and expenses that are easy to overlook, so the right accountant helps you stay compliant and plan ahead.",
+ "needs": [
+  "You're unsure whether to register as a sole trader or set up a limited company, and want to understand the tax and admin differences.",
+  "You have income from several clients or platforms and need help keeping records straight for Self Assessment.",
+  "You're approaching the VAT threshold and want advice on when and how to register.",
+  "You work with overseas clients or sell through online platforms and need to know how that affects your UK tax.",
+  "You want to understand Making Tax Digital for Income Tax and what it will mean for your record-keeping."
+ ],
+ "context_heading": "Why 'accountant' isn't a protected title",
+ "context": [
+  "In the UK, anyone can call themselves an accountant, but titles like Chartered Accountant, Chartered Certified Accountant and Chartered Management Accountant are protected. That means checking which professional body a firm belongs to tells you they are bound by ethics, training and complaints rules.",
+  "Every accountancy practice must also be supervised for anti-money-laundering purposes, either by a professional body or by HMRC. It's reasonable to ask which body supervises a firm, whether they have professional indemnity insurance, and how they handle complaints."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say that you're a freelancer and what kind of work you do, so we can introduce you to an accountant familiar with your sector.",
+  "Mention whether you're a sole trader, a limited company director, or still deciding, as this affects the advice you need.",
+  "Let us know if you have income from abroad, from online platforms, or from multiple sources.",
+  "Tell us if you're already VAT registered or close to the threshold, and whether you need help with Making Tax Digital.",
+  "Include your rough annual turnover range and how many years you've been freelancing, so the accountant can gauge complexity.",
+  "Say whether you need ongoing support or just help with a one-off Self Assessment or tax question."
+ ],
+ "questions_heading": "Questions to ask the accountant",
+ "questions": [
+  "Are you experienced with freelancers and the kinds of income and expenses we typically have?",
+  "Which professional body are you a member of, and how are complaints handled?",
+  "How do you charge for your work, and what's included in your fee?",
+  "Can you help me decide between sole trader and limited company status?",
+  "How do you handle Making Tax Digital for Income Tax, and what records will I need to keep?",
+  "What's your approach to expenses that are partly personal and partly business?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need an accountant if I'm a freelancer with simple tax affairs?",
+   "a": "Not necessarily, but an accountant can help you avoid common pitfalls, claim allowable expenses you might miss, and plan for VAT or incorporation. If your income is straightforward, you might only need one-off advice."
+  },
+  {
+   "q": "What's the difference between a sole trader and a limited company for a freelancer?",
+   "a": "As a sole trader you're personally liable for business debts and file a Self Assessment tax return; as a limited company you're a director and the company is separate, with different tax and reporting rules. An accountant can explain which suits your circumstances."
+  },
+  {
+   "q": "How does Making Tax Digital affect freelancers?",
+   "a": "Making Tax Digital for Income Tax will require many self-employed people and landlords to keep digital records and use compatible software to submit updates. An accountant can tell you when it applies to you and how to prepare."
+  },
+  {
+   "q": "Can an accountant help if I work with overseas clients?",
+   "a": "Yes, an accountant can advise on how foreign income is taxed in the UK, any double taxation relief, and how to record it correctly. They can also help with platform income and any reporting obligations."
+  }
+ ]
+}

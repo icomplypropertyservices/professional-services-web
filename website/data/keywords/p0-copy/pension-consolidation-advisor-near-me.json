@@ -1,0 +1,69 @@
+{
+ "intro": "You're looking for a pension consolidation adviser near you because you have several old pensions and want to know whether combining them makes sense. Perhaps you've changed jobs a few times and lost track of what you've built up, or you're unsure whether the charges you're paying are reasonable. A local adviser can look at your pots and give you a personal recommendation.",
+ "need_heading": "What people searching for a pension consolidation adviser near me usually need",
+ "need_lead": "Most people in this situation want a clear, face-to-face answer on whether merging their pensions is a good idea.",
+ "needs": [
+  "You have several workplace or personal pensions from different employers and want to know if bringing them together would simplify things.",
+  "You suspect some of your older pensions carry higher charges than they should, and you want an adviser to check the costs before you decide.",
+  "You are worried about losing valuable protections or benefits, such as a promised annuity rate, if you move your money.",
+  "You have a defined benefit (final salary) pension and are considering transferring it, which requires specialist advice above a certain value.",
+  "You would prefer to speak to someone local who can explain the pros and cons in person rather than online."
+ ],
+ "context_heading": "What to understand about pension consolidation advice",
+ "context": [
+  "Pension consolidation advisers check old pensions for charges, protections and exit fees before recommending whether to combine them. They look at whether lower charges could help your savings grow, but they also warn you if you would lose valuable protections by transferring. Not every pension should be consolidated, and a good adviser will tell you if leaving things as they are is the better choice.",
+  "Financial advice in the UK is regulated by the Financial Conduct Authority (FCA). You can check that any adviser or firm is authorised, or is an appointed representative of an authorised firm, on the FCA register. If something goes wrong you can complain to the firm, then to the Financial Ombudsman Service, and the Financial Services Compensation Scheme may protect you if an authorised firm fails. If you have a defined benefit pension, advice on transferring out above a set value must come from an adviser with pension transfer specialist permissions. Free, impartial guidance is available from Pension Wise for people with defined contribution pensions who have reached the age when it applies."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "List the pensions you currently hold, including the type of each scheme (workplace, personal, defined benefit or defined contribution) and roughly how long you have held them.",
+  "Mention whether you have any protected benefits or safeguarded features, such as a promised annuity rate, because these can be lost on transfer.",
+  "Say whether you have already found any lost pensions using the Pension Tracing Service, or whether you need help locating them.",
+  "Explain what you hope to achieve by consolidating, for example simpler administration, lower charges or better investment choice.",
+  "Note your preferred way of working with an adviser, such as meeting in person locally or speaking by phone or video.",
+  "Include your postcode or area so iComply can introduce you to a suitable adviser near you."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you authorised by the Financial Conduct Authority to give pension consolidation advice, and what are your pension transfer specialist permissions?",
+  "How will you assess my existing pensions for charges, exit fees and any protections before recommending consolidation?",
+  "What would I lose if I transferred my defined benefit pension, and how does the advice process differ for safeguarded benefits?",
+  "How do you charge for your advice, and will you set out all costs in writing before I commit?",
+  "What happens if I change my mind after consolidating, and are there any penalties or loss of benefits?",
+  "Can you explain how the Financial Ombudsman Service and Financial Services Compensation Scheme would apply to your advice?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a local adviser for pension consolidation?",
+   "a": "Not necessarily, but many people prefer to meet in person. A local adviser can look at your pensions face to face and explain whether consolidation is right for you, while still being regulated by the Financial Conduct Authority."
+  },
+  {
+   "q": "Will consolidating my pensions lose me any protections?",
+   "a": "It can. Some older pensions carry valuable protections, such as a promised annuity rate, that are lost on transfer. An adviser will check for these before making a recommendation."
+  },
+  {
+   "q": "Can I consolidate a defined benefit pension?",
+   "a": "Transferring out of a defined benefit (final salary) scheme above a set value requires advice from an adviser with pension transfer specialist permissions. Safeguarded benefits deserve particular care, and free guidance is available from Pension Wise for people with defined contribution pensions who have reached the age when it applies."
+  },
+  {
+   "q": "How do I check an adviser is properly authorised?",
+   "a": "You can check that any adviser or firm is authorised, or is an appointed representative of an authorised firm, on the FCA register. If something goes wrong you can complain to the firm, then to the Financial Ombudsman Service, and the Financial Services Compensation Scheme may protect you if an authorised firm fails."
+  }
+ ],
+ "extra_heading": "Tracking down old pensions before you consolidate",
+ "extra": [
+  "Searching for a pension consolidation adviser near you often means part of the problem is that you are not entirely sure what you have. Old workplace schemes from previous employers can be easy to lose touch with, especially if you moved house or changed name, and an adviser can only assess what is actually there. The government's Pension Tracing Service is free to use and can help you find contact details for schemes you have lost track of, so it is worth doing this before your first meeting.",
+  "When you do meet an adviser locally, a useful first appointment is mostly about gathering facts rather than making a decision. Expect to go through each scheme's paperwork, statements and any letters about charges or exit fees, and to talk about what you want your retirement to look like. Nothing should be recommended on the day, and a careful adviser will want to check the detail of every pot before saying whether combining them helps or harms you.",
+  "It also helps to think about what consolidation can and cannot do. Bringing pots together may make them simpler to keep an eye on and could reduce charges, which can help growth over time, but it will not turn a poor-value pension into a good one on its own. If one of your schemes carries a promised annuity rate or other safeguarded feature, the adviser should flag this early, because those protections can be lost once you transfer."
+ ],
+ "extra_faqs": [
+  {
+   "q": "I have lost track of an old workplace pension. Can an adviser find it for me?",
+   "a": "An adviser can help you work through what you remember, but the Pension Tracing Service is the free starting point for finding contact details of schemes you have lost track of. Once you have the scheme details, a pension consolidation adviser can assess charges, exit fees and any protections before recommending whether to combine it with your other pots."
+  },
+  {
+   "q": "Should I gather my pension paperwork before contacting iComply?",
+   "a": "It is not essential, but it makes the first conversation much more useful. Knowing roughly which schemes you hold, what type they are and whether any safeguarded benefits apply helps us introduce you to a suitable local adviser, who will then quote you directly."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "intro": "You're comparing conveyancers because you're buying, selling or remortgaging a property and need someone to handle the legal side. You want to understand what conveyancers do, how they differ, and what to check before you instruct one. We introduce you to a suitable UK conveyancer who will quote you directly, with fees on application.",
+ "need_heading": "What people searching for conveyancers usually need",
+ "need_lead": "Most people looking for conveyancers are at the start of a property transaction and want clear, reliable legal support.",
+ "needs": [
+  "You've had an offer accepted on a house and need a conveyancer to check the title and carry out searches before you exchange contracts.",
+  "You're selling your home and want a conveyancer to prepare the legal pack and deal with enquiries from the buyer's side.",
+  "You're remortgaging and your lender needs a conveyancer to handle the legal work and register the new charge.",
+  "You've been told by your lender that you must use a conveyancer on their panel, and you need help finding one that meets that requirement.",
+  "You're buying a leasehold flat and want a conveyancer who understands the extra checks needed for service charges and lease terms."
+ ],
+ "context_heading": "One key thing to understand about conveyancers",
+ "context": [
+  "Conveyancing in England and Wales is a reserved legal activity, so it must be carried out by a solicitor regulated by the Solicitors Regulation Authority or a licensed conveyancer regulated by the Council for Licensed Conveyancers. Both must hold professional indemnity insurance and follow strict rules on handling client money. In Scotland, property transactions are handled by solicitors under Scottish law.",
+  "Many lenders only work with conveyancers on their panel, and the Law Society's Conveyancing Quality Scheme is a common accreditation. Before you instruct a firm, check that it is on your lender's panel, as this can affect your mortgage offer."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Tell us whether you are buying, selling, remortgaging or doing more than one of these.",
+  "Let us know the property type, such as freehold or leasehold, and whether it is a house or a flat.",
+  "Mention where the property is located, as conveyancing rules differ across the UK.",
+  "Tell us if you have a mortgage lender and whether you need a conveyancer on their panel.",
+  "Share any timescales you are working towards, such as a preferred completion date.",
+  "Let us know if you have already instructed a conveyancer or if you are starting fresh."
+ ],
+ "questions_heading": "Questions to ask the conveyancer",
+ "questions": [
+  "Are you regulated by the Solicitors Regulation Authority or the Council for Licensed Conveyancers?",
+  "Are you on my lender's panel for this mortgage?",
+  "What are your fees and what do they include, such as searches and disbursements?",
+  "How will you keep me updated on progress, and who will be my main point of contact?",
+  "What is your approach to leasehold properties if mine is leasehold?",
+  "How do you handle client money, and what insurance do you hold?"
+ ],
+ "faqs": [
+  {
+   "q": "What is the difference between a solicitor and a licensed conveyancer?",
+   "a": "Solicitors are regulated by the Solicitors Regulation Authority and can offer a wider range of legal services, while licensed conveyancers are regulated by the Council for Licensed Conveyancers and specialise in property law. Both are qualified to handle conveyancing and must hold professional indemnity insurance."
+  },
+  {
+   "q": "Do I have to use a conveyancer on my lender's panel?",
+   "a": "Many lenders require you to use a conveyancer on their approved panel, so it's important to check before you instruct one. If your chosen conveyancer is not on the panel, your lender may not accept them, which could delay your mortgage."
+  },
+  {
+   "q": "When should I instruct a conveyancer?",
+   "a": "It's best to instruct a conveyancer as soon as your offer is accepted, so they can start the legal work and avoid delays. If you're selling, you can instruct before you find a buyer to prepare the legal pack."
+  },
+  {
+   "q": "How can I check that a conveyancer is properly regulated?",
+   "a": "You can check the Solicitors Regulation Authority or the Council for Licensed Conveyancers public registers to confirm that a conveyancer is regulated. Both regulators maintain public registers of the professionals they regulate."
+  }
+ ],
+ "extra_heading": "Comparing several conveyancers before you choose",
+ "extra": [
+  "Searching for conveyancers in the plural suggests you are weighing up more than one firm rather than taking the first name you are given. That is a sensible position to be in, because quotes for conveyancing are usually given on application, so the figures only become clear once you have described your transaction to each firm and asked what their fee covers.",
+  "When you compare, ask each conveyancer the same questions so the answers sit side by side: whether they are regulated by the Solicitors Regulation Authority or the Council for Licensed Conveyancers, whether they are on your lender's panel, what their fee includes beyond the basic legal work, and which searches and disbursements are charged on top. A quote that looks modest can grow once search fees, Land Registry charges and leasehold supplements are added, so ask for the full picture in writing before you decide.",
+  "It also helps to compare how each firm communicates, since conveyancing involves waiting on searches, enquiries and other parties, and you will want to know how and when you will be updated. Instruct early once you have chosen, because delays at the start tend to follow you through to exchange and completion. Always verify a firm's bank details by phone before sending any money, using a number you have looked up independently rather than one given in an email."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Can I ask more than one conveyancer for a quote before choosing?",
+   "a": "Yes, it is normal to approach several firms for a quote so you can compare what each one offers and what their fee includes. Quotes are usually given on application, so be ready to describe whether you are buying, selling or remortgaging, the property type and your lender."
+  },
+  {
+   "q": "Why do conveyancers give quotes on application rather than a fixed figure?",
+   "a": "The work involved varies with the property and the transaction, so a conveyancer needs some detail before setting out their fee. Leasehold flats, for example, usually need extra checks on service charges and lease terms that a simple freehold purchase does not."
+  },
+  {
+   "q": "What should I have ready when I contact several conveyancers?",
+   "a": "Have the property address, whether you are buying, selling or remortgaging, the property type, your lender's details and any target dates to hand. That lets each firm quote on the same basis, so the comparison is fair."
+  }
+ ]
+}

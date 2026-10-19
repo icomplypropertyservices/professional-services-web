@@ -1,0 +1,73 @@
+{
+ "intro": "You've searched for an immigration consultant near you, which usually means you need clear, regulated advice on a UK visa, sponsor licence or compliance matter. Finding someone local can feel reassuring, but what matters most is that they are properly regulated to give immigration advice. We can introduce you to a suitable UK immigration adviser who will quote you directly, with fees on application.",
+ "need_heading": "What people searching for an immigration consultant near me usually need",
+ "need_lead": "Most people want a regulated adviser they can reach easily, who understands their specific immigration situation.",
+ "needs": [
+  "You need help choosing the right visa route for yourself or a family member and want someone local to explain the options.",
+  "You are an employer who needs advice on obtaining a sponsor licence or on keeping up with sponsor compliance duties.",
+  "You have a complex case, such as an appeal or an application that has already been refused, and need representation.",
+  "You want to check that an adviser is properly regulated before sharing personal documents or paying any money.",
+  "You would prefer to deal with someone you can visit in person rather than only by phone or online."
+ ],
+ "context_heading": "Check regulation before you share anything",
+ "context": [
+  "In the UK, it is a criminal offence to give immigration advice unless you are qualified and regulated. Advisers must be registered with the Immigration Advice Authority (IAA, formerly the OISC) at the right level for your matter, or be a solicitor, barrister or chartered legal executive authorised by their own regulator. The title 'consultant' is not protected, so always check the IAA's adviser finder or the SRA register before you share documents or pay.",
+  "IAA advisers are registered at different levels that limit what they can do, from basic applications to appeals and representation. Ask what level an adviser holds and whether it covers your type of case. Also ask for fees in writing so you know what you will be charged before you commit."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe your immigration situation briefly, such as the type of visa or sponsor licence you need help with.",
+  "Mention whether you are an individual or an employer, as the advice needed can differ.",
+  "State your preferred location or how far you are willing to travel to see an adviser in person.",
+  "Explain if you have a deadline or a hearing date, so the adviser can judge urgency.",
+  "Say whether you have already had advice or an application refused, as this may affect the level of adviser you need.",
+  "Include any language or accessibility needs you have for meetings."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you registered with the Immigration Advice Authority, and at what level?",
+  "If you are a solicitor or barrister, which regulator authorises you?",
+  "Does your registration cover the type of case I need help with?",
+  "Can you confirm your fees in writing before we start?",
+  "Will you handle my case personally, or will someone else in your practice work on it?",
+  "What is your experience with cases like mine?"
+ ],
+ "faqs": [
+  {
+   "q": "Is it legal for just anyone to call themselves an immigration consultant?",
+   "a": "Yes, the title 'consultant' is not protected, so anyone can use it. However, it is a criminal offence to give immigration advice unless they are regulated by the Immigration Advice Authority or authorised by a professional regulator such as the SRA."
+  },
+  {
+   "q": "How can I check that an adviser is properly regulated?",
+   "a": "You can check the Immigration Advice Authority's adviser finder or the SRA register online. Always do this before you share personal documents or pay any money."
+  },
+  {
+   "q": "What does 'regulated at the right level' mean?",
+   "a": "IAA advisers are registered at different levels that limit what they can do, from basic applications to appeals and representation. Ask what level an adviser holds and whether it covers your type of case."
+  },
+  {
+   "q": "Do employers need a different kind of adviser?",
+   "a": "Employers often need advice on sponsor licences and compliance duties, which may require a different level of registration or a solicitor. Tell iComply that you are an employer so we can introduce you to someone suitable."
+  }
+ ],
+ "extra_heading": "Choosing between the advisers you find nearby",
+ "extra": [
+  "When several immigration advisers are within reach, the useful comparison is not who sounds most confident but who is registered for the work you actually need. A nearby adviser registered only for basic applications may not be able to take on an appeal or a sponsor licence matter, so check the level of registration against your case before you set up a meeting.",
+  "It also helps to ask how each adviser prefers to work and what they will need from you. Some will want to see your documents at a first meeting, while others will ask for a summary first and quote before any detailed work begins, so ask about fees in writing and what is included.",
+  "Distance matters less than it used to, but if being able to visit in person is important to you, confirm the address and whether meetings are held there. A short phone call before booking can tell you whether an adviser handles cases like yours and whether they are taking on new work."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Does an adviser have to be close by to help me?",
+   "a": "No. Immigration advice can be given remotely, and many people deal with an adviser by phone, email or video. If you specifically want to attend in person, check where meetings actually take place before you book."
+  },
+  {
+   "q": "What should I bring to a first meeting with an immigration adviser?",
+   "a": "Bring any letters from the Home Office, your passport or other identity documents, and anything relevant to your application or sponsor licence. Ask the adviser beforehand what they want to see, so you do not share more than necessary at the first meeting."
+  },
+  {
+   "q": "Can I speak to more than one adviser before deciding?",
+   "a": "Yes. It is reasonable to contact a few and ask about their registration, the level they hold and their fees in writing. That way you can compare how they respond before you commit to anyone."
+  }
+ ]
+}

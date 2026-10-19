@@ -1,0 +1,53 @@
+{
+ "intro": "You searched for a Sage bookkeeper near you, so you likely run a business that already uses Sage and want someone local who knows the software. Whether you need help with ledgers, VAT, payroll or a backlog, a bookkeeper who works in Sage can pick up your records without a steep learning curve. iComply introduces you to a suitable UK bookkeeper who quotes you directly.",
+ "need_heading": "What people searching for a Sage bookkeeper usually need",
+ "need_lead": "Most people looking for a Sage bookkeeper want someone who can work confidently in their existing Sage set-up, whether that is Sage Accounting or a desktop version.",
+ "needs": [
+  "You use Sage and want a bookkeeper who can take over the day-to-day entries without you having to export everything into different software.",
+  "Your Sage records have fallen behind and you need someone to catch up on ledgers, reconciliations and VAT before a deadline.",
+  "You run payroll through Sage and want a bookkeeper who understands the payroll module and can keep it running smoothly.",
+  "You are moving from spreadsheets to Sage and need a bookkeeper who can set things up properly and show you how to keep on top of it.",
+  "You want a local bookkeeper you can speak to easily, who can work with your Sage file and explain what they are doing in plain terms."
+ ],
+ "context_heading": "What to understand about Sage bookkeeping",
+ "context": [
+  "Sage experience matters most if you use an older desktop version, because the way records are kept and backed up is different from cloud accounting. A bookkeeper who knows desktop Sage can work with your existing file rather than asking you to change systems. If you use Sage in the cloud, ask how they will access your data and keep it secure.",
+  "Bookkeeping is not a regulated title in the UK, but anyone providing bookkeeping services for a fee must be supervised for anti-money-laundering purposes, either by HMRC or by a professional body. Membership of the Institute of Certified Bookkeepers (ICB) or the Association of Accounting Technicians (AAT) shows a bookkeeper has trained to a recognised standard and agreed to a code of conduct. It is also worth asking whether they hold professional indemnity insurance and where their work stops and an accountant's starts, for example on year-end accounts and tax advice."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you are looking for a Sage bookkeeper and say which version you use, such as Sage Accounting or a desktop version.",
+  "Describe what you need help with, whether that is routine bookkeeping, VAT returns, payroll, catching up on a backlog or setting up Sage.",
+  "Say how often you would like the bookkeeper to work on your records, for example weekly, monthly or quarterly.",
+  "Explain whether you want someone to visit your premises or work remotely with your Sage file.",
+  "Mention any deadlines you are working towards, such as a VAT return or payroll date.",
+  "Include your location so iComply can introduce you to a bookkeeper near you."
+ ],
+ "questions_heading": "Questions to ask the bookkeeper",
+ "questions": [
+  "Which versions of Sage do you work with regularly, and do you have experience with the one I use?",
+  "How will you access my Sage file, and what backups and access controls will you put in place?",
+  "Do you handle payroll in Sage, and can you take on the payroll module if I need it?",
+  "Which body supervises you for anti-money-laundering purposes, and do you hold professional indemnity insurance?",
+  "Where does your work stop and an accountant's start, for example on year-end accounts and tax advice?",
+  "How do you prefer to communicate, and how often will you update me on progress?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a bookkeeper who is a Sage specialist?",
+   "a": "If you already use Sage, a bookkeeper who knows the software can work with your existing records without you having to change systems. That is especially useful for older desktop set-ups, where the way records are kept and backed up differs from cloud accounting."
+  },
+  {
+   "q": "Can a bookkeeper help with payroll in Sage?",
+   "a": "Yes, many bookkeepers handle payroll in Sage, but you should ask specifically about their experience with the payroll module. It is worth confirming they can take on payroll alongside your other bookkeeping needs."
+  },
+  {
+   "q": "What should I check before sharing my Sage file with a bookkeeper?",
+   "a": "Ask how they will access your file, what backups they will make and how access will be controlled. Good bookkeepers are clear about security and will explain their process for keeping your data safe."
+  },
+  {
+   "q": "Is a Sage bookkeeper regulated?",
+   "a": "Bookkeeping is not a regulated title in the UK, but anyone providing bookkeeping services for a fee must be supervised for anti-money-laundering purposes, either by HMRC or by a professional body. Membership of the Institute of Certified Bookkeepers (ICB) or the Association of Accounting Technicians (AAT) shows a bookkeeper has trained to a recognised standard and agreed to a code of conduct."
+  }
+ ]
+}

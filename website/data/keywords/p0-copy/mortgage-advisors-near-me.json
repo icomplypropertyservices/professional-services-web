@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for mortgage advisors near me usually means you want someone you can sit down with, or at least speak to easily, about borrowing for a home. You may be buying your first place, remortgaging, or working out what you can afford before you start viewing. We can introduce you to a suitable UK mortgage broker, who will quote you directly.",
+ "need_heading": "What people searching for mortgage advisors near me usually need",
+ "need_lead": "Most people behind this search want local, face-to-face help turning their circumstances into a realistic borrowing plan.",
+ "needs": [
+  "You are buying your first home and want someone nearby to explain deposits, affordability and the paperwork step by step.",
+  "You are remortgaging and want to know whether staying with your current lender or switching would suit you better.",
+  "Your situation is less straightforward, such as self-employment, a variable income or a small deposit, and you want advice tailored to it.",
+  "You want to compare what different lenders offer but would rather have a professional do that searching for you.",
+  "You are relocating or buying near where you live now and want an adviser who knows the local market and can meet in person."
+ ],
+ "context_heading": "Who regulates mortgage advice, and what that means for you",
+ "context": [
+  "Mortgage advice in the UK is regulated by the Financial Conduct Authority (FCA). Any adviser or broker you use should be authorised, or be an appointed representative of an authorised firm, and you can check this on the FCA register. Advisers typically hold a qualification such as CeMAP.",
+  "Brokers must tell you whether they search the whole of the market or a limited panel of lenders, and how they are paid, whether by lender commission, a fee, or both. If something goes wrong, you can complain to the firm and then to the Financial Ombudsman Service."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say whether you are buying, remortgaging or just exploring what you might be able to borrow.",
+  "Describe your deposit or equity and where it is coming from, such as savings or a gift.",
+  "Explain your income situation, including whether you are employed, self-employed or on a variable income.",
+  "Mention any credit history issues you are aware of, as this affects which lenders may suit you.",
+  "Say whether you want advice on protection such as life cover or income protection alongside the mortgage.",
+  "Tell us your preferred area so we can introduce you to a broker you can meet or speak with easily."
+ ],
+ "questions_heading": "Questions to ask the mortgage broker",
+ "questions": [
+  "Do you search the whole of the market or a limited panel of lenders?",
+  "How are you paid, and will I see the cost before I commit?",
+  "Are you authorised by the FCA or an appointed representative of an authorised firm?",
+  "What qualification do you hold, such as CeMAP?",
+  "Will you also discuss protection cover alongside the mortgage?",
+  "How will you keep me updated while my application is progressing?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check that a mortgage adviser is properly authorised?",
+   "a": "You can look the adviser or their firm up on the FCA register to confirm they are authorised or an appointed representative. It is worth doing this before you share detailed financial information."
+  },
+  {
+   "q": "What does it mean if a broker only searches a limited panel?",
+   "a": "It means they will only consider mortgages from a set group of lenders rather than the whole market. Brokers must tell you which approach they take, so ask before you proceed."
+  },
+  {
+   "q": "Will the adviser also talk to me about protection?",
+   "a": "Many advisers discuss protection such as life cover or income protection alongside the mortgage, since these are often arranged together. Ask whether this forms part of their service."
+  },
+  {
+   "q": "What can I do if I am unhappy with the advice I receive?",
+   "a": "You can complain to the firm first, and if it is not resolved you can take the complaint to the Financial Ombudsman Service. Keep a record of the advice and any documents you are given."
+  }
+ ],
+ "extra_heading": "Choosing between the advisers near you",
+ "extra": [
+  "Searching for mortgage advisors near me, in the plural, suggests you are weighing up more than one option rather than simply taking the first name you come across. That is sensible, because two advisers can offer quite different things: one may search the whole of the market while another works from a limited panel of lenders. Neither approach is wrong in itself, but knowing which you are getting helps you judge what you are being offered.",
+  "When you compare, ask each adviser the same questions so the answers sit side by side. Find out whether they charge a fee, take commission from the lender, or both, and ask them to set out the cost before you commit to anything. It is also worth asking whether they can meet in person, come to you, or work by phone and email, since convenience matters when paperwork is involved.",
+  "A local adviser can be useful if you want to sit down together and go through documents face to face, but distance is less important than a clear explanation of your options. If an adviser's answers feel rushed or vague, that is worth noting. Take your time, and remember that any advice you are given must be suitable for your circumstances."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I speak to more than one mortgage adviser?",
+   "a": "It can help, because you can compare how each explains your options and how they are paid. Ask the same questions of each so you can judge the answers fairly."
+  },
+  {
+   "q": "Does it matter if the adviser is not on my doorstep?",
+   "a": "Not necessarily. Many people work with an adviser by phone, email and video, and what matters most is clear, suitable advice and easy contact when you need it."
+  },
+  {
+   "q": "What should I have ready before the first conversation?",
+   "a": "It helps to know your deposit or equity, your income and outgoings, and roughly what you want to borrow. Having recent documents to hand means the adviser can give you a clearer picture sooner."
+  }
+ ]
+}

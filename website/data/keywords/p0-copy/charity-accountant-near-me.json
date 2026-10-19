@@ -1,0 +1,53 @@
+{
+ "intro": "You're looking for a charity accountant near you, most likely because your charity or not-for-profit has reporting duties to keep on top of and you'd rather have someone local who understands them. Whether you're a trustee of a small charity or running something larger, the right accountant can help with accounts, independent examination or audit, and the paperwork that goes with it. iComply introduces you to a suitable UK professional who quotes you directly, with the price on application.",
+ "need_heading": "What people searching for a charity accountant usually need",
+ "need_lead": "Charity accounting is a specialist area, and the person searching usually has a specific reporting or governance task in mind.",
+ "needs": [
+  "You're a trustee who needs annual accounts prepared in line with the Charities SORP and filed correctly with the Charity Commission.",
+  "You're unsure whether your charity needs an independent examination or a full audit, and want someone to explain which applies to you.",
+  "You've been handling the books yourself and now need a professional to look over restricted funds and make sure they're tracked properly.",
+  "You've recently set up a charity or CIO and need help understanding Gift Aid claims and ongoing reporting obligations.",
+  "You want a local accountant you can sit down with face to face to talk through your charity's finances and trustee responsibilities."
+ ],
+ "context_heading": "Understanding charity accounting and who you're dealing with",
+ "context": [
+  "In the UK, the word \"accountant\" on its own isn't a protected title, so anyone can call themselves one. Titles such as Chartered Accountant, Chartered Certified Accountant and Chartered Management Accountant are protected, and members are bound by their professional body's ethics, training and complaints rules. Only a registered auditor can sign a statutory audit report, which matters if your charity needs an audit rather than an independent examination.",
+  "Every practice offering accountancy services must also be supervised for anti-money-laundering purposes, either by a professional body or by HMRC. It's sensible to ask which body supervises a firm, whether they hold professional indemnity insurance, and how complaints are handled. Because charity work involves public money and trustee duties, these checks are worth making before you appoint anyone."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe your organisation, including whether it's a registered charity, a CIO, a company or an unincorporated association.",
+  "Say roughly what your annual income is like, since this affects whether you need an independent examination or an audit.",
+  "Mention whether you need help with accounts preparation, an independent examination, an audit, or broader trustee advice.",
+  "Explain whether you have restricted funds and whether tracking them is a concern for you.",
+  "Let us know if you need help with Gift Aid or Charity Commission filing alongside the accounts.",
+  "Tell us your location and whether you'd prefer to meet locally or work remotely."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Which professional body are you a member of, and what title do you hold?",
+  "Which body supervises your practice for anti-money-laundering purposes?",
+  "Do you hold professional indemnity insurance?",
+  "How will you decide whether my charity needs an independent examination or an audit?",
+  "How do you handle restricted funds and report on them in the accounts?",
+  "Can you help with Gift Aid claims and Charity Commission filing as part of the work?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need an audit or an independent examination for my charity?",
+   "a": "It depends on your charity's income and structure, and the rules set by the Charity Commission and charity law. An accountant can look at your circumstances and explain which applies, and only a registered auditor can sign a statutory audit report."
+  },
+  {
+   "q": "What is the Charities SORP?",
+   "a": "The Charities SORP is the statement of recommended practice that sets out how charity accounts should be prepared. A charity accountant will prepare your accounts in line with it so they meet the expected standard."
+  },
+  {
+   "q": "Can you help with Gift Aid?",
+   "a": "Charity accountants can advise trustees on Gift Aid and how it fits with your reporting. It's worth raising this early so any claims are handled correctly alongside the accounts."
+  },
+  {
+   "q": "How do I know the accountant is properly qualified?",
+   "a": "Ask which professional body they belong to and which title they hold, since titles like Chartered Accountant and Chartered Certified Accountant are protected. You can also ask which body supervises the practice for anti-money-laundering purposes and whether they hold professional indemnity insurance."
+  }
+ ]
+}

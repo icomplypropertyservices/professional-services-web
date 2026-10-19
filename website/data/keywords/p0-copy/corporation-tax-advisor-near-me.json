@@ -1,0 +1,53 @@
+{
+ "intro": "You're looking for a corporation tax advisor near you because your company's tax position needs proper attention, whether you're planning ahead, facing an HMRC query, or unsure how to claim reliefs correctly. A local adviser can help you understand your obligations and make the most of the rules. iComply introduces you to a suitable UK professional who will quote you directly, with fees on application.",
+ "need_heading": "What people searching for a corporation tax advisor near me usually need",
+ "need_lead": "Most people want clear, local help with company tax that fits their specific circumstances.",
+ "needs": [
+  "You run a small company and want to plan your profits before the year end so you're not caught out by a surprise tax bill.",
+  "You're thinking about claiming R&D tax relief or capital allowances but have heard HMRC is scrutinising claims and want to get it right.",
+  "Your company is part of a group and you're unsure how group relief could shelter profits between companies.",
+  "You've received a letter from HMRC about your corporation tax return and want a professional to help you respond.",
+  "You're setting up a new company or restructuring and need advice on how corporation tax will apply to your plans."
+ ],
+ "context_heading": "What to understand about corporation tax advice",
+ "context": [
+  "Tax adviser is not a protected title in the UK, so anyone can call themselves one. The main specialist bodies are the Chartered Institute of Taxation (for the CTA qualification) and the Association of Taxation Technicians (for ATT), and their members follow a shared code called Professional Conduct in Relation to Taxation. Many accountants and solicitors also advise on tax, so it's worth asking about qualifications and experience.",
+  "Tax advisers who charge a fee must be supervised for anti-money-laundering purposes, and HMRC has been tightening standards for paid tax agents. Before you go ahead, it's reasonable to ask about their qualifications, supervision and professional indemnity insurance. This helps you judge whether they are the right fit for your company's needs."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Mention that you're looking for a corporation tax advisor near you and give your location so we can introduce you to a professional in your area.",
+  "Describe your company's situation, such as its size, whether it's part of a group, and whether you're a startup or an established business.",
+  "Explain what you need help with, for example year-end planning, an R&D claim, capital allowances, or group relief.",
+  "Say whether you've already filed your corporation tax return or received any correspondence from HMRC.",
+  "Include any deadlines you're working towards, such as your accounting period end or a response date from HMRC.",
+  "Let us know if you have a preference for a particular type of adviser, such as a chartered tax adviser or an accountant with tax expertise."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "What qualifications and professional body memberships do you hold?",
+  "How will you help me plan for corporation tax before my year end?",
+  "What is your experience with R&D claims and how do you ensure they meet HMRC's requirements?",
+  "Can you explain how group relief might apply to my company structure?",
+  "What is your approach to dealing with HMRC on my behalf?",
+  "What are your fees and how will you keep me informed about costs?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a corporation tax advisor if I already have an accountant?",
+   "a": "Your accountant may already handle corporation tax, but if your affairs are complex or you need specialist help with R&D claims or group relief, a dedicated tax adviser can add value. It's worth asking your accountant about their tax qualifications and experience first."
+  },
+  {
+   "q": "How can I check if a corporation tax advisor is properly qualified?",
+   "a": "You can ask whether they are a member of the Chartered Institute of Taxation or the Association of Taxation Technicians, and check their registration with those bodies. Also ask about their anti-money-laundering supervision and professional indemnity insurance."
+  },
+  {
+   "q": "What information should I have ready before speaking to an advisor?",
+   "a": "It helps to have your company's recent accounts, corporation tax returns, and any correspondence from HMRC to hand. Also think about your business structure, any group companies, and what you want to achieve from the advice."
+  },
+  {
+   "q": "Can a corporation tax advisor help if HMRC is already querying my return?",
+   "a": "Yes, a tax adviser can help you respond to HMRC enquiries and represent you in discussions. They can go through your position and advise on the best way forward, but it's important to act promptly if you receive a letter."
+  }
+ ]
+}

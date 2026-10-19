@@ -7,108 +7,63 @@ group: accountancy
 hub: accountants
 profession: accountant
 service_label: Accountant
-og_image: /assets/images/hero-workshop.jpg
+og_image: /assets/images/finance-desk.jpg
 ---
 
 # Accountants
 
-There are many **accountants** to choose from, and they are not all the same. An accountant prepares accounts and tax returns, keeps you compliant with HMRC and Companies House, and can advise on tax, cash flow and business decisions.
+Searching for accountants usually means you want someone to take care of your tax and accounts, or you are comparing a few practices before deciding. You might be self-employed, running a small company, or simply tired of doing it yourself. We introduce you to a suitable UK accountant who will quote you directly, so you can see what they offer before you commit.
+
+An accountant prepares accounts and tax returns, keeps you compliant with HMRC and Companies House, and can advise on tax, cash flow and business decisions.
 
 Rather than calling round, you can send one enquiry to iComply. We look at your needs, location and timing, then introduce you to a suitable accountancy practice. They quote you directly, POA, and you decide whether to go ahead.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Accountancy practice ready to take on a new enquiry for accountants](/assets/images/hero-workshop.jpg)
+![Accountancy practice ready to take on a new enquiry for accountants](/assets/images/finance-desk.jpg)
 
-## What accountants commonly help with
+## What people searching for accountants usually need
 
-You do not need to have everything worked out. Clients often come to us with situations like these:
+Most people looking for accountants want help with the essentials of tax and accounts, but the exact need varies with their situation.
 
-- A contractor deciding how to work and how to pay themselves.
-- A sole trader filing a first Self Assessment return.
-- A landlord with rental income from one or several properties.
-- A VAT registration or a change of VAT scheme.
-- A new limited company needing year-end accounts and a corporation tax return.
+- You are self-employed and need to file a Self Assessment tax return but are unsure what expenses you can claim.
+- You run a limited company and need help with annual accounts, confirmation statements and Corporation Tax.
+- You are starting a new business and want an accountant to set things up correctly from the beginning.
+- You have received a letter from HMRC or Companies House and need someone to help you respond.
+- You want to move from another accountant and need a smooth handover without penalties.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of accountant fits best.
+## From enquiry to quote in four steps
 
-## Red flags when choosing an accountant
-
-Most professionals are honest and competent, but it is worth knowing the warning signs:
-
-- Reluctance to say which professional body or AML supervisor they use
-- Promises of tax savings that sound too good to be true
-- No engagement letter or written scope before work begins
-- No clear answer about who handles your file day to day
-
-## Information that helps us match you
-
-A short, clear brief saves time on both sides. Useful details include:
-
-- Whether you are VAT registered or close to the threshold
-- Rough annual turnover or income range
-- The deadlines you know about and any letters from HMRC
-- How often you want contact: once a year or monthly
-- The services you think you need, even if you are unsure
-- Your Unique Taxpayer Reference or company number
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
-
-**Need an accountant?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
-
-## Timing and urgency
-
-Most practices can take on a new client within a few weeks, but capacity tightens sharply in the run-up to the 31 January Self Assessment deadline and around company year ends. If you have a deadline coming up, say so in your enquiry so we can prioritise practices with room to help now.
-
-## How iComply matches you
-
-1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
-1. **We review your brief.** We check the type of accountant you need, your location and your timing.
-1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
-1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
+1. **Enquire for free** with your town or postcode and a short description.
+1. **We clarify** anything unclear, so the introduction is useful from the start.
+1. **We connect you** with an accountant who suits your situation.
+1. **The practice takes over**, confirms scope and fees in writing and does the work.
 
 There is no charge to you for the introduction, and no obligation to accept any quote.
 
-## Practical points about an accountant
-
-A few points come up again and again with an accountant:
-
-- Agree exactly which returns and filings the fee covers.
-- Ask how the practice handles Making Tax Digital.
-- A good accountant should help you plan, not only file.
-
-Raise any of these with the accountant you are introduced to; they should be happy to explain.
-
-![Client explaining what they need before being matched with an accountant](/assets/images/insurance-advisory.jpg)
-
-## How to check you are in safe hands
+## Checking accountants are qualified and regulated
 
 In the UK, the word "accountant" on its own is not a protected title, so anyone can use it. Titles such as Chartered Accountant (ICAEW, ICAS or Chartered Accountants Ireland), Chartered Certified Accountant (ACCA) and Chartered Management Accountant (CIMA) are protected, and members are bound by their body's ethics, training and complaints rules. Only registered auditors can sign statutory audit reports.
 
 Every practice offering accountancy services must also be supervised for anti-money-laundering purposes, either by a professional body or by HMRC. It is reasonable to ask which body supervises a firm, whether they hold professional indemnity insurance, and how complaints are handled.
 
-Please note that iComply is a matching service only. We are not regulated as a accountant, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
+Please note that iComply is a matching service only. We are not regulated as an accountant, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
 
-## Questions to ask an accountant
+**Need an accountant?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-Once you are introduced, these questions help you decide whether the accountant is right for you:
+## Comparing several accountants side by side
 
-- How do you handle Making Tax Digital requirements?
-- How quickly do you usually reply to emails and calls?
-- What do you need from me each month or each year?
-- Do you have experience with businesses or income like mine?
-- Are you a member of a professional body, and which one?
-- Who will actually prepare my accounts, and who reviews them?
+Searching for accountants in the plural usually means you are weighing up more than one practice rather than looking for a single name. That is a sensible way to go about it, because accountancy fees are quoted on application and the scope of work varies from firm to firm, so the only fair comparison is between detailed quotes for the same job. Ask each practice to set out in writing exactly which returns and filings their fee covers.
 
-## Choosing between accountants
+When you compare, look past the headline figure to what sits behind it. Two quotes for the same limited company work can differ because one includes the confirmation statement, payroll or advice calls and the other treats them as extras. It also helps to ask how each practice handles Making Tax Digital and whether they will help you plan ahead rather than simply file what HMRC and Companies House require.
 
-Accountants vary in specialism, size, fees and approach. Some focus on particular types of client; others offer a broad service. Knowing the differences helps you choose.
+A good accountant should help you plan, not only file, so use the comparison to judge how well each one explains things and answers your questions. You are not obliged to pick the cheapest or the best known; you are looking for a practice whose scope, communication and way of working suit your situation. Take your time, and do not feel pressured to decide on the first quote you receive.
 
-Rather than searching through long lists of accountants, tell us what you need. We introduce practices that fit, and you can compare their quotes.
+## One key thing to understand about accountants
 
-## What happens after you are introduced
+In the UK, the word "accountant" on its own is not a protected title, so anyone can call themselves an accountant. However, titles such as Chartered Accountant (ICAEW, ICAS or Chartered Accountants Ireland), Chartered Certified Accountant (ACCA) and Chartered Management Accountant (CIMA) are protected, and members are bound by their body's ethics, training and complaints rules.
 
-After the introduction, the practice will usually run its own onboarding: identity checks required under money-laundering rules, an engagement letter and authority to act with HMRC. From then on the relationship is between you and the accountant. You stay free to change firms later; a professional clearance letter makes handovers straightforward.
+Every practice offering accountancy services must also be supervised for anti-money-laundering purposes, either by a professional body or by HMRC. It is reasonable to ask which body supervises a firm, whether they hold professional indemnity insurance, and how complaints are handled.
 
 ## What an accountant is likely to cost (POA)
 
@@ -116,17 +71,77 @@ Accountancy fees depend on the complexity of your affairs, the quality of your r
 
 Ask for an engagement letter before work starts. It should list what is included, your responsibilities, deadlines and how extra work is charged. Comparing two or three written scopes is usually more useful than comparing headline prices.
 
-![Professional reviewing a client's brief before an introduction for accountants](/assets/images/healthcare-consult.jpg)
+![Client explaining what they need before being matched with an accountant](/assets/images/hero-workshop.jpg)
 
-## FAQs about accountants
+## Key things to know about an accountant
+
+A few points come up again and again with an accountant:
+
+- Agree exactly which returns and filings the fee covers.
+- Ask how the practice handles Making Tax Digital.
+- A good accountant should help you plan, not only file.
+
+A good accountant will talk you through each of these in plain English.
+
+## Questions to ask the accountant
+
+Once you are introduced, these questions help you decide whether the accountant is right for you:
+
+- Which professional body supervises your practice for anti-money-laundering purposes?
+- Do you hold professional indemnity insurance, and can you provide details?
+- How do you handle Making Tax Digital for my situation?
+- What exactly is included in your fee, and are there any extra charges for additional services?
+- How will you help me plan ahead, not just file my returns?
+- What is your process for taking over from my current accountant?
+
+## Timing and urgency
+
+Most practices can take on a new client within a few weeks, but capacity tightens sharply in the run-up to the 31 January Self Assessment deadline and around company year ends. If you have a deadline coming up, say so in your enquiry so we can prioritise practices with room to help now.
+
+## What to tell iComply when enquiring
+
+You do not need all of this to enquire, but the more you can share, the better the match:
+
+- Whether you are self-employed, a limited company director, a landlord or something else, as this affects the work needed.
+- Which returns and filings you need help with, such as Self Assessment, annual accounts, VAT returns or payroll.
+- Whether you are up to date with HMRC and Companies House or have any overdue filings.
+- If you are switching accountants, mention any deadlines coming up so the handover can be planned.
+- Whether you use accounting software or keep paper records, as this can affect how the accountant works with you.
+- Any specific concerns, such as Making Tax Digital, a tax investigation or planning for growth.
+
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+
+![Professional reviewing a client's brief before an introduction for accountants](/assets/images/insurance-advisory.jpg)
+
+## FAQs: an accountant
 
 ### Do I need a chartered accountant?
 
-Not always. For simple Self Assessment a qualified, supervised accountant may be enough. For audits, complex group structures or specialist tax work, a chartered or certified firm is often the safer choice. We can match you to either.
+Not necessarily. The word "accountant" is not protected, but chartered titles are. If you want the assurance of a protected title, look for Chartered Accountant, Chartered Certified Accountant or Chartered Management Accountant.
 
-### Can I switch accountant part-way through the year?
+### What is Making Tax Digital and does it affect me?
 
-Yes. Your new accountant will contact the old one for professional clearance and any information they need. Tell us your timing and we will match you with a practice that can take over smoothly.
+Making Tax Digital is HMRC's programme for digital record-keeping and returns. It currently applies to VAT-registered businesses and is being extended, so ask the accountant how they handle it for your circumstances.
+
+### Can I switch accountants easily?
+
+Yes, switching is usually straightforward. Your new accountant will contact your old one for handover information, but it helps to check deadlines and ensure all filings are up to date.
+
+### How do I check an accountant's credentials?
+
+You can ask which professional body they belong to and check the body's register. Also ask about anti-money-laundering supervision and professional indemnity insurance.
+
+### How many accountants should I compare?
+
+There is no set number. Comparing a few quotes for the same clearly described work gives you a fair sense of the range on offer, but the right number is the one that lets you feel confident in your choice.
+
+### Why do accountants quote on application rather than advertise a price?
+
+Because the work depends on your circumstances, such as whether you are self-employed or run a limited company, and which returns and filings you need. A practice has to understand your situation before it can quote fairly.
+
+### Should I choose the accountant with the lowest quote?
+
+Not automatically. Check what each fee covers, whether extra services cost more, and whether the practice explains things in a way you understand. A slightly higher quote that includes more of what you need can work out better.
 
 ### Can you find an accountant in my area?
 
@@ -136,25 +151,21 @@ Send us your town or postcode with a short description of what you need. We look
 
 Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
 
-### Is it free to use iComply?
+### Do I have to accept a quote?
 
-Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
+No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
 
-### How quickly will I hear back?
+## Other services you may need
 
-Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
-
-## Related searches
-
+- [Forensic accountant near me](/keywords/forensic-accountant-near-me/)
+- [Expat accountant near me](/keywords/expat-accountant-near-me/)
 - [Personal accountant near me](/keywords/personal-accountant-near-me/)
-- [Amazon seller accountant near me](/keywords/amazon-seller-accountant-near-me/)
-- [Forensic accountants near me](/keywords/forensic-accountants-near-me/)
-- [Cheap accountant near me](/keywords/cheap-accountant-near-me/)
+- [Company accountant near me](/keywords/company-accountant-near-me/)
 - [Dentist accountant near me](/keywords/dentist-accountant-near-me/)
 - [Browse all accountants](/hubs/accountants/)
 
-## Ready to be matched?
+## Request your free quote
 
-Tell us what you need and where you are. We will match you with a suitable accountant, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
+One short enquiry is all it takes. We connect you with an accountant who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
 
 [Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for a care home solicitor near me, you're likely facing decisions about care home fees, contracts or funding that feel urgent and personal. A solicitor can help you understand your options, check paperwork before you sign, and deal with disputes about care or funding. We introduce you to a suitable UK solicitor who can quote you directly, so you can move forward with clarity.",
+ "need_heading": "What people searching for a care home solicitor usually need",
+ "need_lead": "Most people looking for a care home solicitor are dealing with the practical and financial side of moving into a care home, either for themselves or a relative.",
+ "needs": [
+  "You want a care home contract checked before signing, to make sure the terms are fair and you understand what you are agreeing to.",
+  "You are worried about how care fees will be paid and want advice on whether NHS Continuing Healthcare might cover the cost.",
+  "You need help setting up a lasting power of attorney for someone who may soon lose the ability to make decisions about their care.",
+  "You are in a dispute with a care home or the local authority about funding, fees or the level of care provided.",
+  "A relative has moved into a care home without a power of attorney, and you need to know whether deputyship is necessary."
+ ],
+ "context_heading": "Understanding care home contracts and funding",
+ "context": [
+  "A care home contract is a legal agreement, and once signed it can be difficult to change. It is worth having a solicitor read it before you commit, so you can ask questions about fees, notice periods and what happens if your needs change. They can also explain how NHS Continuing Healthcare might affect what you pay.",
+  "If someone lacks mental capacity and has no lasting power of attorney, the Court of Protection may need to appoint a deputy to make decisions about their care and finances. A solicitor can guide you through that process. Always check that the person you speak to is a solicitor or another authorised professional, as the word \"lawyer\" alone is not protected."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Whether you are asking about your own care or for a relative, and what your relationship is to them.",
+  "The type of help you need, such as checking a contract, advice on care fees, setting up a power of attorney, or a dispute.",
+  "Whether you have already signed a care home contract or received one to look over.",
+  "Any correspondence you have had with the local authority or the care home about funding or fees.",
+  "Whether a lasting power of attorney is already in place or if deputyship might be needed.",
+  "Your location, so we can introduce you to a solicitor near you."
+ ],
+ "questions_heading": "Questions to ask the solicitor",
+ "questions": [
+  "What experience do you have with care home contracts and care fee disputes?",
+  "Are you regulated by the Solicitors Regulation Authority or the relevant body for your area?",
+  "How will you charge for your work, and can you give me an estimate of the likely costs?",
+  "What information or documents should I gather before we meet?",
+  "Can you explain how NHS Continuing Healthcare might apply to my situation?",
+  "If deputyship is needed, what does that process involve and how long might it take?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a solicitor to sign a care home contract?",
+   "a": "You are not legally required to use a solicitor, but a contract is a binding legal agreement. A solicitor can check the terms and explain what they mean before you sign, which can help you avoid problems later."
+  },
+  {
+   "q": "Can a solicitor help if I disagree with the local authority about care funding?",
+   "a": "Yes, a solicitor can advise you on your rights and help you challenge a decision about care funding or needs. They can also assist with disputes about the care provided by a home."
+  },
+  {
+   "q": "What is the difference between a lasting power of attorney and deputyship?",
+   "a": "A lasting power of attorney is a legal document you set up in advance to let someone you trust make decisions for you if you lose capacity. Deputyship is when the Court of Protection appoints someone to make decisions for a person who has already lost capacity and has no power of attorney in place."
+  },
+  {
+   "q": "How can I check that a solicitor is properly regulated?",
+   "a": "In England and Wales, solicitors are regulated by the Solicitors Regulation Authority (SRA), and you can check an individual or firm on the SRA's register. In Scotland, check with the Law Society of Scotland, and in Northern Ireland with the Law Society of Northern Ireland."
+  }
+ ]
+}

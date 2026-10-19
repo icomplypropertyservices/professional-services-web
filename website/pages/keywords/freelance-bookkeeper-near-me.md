@@ -1,95 +1,75 @@
 ---
 slug: freelance-bookkeeper-near-me
 title: Freelance Bookkeeper Near Me | iComply Professional Services
-description: Need a freelance bookkeeper near you? iComply connects you with a suitable UK bookkeeping service. Free, no-obligation matching. Request a quote — POA.
+description: Find a freelance bookkeeper near you with iComply: one free enquiry, matched to a suitable UK bookkeeper. No obligation. Request a quote — POA.
 family: bookkeeper
 group: accountancy
 hub: bookkeepers
 profession: bookkeeper
 service_label: Freelance bookkeeper
-og_image: /assets/images/finance-desk.jpg
+og_image: /assets/images/insurance-advisory.jpg
 ---
 
 # Freelance Bookkeeper Near Me
 
-Looking for **freelance bookkeeper near me** usually starts with a practical problem that needs a qualified person. Freelance bookkeepers often work for several small clients, offering flexibility and personal service.
+You're looking for a freelance bookkeeper near you — someone local who can take the stress out of your day-to-day financial admin. Whether you run a small business, work for yourself, or need help keeping on top of invoices and receipts, a freelance bookkeeper can offer flexible, personal support. We introduce you to a suitable UK bookkeeper who quotes you directly, with no obligation.
 
-Rather than calling round, you can send one enquiry to iComply. We look at your needs, location and timing, then introduce you to a suitable bookkeeping service. They quote you directly, POA, and you decide whether to go ahead.
+Freelance bookkeepers often work for several small clients, offering flexibility and personal service.
+
+We act as the middleman between you and the professional. Share a short brief and we match you with a freelance bookkeeper who has the right experience and capacity. Enquiring is free, and you are under no obligation to accept a quote.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Client explaining what they need before being matched with a freelance bookkeeper](/assets/images/finance-desk.jpg)
+![Bookkeeping service ready to take on a new enquiry for freelance bookkeeper near me](/assets/images/insurance-advisory.jpg)
 
-## Common reasons people contact bookkeepers
+## What people searching for a freelance bookkeeper near me usually need
 
-Every enquiry is different, but these are typical starting points for clients who contact bookkeepers:
+Most people searching for a freelance bookkeeper near me want practical, local help with their bookkeeping, often because they're too busy to do it themselves or want to avoid costly mistakes.
 
-- A small business owner who is behind on receipts and bank reconciliations.
-- A business moving from spreadsheets to cloud software.
-- A charity or club that needs clear records for trustees.
-- A company that needs VAT returns prepared and submitted on time.
-- An employer who wants payroll run each month.
+- You run a small business and need someone to keep your records up to date so you can focus on running the business.
+- You're self-employed and want a local bookkeeper to help with invoices, expenses and preparing for your tax return.
+- You've fallen behind with your bookkeeping and need a freelance bookkeeper nearby to help you catch up.
+- You want to hand over the bookkeeping to someone who can offer a personal service and understand your situation.
+- You need a bookkeeper who can work flexibly around your schedule, perhaps visiting you or working remotely.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of bookkeeper fits best.
+## What to understand about freelance bookkeepers
 
-## Costs and quotes for a freelance bookkeeper
+Bookkeeping is not a regulated title in the UK, but anyone providing bookkeeping services for a fee must be supervised for anti-money-laundering purposes, either by HMRC or by a professional body. Membership of the Institute of Certified Bookkeepers (ICB) or the Association of Accounting Technicians (AAT) shows a bookkeeper has trained to a recognised standard and agreed to a code of conduct. So when you're looking for a freelance bookkeeper near you, it's worth checking these details.
 
-Bookkeeping is usually priced on volume and frequency: how many transactions, how many bank accounts and how often you want the books brought up to date. Catch-up work is often quoted separately. iComply does not publish prices; the bookkeeper you are matched with will give you a POA quote based on your records.
+A freelance bookkeeper often works for several small clients, offering flexibility and personal service. However, they should be clear about where their work stops and an accountant's starts, for example on year-end accounts and tax advice. Good bookkeepers will have professional indemnity insurance and will be happy to explain their data security practices.
 
-A short call where you share a sample month of transactions usually gives the bookkeeper enough to quote fairly. Ask for the scope in writing so you know what is covered.
+## After the introduction
 
-## Getting ready for your first conversation
-
-You do not need all of this to enquire, but the more you can share, the better the match:
-
-- How far behind the records are, if at all
-- The reports you would like to see each month
-- Roughly how many bank transactions you have each month
-- Whether you already have an accountant for year-end work
-- Whether you run payroll and how many staff you have
-- Which accounting software you use or would like to use
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+Once matched, the bookkeeper will set up access to your software and bank feeds, complete identity checks and agree a routine with you. You keep ownership of your records. We may follow up to check the introduction worked well.
 
 **Need a freelance bookkeeper?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-## Warning signs to watch for
+## Costs and quotes for a freelance bookkeeper
 
-Be cautious if you notice any of the following:
+Bookkeeping is usually priced on volume and frequency: how many transactions, how many bank accounts and how often you want the books brought up to date. Catch-up work is often quoted separately. The bookkeeper you are matched with will give you a POA quote based on your records.
 
-- No anti-money-laundering supervision
-- Unclear access arrangements for your bank feeds and software
-- No written agreement about scope and deadlines
-- Claims to give tax advice they are not qualified to give
+A short call where you share a sample month of transactions usually gives the bookkeeper enough to quote fairly. Ask for the scope in writing so you know what is covered.
 
-## From enquiry to quote in four steps
-
-1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
-1. **We review your brief.** We check the type of bookkeeper you need, your location and your timing.
-1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
-1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
-
-There is no charge to you for the introduction, and no obligation to accept any quote.
-
-## How long things usually take
-
-Many bookkeepers can start within one to two weeks. Clearing a large backlog takes longer and depends on how organised your paperwork is. If a VAT or payroll deadline is close, include it in your enquiry.
-
-![Planning the first appointment after an enquiry for freelance bookkeeper near me](/assets/images/hero-workshop.jpg)
-
-## Near me: how local matching works
-
-When you search for a freelance bookkeeper near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
-
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
-
-## Checking bookkeepers are qualified and regulated
+## Qualifications and registration to look for
 
 Bookkeeping is not a regulated title in the UK, but anyone providing bookkeeping services for a fee must be supervised for anti-money-laundering purposes, either by HMRC or by a professional body. Membership of the Institute of Certified Bookkeepers (ICB) or the Association of Accounting Technicians (AAT) shows a bookkeeper has trained to a recognised standard and agreed to a code of conduct.
 
 Ask whether a bookkeeper holds professional indemnity insurance and which body supervises them. Good bookkeepers are also clear about where their work stops and an accountant's starts, for example on year-end accounts and tax advice.
 
 Please note that iComply is a matching service only. We are not regulated as a bookkeeper, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
+
+![Professional reviewing a client's brief before an introduction for freelance bookkeeper near me](/assets/images/finance-desk.jpg)
+
+## Questions to ask the freelance bookkeeper
+
+Asking a few direct questions early tells you a lot about how a practice works:
+
+- Are you supervised for anti-money-laundering purposes, and by which body?
+- Do you hold professional indemnity insurance?
+- What is your experience with businesses like mine?
+- How do you handle data security and confidentiality?
+- What are your arrangements for holiday cover or if you're unavailable?
+- Where does your work stop and an accountant's start, for example on year-end accounts and tax advice?
 
 ## Before you choose a freelance bookkeeper
 
@@ -101,24 +81,47 @@ These practical points are worth knowing before you speak to anyone about a free
 
 A good bookkeeper will talk you through each of these in plain English.
 
-## What to ask before you instruct anyone
+## How iComply matches you
 
-Asking a few direct questions early tells you a lot about how a practice works:
+1. **Enquire for free** with your town or postcode and a short description.
+1. **We clarify** anything unclear, so the introduction is useful from the start.
+1. **We connect you** with a freelance bookkeeper who suits your situation.
+1. **The practice takes over**, confirms scope and fees in writing and does the work.
 
-- How quickly can you catch up on any backlog?
-- What happens to my data if we stop working together?
-- Are you supervised for anti-money-laundering, and by whom?
-- Is the fee based on transaction volume, hours or a fixed package?
-- Do you work remotely, on site, or both?
-- Will you liaise with my accountant at year end?
+We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
 
-![Next steps after an iComply introduction for a freelance bookkeeper](/assets/images/insurance-advisory.jpg)
+## What to tell iComply when enquiring
 
-## Freelance Bookkeeper Near Me: FAQs
+A short, clear brief saves time on both sides. Useful details include:
 
-### What is the difference between a bookkeeper and an accountant?
+- Tell us the type of business you run or your employment status, as this affects the bookkeeping you need.
+- Let us know what bookkeeping tasks you need help with, such as invoicing, expenses, reconciliations or VAT.
+- Mention how far behind you are, if at all, so the bookkeeper can plan accordingly.
+- Tell us whether you prefer a bookkeeper who can visit you in person or one who works remotely.
+- Let us know if you have any specific software or systems you already use for your bookkeeping.
+- Tell us your rough timescales and any deadlines you're working towards, such as a tax return or year-end.
 
-A bookkeeper records day-to-day transactions and keeps your books accurate. An accountant typically prepares year-end accounts, tax returns and gives tax advice. Many businesses use both, and they work best when they talk to each other.
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+
+![Next steps after an iComply introduction for a freelance bookkeeper](/assets/images/hero-workshop.jpg)
+
+## FAQs: a freelance bookkeeper
+
+### Do I need a bookkeeper who is local to me?
+
+Not necessarily. Many freelance bookkeepers work remotely and can serve clients anywhere. However, if you prefer face-to-face meetings or have documents to hand over, a local bookkeeper may be more convenient.
+
+### How do I check a freelance bookkeeper's credentials?
+
+Ask whether they are supervised for anti-money-laundering purposes by HMRC or a professional body, and whether they hold professional indemnity insurance. Membership of the Institute of Certified Bookkeepers (ICB) or the Association of Accounting Technicians (AAT) indicates they have trained to a recognised standard.
+
+### Will a freelance bookkeeper also do my tax return?
+
+Not usually. Bookkeepers focus on recording financial transactions, while tax returns and year-end accounts are typically handled by an accountant. A good bookkeeper will be clear about where their work stops and an accountant's starts.
+
+### What should I have ready before I contact a bookkeeper?
+
+It helps to have an idea of your income and expenses, any software you use, and the tasks you need help with. Also think about whether you prefer someone local or remote, and any deadlines you're working towards.
 
 ### Can a bookkeeper submit my VAT return?
 
@@ -132,25 +135,21 @@ Send us your town or postcode with a short description of what you need. We look
 
 Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
 
-### Can I contact you on WhatsApp?
+### Is it free to use iComply?
 
-Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
+Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
 
-### Do I have to accept a quote?
+## Other services you may need
 
-No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
-
-## Related searches
-
-- [Small business bookkeeper near me](/keywords/small-business-bookkeeper-near-me/)
-- [Landlord bookkeeper near me](/keywords/landlord-bookkeeper-near-me/)
-- [Contractor bookkeeper near me](/keywords/contractor-bookkeeper-near-me/)
-- [Bookkeeping](/keywords/bookkeeping/)
 - [Sage bookkeeper near me](/keywords/sage-bookkeeper-near-me/)
+- [Bookkeeper near me](/keywords/bookkeeper-near-me/)
+- [Landlord bookkeeper near me](/keywords/landlord-bookkeeper-near-me/)
+- [Bookkeepers](/keywords/bookkeepers/)
+- [Bookkeeper](/keywords/bookkeeper/)
 - [Browse all bookkeepers](/hubs/bookkeepers/)
 
-## Request your free quote
+## Ready to be matched?
 
-One short enquiry is all it takes. We connect you with a freelance bookkeeper who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
+Tell us what you need and where you are. We will match you with a suitable bookkeeper, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
 
 [Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

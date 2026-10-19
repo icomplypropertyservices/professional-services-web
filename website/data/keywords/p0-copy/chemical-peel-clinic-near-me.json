@@ -1,0 +1,53 @@
+{
+ "intro": "You've searched for a chemical peel clinic near you, probably because you want to improve the look of your skin and you'd rather see someone local. You might be new to peels or you might have had one before and want a clinic that suits you better. Either way, you want to know what to expect and how to choose safely.",
+ "need_heading": "What people searching for a chemical peel clinic near them usually need",
+ "need_lead": "Most people want a local clinic that will assess their skin properly and explain the options clearly.",
+ "needs": [
+  "You want a clinic within easy reach so you can get to a consultation and any follow-up appointments without a long journey.",
+  "You need someone who will look at your skin type, your history and any medication you take before deciding whether a peel is right for you.",
+  "You may be worried about reactions and want to know whether a patch test is offered before the full peel.",
+  "You might be considering a deeper peel and need to understand whether it will be supervised by a medical professional.",
+  "You want clear aftercare advice so you know how to look after your skin in the days following the treatment."
+ ],
+ "context_heading": "What to understand before choosing a chemical peel clinic",
+ "context": [
+  "Chemical peels vary in strength, and deeper peels carry more risk, so they need medical supervision. Clinics offering peels should assess your skin type, history and medication before choosing the right peel strength for you, and a patch test may be needed beforehand.",
+  "In the UK, non-surgical cosmetic procedures are not yet covered by a licensing scheme in England, though the government has set out plans to introduce one. Until then, it's wise to choose a clinic carefully: practitioners on registers such as Save Face or the JCCP, and doctors and nurses registered with the GMC or NMC, offer extra reassurance, and clinics run by regulated healthcare providers may be registered with the CQC."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you are looking for a chemical peel clinic near you, and give the town or area you want to travel to.",
+  "Describe your skin type and any concerns you hope a peel will address, such as texture or pigmentation.",
+  "List any skin treatments you have had before, including peels, and how your skin reacted.",
+  "Say whether you are taking any medication, including prescription creams, as this can affect peel suitability.",
+  "Mention any known allergies or skin conditions, such as eczema or rosacea.",
+  "Explain whether you would prefer a clinic led by a doctor or nurse, or one with practitioners on a register like Save Face or the JCCP."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "What strength of peel would you recommend for my skin type, and why?",
+  "Will you do a patch test before the full peel?",
+  "What are the risks and side effects I should be aware of?",
+  "Who will carry out the peel, and what are their qualifications?",
+  "Is this clinic registered with the CQC or are you on a register such as Save Face or the JCCP?",
+  "What aftercare will I need to follow, and how should I look after my skin afterwards?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a patch test before a chemical peel?",
+   "a": "A patch test may be needed, especially if you have sensitive skin or have not had a peel before. It helps check how your skin reacts to the peel solution. Ask the clinic whether they recommend one for you."
+  },
+  {
+   "q": "Are deeper chemical peels safe?",
+   "a": "Deeper peels carry more risk and need medical supervision. They should only be carried out by someone trained and qualified to manage stronger solutions. Always discuss the depth and aftercare with the practitioner."
+  },
+  {
+   "q": "How do I choose a safe clinic for a chemical peel?",
+   "a": "Look for practitioners on registers such as Save Face or the JCCP, or doctors and nurses registered with the GMC or NMC. Clinics run by regulated healthcare providers may also be registered with the CQC. Ask about qualifications and experience before booking."
+  },
+  {
+   "q": "What should I expect during a consultation?",
+   "a": "The practitioner should assess your skin type, history and any medication you take. They will discuss the right peel strength for you and explain the aftercare. This helps make sure the treatment is suitable and safe for you."
+  }
+ ]
+}

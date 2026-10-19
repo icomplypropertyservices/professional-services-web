@@ -1,0 +1,53 @@
+{
+ "intro": "You've had an operation and your surgeon has said you need physiotherapy to get back on your feet. Searching for post operative physiotherapy near me means you want someone local who understands your operation and can guide your recovery safely. We can introduce you to a physiotherapist in your area who will assess your needs and quote you directly.",
+ "need_heading": "What people searching for post operative physiotherapy near me usually need",
+ "need_lead": "Most people in this situation are looking for a local physiotherapist who can follow their surgeon's instructions and help them recover after surgery.",
+ "needs": [
+  "You have had joint replacement surgery and need help to regain movement and strength in the new joint.",
+  "You are recovering from a ligament repair and need a physiotherapist who can guide you through a structured rehabilitation programme.",
+  "You have been discharged from hospital with a physiotherapy protocol from your surgeon and need someone nearby to carry it out.",
+  "You want to manage swelling and pain after your operation with professional advice and hands-on treatment.",
+  "You need to know when it is safe to start physiotherapy after your surgery and how to progress without causing harm."
+ ],
+ "context_heading": "What to understand about post operative physiotherapy",
+ "context": [
+  "Post operative physiotherapy is not a one-size-fits-all approach. Your surgeon will have a specific protocol for your operation, which sets out what you can and cannot do at each stage. A physiotherapist will follow that protocol to help you restore movement and strength safely. It is important to bring the protocol with you to your first appointment.",
+  "The title 'physiotherapist' is protected in the UK, so anyone using it must be registered with the Health and Care Professions Council (HCPC). You can check the HCPC register online to confirm someone's registration. Most physiotherapists are also members of the Chartered Society of Physiotherapy (CSP), shown by the letters MCSP."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Tell us the type of operation you had and the date it took place.",
+  "Let us know if your surgeon has given you a physiotherapy protocol or written instructions.",
+  "Describe any swelling, pain or stiffness you are experiencing at the moment.",
+  "Mention any other health conditions or medications that might affect your physiotherapy.",
+  "Tell us your location and how far you are able to travel for appointments.",
+  "Let us know whether you have private health insurance or are paying for treatment yourself."
+ ],
+ "questions_heading": "Questions to ask the physiotherapist",
+ "questions": [
+  "Are you registered with the Health and Care Professions Council?",
+  "How will you use my surgeon's protocol in my treatment?",
+  "What experience do you have in treating patients after my specific operation?",
+  "How will you help me manage swelling and pain during rehabilitation?",
+  "What should I do if I experience increased pain or swelling after an exercise?",
+  "How will we measure my progress and adjust the programme?"
+ ],
+ "faqs": [
+  {
+   "q": "When can I start physiotherapy after my operation?",
+   "a": "Your surgeon will advise you on when it is safe to start. It is important to follow their guidance and bring any written instructions to your first physiotherapy appointment."
+  },
+  {
+   "q": "Do I need a referral from my surgeon to see a physiotherapist?",
+   "a": "Not always, but it helps to have your surgeon's protocol or a letter outlining your operation. Some physiotherapists may ask for this before your first appointment."
+  },
+  {
+   "q": "What should I bring to my first physiotherapy appointment?",
+   "a": "Bring your surgeon's protocol or any written instructions, a list of your medications, and wear comfortable clothing that allows the physiotherapist to assess the affected area."
+  },
+  {
+   "q": "How do I check if a physiotherapist is properly qualified?",
+   "a": "You can check the Health and Care Professions Council (HCPC) register online to confirm that the physiotherapist is registered. Membership of the Chartered Society of Physiotherapy (CSP) is shown by the letters MCSP after their name."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a hearing test near you usually means you've noticed a change in your hearing or you're acting on someone else's concern. You want a clear answer about what's happening and a convenient local clinic. iComply introduces you to a UK hearing professional who can carry out the test and explain the results.",
+ "need_heading": "What people searching for a hearing test near me usually need",
+ "need_lead": "Most people want a straightforward, local appointment to find out whether their hearing is normal or whether something needs attention.",
+ "needs": [
+  "You've been turning the television up louder than others in the room and want to know if your hearing has changed.",
+  "You struggle to follow conversations in noisy places like a café or family gathering and want a proper assessment.",
+  "A family member or friend has suggested you get your hearing checked, and you'd like to put the question to rest.",
+  "You've noticed a ringing or buzzing in your ears and want to understand whether it's linked to your hearing.",
+  "You want a baseline check before deciding whether to pursue hearing aids or other support."
+ ],
+ "context_heading": "One key thing to understand about hearing tests",
+ "context": [
+  "A hearing test is painless and usually takes place in a quiet clinic room. The professional will examine your ear canal and eardrum, then play sounds at different pitches and volumes to measure how well you hear. The results are shown on an audiogram, which gives a clear picture of your hearing across the range.",
+  "If you have sudden hearing loss, pain, discharge from the ear, or hearing loss in one ear only, you should see a doctor promptly rather than waiting for a routine test. Some causes need medical treatment, and a hearing professional will also advise you to seek medical help if they spot anything that needs it."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you're looking for a hearing test near you, and give your town or postcode so we can introduce you to a local professional.",
+  "Describe what you've noticed about your hearing, such as difficulty following conversations or needing the volume higher.",
+  "Say whether the change came on suddenly or gradually, as sudden loss needs urgent medical attention.",
+  "Mention any ringing, buzzing, pain, discharge, or difference between your ears.",
+  "Note any relevant history, such as previous ear problems, exposure to loud noise, or a family history of hearing loss.",
+  "Say whether you have any preference about appointment times or accessibility needs."
+ ],
+ "questions_heading": "Questions to ask the hearing professional",
+ "questions": [
+  "What will the hearing test involve and how should I prepare for it?",
+  "Will you examine my ear canal and eardrum as part of the test?",
+  "How will you explain the results on the audiogram to me?",
+  "What happens if the test shows I need further medical assessment?",
+  "Can you tell me about the range of options if my hearing has changed?",
+  "How often would you recommend having my hearing checked again?"
+ ],
+ "faqs": [
+  {
+   "q": "Is a hearing test painful?",
+   "a": "No, a hearing test is painless. It involves listening to sounds through headphones and may include a simple examination of your ear canal and eardrum."
+  },
+  {
+   "q": "What should I do if my hearing loss came on suddenly?",
+   "a": "Sudden hearing loss needs urgent medical care, so you should see a doctor promptly. Do not wait for a routine hearing test appointment."
+  },
+  {
+   "q": "Who is qualified to carry out a hearing test?",
+   "a": "Hearing aid dispensers must be registered with the Health and Care Professions Council (HCPC), and you can check the register online. Clinical audiologists may also be registered through the Academy for Healthcare Science or other recognised registers."
+  },
+  {
+   "q": "Will I be told the results straight away?",
+   "a": "The professional will usually explain your results at the appointment and show you the audiogram. They can then discuss what the findings mean for you."
+  }
+ ]
+}

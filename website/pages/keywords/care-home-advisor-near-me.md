@@ -1,130 +1,129 @@
 ---
 slug: care-home-advisor-near-me
 title: Care Home Advisor Near Me | iComply Professional Services
-description: Need a care home adviser near you? iComply connects you with a suitable UK later-life care advice service. Free, no-obligation matching. Request a quote — POA.
+description: Looking for a care home adviser near you? Tell iComply what you need and we match you with a suitable UK care advisor. Free to enquire. Request a quote — POA.
 family: care
 group: finance
 hub: care-advisors
 profession: care advisor
 service_label: Care home adviser
-og_image: /assets/images/healthcare-consult.jpg
+og_image: /assets/images/finance-desk.jpg
 ---
 
 # Care Home Advisor Near Me
 
-If you have typed **care home advisor near me** into a search bar, you are likely looking for help soon and not too far away. Care home advisers help families compare homes, understand contracts and fees, and plan a move.
+Searching for a care home advisor near me usually means you are trying to make sense of care options for someone you love, often while feeling under pressure to decide quickly. You may be comparing homes, reading contracts, or wondering how fees will change over time. We introduce you to independent care advisors who can help you understand the choices and ask the right questions.
 
-iComply Professional Services is a free matching service. You tell us what you need and where you are; we connect you with a suitable UK care advisor who can quote for the work. The practice provides the service, and every quote is POA.
+Care home advisers help families compare homes, understand contracts and fees, and plan a move.
+
+We act as the middleman between you and the professional. Share a short brief and we match you with a care home adviser who has the right experience and capacity. Enquiring is free, and you are under no obligation to accept a quote.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Next steps after an iComply introduction for a care home adviser](/assets/images/healthcare-consult.jpg)
+![Next steps after an iComply introduction for a care home adviser](/assets/images/finance-desk.jpg)
 
-## What care advisors commonly help with
+## What people searching for a care home advisor near me often need
 
-Every enquiry is different, but these are typical starting points for clients who contact care advisors:
+Most people looking for a care home advisor near me are facing a first move into care or a change in circumstances and want clear, local guidance.
 
-- A hospital discharge that needs care in place quickly.
-- Choosing between home care and a care home.
-- Understanding how care is funded and assessed.
-- A parent who can no longer manage safely at home.
-- Comparing local care homes.
+- You have been told that a relative needs residential care and you do not know how to compare the homes in your area.
+- You are worried about care home fees and want to understand what the contract says before you sign.
+- You need help planning a move from hospital to a care home and feel unsure about the steps involved.
+- You are struggling to work out whether home care or a care home is the right choice for someone close to you.
+- You want to know what to ask when you visit a care home and how to check its CQC rating.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of care advisor fits best.
+## Understanding care advice and regulation
 
-## How fees usually work (POA)
+Care homes and home care agencies in England are registered with and inspected by the Care Quality Commission (CQC); Wales, Scotland and Northern Ireland have their own regulators. Local councils assess care needs and finances and must provide information and advice. Independent care advisors can help you understand these options, but they should be clear about whether their advice is regulated.
 
-Care advisers may charge a fixed fee, an hourly rate, or (for regulated product advice) a fee or commission that must be disclosed. iComply does not publish fees; the adviser quotes you, POA.
+Care fees advice that involves financial products, such as immediate needs annuities, is regulated by the Financial Conduct Authority (FCA), and the Society of Later Life Advisers (SOLLA) accredits specialist advisers. When you speak to an advisor, ask whether they are regulated for any financial recommendations they make. This helps you know what protection you have.
 
-Ask whether initial guidance is free, and for written terms before detailed advice.
+## Questions to ask the care advisor
 
-## How long things usually take
+Once you are introduced, these questions help you decide whether the care advisor is right for you:
 
-Hospital discharge can move quickly, so mention it in your enquiry. Planned moves allow time to visit homes and get advice.
+- Are you regulated by the Financial Conduct Authority for any financial advice you give, such as on immediate needs annuities?
+- Can you help me understand how to check CQC ratings for care homes in my area?
+- What should I look out for in a care home contract, especially about fee increases?
+- Will you help me compare the total costs of different care homes, including any extra charges?
+- Do you have experience of helping families with a move from hospital to a care home?
+- How do you work with local council assessments and funding decisions?
 
 **Need a care home adviser?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
-
-## How our free matching service works
-
-1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
-1. **We review your brief.** We check the type of care advisor you need, your location and your timing.
-1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
-1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
-
-We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
-
-## Red flags when choosing a care home adviser
-
-Be cautious if you notice any of the following:
-
-- Pressure to sell property quickly
-- Unclear fees
-- Unregulated advice on financial products
-- No mention of council assessments
-
-## What to ask before you instruct anyone
-
-Asking a few direct questions early tells you a lot about how a practice works:
-
-- Can you help with council assessments and NHS Continuing Healthcare?
-- How do you compare care homes?
-- How do you charge?
-- What funding options are realistic in our situation?
-- Can you work with our solicitor?
-- What support do you offer after a decision?
-
-![Planning the first appointment after an enquiry for care home advisor near me](/assets/images/insurance-advisory.jpg)
-
-## Looking for a care home adviser close to home
-
-When you search for a care home adviser near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
-
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
-
-## What to prepare before you enquire
-
-A short, clear brief saves time on both sides. Useful details include:
-
-- An overview of income, savings and property
-- Questions about funding
-- Any council needs assessment
-- Preferences about home or residential care
-- Where they live and where family live
-- The timescale, especially around hospital discharge
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
 ## Checking care advisors are qualified and regulated
 
 Care homes and home care agencies in England are registered with and rated by the CQC; Wales, Scotland and Northern Ireland have their own regulators. Care fees advice that involves financial products, such as immediate needs annuities, is regulated by the FCA, and the Society of Later Life Advisers (SOLLA) accredits specialist advisers.
 
-Local councils assess care needs and finances, and must provide information and advice. Independent advisers can help families understand options, but they should be clear whether their advice is regulated.
+Independent advisers can help families understand options, but they should be clear whether their advice is regulated.
 
 Adviser and advisor are simply two spellings of the same word. What matters is whether the person giving advice is qualified and, where the law requires it, regulated for that type of advice.
 
-iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
+Please note that iComply is a matching service only. We are not regulated as a care advisor, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
 
-## Practical points about a care home adviser
+## Costs and quotes for a care home adviser
 
-A few points come up again and again with a care home adviser:
+Care advisers may charge a fixed fee, an hourly rate, or (for regulated product advice) a fee or commission that must be disclosed. The adviser quotes you, POA.
+
+Ask whether initial guidance is free, and for written terms before detailed advice.
+
+![Planning the first appointment after an enquiry for care home advisor near me](/assets/images/hero-workshop.jpg)
+
+## What to tell iComply when you enquire
+
+You do not need all of this to enquire, but the more you can share, the better the match:
+
+- Tell us the local area where you are looking for care, so we can introduce you to an advisor who knows that area.
+- Explain whether you need help comparing care homes, understanding contracts and fees, or planning a move.
+- Mention if the person needing care has had a needs assessment from the local council or is due one.
+- Let us know if you are considering financial products such as an immediate needs annuity, so we can match you with an advisor regulated for that.
+- Share any timescales you are working with, such as a hospital discharge date or a family deadline.
+- Tell us if you have already visited homes or have specific questions about CQC ratings or fee increases.
+
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+
+## Key things to know about a care home adviser
+
+These practical points are worth knowing before you speak to anyone about a care home adviser:
 
 - Check CQC ratings.
 - Read contracts carefully.
 - Ask about fee increases.
 
-Raise any of these with the care advisor you are introduced to; they should be happy to explain.
+A good care advisor will talk you through each of these in plain English.
 
-## After the introduction
+## How iComply matches you
 
-Once introduced, the adviser will discuss the situation and agree terms. Advice is between you and the adviser. iComply does not provide care or financial advice.
+1. **Enquire for free** with your town or postcode and a short description.
+1. **We clarify** anything unclear, so the introduction is useful from the start.
+1. **We connect you** with a care home adviser who suits your situation.
+1. **The practice takes over**, confirms scope and fees in writing and does the work.
 
-![Later-life care advice service ready to take on a new enquiry for care home advisor near me](/assets/images/finance-desk.jpg)
+We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
 
-## Care Home Advisor Near Me: FAQs
+## How long things usually take
 
-### Who pays for care?
+Hospital discharge can move quickly, so mention it in your enquiry. Planned moves allow time to visit homes and get advice.
 
-It depends on needs, income and assets. Councils carry out financial assessments, and some people qualify for NHS Continuing Healthcare. An adviser can explain how the rules apply to you.
+![Later-life care advice service ready to take on a new enquiry for care home advisor near me](/assets/images/insurance-advisory.jpg)
+
+## FAQs about care home advisor near me
+
+### What does a care home advisor do?
+
+Care home advisors help families compare homes, understand contracts and fees, and plan a move. They can also help you prepare questions for care homes and understand local council assessments.
+
+### How do I check a care home's rating?
+
+In England, you can check a care home's rating on the Care Quality Commission (CQC) online. In Wales, Scotland and Northern Ireland, the relevant regulator publishes inspection reports and ratings.
+
+### Should I use a regulated advisor for care fees advice?
+
+If your query involves financial products like immediate needs annuities, the advisor should be regulated by the Financial Conduct Authority (FCA). The Society of Later Life Advisers (SOLLA) also accredits specialist advisers, so you can ask about these credentials.
+
+### Can iComply recommend a specific care home?
+
+No, we are an introduction service and do not recommend or endorse specific care homes. We introduce you to a suitable care advisor who can help you compare options and make your own informed choice.
 
 ### Can a care home take my house?
 
@@ -134,25 +133,21 @@ Property may be counted in the financial assessment in some circumstances, but t
 
 Send us your town or postcode with a short description of what you need. We look for a suitable later-life care advice service with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
 
-### Can I contact you on WhatsApp?
-
-Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
-
-### Is it free to use iComply?
-
-Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
-
 ### Is iComply regulated?
 
 iComply is a matching service. We are not a care advisor and we do not give professional advice. The professionals we introduce are registered with their own bodies, and you can check them.
 
+### How quickly will I hear back?
+
+Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
+
 ## Related searches
 
-- [Care advisor near me](/keywords/care-advisor-near-me/)
 - [Elderly care advisor near me](/keywords/elderly-care-advisor-near-me/)
+- [Care advisor near me](/keywords/care-advisor-near-me/)
 - [Browse all care advisors](/hubs/care-advisors/)
 
-## Ready to be matched?
+## Request your free quote
 
 Tell us what you need and where you are. We will match you with a suitable care advisor, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
 

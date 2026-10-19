@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for IT consultants near me usually means something in your business has outgrown the way it runs today, or a problem has landed that you cannot solve in-house. You may be weighing up a move to the cloud, tightening security, sorting out a network, or simply wanting an outside view on technology strategy. We introduce you to a UK IT consultant suited to what you describe, and they quote you directly, price on application.",
+ "need_heading": "What people searching for IT consultants near me usually need",
+ "need_lead": "The situations behind this search tend to be practical and pressing, and they often involve a decision that will shape how your business works for a while.",
+ "needs": [
+  "You are considering moving systems or files to the cloud and want independent advice on what to move, what to leave, and how to keep working during the change.",
+  "A security concern has surfaced, perhaps after a suspicious email or a near miss, and you want someone to look at how your systems and access are set up.",
+  "Your network keeps letting you down as the team grows, and you need a clear view of what to fix rather than another quick patch.",
+  "You have no technology plan beyond the current year and want a consultant to help you think through where the business is heading and what it will need.",
+  "A project has finished or a supplier has changed, and you are unsure who will support the systems afterwards and how that handover should work."
+ ],
+ "context_heading": "Checking credentials yourself",
+ "context": [
+  "Most IT consultancy work is not regulated by a single body, so it pays to check credentials yourself before you commit. Relevant memberships include BCS for IT professionals, and you can ask for case studies and references from clients whose situation resembles yours.",
+  "Where the work touches regulated areas such as data protection or financial services compliance, check that the consultant is clear about the limits of their role and when you need a solicitor or another regulated adviser. Cyber Essentials can be a good baseline for security, and it is worth asking whether the consultant works with it."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe your business and roughly how many people rely on the systems in question.",
+  "Explain the specific problem or decision that prompted you to look for an IT consultant.",
+  "Say which systems, software or cloud services you already use, as far as you know them.",
+  "Mention any deadline or event driving the timing, such as an office move or a contract ending.",
+  "Note whether you want advice only or help putting changes into practice.",
+  "Say what support you will need after the project, so the consultant can plan for it."
+ ],
+ "questions_heading": "Questions to ask the consultant",
+ "questions": [
+  "Have you advised businesses similar to mine, and can you share references from them?",
+  "How would you describe the limits of your role if my work touches data protection or another regulated area?",
+  "What would you need from us to assess our systems, and who would be involved?",
+  "How do you approach security, and do you work with Cyber Essentials as a baseline?",
+  "What happens once the project ends, and how would support be arranged?",
+  "How will you document our systems and access so we are not dependent on one person?"
+ ],
+ "faqs": [
+  {
+   "q": "What does an IT consultant actually do?",
+   "a": "An IT consultant advises on systems, cloud migration, cyber security, networks and technology strategy for businesses. The work can range from a one-off assessment to guiding a project through to completion, depending on what you need."
+  },
+  {
+   "q": "How do I judge an IT consultant near me?",
+   "a": "Ask about their experience with businesses like yours and request case studies and references from similar clients. Check any professional memberships, such as BCS for IT professionals, and make sure they are clear about what they will and will not take on."
+  },
+  {
+   "q": "Can an IT consultant help with cyber security?",
+   "a": "Yes, security is a common part of the work, from checking how systems and access are set up to advising on good practice. Cyber Essentials can be a useful baseline to work towards, and it is worth asking whether they use it."
+  },
+  {
+   "q": "What should I have ready before I enquire?",
+   "a": "A short description of your business, the systems you use and the problem or decision in front of you helps us introduce you to a suitable consultant. Mentioning any deadline and what support you will need afterwards makes the introduction more useful."
+  }
+ ]
+}

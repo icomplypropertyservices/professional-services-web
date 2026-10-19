@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a chiropractor usually means you're dealing with back or neck pain, or another joint or muscle problem, and you want to know who can help and what's involved. Whether it's a new problem or something that's been bothering you for a while, finding the right chiropractor starts with understanding what they do and how to check they're properly registered. We can introduce you to a UK chiropractor who will quote you directly, so you can decide what's right for you.",
+ "need_heading": "What people searching for a chiropractor usually need",
+ "need_lead": "Most people looking for a chiropractor are seeking relief from spinal or joint pain and want to understand their options before committing.",
+ "needs": [
+  "You've been struggling with lower back pain and want to know if chiropractic treatment could help.",
+  "You have neck pain or stiffness that has been bothering you and you're considering manual therapy.",
+  "You're looking for a chiropractor who can assess a joint or muscle problem and advise on exercise and lifestyle.",
+  "You've had treatment before and want to find a registered chiropractor for a new episode of pain.",
+  "You're unsure whether chiropractic is right for your problem and want to speak to a professional who can be honest about what they can and cannot help with."
+ ],
+ "context_heading": "What to understand about chiropractic",
+ "context": [
+  "\"Chiropractor\" is a protected title in the UK, which means every chiropractor must be registered with the General Chiropractic Council (GCC). You can check registration online. Chiropractors focus on the spine, joints and muscles, using manual adjustment and mobilisation, plus exercise and lifestyle advice. The evidence is strongest for back and neck pain, and a careful chiropractor will be honest about what they can and cannot help with.",
+  "When you contact a chiropractor, ask about their approach and the evidence for treating your specific problem. Be wary of long prepaid treatment plans; a good chiropractor will explain what they recommend and why, and will be clear about costs before you commit. You can also ask whether they are a member of a professional body such as the Royal College of Chiropractors or the British Chiropractic Association."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the main problem you want help with, such as lower back pain, neck pain, or a joint or muscle issue.",
+  "Mention how long you've had the problem and whether it's getting better or worse.",
+  "Say whether you've seen a chiropractor before or tried other treatments for this problem.",
+  "Include any relevant health conditions or injuries that might affect treatment.",
+  "Let us know your location so we can introduce you to a chiropractor in your area.",
+  "Mention any preferences, such as wanting a chiropractor who provides exercise advice alongside treatment."
+ ],
+ "questions_heading": "Questions to ask the chiropractor",
+ "questions": [
+  "Are you registered with the General Chiropractic Council?",
+  "What is your approach to treating my specific problem, and what evidence supports it?",
+  "What can I expect during the first appointment, and will you explain what you're doing?",
+  "How will you assess whether chiropractic treatment is helping me?",
+  "Do you recommend a treatment plan, and what are the costs involved?",
+  "Will you provide advice on exercises or lifestyle changes to help me manage my problem?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral from my GP to see a chiropractor?",
+   "a": "No, you can contact a chiropractor directly without a referral. However, it's a good idea to tell your GP if you're having treatment, especially if you have ongoing health conditions."
+  },
+  {
+   "q": "Is chiropractic treatment safe?",
+   "a": "Chiropractic is generally considered safe when performed by a registered professional. Like any treatment, there are some risks, and a chiropractor should discuss these with you. You should always check that your chiropractor is registered with the GCC."
+  },
+  {
+   "q": "What happens during a chiropractic appointment?",
+   "a": "The chiropractor will ask about your symptoms and medical history, and may examine your spine and joints. Treatment usually involves manual techniques such as spinal manipulation, and you may be given exercises to do at home."
+  },
+  {
+   "q": "How do I choose a chiropractor?",
+   "a": "Check that the chiropractor is registered with the GCC, and ask about their experience and approach. It's also worth asking about costs and whether they are a member of a professional body. You should feel comfortable asking questions and be given clear answers."
+  }
+ ]
+}

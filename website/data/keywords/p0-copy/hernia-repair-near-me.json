@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for hernia repair near you usually means a lump or ache has become hard to ignore, and you want to know who can look at it and what repairing it would involve. You may be weighing up going privately for speed or choice, or simply want a consultant close enough to reach easily for appointments and follow-up. iComply is a free introduction service: you tell us what you need, and we introduce you to a suitable UK private consultant who quotes you directly, with prices on application.",
+ "need_heading": "What people searching for hernia repair near me usually need",
+ "need_lead": "Most people behind this search want a clear diagnosis and a realistic plan for surgery, with a consultant they can get to without a long journey.",
+ "needs": [
+  "You have a bulge in your groin or abdomen that aches when you lift, cough or stand for long, and you want it looked at properly.",
+  "Your GP has already said it is a hernia and you would like to discuss whether and when it should be repaired.",
+  "You are in discomfort and want to see someone soon rather than wait, and travelling far for appointments would be difficult.",
+  "You want to understand the difference between open and keyhole repair before deciding anything.",
+  "You need to plan around work or caring responsibilities, including time off lifting and driving, so you want the practicalities explained."
+ ],
+ "context_heading": "Checking who you are seeing",
+ "context": [
+  "Hospital consultants should appear on the General Medical Council's specialist register for their field, and you can check this yourself online. Private clinics providing regulated healthcare in England must register with the Care Quality Commission, which inspects and publishes ratings; in Wales it is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA.",
+  "Many private specialists also work in the NHS, so you may recognise a name from a local hospital. If you have private medical insurance, your insurer may ask for a GP referral and may only cover certain consultants or hospitals, so check with them before you book."
+ ],
+ "tell_heading": "What to tell iComply",
+ "tell": [
+  "Say where the hernia is and what it feels like, including whether it is painful, tender or hard.",
+  "Mention how long you have had it and whether it has changed recently.",
+  "Explain whether your GP has already assessed it or referred you.",
+  "Say roughly where you live and how far you are willing to travel for appointments and surgery.",
+  "Mention whether you are paying yourself or using private medical insurance.",
+  "Note any dates you need to work around, such as work commitments or caring responsibilities."
+ ],
+ "questions_heading": "Questions to ask the consultant",
+ "questions": [
+  "Do you recommend open or keyhole repair for my hernia, and why?",
+  "Will this be done as a day case or will I need to stay in hospital?",
+  "How long should I avoid lifting, driving and heavy work afterwards?",
+  "What are the risks and how common are they?",
+  "Where would the surgery take place, and is that hospital registered with the relevant regulator?",
+  "What should I do if the hernia becomes painful and hard before my operation?"
+ ],
+ "faqs": [
+  {
+   "q": "Is a painful, hard hernia an emergency?",
+   "a": "A hernia that becomes hard, very painful or cannot be pushed back needs urgent care, so contact NHS 111 or go to A&E rather than waiting for a private appointment. For anything less urgent, a consultant can assess it and discuss repair."
+  },
+  {
+   "q": "Will I have to stay in hospital for a hernia repair?",
+   "a": "Many hernia repairs are done as a day case, using either open or keyhole techniques, but this depends on the type of hernia and your general health. The consultant will explain what they expect in your case."
+  },
+  {
+   "q": "How do I check a consultant's registration?",
+   "a": "You can look up a hospital consultant on the General Medical Council's specialist register online to confirm their field. You can also check whether the clinic is registered with the Care Quality Commission in England, or the equivalent regulator in Wales, Scotland or Northern Ireland."
+  },
+  {
+   "q": "Can I use private medical insurance for this?",
+   "a": "Many insurers cover hernia repair but may require a GP referral and may limit you to certain consultants or hospitals. It is worth checking your policy and speaking to your insurer before you book."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "intro": "When your pet needs help outside normal hours, finding a vet who is actually open can be stressful. You want a clear answer about where to go and who will be there, without wasting time on closed doors. Here is how to think through what to ask and how iComply can introduce you to a suitable UK vet.",
+ "need_heading": "What people searching for a 24 hour vet near me usually need",
+ "need_lead": "Most people searching for a 24 hour vet near me need urgent clarity on where to take their animal right now.",
+ "needs": [
+  "Your pet has become unwell late at night or at the weekend and your usual practice is closed.",
+  "You are away from home and need to know which clinic covers your current area out of hours.",
+  "Your animal has had an accident and you need to find a practice that can see them immediately.",
+  "You want to know in advance where to go if your pet deteriorates overnight, so you are not searching in a panic.",
+  "You need advice on whether your pet should be seen straight away or whether it can safely wait until morning."
+ ],
+ "context_heading": "Understanding out-of-hours vet care",
+ "context": [
+  "A 24 hour vet service has a vet available around the clock, either at a hospital with staff on site overnight or through a dedicated out-of-hours clinic that covers several day practices. It is worth finding out now which clinic covers your area at night, before you need it. Out-of-hours care usually costs more than daytime appointments because of staffing, so it helps to ask about fees when you call.",
+  "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS), and you can search the RCVS register by name before you book. If your animal has a complex or unusual condition, it is reasonable to ask whether the vet treating it holds further qualifications, or whether they refer to someone who does."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "The species and breed of your animal, and their age.",
+  "A brief description of the problem and how long it has been going on.",
+  "Whether you have already spoken to your usual vet or another practice.",
+  "Your postcode or the area you are in, so we can introduce you to a vet who covers it.",
+  "Whether you need help right now or are planning ahead for out-of-hours cover.",
+  "Any ongoing medical conditions or medications your pet is taking."
+ ],
+ "questions_heading": "Questions to ask the vet",
+ "questions": [
+  "Are you open now, and will a vet be on site throughout the night?",
+  "Do you monitor overnight patients with a vet or nurse on site all night?",
+  "What are your out-of-hours consultation fees, and how are they charged?",
+  "Can you tell me whether my pet needs to be seen immediately or can wait until morning?",
+  "Do you have the equipment to deal with my pet's specific problem, or would you refer us elsewhere?",
+  "Will you share information with my usual vet so they have a full record?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I find a 24 hour vet near me?",
+   "a": "You can search for local practices and check their opening hours, or ask iComply to introduce you to a vet who covers your area. It is worth confirming by phone that they are open and have a vet available before you travel."
+  },
+  {
+   "q": "Will out-of-hours care cost more than a daytime appointment?",
+   "a": "Out-of-hours care usually costs more than daytime appointments because of staffing. Ask the practice about their fees when you call so you know what to expect."
+  },
+  {
+   "q": "Can I check if a vet is registered?",
+   "a": "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS), and you can search the RCVS register by name before you book. Veterinary nurses have their own RCVS register too."
+  },
+  {
+   "q": "What should I do if my pet needs help and I cannot reach a vet?",
+   "a": "If your pet has a life-threatening emergency, call the nearest open practice immediately. For general advice when your practice is closed, you can call NHS 111 for human health queries, but for animal health you should speak to a vet."
+  }
+ ]
+}

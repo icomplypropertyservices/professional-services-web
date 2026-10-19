@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a private therapist near you usually means you want to talk to someone face to face, without waiting, and on a timescale that suits you. Perhaps something has been building for a while, or a change has made everyday life harder to manage. We can introduce you to a UK counsellor or therapist in your area who will discuss what you need and quote you directly.",
+ "need_heading": "What people searching for a private therapist near me often need",
+ "need_lead": "Most people who search this way want someone local they can see regularly, in confidence, without a long wait.",
+ "needs": [
+  "You may be struggling with anxiety, low mood or stress and feel ready to talk to someone outside your family and friends.",
+  "Something difficult may have happened recently, such as a bereavement, a relationship breakdown or a change at work, and you want help making sense of it.",
+  "You might prefer to see a therapist in person rather than online, and travelling a reasonable distance from home matters to you.",
+  "You may have tried to get help through your GP and want to explore private talking therapy alongside or instead.",
+  "You could be looking on behalf of someone else, such as a partner or adult family member, and want to find local options they can contact."
+ ],
+ "context_heading": "Titles vary, so check the register",
+ "context": [
+  "In the UK, the titles counsellor and psychotherapist are not protected, so anyone can use them. Practitioner psychologists, who use titles such as clinical or counselling psychologist, must be registered with the HCPC. To protect yourself, look for a practitioner on a register accredited by the Professional Standards Authority, such as BACP, UKCP or NCPS.",
+  "Therapists work in different ways, including CBT, psychodynamic and humanistic approaches, and some offer a mix. Accredited registers require training, supervision, a code of ethics and a complaints procedure. A good therapist will explain their approach, confidentiality and its limits in the first session, and you can ask about session length before you commit."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Say roughly where you are and how far you are willing to travel to see a therapist in person.",
+  "Explain in your own words what has brought you to look for help, so we can introduce you to someone suited to it.",
+  "Mention any preference for a particular approach, such as CBT, if you already know what you are looking for.",
+  "Say whether you would consider online or telephone sessions as well as meeting face to face.",
+  "Tell us about any times of day or days of the week that work best for appointments.",
+  "Mention if you are enquiring for someone else, and whether they know you are doing so."
+ ],
+ "questions_heading": "Questions to ask the therapist",
+ "questions": [
+  "Which register are you on, and is it accredited by the Professional Standards Authority?",
+  "What approach do you use, and how does it suit what I want help with?",
+  "How long is each session, and how often would we meet?",
+  "What are your arrangements for confidentiality, and what are the limits?",
+  "What happens if I need to cancel or rearrange an appointment?",
+  "Do you have a complaints procedure I can see?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I choose between therapists near me?",
+   "a": "Check that the person is on a register accredited by the Professional Standards Authority, such as BACP, UKCP or NCPS, and that their approach and availability suit you. A short initial conversation can help you judge whether you feel comfortable speaking with them. We introduce you to a suitable professional, but the choice is yours."
+  },
+  {
+   "q": "Can I see a therapist privately without seeing my GP first?",
+   "a": "Yes, you can approach a private therapist directly without a referral. If your difficulties are affecting your health more broadly, it is still worth speaking to your GP, and NHS 111 can point you to urgent help if you need it."
+  },
+  {
+   "q": "What if I would rather see someone close to home?",
+   "a": "Tell us your area and how far you are willing to travel, and we will look for a counsellor or therapist practising locally. Seeing someone nearby can make regular appointments easier to keep. You can also ask whether they offer online sessions as an alternative."
+  },
+  {
+   "q": "What does private therapy cost?",
+   "a": "Fees are set by each therapist and are price on application, so ask directly when you speak to them. The quote you receive comes from the professional, not from us. It is reasonable to ask what the fee covers and how payment is arranged before you begin."
+  }
+ ]
+}

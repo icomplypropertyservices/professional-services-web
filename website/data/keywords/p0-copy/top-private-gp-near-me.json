@@ -1,0 +1,73 @@
+{
+ "intro": "You've searched for a top private GP near you, probably because you want a medical appointment that fits around your life, without the wait. Whether it's a persistent symptom, a worry that needs checking quickly, or simply a longer conversation than a standard appointment allows, a private GP can offer that. We introduce you to a suitable UK private GP in your area, and they'll quote you directly for the care you need.",
+ "need_heading": "What people searching for a top private GP near me usually need",
+ "need_lead": "Most people searching this way want fast, convenient access to a doctor they can see face to face or by video, without the constraints of NHS waiting times.",
+ "needs": [
+  "You have a health concern that's been lingering and you'd like a longer appointment to discuss it properly, often with same-day or next-day availability.",
+  "You need a referral to a specialist or for tests, and want a private GP who can arrange that quickly and share the details with your NHS GP.",
+  "You're looking for a doctor near your home or workplace who offers appointments outside typical working hours, including early mornings or evenings.",
+  "You need a medical certificate or report for work, travel or insurance, and want a private GP who can provide it after a proper consultation.",
+  "You'd prefer a video consultation for a straightforward issue, but want the option of seeing a GP in person nearby if needed."
+ ],
+ "context_heading": "What 'top' means when you're choosing a private GP",
+ "context": [
+  "There's no official ranking of private GPs, so 'top' really depends on what matters to you: a doctor who listens, convenient appointment times, clear pricing, or a clinic that feels right for you. Every doctor practising in the UK must be registered with the General Medical Council (GMC) and hold a licence to practise. You can check a GP's registration and whether they appear on the GMC's GP register by searching the GMC's online register. In England, private clinics providing regulated healthcare must also be registered with the Care Quality Commission (CQC), which inspects and publishes ratings. In Wales, the regulator is Healthcare Inspectorate Wales; in Scotland, Healthcare Improvement Scotland; and in Northern Ireland, the RQIA.",
+  "A private GP doesn't replace your NHS GP. Good private clinics will ask for your consent to share consultation notes with your NHS practice, so your records stay complete and any medication is prescribed safely. When you contact a clinic, ask how they handle this sharing and whether they can send details to your NHS GP after your appointment."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "The specific health concern you want to discuss, so we can introduce you to a private GP who is suitable for your needs.",
+  "Whether you prefer a face-to-face appointment, a video consultation, or either, and any preference for a clinic near your home or workplace.",
+  "Your general availability, such as evenings or weekends, so we can match you with a GP who offers convenient times.",
+  "Whether you need a referral, tests, a certificate, or a report, as this helps us find a GP who can provide that service.",
+  "Any accessibility requirements you have, such as step-free access or an interpreter, so we can take these into account.",
+  "Your location and how far you're willing to travel, so we can suggest a private GP near you."
+ ],
+ "questions_heading": "Questions to ask the private GP",
+ "questions": [
+  "What are your fees for a consultation, and what do they include?",
+  "How long are your appointments, and can I usually get a same-day or next-day slot?",
+  "Do you offer video consultations as well as in-person appointments?",
+  "Will you share my consultation notes with my NHS GP, and how do you do that?",
+  "Can you arrange referrals or tests if needed, and what is the process?",
+  "What is your policy on repeat prescriptions or follow-up appointments?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check if a private GP is properly qualified?",
+   "a": "Every doctor practising in the UK must be registered with the General Medical Council (GMC) and hold a licence to practise. You can search the GMC's online register by the doctor's name to confirm their registration and whether they are on the GP register. In England, you can also check whether the clinic is registered with the Care Quality Commission (CQC) and see its inspection rating."
+  },
+  {
+   "q": "Will a private GP share information with my NHS doctor?",
+   "a": "Good private clinics will ask for your consent to share consultation notes with your NHS GP practice, so your records stay complete and any medication is prescribed safely. It's worth asking the clinic how they handle this before you book. A private GP does not replace your NHS GP, so keeping both informed is important."
+  },
+  {
+   "q": "Can I see a private GP for a certificate or report?",
+   "a": "Yes, many private GPs can provide medical certificates or reports after a consultation, for purposes such as work, travel or insurance. Ask the clinic in advance what they can provide and what the fee will be. The GP will need to assess you first, so it's not usually something that can be done without an appointment."
+  },
+  {
+   "q": "What should I do in an emergency?",
+   "a": "If you have a serious or life-threatening emergency, call 999 or go to your nearest accident and emergency department. For urgent medical advice that isn't an emergency, you can call NHS 111. Private GPs are not an emergency service, so always use the appropriate NHS route for urgent care."
+  }
+ ],
+ "extra_heading": "Getting to a private GP near you without wasting a journey",
+ "extra": [
+  "Searching for a top private GP near me suggests location matters as much as quality: you want a clinic you can actually reach, whether that's on your commute, near your workplace or a short trip from home. Before you enquire, think about how you'd get there at the time of day you're likely to need an appointment, and whether parking, public transport or step-free access makes a difference to you. A clinic that looks ideal on paper is less useful if the journey is stressful when you're already unwell.",
+  "It's also worth being clear about what you want from the visit before you contact anyone. A private GP covers the same range of everyday medical problems as an NHS GP, and appointments of fifteen to thirty minutes are common, so you can usually raise more than one concern in a single visit. If your main need is a referral, tests or a certificate, say so when you enquire, because not every clinic handles every request in the same way.",
+  "When you compare the clinics near you, ask each one the same short set of questions so the answers are genuinely comparable: how long appointments last, whether video consultations are offered, what the fee covers, and how notes are shared with your NHS GP. That gives you a fair basis for judging which one is 'top' for your circumstances, rather than relying on a label. We introduce you to a suitable UK private GP near you and they quote you directly, so you can decide with the full picture in front of you."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Can I see a private GP near my workplace rather than my home?",
+   "a": "Yes, plenty of people choose a clinic close to work so an appointment fits around the working day. When you enquire, tell us both your home area and where you work, and whether you'd prefer early morning, lunchtime or evening appointments, so we can introduce you to a private GP who suits your routine."
+  },
+  {
+   "q": "Is a private GP near me the same as an NHS GP?",
+   "a": "A private GP offers the same range of everyday medical care as an NHS GP, usually with longer appointments and quicker availability, but a private GP does not replace your NHS GP. Good private clinics will ask for your consent to share consultation notes with your NHS practice, so your records stay complete and any medication is prescribed safely."
+  },
+  {
+   "q": "What if I need urgent help before I can see a private GP?",
+   "a": "A private GP is not an emergency service. If you have a serious or life-threatening emergency, call 999 or go to your nearest accident and emergency department, and for urgent advice that isn't an emergency you can call NHS 111."
+  }
+ ]
+}

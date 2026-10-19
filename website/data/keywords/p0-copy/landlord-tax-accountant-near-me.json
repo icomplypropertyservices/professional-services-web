@@ -1,0 +1,53 @@
+{
+ "intro": "You're a landlord looking for a tax accountant near you who understands the specific tax rules that apply to property income, disposals and ownership. You want someone local who can handle your rental accounts, advise on capital gains when you sell, and help you decide whether to hold property personally or through a company. iComply introduces you to a suitable UK accountant who will quote you directly for the work you need.",
+ "need_heading": "What landlords searching for a tax accountant usually need",
+ "need_lead": "Landlords often need help with the tax consequences of owning and letting property, from annual income tax returns to big decisions about ownership and disposals.",
+ "needs": [
+  "You rent out a property and need to report the rental income and expenses correctly on your tax return, including any reliefs you're entitled to.",
+  "You're thinking about selling a residential property and need to understand the capital gains rules and the separate reporting deadline that applies.",
+  "You own a property jointly with someone else and want to know how the income should be split for tax purposes.",
+  "You're considering transferring a property into a company and need to understand the tax costs that incorporation can trigger.",
+  "You've received a letter from HMRC about your property income or a payment on account and want help responding to it."
+ ],
+ "context_heading": "One key thing to understand about landlord tax",
+ "context": [
+  "The word 'accountant' on its own is not a protected title in the UK, so anyone can call themselves an accountant. Protected titles such as Chartered Accountant (ICAEW, ICAS or Chartered Accountants Ireland), Chartered Certified Accountant (ACCA) and Chartered Management Accountant (CIMA) indicate that the holder is bound by their body's ethics, training and complaints rules. It is reasonable to ask which professional body supervises the firm and whether they hold professional indemnity insurance.",
+  "Every accountancy practice offering services must also be supervised for anti-money-laundering purposes, either by a professional body or by HMRC. You can ask which body supervises the firm and how complaints are handled. This helps you judge the firm's standing before you engage them."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "How many rental properties you own and whether they are let as residential or commercial.",
+  "Whether you own the properties personally, through a company, or jointly with someone else.",
+  "Whether you're thinking about selling a property in the near future or have already sold one.",
+  "Whether you're considering transferring a property into a company or changing how you hold it.",
+  "Any letters or notices you've received from HMRC about your property income or tax affairs.",
+  "Whether you need help with a self assessment tax return, capital gains reporting, or general tax planning for your property portfolio."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you supervised for anti-money-laundering purposes, and by which body?",
+  "Do you hold professional indemnity insurance?",
+  "How do you handle complaints if I'm not happy with your service?",
+  "What experience do you have with landlord tax affairs and residential property disposals?",
+  "Can you explain the capital gains reporting deadline for residential property and how it applies to me?",
+  "What information will you need from me to prepare my rental accounts and tax return?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a specialist landlord tax accountant?",
+   "a": "Landlord tax involves specific rules on income tax, capital gains and ownership structure that a general accountant may not deal with regularly. A specialist can help you avoid common mistakes and plan ahead for disposals or incorporation. iComply introduces you to an accountant who focuses on landlord tax."
+  },
+  {
+   "q": "What is the capital gains reporting deadline for residential property?",
+   "a": "When you sell a residential property in the UK, you may need to report the gain to HMRC and pay any tax due within a set deadline after completion. The deadline is separate from your self assessment return, so it's important to get advice early. A landlord tax accountant can guide you through the process."
+  },
+  {
+   "q": "Should I hold my rental property personally or through a company?",
+   "a": "The right choice depends on your circumstances, including your income tax position and plans for the property. Incorporation can trigger tax costs, so it's not always straightforward. A landlord tax accountant can explain the pros and cons for your situation."
+  },
+  {
+   "q": "How does joint ownership affect tax on rental income?",
+   "a": "If you own a rental property jointly, the income is usually split between the owners for tax purposes. The split may not be equal and can depend on how the property is held. A landlord tax accountant can help you declare the income correctly."
+  }
+ ]
+}

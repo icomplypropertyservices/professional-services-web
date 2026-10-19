@@ -1,0 +1,69 @@
+{
+ "intro": "Searching for the best surveyor near you usually means you want someone local who can look at a property or a problem and give you a clear, honest picture. You may be buying a home, dealing with a structural worry, or needing a valuation or dispute resolved. The right surveyor depends on the job, so it helps to know what to look for before you choose.",
+ "need_heading": "What people searching for a surveyor nearby usually need",
+ "need_lead": "Most people typing this search are at a point where a property decision depends on professional inspection or advice.",
+ "needs": [
+  "You are buying a home and want a survey that tells you what condition it is really in before you commit.",
+  "You have spotted cracks, damp or movement and want a surveyor to say whether it is serious or routine.",
+  "You need a valuation for a mortgage, probate or another legal purpose and want someone local to provide it.",
+  "You are planning building work or an extension and need advice on the structure and the land before you start.",
+  "You are in a dispute with a neighbour or a builder over a boundary, a party wall or defective work and need a surveyor's view."
+ ],
+ "context_heading": "Why the word best needs a little unpacking",
+ "context": [
+  "There is no single best surveyor for every job, because surveying covers buying surveys, valuations, building advice and dispute work, and a specialist in one may not be the right person for another. Many surveyors are members of the Royal Institution of Chartered Surveyors (RICS), and RICS-regulated firms must follow professional standards, hold insurance and offer a complaints process. Chartered surveyors use the letters MRICS or FRICS, so those letters are a useful signal when you are comparing.",
+  "Near me matters because a surveyor who knows your local area, its housing stock and its common problems can give more grounded advice, and a local visit is often needed anyway. Some specialist roles have their own bodies, such as the Faculty of Party Wall Surveyors or the Property Care Association for damp and timber specialists, so the right membership depends on what you need. Check the RICS directory, ask which report type you are getting and confirm whether the surveyor is independent of the sale."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the property or land, including its age, type and general location, so we can introduce you to a suitable surveyor.",
+  "Say what has prompted the search, such as a purchase, a valuation, building work or a dispute.",
+  "Mention any specific concerns, such as damp, cracks, a party wall or a boundary issue.",
+  "Explain whether you need a condition report, a valuation or advice on a particular problem.",
+  "Note whether the surveyor needs to be independent of the sale, for example when you are buying.",
+  "Include any deadline you are working to, such as an exchange date or a legal timescale."
+ ],
+ "questions_heading": "Questions worth asking the surveyor",
+ "questions": [
+  "Which type of survey or report are you proposing, and what will it cover?",
+  "Are you a member of RICS, and what do your letters after your name mean?",
+  "Will you be independent of the sale, and do you have any connection to the seller or agent?",
+  "What will your report include about damp, structure and any defects you find?",
+  "How will you handle a dispute or party wall matter if that is what I need?",
+  "What is your complaints process if I am unhappy with the work?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I judge which surveyor is best for my situation?",
+   "a": "Start with the type of work you need, then look for a surveyor whose experience and membership match it. RICS membership and the letters MRICS or FRICS are useful signals, and you can check the RICS directory. Comparing what each report includes and asking questions before you instruct helps you judge for yourself."
+  },
+  {
+   "q": "Do I need a local surveyor, or can I use one further away?",
+   "a": "A surveyor who knows your area and its housing stock can give more grounded advice, and a visit is usually needed anyway. Local knowledge of common problems, such as damp in a particular type of property, is often valuable. It is worth asking how familiar they are with your area."
+  },
+  {
+   "q": "What is the difference between a valuation and a condition survey?",
+   "a": "A valuation is mainly about what the property is worth, often for a lender, probate or another legal purpose. A condition survey looks at the state of the building and what needs attention. Tell the surveyor which you need, or ask them to explain the difference for your situation."
+  },
+  {
+   "q": "What should I do if my surveyor finds a serious problem?",
+   "a": "Ask the surveyor to explain what the problem is, how urgent it is and what further investigation might be needed. They can advise on next steps, such as a specialist report or building work. Keep their report, as it may be useful in negotiations or with your solicitor."
+  }
+ ],
+ "extra_heading": "Comparing surveyors on paper before you commit",
+ "extra": [
+  "When you have a shortlist of local surveyors, the useful comparison is not who sounds most impressive but what each one will actually do for your property. Ask each for a written quote that names the type of survey, what it covers and what it leaves out, so you are comparing like with like rather than guessing from a headline figure.",
+  "A cheap quote for a basic condition report is not the same as a building survey, and a valuation for a lender is not a survey for you. If you are buying, ask whether the surveyor will look at the roof, the drains and any signs of damp or movement, and whether they will talk you through the findings afterwards rather than just sending a document.",
+  "It also helps to ask how soon they can visit and how long the report will take to reach you, because a purchase can hinge on those timings. None of this tells you who is best, but it lets you judge for yourself which surveyor fits your property, your concerns and your timescale."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I go with the cheapest quote for a survey?",
+   "a": "Price matters, but the cheapest quote may be for a more limited report or a different type of survey. Compare what each quote includes, the type of survey proposed and whether the surveyor will discuss the findings with you. That way you can judge value for yourself rather than choosing on cost alone."
+  },
+  {
+   "q": "Can I speak to the surveyor before instructing them?",
+   "a": "It is reasonable to ask a few questions before you commit, such as what the report will cover and whether they have looked at properties like yours. A surveyor who is happy to explain their approach clearly is easier to judge. Use that conversation to check the report type and any specific worries you have."
+  }
+ ]
+}

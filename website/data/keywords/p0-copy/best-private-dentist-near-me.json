@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for the best private dentist near me, you're likely looking for a dentist outside the NHS who can see you soon, take time to discuss your options, and provide treatment that suits your needs. You want to find someone local and trustworthy, but 'best' is personal — it depends on what matters most to you, such as location, appointment availability, or the range of treatments offered. We can introduce you to a private dentist in your area who can quote you directly, so you can compare and decide.",
+ "need_heading": "What people searching for a private dentist nearby usually need",
+ "need_lead": "Most people want a convenient, reliable private dentist who can address their dental needs without the wait or constraints of NHS care.",
+ "needs": [
+  "You need an appointment soon, perhaps because of pain or a broken tooth, and NHS options are fully booked for weeks.",
+  "You want more time with the dentist to discuss treatment options and ask questions without feeling rushed.",
+  "You're interested in treatments that may not be available on the NHS, such as certain cosmetic work or specific materials.",
+  "You've moved to a new area and need to register with a local dentist you can get to easily.",
+  "You want a clear, itemised plan of what treatment will cost before you commit, so you can budget with confidence."
+ ],
+ "context_heading": "Understanding what 'best' means for you",
+ "context": [
+  "There's no official ranking of private dentists, so 'best' is about what suits your circumstances. It could mean a practice close to home or work, one that offers evening or weekend appointments, or a dentist who explains things clearly and gives you a written treatment plan with costs. Checking that the dentist is registered with the General Dental Council (GDC) is a sensible first step, and you can do this online.",
+  "Private dentists set their own fees, so it's worth asking for a written quote before treatment starts. Many practices offer membership plans that spread the cost of routine care, which can help with budgeting. If you're in England, you can also check whether the practice is registered with the Care Quality Commission (CQC), which inspects and rates clinics."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you're looking for a private dentist and include your location or postcode so we can find someone nearby.",
+  "Explain what you need — for example, a routine check-up, urgent care for pain, or a specific treatment like a crown or implant.",
+  "Say whether you have a preference for appointment times, such as early morning, evening, or weekend slots.",
+  "Let us know if you're particularly anxious about dental visits, so we can introduce you to a dentist who is used to helping nervous patients.",
+  "Include any budget considerations, such as whether you'd like information about payment plans or membership schemes.",
+  "Mention if you have children or other family members who also need a dentist, so we can look for a practice that suits the whole household."
+ ],
+ "questions_heading": "Questions to ask the private dentist",
+ "questions": [
+  "What is the full cost of the treatment you're recommending, and can you provide an itemised written quote?",
+  "Are there any payment plans or membership options that could help spread the cost?",
+  "How soon can I be seen for a consultation, and what are your usual appointment times?",
+  "What happens if I need urgent care outside of normal hours?",
+  "Can you explain the differences between the treatment options you've mentioned, including materials and aftercare?",
+  "Are you registered with the General Dental Council, and is the practice registered with the relevant regulator?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check if a private dentist is properly qualified?",
+   "a": "You can check the General Dental Council (GDC) register online to confirm that the dentist and other dental professionals are registered. If the practice is in England, you can also check whether it is registered with the Care Quality Commission (CQC)."
+  },
+  {
+   "q": "What should I do if I'm unhappy with private dental treatment?",
+   "a": "Start by raising your concern with the practice's complaints process. If it isn't resolved, the Dental Complaints Service can help with private dental complaints."
+  },
+  {
+   "q": "Will I get a treatment plan and costs upfront?",
+   "a": "Private dentists should provide a written treatment plan with itemised costs before you agree to treatment. It's always worth asking for this so you know exactly what you'll be paying."
+  },
+  {
+   "q": "Can iComply help me find a private dentist near me?",
+   "a": "Yes, tell us what you're looking for and your location, and we'll introduce you to a private dentist in your area. They will then contact you directly with a quote."
+  }
+ ],
+ "extra_heading": "Narrowing down the right practice on your doorstep",
+ "extra": [
+  "Searching for the best private dentist near me usually means you want someone you can actually get to — on foot, by bus, or with easy parking — rather than a practice that looks good on paper but is awkward to reach for a check-up or an urgent visit. Before you compare anything else, it helps to draw a small circle around your home or workplace and look only at practices inside it, then weigh the rest from there.",
+  "Two practices side by side can feel very different once you walk in. It's worth asking each one how they handle nervous patients, whether they see children, what their arrangements are for out-of-hours problems, and whether the same dentist will see you each time. A practice that offers longer appointments and explains each stage slowly may suit you far better than one that simply offers more treatments.",
+  "Remember that 'best' for a friend or a neighbour may not be best for you, because it depends on your teeth, your budget and how you like to be treated. Reading a written treatment plan from more than one practice, and comparing what is included rather than just the headline figure, is the most reliable way to judge for yourself. We don't rank or recommend any dentist, but we can introduce you to one nearby who will quote you directly."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I choose a practice that is close to home or close to work?",
+   "a": "It depends on when you're most likely to need appointments. If you'd rather visit on the way to or from work, a practice near your workplace may suit you better, but check that its opening hours fit around your working day."
+  },
+  {
+   "q": "Is it worth visiting a practice before booking treatment?",
+   "a": "Many practices are happy for you to look round or speak to the reception team before you commit to anything. It's a good way to get a feel for the place and ask about appointment lengths, out-of-hours arrangements and how treatment plans are set out."
+  },
+  {
+   "q": "What if I need help urgently and can't get an appointment straight away?",
+   "a": "Contact the practices near you and explain that you're in pain or have a problem that can't wait, as many keep space for urgent cases. If you're struggling to get help and feel unwell, NHS 111 can advise you on what to do next."
+  }
+ ]
+}

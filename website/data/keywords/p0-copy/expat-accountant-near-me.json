@@ -1,0 +1,53 @@
+{
+ "intro": "You're looking for an expat accountant near you, likely because you're living abroad or planning a return to the UK and need help with UK tax matters. Whether it's rental income, residence status or selling a property, an accountant who understands cross-border issues can guide you through the rules. iComply introduces you to a suitable UK professional who will quote you directly for the work.",
+ "need_heading": "What people searching for an expat accountant usually need",
+ "need_lead": "Expat accountants help with the UK tax complications that arise when you live or work outside the UK.",
+ "needs": [
+  "You're living overseas and need to understand your UK tax residence status under the Statutory Residence Test.",
+  "You rent out a UK property while abroad and need to declare the income and deal with any tax due.",
+  "You're planning to return to the UK and want to know how split-year treatment might apply to your income.",
+  "You're selling a UK property as a non-resident and need to report the gain to HMRC.",
+  "You receive UK income such as a pension or dividends and want to ensure you're taxed correctly under a double tax treaty."
+ ],
+ "context_heading": "One key thing to understand about expat tax",
+ "context": [
+  "The Statutory Residence Test determines whether you're treated as a UK resident for tax purposes, which affects how your income is taxed. Double tax treaties between the UK and other countries can prevent you from being taxed twice on the same income, but the rules are specific to each treaty.",
+  "If you're a non-resident selling UK property, you must report the gain to HMRC, usually within a set period after completion. An expat accountant can help you navigate these rules and ensure you meet your obligations."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Your current country of residence and how long you've lived there.",
+  "Whether you own property in the UK, and if you rent it out or plan to sell it.",
+  "Any UK income you receive, such as pensions, dividends or rental income.",
+  "Whether you're planning to return to the UK and, if so, when.",
+  "Any previous UK tax returns you've filed or issues you've had with HMRC.",
+  "The specific question or task you need help with, such as residence status or reporting a property sale."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "What experience do you have with expat tax matters and the Statutory Residence Test?",
+  "Which professional body supervises your practice for anti-money-laundering purposes?",
+  "Do you hold professional indemnity insurance?",
+  "How do you handle complaints if I'm unhappy with your service?",
+  "Can you explain how the double tax treaty between the UK and my country of residence applies to my situation?",
+  "What information do you need from me to get started, and how will you keep me informed?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need an expat accountant if I only have rental income from a UK property?",
+   "a": "Yes, if you're a non-resident landlord, you must declare the rental income to HMRC and may need to file a tax return. An expat accountant can help you understand your obligations and any reliefs available."
+  },
+  {
+   "q": "What is the Statutory Residence Test and why does it matter?",
+   "a": "The Statutory Residence Test is a set of rules that determines whether you're a UK resident for tax purposes. It matters because it affects how your worldwide income is taxed in the UK."
+  },
+  {
+   "q": "Can an expat accountant help me avoid double taxation?",
+   "a": "Yes, they can advise on how double tax treaties between the UK and your country of residence apply to your income, helping you claim relief where available."
+  },
+  {
+   "q": "I'm selling a UK property while living abroad. What should I do?",
+   "a": "You must report the gain to HMRC, usually within a set period after completion. An expat accountant can help you calculate the gain and file the necessary return."
+  }
+ ]
+}

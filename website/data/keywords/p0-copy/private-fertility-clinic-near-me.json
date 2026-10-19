@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a private fertility clinic near me usually means you want to understand your options for self-funded treatment, often because you have been told you do not qualify for NHS funding or because you want to avoid long waits. You may also be looking for a clinic that offers specific treatments or is conveniently located. We can introduce you to a suitable UK fertility clinic in your area, and they will quote you directly.",
+ "need_heading": "What people searching for a private fertility clinic near me usually need",
+ "need_lead": "Most people want clear, local options for self-funded fertility treatment without the uncertainty of waiting lists.",
+ "needs": [
+  "You have been advised that you do not meet the criteria for NHS-funded fertility treatment and need to explore private care.",
+  "You want to compare local clinics on factors like success rates, inspection ratings and patient feedback.",
+  "You are looking for a clinic that offers a specific treatment, such as IVF, donor conception or egg freezing, close to home.",
+  "You want to understand the likely costs involved, including medication and any additional fees, before committing.",
+  "You prefer the shorter waits and greater choice that private clinics can offer compared with NHS-funded cycles."
+ ],
+ "context_heading": "What to understand about private fertility clinics",
+ "context": [
+  "Clinics that offer treatments involving eggs, sperm or embryos, such as IVF, donor treatment and egg or embryo freezing, must be licensed by the Human Fertilisation and Embryology Authority (HFEA). The HFEA's Choose a Fertility Clinic tool shows each licensed clinic's inspection ratings, success rates and patient feedback, so you can compare clinics on a like-for-like basis.",
+  "Some simple tests, such as blood hormone checks, may be offered by clinics outside HFEA licensing, but any treatment involving eggs, sperm or embryos should always be with a licensed centre. When comparing clinics, ask about multi-cycle packages carefully and check what medication costs are included, as these can vary significantly."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Mention that you are looking for a private fertility clinic near me, and give your location or the area you would like to travel to.",
+  "Explain what stage you are at, for example whether you have had tests, a diagnosis or previous treatment.",
+  "Say which treatments you are interested in, such as IVF, donor conception, egg freezing or fertility testing.",
+  "Let us know if you have any known medical conditions or factors that might affect your treatment.",
+  "Tell us whether you are seeking treatment as a couple or as an individual, and if there are any specific requirements you have.",
+  "Mention any preferences you have, such as clinic size, location convenience or particular services you need."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Is your clinic licensed by the HFEA for the treatment I am considering?",
+  "What are your clinic's success rates for someone with my circumstances, and how do they compare with national data?",
+  "What is included in the quoted price, and what might cost extra, such as medication, scans or follow-up appointments?",
+  "How do you handle multi-cycle packages, and what happens if a cycle is unsuccessful?",
+  "What are the waiting times for an initial consultation and for starting treatment?",
+  "Can you explain the process step by step, including any tests or counselling I might need?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral from my GP to attend a private fertility clinic?",
+   "a": "Most private fertility clinics accept self-referrals, so you can usually book an appointment directly without seeing your GP first. However, it is still a good idea to keep your GP informed, as they can share relevant medical history and test results."
+  },
+  {
+   "q": "How can I check if a clinic is properly licensed?",
+   "a": "You can check the HFEA's Choose a Fertility Clinic tool, which lists all licensed clinics along with their inspection ratings, success rates and patient feedback. Any treatment involving eggs, sperm or embryos should only be carried out at a licensed centre."
+  },
+  {
+   "q": "What should I consider when comparing the cost of private fertility treatment?",
+   "a": "Ask for a detailed breakdown of what is included in the quoted price, and check whether medication, scans, blood tests and follow-up appointments are extra. Multi-cycle packages can offer savings but may have conditions, so read the terms carefully."
+  },
+  {
+   "q": "Can I get NHS funding for fertility treatment if I go private?",
+   "a": "NHS funding for fertility treatment depends on where you live and your individual circumstances, and having private treatment does not usually affect your eligibility. It is best to check with your GP or local integrated care board for the criteria in your area."
+  }
+ ]
+}

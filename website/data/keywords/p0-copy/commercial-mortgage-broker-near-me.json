@@ -1,0 +1,53 @@
+{
+ "intro": "Looking for a commercial mortgage broker near you usually means you need finance for business premises, an investment property, or a semi-commercial building, and you want someone local who understands the market. You might be buying your first office or shop, remortgaging an industrial unit, or raising funds to expand. A broker can help you navigate the process, but you need to know what to expect and what to ask.",
+ "need_heading": "What people searching for a commercial mortgage broker near me usually need",
+ "need_lead": "You want a broker who can arrange commercial finance for your specific property situation, and you'd prefer someone you can meet or speak to locally.",
+ "needs": [
+  "You are buying a shop, office, or industrial unit for your business and need a mortgage to cover the purchase.",
+  "You already own commercial premises and want to remortgage to get a better rate or release equity for expansion.",
+  "You are considering a semi-commercial property, such as a flat above a shop, and need a broker who understands both sides.",
+  "You are an investor looking to add a commercial property to your portfolio and need finance arranged efficiently.",
+  "You have been turned down by your bank and want to explore other lenders who might consider your situation."
+ ],
+ "context_heading": "What to understand about commercial mortgages and brokers",
+ "context": [
+  "Commercial mortgages are not regulated by the Financial Conduct Authority in the same way as residential mortgages, but the broker you use should still be authorised or an appointed representative, and you can check this on the FCA register. Brokers must tell you whether they search the whole of the market or a limited panel of lenders, and how they are paid, whether by lender commission, a fee, or both.",
+  "Lenders will typically want to see business accounts and may require a valuation of the property, which can take longer than a residential valuation. It's worth asking about the broker's relationships with lenders, as this can affect the options available to you."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "The type of property you are looking to finance, such as an office, shop, industrial unit, or semi-commercial building.",
+  "Whether you are buying, remortgaging, or releasing equity, and the approximate amount you need to borrow.",
+  "How you intend to use the property, for example owner-occupation or as an investment to let out.",
+  "Whether you have business accounts ready and any financial information that lenders might ask for.",
+  "Any previous applications or credit issues that might affect your options.",
+  "Your preferred location for the broker, so we can introduce you to someone near you."
+ ],
+ "questions_heading": "Questions to ask the commercial mortgage broker",
+ "questions": [
+  "Are you authorised or an appointed representative of a firm authorised by the Financial Conduct Authority, and what is your FCA registration number?",
+  "Do you search the whole of the market or a limited panel of lenders?",
+  "How are you paid for arranging a commercial mortgage, and will you disclose any commission or fees in writing?",
+  "What information will you need from me, such as business accounts or a business plan, to support my application?",
+  "How long does a typical commercial mortgage application take, and what might cause delays?",
+  "Can you explain the valuation process and who arranges it?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a commercial mortgage broker near me, or can I use one further away?",
+   "a": "You can use a broker anywhere in the UK, but a local broker may have knowledge of the area and local lenders. It's a personal choice, and what matters most is that the broker understands your needs and is authorised by the FCA."
+  },
+  {
+   "q": "What is the difference between a commercial mortgage and a business loan?",
+   "a": "A commercial mortgage is secured against a property, typically for buying or remortgaging premises, while a business loan may be unsecured or secured on other assets. Commercial mortgages are usually longer-term and suited to property purchase."
+  },
+  {
+   "q": "Will I need a deposit for a commercial mortgage?",
+   "a": "Lenders typically require a deposit, but the amount varies depending on the property and your circumstances. The broker can explain what's typical for your situation."
+  },
+  {
+   "q": "How can I check that a commercial mortgage broker is authorised?",
+   "a": "You can check the Financial Conduct Authority register to see if the broker or their firm is authorised or an appointed representative. Always ask for their FCA registration number and verify it yourself."
+  }
+ ]
+}

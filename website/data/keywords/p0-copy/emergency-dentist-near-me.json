@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for an emergency dentist near me, you usually need help with something that can't wait — throbbing toothache, a swollen face, a broken tooth or a crown that has come off. The priority is getting a professional to look at it quickly, so you can be out of pain and know what needs doing next. iComply can introduce you to a suitable UK private dentist who will quote you directly, with the price on application.",
+ "need_heading": "What people searching this usually need",
+ "need_lead": "Urgent dental problems tend to fall into a few familiar patterns, and each one needs prompt attention from a dentist.",
+ "needs": [
+  "You have severe toothache that painkillers aren't touching and you need someone to see you urgently.",
+  "Your face, jaw or gum has swollen and you're worried about how quickly it is changing.",
+  "A tooth has broken or been knocked out, perhaps after an accident or biting down on something hard.",
+  "A crown, filling or veneer has come loose or fallen out and the tooth feels exposed and sore.",
+  "You have bleeding, an abscess or a dental injury and your usual practice can't fit you in soon."
+ ],
+ "context_heading": "Getting urgent dental help safely",
+ "context": [
+  "Phone the practice first rather than turning up, because an urgent slot usually has to be arranged in advance. If you have facial swelling that is affecting your breathing or swallowing, that is a medical emergency and you should go to A&E rather than wait for a dental appointment.",
+  "NHS 111 can direct you to urgent care if you are not sure where to turn, and your own dentist may offer urgent appointments for existing patients. Private dentists often keep time aside for urgent problems such as severe toothache, swelling, broken teeth and lost crowns, sometimes the same day. Dentists and dental nurses must be registered with the General Dental Council, and you can check the register online; private clinics providing regulated healthcare in England must register with the Care Quality Commission, which inspects and publishes ratings."
+ ],
+ "tell_heading": "What to tell iComply",
+ "tell": [
+  "Describe the problem in plain terms, such as severe toothache, facial swelling, a broken tooth or a lost crown.",
+  "Say roughly where you are, since you are looking for an emergency dentist near you.",
+  "Mention whether you are already registered with a dentist or are looking for a new practice.",
+  "Explain how long the problem has been going on and whether it is getting worse.",
+  "Note any relevant medical conditions or medicines, especially if you take blood thinners or have allergies.",
+  "Say whether you would prefer an NHS or private appointment, and whether you have any access needs."
+ ],
+ "questions_heading": "Questions to ask the dentist",
+ "questions": [
+  "Can you see me urgently, and how soon can you fit me in?",
+  "What will the urgent appointment involve and what will it cost?",
+  "Will you treat the problem today or is this a first step towards further treatment?",
+  "What should I do if the pain or swelling gets worse before my appointment?",
+  "Are you registered with the General Dental Council, and what is your GDC number?",
+  "If I need follow-up treatment, what are the options and likely costs?"
+ ],
+ "faqs": [
+  {
+   "q": "Can I get an emergency dentist appointment near me today?",
+   "a": "Private dentists often keep urgent slots for problems such as severe toothache, swelling, broken teeth and lost crowns, sometimes the same day. Phone first to explain what has happened, as turning up without an appointment may mean a long wait or being turned away."
+  },
+  {
+   "q": "When is a dental problem a medical emergency?",
+   "a": "If facial swelling is affecting your breathing or swallowing, or you have heavy bleeding you cannot control, go to A&E or call 999. These are signs of a serious problem that needs hospital care rather than a routine dental appointment."
+  },
+  {
+   "q": "What can NHS 111 do for a dental problem?",
+   "a": "NHS 111 can direct you to urgent care when you are not sure where to turn, including out of hours. They can advise on the right service for your symptoms, though they cannot book you a private dental appointment."
+  },
+  {
+   "q": "How do I check that a dentist is properly registered?",
+   "a": "Dentists, dental hygienists, dental therapists and dental nurses must be registered with the General Dental Council, and you can check the GDC register online. If you are considering private treatment, you can also check whether the clinic is registered with the relevant regulator for your nation."
+  }
+ ],
+ "extra_heading": "What to expect at an urgent dental appointment",
+ "extra": [
+  "When you contact a private dentist for an emergency appointment, they will usually ask you to describe your symptoms over the phone so they can prioritise you appropriately. At the appointment, the dentist will examine the painful area, may take an X-ray to see what's happening beneath the surface, and will discuss the best way to get you out of pain. This might involve a temporary filling, a dressing, a prescription for antibiotics if there is an infection, or a plan for further treatment.",
+  "Many people worry that an emergency appointment will automatically lead to expensive treatment, but the first visit is often about diagnosis and immediate relief. The dentist should explain what they have found and what the options are, along with the costs, so you can decide how to proceed. You are free to ask questions and to take time to consider any longer-term treatment they recommend.",
+  "It's also worth knowing that if you are not registered with a dentist, you can still be seen as a private patient for an emergency. Some practices may offer to take you on as a regular patient afterwards if you wish. If you have a dental phobia or anxiety, mention it when you call so the team can make your visit as comfortable as possible."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Will I be treated at the first appointment?",
+   "a": "In most cases, the dentist will provide immediate treatment to relieve pain or address the urgent problem, such as a temporary filling or dressing. However, more complex treatment may need to be scheduled for a later date after the initial assessment."
+  },
+  {
+   "q": "Can I get an emergency appointment if I'm not registered with a dentist?",
+   "a": "Yes, private dentists often see patients who are not registered with them for urgent problems. You should phone first to explain your situation and check availability."
+  },
+  {
+   "q": "What should I do if I can't get an appointment straight away?",
+   "a": "If you are in severe pain or have swelling, you can call NHS 111 for advice on urgent care services. If you have facial swelling that affects your breathing or swallowing, go to A&E or call 999."
+  }
+ ]
+}

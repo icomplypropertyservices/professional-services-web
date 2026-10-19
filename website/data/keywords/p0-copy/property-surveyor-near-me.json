@@ -1,0 +1,53 @@
+{
+ "intro": "Looking for a property surveyor near you usually means you're buying a home, selling one, or need an expert opinion on a building's condition. You want someone local who can inspect the property and give you clear advice before you commit. We can introduce you to a surveyor in your area who will quote you directly for the work.",
+ "need_heading": "What people searching for a local property surveyor usually need",
+ "need_lead": "Most people want a straightforward survey to understand what they're buying or to solve a specific problem with their property.",
+ "needs": [
+  "You're buying a house and want a survey to uncover any hidden problems before you exchange contracts.",
+  "You're a landlord needing a condition report or valuation for insurance or legal purposes.",
+  "You're selling and want an independent survey to reassure buyers or resolve a dispute.",
+  "You need a valuation for probate, matrimonial proceedings, or a shared ownership arrangement.",
+  "You're concerned about damp, timber defects, or structural movement and want a specialist surveyor to assess it."
+ ],
+ "context_heading": "Why local knowledge and independence matter",
+ "context": [
+  "A surveyor near you will know the local housing stock and common issues in your area, such as subsidence in certain soil types or damp in older properties. They can also visit the property easily, which is important if you need a quick turnaround.",
+  "Independence is crucial: the surveyor should not be connected to the seller, estate agent, or lender. Many surveyors are members of the Royal Institution of Chartered Surveyors (RICS), and RICS-regulated firms must follow professional standards, hold insurance, and offer a complaints process. You can check the RICS directory to confirm a surveyor's membership."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "The full address and type of property you need surveyed, including its age and construction if you know it.",
+  "The reason for the survey, such as buying, selling, probate, or a specific concern like damp or structural movement.",
+  "Any deadline you're working towards, such as a mortgage application or exchange of contracts.",
+  "Whether you need a valuation as well as a survey, for example for a lender or for shared ownership.",
+  "If you have a particular report type in mind, such as a condition report, homebuyer report, or building survey.",
+  "Any special requirements, such as access arrangements or the need for a specialist in damp and timber."
+ ],
+ "questions_heading": "Questions to ask the surveyor",
+ "questions": [
+  "What type of survey do you recommend for this property and why?",
+  "Are you independent of the sale and the lender?",
+  "Will you provide a follow-up call to discuss the findings?",
+  "What is your availability and how soon can you visit?",
+  "Do you have experience with properties of this age and construction?",
+  "Are you a member of RICS or another relevant professional body?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I choose a property surveyor near me?",
+   "a": "Start by checking that the surveyor is a member of RICS or another relevant body, and confirm they are independent of the sale. Ask what report type they recommend for your property and whether they offer a follow-up call to explain the findings."
+  },
+  {
+   "q": "What does a property surveyor do?",
+   "a": "Property surveyors provide surveys, valuations, and advice for buyers, owners, landlords, and lenders. They inspect the property and report on its condition, highlighting any issues that could affect your decision."
+  },
+  {
+   "q": "How much does a property survey cost?",
+   "a": "Costs vary depending on the type of survey, the property's size and location, and the surveyor's fees. iComply does not set prices; the surveyor will quote you directly after discussing your needs."
+  },
+  {
+   "q": "Can iComply recommend a surveyor in my area?",
+   "a": "iComply introduces you to a suitable UK professional based on your requirements. We do not vet or endorse the surveyor, so you should check their credentials and ask questions before instructing them."
+  }
+ ]
+}

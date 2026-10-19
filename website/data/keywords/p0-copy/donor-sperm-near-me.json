@@ -1,0 +1,53 @@
+{
+ "intro": "You're looking for donor sperm treatment near you, whether you're a single woman, in a same-sex couple, or facing male infertility. Finding a clinic that offers donor sperm and is licensed by the HFEA is the first step. We can introduce you to a suitable UK fertility clinic, who will quote you directly.",
+ "need_heading": "What people searching for donor sperm near me usually need",
+ "need_lead": "Most people want a clear, local route to donor sperm treatment with proper support and information.",
+ "needs": [
+  "You are a single woman planning to become a parent and need to understand how donor sperm treatment works.",
+  "You are in a same-sex couple and want to explore donor sperm options for starting a family.",
+  "You are part of a couple facing male infertility and considering donor sperm as part of treatment.",
+  "You want to know which clinics near you are licensed by the HFEA to offer donor sperm treatment.",
+  "You have questions about donor screening, anonymity, and what information donor-conceived people can access later."
+ ],
+ "context_heading": "Understanding donor sperm treatment in the UK",
+ "context": [
+  "In the UK, donor sperm treatment is tightly regulated. Clinics offering donor sperm treatment must be licensed by the Human Fertilisation and Embryology Authority (HFEA). This ensures that donors are screened and that treatment meets safety and ethical standards.",
+  "Donor-conceived people can access identifying information about their donor when they turn eighteen. Clinics can explain how this works and what it means for you and your future child. The HFEA's Choose a Fertility Clinic tool shows each licensed clinic's inspection ratings, success rates and patient feedback, which can help you compare options."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Let us know your location and how far you are willing to travel for treatment.",
+  "Tell us whether you are single, in a couple, or exploring this as part of male infertility.",
+  "Mention any previous fertility tests or treatments you have had.",
+  "Share any preferences you have about the clinic, such as waiting times or support services.",
+  "Ask about the clinic's experience with donor sperm treatment and any specific requirements.",
+  "Include any questions you have about donor screening or anonymity so we can pass them on."
+ ],
+ "questions_heading": "Questions to ask the clinic",
+ "questions": [
+  "Are you licensed by the HFEA to provide donor sperm treatment?",
+  "How are donors screened, and what information can you tell me about the donor?",
+  "What is the process for choosing a donor, and how long might it take?",
+  "What support do you offer for single women or same-sex couples using donor sperm?",
+  "What are the costs involved, and what does the quote include?",
+  "How do you handle anonymity and the release of identifying information at eighteen?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral to get donor sperm treatment?",
+   "a": "Some clinics accept self-referrals, while others may require a referral from your GP. It's best to ask the clinic directly when you enquire."
+  },
+  {
+   "q": "Is donor sperm treatment available on the NHS?",
+   "a": "Funding for fertility treatment, including donor sperm, varies by area and is subject to eligibility criteria set by your local integrated care board. The clinic can advise you on what might be available."
+  },
+  {
+   "q": "Can I choose the donor?",
+   "a": "Clinics usually allow you to express preferences about donor characteristics, but availability varies. The clinic will explain their process for matching you with a donor."
+  },
+  {
+   "q": "What happens if I don't conceive with donor sperm?",
+   "a": "The clinic will discuss further options with you, which may include additional cycles or other treatments. They can explain the success rates and what to expect."
+  }
+ ]
+}

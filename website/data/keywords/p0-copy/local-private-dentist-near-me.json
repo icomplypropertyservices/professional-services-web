@@ -1,0 +1,73 @@
+{
+ "intro": "You've searched for a local private dentist near you, so you're likely looking for dental care outside the NHS, perhaps because you want a specific treatment, more flexible appointment times, or you haven't been able to find an NHS dentist nearby. Private dentists offer appointments outside the NHS, often with more time, wider treatment and material choices, and quicker access. We can introduce you to a suitable UK private dentist in your area who will quote you directly.",
+ "need_heading": "What people searching for a local private dentist usually need",
+ "need_lead": "Most people want convenient, local dental care with clear information about what's available and what it will cost.",
+ "needs": [
+  "You want a private dentist close to home or work so appointments are easy to get to.",
+  "You need a treatment that isn't readily available on the NHS, such as certain cosmetic work or a particular type of filling.",
+  "You're looking for more flexible appointment times, including evenings or weekends.",
+  "You've been unable to register with an NHS dentist and need to see someone soon.",
+  "You want a dentist who offers a membership plan to spread the cost of routine care."
+ ],
+ "context_heading": "What to understand about private dental care",
+ "context": [
+  "Private dentists must be registered with the General Dental Council (GDC), and you can check the GDC register online. If the practice provides regulated healthcare in England, it must also be registered with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA.",
+  "Private treatment often involves costs that are agreed directly with the dentist, so ask for an itemised treatment plan before you commit. Membership plans can help spread the cost of routine check-ups and hygiene visits. If something goes wrong with private dental treatment, start with the practice's complaints process; the Dental Complaints Service can help with private dental complaints that are not resolved."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention the exact search phrase you used so we know you're looking for a local private dentist near you.",
+  "Tell us your location or the area you'd like the dentist to be in.",
+  "Describe any specific treatment you're interested in, such as a check-up, cosmetic work, or a particular material choice.",
+  "Let us know if you have a preference for appointment times, such as evenings or weekends.",
+  "Say whether you're interested in a membership plan to spread the cost of routine care.",
+  "Share any concerns you have about visiting the dentist, so we can introduce you to someone who can help."
+ ],
+ "questions_heading": "Questions to ask the private dentist",
+ "questions": [
+  "Are you registered with the General Dental Council, and can I check your registration?",
+  "Is the practice registered with the Care Quality Commission (or the relevant regulator in my nation)?",
+  "Can you provide an itemised treatment plan with all costs clearly set out?",
+  "Do you offer a membership plan, and what does it cover?",
+  "What appointment times do you have available, including evenings or weekends?",
+  "What is your complaints procedure if I'm unhappy with the treatment?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check if a private dentist is properly registered?",
+   "a": "You can check the General Dental Council (GDC) register online to confirm the dentist is registered. In England, you can also check whether the practice is registered with the Care Quality Commission (CQC) and see its inspection rating."
+  },
+  {
+   "q": "What should I do if I have a problem with private dental treatment?",
+   "a": "Start with the practice's own complaints process. If the issue isn't resolved, the Dental Complaints Service can help with private dental complaints."
+  },
+  {
+   "q": "Will I know the cost before treatment starts?",
+   "a": "A private dentist should give you an itemised treatment plan setting out the costs before you agree to treatment. It's a good idea to ask for this in writing so you can consider it carefully."
+  },
+  {
+   "q": "Can a private dentist help if I can't get an NHS appointment?",
+   "a": "Yes, private dentists offer appointments outside the NHS and may be able to see you more quickly. They will explain the costs and treatment options directly with you."
+  }
+ ],
+ "extra_heading": "Choosing between the private dentists close to you",
+ "extra": [
+  "Because you've searched for a local private dentist near you, distance is clearly part of what matters, but it's worth thinking about how easy the practice is to reach for an early or late appointment, not just how close it looks on a map. Parking, public transport and the walk from the door to the chair all count when you're nervous or in discomfort.",
+  "It helps to ask each practice the same set of questions so you can compare like for like: what a new patient examination includes, whether they offer a membership plan and what it covers, and how they handle out-of-hours problems. Ask for an itemised treatment plan in writing before you agree to anything, and check the dentist's registration with the General Dental Council and the practice's registration with the relevant regulator for your nation.",
+  "If you're comparing a private dentist with staying on an NHS list, remember that the two work differently: private care is arranged and priced directly between you and the dentist, so the quote you're given is the one to judge. There's no harm in approaching more than one local practice before deciding, and you're free to ask about appointment times, treatment options and costs before you book."
+ ],
+ "extra_faqs": [
+  {
+   "q": "How close does a private dentist need to be?",
+   "a": "That's a personal choice, but think about the journeys you're most likely to make, such as an early check-up before work or an urgent visit when you're in pain. A practice a little further away with better appointment times may suit you better than the nearest one."
+  },
+  {
+   "q": "Can I visit a private dentist if I already have an NHS dentist?",
+   "a": "Yes, you can see a private dentist for some or all of your care, though it's worth telling both practices so your records stay clear. Private dentists offer appointments outside the NHS, with costs agreed directly with you."
+  },
+  {
+   "q": "What happens at a first appointment with a local private dentist?",
+   "a": "A first appointment usually involves an examination and a conversation about your dental history and what you'd like to change. Ask what the examination includes and request an itemised treatment plan before agreeing to any treatment."
+  }
+ ]
+}

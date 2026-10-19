@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for endoscopy near me, you are likely looking for a private consultant who can investigate symptoms such as reflux, stomach pain or bleeding without a long wait. You want to know who is nearby, what the procedure involves and how to prepare. We introduce you to a suitable UK professional who quotes you directly, so you can decide with clear information.",
+ "need_heading": "What people searching for endoscopy near me usually need",
+ "need_lead": "Most people want a convenient, private endoscopy to get answers about digestive symptoms sooner.",
+ "needs": [
+  "You have persistent heartburn or reflux and want to find out whether it has caused any damage to your oesophagus.",
+  "You have stomach pain, nausea or difficulty swallowing and your GP has suggested an endoscopy to investigate further.",
+  "You have noticed blood in your stool or bleeding and need a camera test to find the cause.",
+  "You want the procedure done privately at a hospital or clinic close to home, with a consultant who can explain the results.",
+  "You are considering sedation and want to know how it works and who can take you home afterwards."
+ ],
+ "context_heading": "What to understand about private endoscopy near you",
+ "context": [
+  "Private endoscopy is usually carried out by a consultant gastroenterologist or surgeon at a private hospital or clinic. In England, clinics providing regulated healthcare must be registered with the Care Quality Commission (CQC), which inspects and publishes ratings. You can check a consultant's specialist registration with the General Medical Council (GMC) online.",
+  "Preparation is important: you will receive instructions about fasting or bowel preparation before the procedure. Sedation may be offered, and if you have it you will need someone to take you home. If you have private medical insurance, check with your insurer before booking, as they may require a GP referral and may limit which consultants or hospitals you can use."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe your main symptoms, such as reflux, pain, bleeding or difficulty swallowing, and how long you have had them.",
+  "Say whether your GP has already referred you or suggested an endoscopy.",
+  "Mention any private medical insurance you have and whether your insurer has given pre-authorisation.",
+  "State your preferred location or how far you are willing to travel for the procedure.",
+  "Note whether you would like sedation and if you have someone who can take you home afterwards.",
+  "Share any relevant medical conditions or medicines you take, as these can affect preparation and sedation."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "What kind of endoscopy do I need for my symptoms, and what will it involve?",
+  "How should I prepare for the procedure, and do I need to stop any medicines beforehand?",
+  "Will sedation be offered, and what are the pros and cons?",
+  "Who will perform the endoscopy, and are they on the GMC specialist register?",
+  "Where will the procedure take place, and is the clinic registered with the relevant regulator?",
+  "How and when will I receive the results, and who will explain them to me?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral from my GP to book a private endoscopy?",
+   "a": "Some private consultants accept self-referrals, but others prefer a GP referral. If you have private medical insurance, your insurer may require a GP referral before you can book, so check with them first."
+  },
+  {
+   "q": "Will I be asleep during the endoscopy?",
+   "a": "Sedation may be offered to help you relax, but it is not a general anaesthetic, so you may still be aware of what is happening. If you have sedation, you will need someone to take you home afterwards and should not drive."
+  },
+  {
+   "q": "How do I check the consultant and clinic are properly registered?",
+   "a": "You can check a consultant's specialist registration on the General Medical Council (GMC) online register. In England, private clinics providing regulated healthcare must be registered with the Care Quality Commission (CQC), which publishes inspection ratings."
+  },
+  {
+   "q": "What if I have private medical insurance?",
+   "a": "Your insurer may require a GP referral and may only cover certain consultants or hospitals, so check with them before you book. They can also confirm whether pre-authorisation is needed for the procedure."
+  }
+ ]
+}

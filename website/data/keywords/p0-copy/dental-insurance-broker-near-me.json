@@ -1,0 +1,73 @@
+{
+ "intro": "You're looking for a dental insurance broker near you because you want to cover check-ups, treatment or emergency dental care without facing unexpected bills. A broker can help you compare policies from different insurers, explain what's covered and what isn't, and guide you through the claims process if you need to use your cover. They work for you, not the insurer, and can help you find a policy that fits your needs and budget.",
+ "need_heading": "What people searching for a dental insurance broker near me usually need",
+ "need_lead": "Most people want clear, impartial help to understand dental insurance options and choose a policy that suits their circumstances.",
+ "needs": [
+  "You want to cover the cost of routine check-ups and treatments like fillings or crowns without paying the full bill yourself.",
+  "You're planning to travel and want emergency dental cover abroad, but you're unsure which policies include it.",
+  "You've had a quote from an insurer but don't understand the exclusions or waiting periods, and you want a broker to explain them.",
+  "You're self-employed or an employer looking for dental cover for yourself or your team, and you need help comparing group policies.",
+  "You've had a bad experience claiming on a policy before and want a broker who can help you avoid the same pitfalls."
+ ],
+ "context_heading": "What to understand about dental insurance and brokers",
+ "context": [
+  "Dental insurance policies often have waiting periods before you can claim for certain treatments, and annual limits on how much the insurer will pay. A broker can explain these details clearly so you know what to expect. They must also tell you how they are paid, whether by a fee from you or commission from the insurer.",
+  "Insurance brokers in the UK must be authorised by the Financial Conduct Authority (FCA) or be appointed representatives of an authorised firm. You can check a broker's status on the FCA register. Many brokers also belong to the British Insurance Brokers' Association (BIBA), and some hold Chartered status from the Chartered Insurance Institute. If you have a complaint that the broker cannot resolve, you can take it to the Financial Ombudsman Service."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Whether you need cover for just yourself, for your family, or for a group such as employees.",
+  "What treatments you expect to need, such as routine check-ups, orthodontics, or emergency care abroad.",
+  "Any pre-existing dental conditions or ongoing treatment that might affect cover.",
+  "Your preferred level of cover and any budget you have in mind, so the broker can suggest suitable options.",
+  "Whether you already have a policy and are looking to switch or compare.",
+  "How you would like to be contacted and whether you prefer to deal with a local broker or are happy to work remotely."
+ ],
+ "questions_heading": "Questions to ask the broker",
+ "questions": [
+  "Are you authorised by the FCA, and can you provide your firm reference number?",
+  "Which insurers do you work with for dental insurance, and can you compare policies from different providers?",
+  "What are the waiting periods and annual limits on the policies you recommend?",
+  "How are you paid for your service, and will you disclose any commission you receive?",
+  "What is the claims process like, and do you help policyholders with claims?",
+  "What should I do if I have a complaint about your service?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a broker to buy dental insurance?",
+   "a": "No, you can buy dental insurance directly from an insurer. However, a broker can help you compare policies, explain exclusions and waiting periods, and provide support if you need to claim, which can be particularly useful if you have specific treatment needs or pre-existing conditions."
+  },
+  {
+   "q": "How do I check if a dental insurance broker is legitimate?",
+   "a": "You can check whether a broker is authorised by the Financial Conduct Authority (FCA) on the FCA register. Many brokers also belong to the British Insurance Brokers' Association (BIBA), and some hold Chartered status from the Chartered Insurance Institute, which can indicate a commitment to professional standards."
+  },
+  {
+   "q": "Will dental insurance cover pre-existing conditions?",
+   "a": "Many dental insurance policies exclude pre-existing conditions or apply waiting periods before you can claim for them. A broker can explain how different insurers treat pre-existing conditions and help you find a policy that meets your needs, but they cannot arrange cover for any specific condition."
+  },
+  {
+   "q": "What is the difference between dental insurance and a practice plan?",
+   "a": "Dental insurance is a policy that helps cover the cost of dental treatment, often with annual limits and waiting periods. A practice plan is a payment plan offered by a dental practice that spreads the cost of routine care. A broker can help you compare both options, but they do not provide the treatment itself."
+  }
+ ],
+ "extra_heading": "Choosing between a broker, an insurer and a practice plan",
+ "extra": [
+  "Searching for a dental insurance broker near me often means you have already noticed that dental cover is sold in several different ways, and you want help telling them apart. A broker can compare policies from different insurers, while a dental practice plan spreads the cost of routine care and ties you to that practice. Asking a broker to set the two side by side is a sensible first step before you commit to either.",
+  "If you would rather deal with someone face to face, say so when you enquire, because some brokers work mainly over the phone or by email and others are happy to meet locally. Distance matters less than it once did, but a nearby broker may know which local practices patients tend to use and how claims in your area usually run. Either way, the broker should explain the policy in plain terms before you decide.",
+  "When you speak to a broker, ask them to walk you through a sample claim so you can see how the annual limit and any waiting period would affect what you get back. Compare more than one policy on the same basis, using the same treatments and the same limit, so the differences are clear. Price on application means you will be quoted directly, so ask what the broker charges and how they are paid before you go ahead."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Can a broker help if I only want cover for check-ups?",
+   "a": "Yes. A broker can look at policies designed around routine care and explain how annual limits and waiting periods would apply to check-ups and hygiene visits. They can also compare this with a practice plan so you can see which suits you better."
+  },
+  {
+   "q": "What happens at a first conversation with a dental insurance broker?",
+   "a": "The broker will ask about your dental needs, any ongoing treatment and who you want to cover, then explain the policies that might suit you and how they are paid. They must set out key features and exclusions, and you should feel free to ask them to repeat anything that is unclear."
+  },
+  {
+   "q": "Does a local broker cost more than buying direct?",
+   "a": "Not necessarily, but the only way to know is to ask. Brokers must tell you how they are paid, whether by a fee from you or commission from the insurer, so ask for this in writing and compare it with buying directly."
+  }
+ ]
+}

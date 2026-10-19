@@ -1,0 +1,53 @@
+{
+ "intro": "You've searched for an optometrist, which usually means you're thinking about your eyes or someone else's and want to know who to see. An optometrist examines eyes, checks how well you see and looks for conditions such as glaucoma and cataracts. We introduce people to UK optometrists who can quote them directly for the care they need.",
+ "need_heading": "What people searching for an optometrist usually need",
+ "need_lead": "Most people looking for an optometrist have a practical eye concern and want to know who can help.",
+ "needs": [
+  "You've noticed your vision has changed and you want a proper eye examination to find out why.",
+  "You're due for a routine eye check and would like to see an optometrist near you.",
+  "You have a specific worry, such as glaucoma or cataracts, and want an optometrist to look into it.",
+  "Your child needs an eye test and you'd like to find an optometrist who is good with children.",
+  "You've been told you need glasses or contact lenses and want an optometrist to guide you through the options."
+ ],
+ "context_heading": "What to understand about optometrists",
+ "context": [
+  "Optometrists and dispensing opticians must be registered with the General Optical Council (GOC), which you can check online. Optometrists carry out eye examinations; dispensing opticians fit and supply glasses and, with extra training, contact lenses. Some optometrists hold extra qualifications that let them manage more eye conditions or prescribe certain medicines.",
+  "In many areas of the UK, community optometrists provide minor eye condition and urgent eye care services. If you have a sudden change in your vision or eye pain, report it promptly rather than waiting for a routine appointment. Children benefit from early eye tests, so it's worth asking about services for younger patients."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe what prompted you to look for an optometrist, such as blurry vision, eye strain or a routine check.",
+  "Say whether the appointment is for you or someone else, and give their age if it's a child.",
+  "Mention any specific eye conditions you're concerned about, such as glaucoma or cataracts.",
+  "Let us know if you already wear glasses or contact lenses and whether you need a new prescription.",
+  "Explain any preference you have, such as wanting an optometrist who offers home visits or speaks a particular language.",
+  "Tell us your location so we can introduce you to an optometrist convenient for you."
+ ],
+ "questions_heading": "Questions to ask the optometrist",
+ "questions": [
+  "What will the eye examination involve and how long will it take?",
+  "Can you check for conditions like glaucoma and cataracts as part of the exam?",
+  "Do you have experience examining children's eyes?",
+  "What should I do if I notice a sudden change in my vision?",
+  "Are you registered with the General Optical Council?",
+  "Can you explain the difference between an optometrist and a dispensing optician?"
+ ],
+ "faqs": [
+  {
+   "q": "What is the difference between an optometrist and an optician?",
+   "a": "Optometrists examine eyes, detect conditions such as glaucoma and cataracts, and prescribe lenses. Dispensing opticians fit and supply glasses and, with extra training, contact lenses. Both must be registered with the General Optical Council."
+  },
+  {
+   "q": "Do I need a referral to see an optometrist?",
+   "a": "In most cases you can book an eye examination directly with an optometrist without a referral from your GP. If you have a specific medical concern, it's still worth mentioning it when you book."
+  },
+  {
+   "q": "Can an optometrist treat eye conditions?",
+   "a": "Some optometrists hold extra qualifications that let them manage more eye conditions or prescribe certain medicines. In many areas of the UK, community optometrists provide minor eye condition and urgent eye care services."
+  },
+  {
+   "q": "How often should I have my eyes tested?",
+   "a": "The right interval depends on your age, your eye health and any symptoms you have. Your optometrist will advise you on when to return after your examination."
+  }
+ ]
+}

@@ -7,59 +7,57 @@ group: consulting
 hub: recruitment-consultants
 profession: recruitment agency
 service_label: Employment agency
-og_image: /assets/images/hero-workshop.jpg
+og_image: /assets/images/insurance-advisory.jpg
 ---
 
 # Employment Agency Near Me
 
-If you have typed **employment agency near me** into a search bar, you are likely looking for help soon and not too far away. Employment agencies help people find work and help employers fill temporary and permanent roles.
+Searching for an employment agency near me usually means you want work that fits around where you live, whether that is temporary shifts, a permanent role or a change of direction. You may also be an employer nearby who needs help filling a vacancy. iComply introduces you to a suitable UK recruitment agency, which then quotes you directly, with the price on application.
 
-Rather than calling round, you can send one enquiry to iComply. We look at your needs, location and timing, then introduce you to a suitable recruitment agency. They quote you directly, POA, and you decide whether to go ahead.
+Employment agencies help people find work and help employers fill temporary and permanent roles.
+
+We act as the middleman between you and the professional. Share a short brief and we match you with an employment agency who has the right experience and capacity. Enquiring is free, and you are under no obligation to accept a quote.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Professional reviewing a client's brief before an introduction for employment agency near me](/assets/images/hero-workshop.jpg)
+![Next steps after an iComply introduction for an employment agency](/assets/images/insurance-advisory.jpg)
 
-## Common reasons people contact recruitment agencies
+## What people searching for an employment agency nearby usually need
 
-You do not need to have everything worked out. Clients often come to us with situations like these:
+Most people typing this are looking for a local agency they can speak to about real work, without being passed around.
 
-- A job seeker wanting help finding a new role.
-- Specialist technical roles such as IT.
-- Seasonal or temporary staffing needs.
-- An employer struggling to fill a skilled role.
-- Replacing staff while keeping the business running.
+- You want temporary or shift work close to home and need an agency that knows local employers.
+- You are looking for a permanent role in your area and want help finding openings that suit your experience.
+- You are an employer nearby with a vacancy to fill and want an agency that understands your local labour market.
+- You have been offered work through an agency and want to understand your rights on pay, holiday and written terms.
+- You are unsure whether an agency is allowed to charge you for finding work and want clear answers before signing anything.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of recruitment agency fits best.
+## What to tell iComply when you enquire
 
-## Timing and urgency
+A short, clear brief saves time on both sides. Useful details include:
 
-Agencies can often begin sourcing within days. Shortlists for common roles may come within a week or two; senior or niche roles take longer.
+- Say whether you are looking for temporary work, a permanent role or help filling a vacancy as an employer.
+- Describe the kind of work you want or the role you need to fill, including the sector and duties.
+- Mention the area you want to work in, since your search was for an agency near you.
+- Explain your availability, such as whether you can start straight away or need part-time hours.
+- Note any experience, qualifications or right-to-work situation that affects what work suits you.
+- Say what you most want from the agency, such as local shifts, a permanent move or advice on your rights.
 
-## Your relationship with the practice
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
-Once introduced, the agency will take a brief and confirm terms. The recruitment relationship is between you and the agency. iComply does not recruit staff.
+## What an employment agency is likely to cost (POA)
 
-**Need an employment agency?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
-
-## Good questions for your first call
-
-Asking a few direct questions early tells you a lot about how a practice works:
-
-- Are you REC or APSCo members?
-- What are your terms of business and fees?
-- How will you keep me updated?
-- How do you find and screen candidates?
-- Do you specialise in my sector or role type?
-- How quickly can you provide a shortlist?
-
-## How fees usually work (POA)
-
-Agencies typically charge employers a placement fee for permanent hires or a margin on temporary workers' pay. Terms differ, so always agree them in writing before receiving CVs. Agencies generally cannot charge job seekers for finding work. iComply does not publish fees; the agency quotes you, POA.
+Agencies typically charge employers a placement fee for permanent hires or a margin on temporary workers' pay. Terms differ, so always agree them in writing before receiving CVs. Agencies generally cannot charge job seekers for finding work. The agency quotes you, POA.
 
 Check rebate terms and what happens if you hire a candidate introduced by the agency later.
 
-## How to check you are in safe hands
+**Need an employment agency?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
+
+## Typical timescales
+
+Agencies can often begin sourcing within days. Shortlists for common roles may come within a week or two; senior or niche roles take longer.
+
+## Checking recruitment agencies are qualified and regulated
 
 Employment agencies and businesses in the UK must follow the Conduct of Employment Agencies and Employment Businesses Regulations, enforced by the Employment Agency Standards Inspectorate. Agencies cannot usually charge work-seekers for finding them work. Membership of the Recruitment and Employment Confederation (REC) or APSCo shows commitment to an industry code.
 
@@ -67,93 +65,90 @@ Agencies supplying temporary workers have obligations on pay, holiday and right-
 
 iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
 
-![Planning the first appointment after an enquiry for employment agency near me](/assets/images/finance-desk.jpg)
+![Professional reviewing a client's brief before an introduction for employment agency near me](/assets/images/hero-workshop.jpg)
 
-## What to prepare before you enquire
+## From enquiry to quote in four steps
 
-A short, clear brief saves time on both sides. Useful details include:
+1. **Enquire for free** with your town or postcode and a short description.
+1. **We clarify** anything unclear, so the introduction is useful from the start.
+1. **We connect you** with an employment agency who suits your situation.
+1. **The practice takes over**, confirms scope and fees in writing and does the work.
 
-- For job seekers: the roles and locations you are interested in
-- Salary range or day rate
-- How quickly you need someone
-- Your interview process
-- The role, responsibilities and must-have skills
-- Permanent, contract or temporary
+There is no charge to you for the introduction, and no obligation to accept any quote.
 
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+## What to understand about employment agencies
+
+Employment agencies and employment businesses in the UK must follow the Conduct of Employment Agencies and Employment Businesses Regulations, enforced by the Employment Agency Standards Inspectorate. Agencies cannot usually charge work-seekers for finding them work, so treat any request for a fee from you as a warning sign. Membership of the Recruitment and Employment Confederation or APSCo shows a commitment to an industry code, which you can check for yourself.
+
+If you take temporary work, the agency has obligations on pay, holiday and right-to-work checks, and you should get clear terms setting out your contract. Employers should expect clear terms of business too. iComply is not regulated and does not give professional advice; we simply introduce you to an agency that can answer your questions directly.
 
 ## Before you choose an employment agency
 
-A few points come up again and again with an employment agency:
+These practical points are worth knowing before you speak to anyone about an employment agency:
 
 - Job seekers generally should not be charged.
 - Temporary workers have rights.
 - Check right-to-work processes.
 
-Raise any of these with the recruitment agency you are introduced to; they should be happy to explain.
+A good recruitment agency will talk you through each of these in plain English.
 
-## How iComply matches you
+## Questions to ask the agency
 
-1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
-1. **We review your brief.** We check the type of recruitment agency you need, your location and your timing.
-1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
-1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
+Once you are introduced, these questions help you decide whether the recruitment agency is right for you:
 
-We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
+- Will you ever ask me to pay a fee for finding me work?
+- What written terms will I receive before I start a temporary assignment?
+- How will my pay, holiday and any deductions be explained to me?
+- Which local employers or sectors do you most often place people with?
+- How do you check that I have the right to work in the UK, and what documents will you need?
+- If I am an employer, what are your terms of business and how do you charge?
 
-## Near me: how local matching works
+![Planning the first appointment after an enquiry for employment agency near me](/assets/images/finance-desk.jpg)
 
-When you search for an employment agency near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
+## FAQs: an employment agency
 
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
+### Can an employment agency charge me for finding me work?
 
-## Red flags when choosing an employment agency
+Agencies cannot usually charge work-seekers for finding them work under the Conduct of Employment Agencies and Employment Businesses Regulations. If you are asked for a fee simply to be put forward for a role, ask why and consider walking away.
 
-Be cautious if you notice any of the following:
+### What rights do I have as a temporary worker?
 
-- No written terms of business
-- Vague screening processes
-- Pressure to hire quickly
-- Charges to job seekers for finding work
+Agencies supplying temporary workers have obligations on pay, holiday and right-to-work checks, and you should receive clear terms setting out your contract. Ask for those terms in writing before you start so you know where you stand.
 
-![Next steps after an iComply introduction for an employment agency](/assets/images/insurance-advisory.jpg)
+### Does joining the REC or APSCo mean an agency is regulated?
 
-## Employment Agency Near Me: FAQs
+Membership of the Recruitment and Employment Confederation or APSCo shows a commitment to an industry code, but it is not the same as regulation. All agencies must still follow the regulations enforced by the Employment Agency Standards Inspectorate.
 
-### Do job seekers pay recruitment agencies?
+### How does iComply help me find an agency near me?
 
-Generally no. UK rules mean agencies usually cannot charge work-seekers for finding them work.
+You tell us what you need, and we introduce you to a suitable UK recruitment agency, which quotes you directly with the price on application. iComply is not regulated and does not provide the recruitment service itself or give professional advice.
 
 ### What is a rebate period?
 
 An agreed period after a permanent hire during which the agency refunds part of its fee or finds a replacement if the person leaves.
 
-### How do I find an employment agency near me?
+### Can you find an employment agency in my area?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable recruitment agency with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
 
-### Is it free to use iComply?
+### Is iComply regulated?
 
-Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
-
-### Can I contact you on WhatsApp?
-
-Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
+iComply is a matching service. We are not a recruitment agency and we do not give professional advice. The professionals we introduce are registered with their own bodies, and you can check them.
 
 ### How quickly will I hear back?
 
 Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
 
-## People also look for
+## Related searches
 
 - [Graduate recruitment agency near me](/keywords/graduate-recruitment-agency-near-me/)
+- [Recruitment consultant near me](/keywords/recruitment-consultant-near-me/)
+- [Recruitment agency near me](/keywords/recruitment-agency-near-me/)
 - [IT recruitment agency near me](/keywords/it-recruitment-agency-near-me/)
 - [Recruitment consultants near me](/keywords/recruitment-consultants-near-me/)
-- [Recruitment agency near me](/keywords/recruitment-agency-near-me/)
-- [Recruitment consultant near me](/keywords/recruitment-consultant-near-me/)
 - [Browse all recruitment agencies](/hubs/recruitment-consultants/)
 
-## Ready to be matched?
+## Get a free quote for an employment agency
 
 Tell us what you need and where you are. We will match you with a suitable recruitment agency, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
 

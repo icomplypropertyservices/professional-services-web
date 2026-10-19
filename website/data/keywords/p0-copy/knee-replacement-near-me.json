@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for knee replacement near me, you're likely thinking about how to get your knee sorted without travelling too far. You want to understand your options for private treatment and find a consultant who can assess whether surgery is right for you. We can introduce you to a suitable private consultant in the UK who will quote you directly.",
+ "need_heading": "What people considering a knee replacement usually need",
+ "need_lead": "Most people searching for a knee replacement near me are looking for clear, local guidance on their next steps.",
+ "needs": [
+  "You have knee pain that has become harder to manage and you want to know whether a partial or total replacement could help.",
+  "You have already seen your GP or a physiotherapist and now want a consultant's opinion on surgery.",
+  "You want to find a private consultant who works at a hospital or clinic that is convenient for you to get to.",
+  "You are considering using private medical insurance and need to check which consultants and hospitals your insurer covers.",
+  "You want to understand what the recovery involves and how much support you will need at home afterwards."
+ ],
+ "context_heading": "What to understand about knee replacement near you",
+ "context": [
+  "Knee replacement surgery replaces worn joint surfaces to reduce pain and restore movement. There are partial and total replacements, and the right choice depends on which part of your knee is affected. Recovery takes months, and physiotherapy afterwards is an important part of getting the best result.",
+  "Hospital consultants should appear on the General Medical Council's specialist register for their field, which you can check online. Private clinics providing regulated healthcare in England must register with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA. Private hospitals in England may also share outcomes data through the Private Healthcare Information Network (PHIN)."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you are looking for a knee replacement near you and give the town or area you would like to travel to.",
+  "Describe how your knee problem affects your daily life and how long you have had it.",
+  "Say whether you have already seen a GP or physiotherapist and what you were told.",
+  "Confirm whether you plan to pay for treatment yourself or use private medical insurance.",
+  "If you have insurance, tell us whether your insurer requires a GP referral and any limits on consultants or hospitals.",
+  "Let us know if you have a preference for a particular hospital or clinic that is convenient for you."
+ ],
+ "questions_heading": "Questions to ask the private consultant",
+ "questions": [
+  "Do you perform partial and total knee replacements, and which would you recommend for me?",
+  "How many knee replacement operations do you carry out each year?",
+  "What is your approach to pain relief and recovery after surgery?",
+  "What physiotherapy will I need after the operation, and how is it arranged?",
+  "What are the risks and benefits of surgery compared with other options for my knee?",
+  "Are you on the GMC's specialist register for orthopaedic surgery?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a GP referral to see a private consultant for a knee replacement?",
+   "a": "Many private consultants will see you without a GP referral, but your private medical insurer may require one before you can claim. It is worth checking with your insurer before you book."
+  },
+  {
+   "q": "How do I check a consultant's qualifications for knee replacement?",
+   "a": "You can check whether a consultant appears on the General Medical Council's specialist register for their field online. You can also ask the consultant directly about their experience and training."
+  },
+  {
+   "q": "What should I look for in a private hospital for knee replacement?",
+   "a": "In England, private clinics providing regulated healthcare must be registered with the Care Quality Commission, which inspects and publishes ratings. You can check the CQC's findings, and in England you may also find outcomes data through the Private Healthcare Information Network."
+  },
+  {
+   "q": "How long does recovery take after a knee replacement?",
+   "a": "Recovery takes months, and physiotherapy afterwards is important for restoring movement and strength. Your consultant can give you a clearer idea of what to expect based on your individual situation."
+  }
+ ]
+}

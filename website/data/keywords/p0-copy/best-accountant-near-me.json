@@ -1,0 +1,69 @@
+{
+ "intro": "You're looking for the best accountant near you, which usually means you want someone local who can handle your tax and accounts properly and who you can talk to easily. Whether you run a small business, work for yourself or need help with your own tax return, finding the right accountant is about more than just a low fee.",
+ "need_heading": "What people searching for the best accountant near me usually need",
+ "need_lead": "Most people want a local accountant they can trust to get things right and to be there when they need advice.",
+ "needs": [
+  "You run a small business and need someone to prepare your annual accounts and tax returns and keep you on the right side of HMRC and Companies House.",
+  "You're self-employed and want an accountant who understands self-assessment and can help you claim the expenses you're entitled to.",
+  "You're starting a new business and need advice on the best structure, such as whether to trade as a sole trader or a limited company.",
+  "You've had a bad experience with a previous accountant and want someone more responsive and easier to talk to.",
+  "You want an accountant who can help you plan ahead, not just file your paperwork at the last minute."
+ ],
+ "context_heading": "What 'best' means when choosing an accountant",
+ "context": [
+  "The word 'accountant' isn't protected in the UK, so anyone can call themselves an accountant. However, titles like Chartered Accountant (ICAEW, ICAS or Chartered Accountants Ireland), Chartered Certified Accountant (ACCA) and Chartered Management Accountant (CIMA) are protected, and members are bound by their body's ethics, training and complaints rules. It's reasonable to ask which professional body they belong to and whether they hold professional indemnity insurance.",
+  "Every accountancy practice must be supervised for anti-money-laundering purposes, either by a professional body or by HMRC. You can ask which body supervises the firm and how they handle complaints. 'Best' is personal: think about what matters to you, such as clear communication, local knowledge or experience with your type of business."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Whether you need help with personal tax, business accounts, or both.",
+  "The type of business you run, if any, such as sole trader, partnership or limited company.",
+  "Whether you need help with Making Tax Digital and which software you use.",
+  "Any deadlines you're working towards, such as a tax return due date or year-end.",
+  "Whether you'd prefer to meet in person locally or are happy to work remotely.",
+  "Any specific concerns you have, such as previous problems with HMRC or a complex tax situation."
+ ],
+ "questions_heading": "Questions to ask an accountant near you",
+ "questions": [
+  "Which professional body are you a member of, and what qualifications do you hold?",
+  "Which body supervises your practice for anti-money-laundering purposes?",
+  "Do you hold professional indemnity insurance?",
+  "How do you handle complaints if I'm not happy with your service?",
+  "What exactly is included in your fee, and are there any extra charges?",
+  "How do you help clients plan ahead for tax, not just file returns?"
+ ],
+ "faqs": [
+  {
+   "q": "How can I check if an accountant is qualified?",
+   "a": "Look for protected titles such as Chartered Accountant, Chartered Certified Accountant or Chartered Management Accountant, and check membership with the relevant body. You can also ask which professional body they belong to and whether they hold professional indemnity insurance."
+  },
+  {
+   "q": "Do I need a local accountant, or can I work with one remotely?",
+   "a": "Many accountants now work remotely, so you can choose based on expertise and fit rather than location alone. However, if you prefer face-to-face meetings, a local accountant near you may be more convenient."
+  },
+  {
+   "q": "What is Making Tax Digital and does my accountant need to handle it?",
+   "a": "Making Tax Digital is HMRC's initiative to move tax records and returns online. Many businesses and landlords now need to use compatible software, so it's worth asking how your accountant handles it."
+  },
+  {
+   "q": "How do accountants charge for their services?",
+   "a": "Fees vary widely depending on the work involved and the practice. Some charge a fixed fee, others by the hour, so it's important to agree exactly what is covered before you start."
+  }
+ ],
+ "extra_heading": "Comparing accountants near you without a shortlist",
+ "extra": [
+  "When you search for the best accountant near me, you are probably hoping to find a shortlist of good local options without having to research every practice yourself. The word 'best' is personal, though, so it helps to decide what matters most to you before you start comparing. Is it face-to-face meetings, experience with your type of business, or a clear explanation of fees?",
+  "A practical way to compare is to ask each accountant the same set of questions and see how clearly they answer. Ask which professional body they belong to, which body supervises them for anti-money-laundering purposes, and whether they hold professional indemnity insurance. You can also ask how they handle Making Tax Digital and what their process is for helping you plan ahead, not just file returns.",
+  "It is also worth thinking about how you like to communicate. Some people want an accountant they can drop in on, while others are happy with phone and email. There is no right answer, but knowing your preference will help you judge which local practice feels like the best fit for you."
+ ],
+ "extra_faqs": [
+  {
+   "q": "How can I tell if an accountant is right for my small business?",
+   "a": "Ask whether they regularly work with businesses like yours and whether they can explain things in a way you understand. A good accountant should help you plan, not only file your returns, so see if they offer advice on cash flow and tax as part of their service."
+  },
+  {
+   "q": "Should I choose an accountant who is local to me?",
+   "a": "Working with a local accountant can make it easier to meet in person, which some people prefer. However, many accountants work remotely, so you can also consider practices further afield if they have the right experience for your needs."
+  }
+ ]
+}

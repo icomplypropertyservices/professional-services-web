@@ -1,0 +1,60 @@
+{
+ "intro": "Searching for a duty solicitor near me usually means something has just happened — an arrest, a police interview, or a court appearance coming up quickly — and you need someone who can speak for you without delay. Duty solicitors give free legal advice at police stations and some courts through legal aid, so cost should not be what stops you asking. We can introduce you to a UK solicitor who handles this kind of work and who will quote you directly.",
+ "need_heading": "What people searching for a duty solicitor usually need",
+ "need_lead": "Most people typing this search are dealing with a police station or court situation that will not wait.",
+ "needs": [
+  "You or someone you know has been arrested or asked to attend a police interview and wants legal advice before answering questions.",
+  "You have been told a duty solicitor will be present but you are unsure what that means or whether you can ask for a different solicitor.",
+  "You are due at a magistrates' court and want to understand what advice is available on the day.",
+  "You are helping a family member who has been detained and want to know how to arrange legal advice quickly.",
+  "You have a police matter that may lead to a court appearance and want a solicitor who can advise you from the start.",
+  "You want to find a solicitor who covers the police station or court nearest to you rather than one further away."
+ ],
+ "context_heading": "Understanding how duty solicitor advice works",
+ "context": [
+  "Duty solicitors provide free legal advice at police stations and some courts to anyone who needs it, through schemes funded by legal aid. Police-station advice is free regardless of your income, so you do not need to worry about being billed for that initial help. You can also ask for your own solicitor instead of the duty solicitor if you prefer, and for some offences advice can be given by phone.",
+  "Because this is a search for someone near you, it helps to know which police station or court is involved before you enquire. That lets us introduce you to a solicitor who covers that location, rather than one who would have to travel or work by phone only."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Say whether the matter is at a police station, a court, or both, and which one if you know.",
+  "Explain what has happened so far, such as an arrest, a voluntary interview request, or a court date.",
+  "Mention whether anyone is currently detained and whether time is short.",
+  "Say whether you already have a solicitor and whether you want to keep them or ask for someone else.",
+  "Include the town or area where the police station or court is located so we can introduce you to someone who covers it.",
+  "Note any language or accessibility needs so the solicitor can plan for them.",
+  "Say whether you would prefer advice in person or are happy for it to be given by phone."
+ ],
+ "questions_heading": "Questions to ask the solicitor you speak to",
+ "questions": [
+  "Will you be able to attend the police station in person, or would advice be given by phone?",
+  "Is the police-station advice free through legal aid in my situation?",
+  "Can I ask for you specifically instead of the duty solicitor on the day?",
+  "What should I do or say if the police want to interview me before you arrive?",
+  "Do you cover the court where my matter is being heard?",
+  "How will you keep me informed if the matter goes further?",
+  "What will you need from me before you can advise?"
+ ],
+ "faqs": [
+  {
+   "q": "Is duty solicitor advice really free at the police station?",
+   "a": "Yes — police-station advice through the duty solicitor scheme is free regardless of your income. That applies whether you are arrested or asked to attend a voluntary interview."
+  },
+  {
+   "q": "Can I ask for a different solicitor instead of the duty solicitor?",
+   "a": "You can ask for your own solicitor instead of the duty solicitor. It is worth saying so clearly to the police so they can arrange it."
+  },
+  {
+   "q": "What if I need advice outside normal office hours?",
+   "a": "Police-station matters can arise at any time, and duty solicitor schemes are set up to cover them. Tell us when the matter is happening so we can introduce you to a solicitor who can respond."
+  },
+  {
+   "q": "How do I check that the person advising me is a solicitor?",
+   "a": "Solicitors in England and Wales are regulated by the Solicitors Regulation Authority, and you can check an individual or firm on the SRA's register. In Scotland it is the Law Society of Scotland, and in Northern Ireland the Law Society of Northern Ireland."
+  },
+  {
+   "q": "Does it matter which police station or court is nearest to me?",
+   "a": "It helps to know the location before you enquire, because a solicitor needs to cover that police station or court. Tell us the area and we can introduce you to someone who works there."
+  }
+ ]
+}

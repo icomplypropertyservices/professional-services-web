@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for an employment agency near me usually means you want work that fits around where you live, whether that is temporary shifts, a permanent role or a change of direction. You may also be an employer nearby who needs help filling a vacancy. iComply introduces you to a suitable UK recruitment agency, which then quotes you directly, with the price on application.",
+ "need_heading": "What people searching for an employment agency nearby usually need",
+ "need_lead": "Most people typing this are looking for a local agency they can speak to about real work, without being passed around.",
+ "needs": [
+  "You want temporary or shift work close to home and need an agency that knows local employers.",
+  "You are looking for a permanent role in your area and want help finding openings that suit your experience.",
+  "You are an employer nearby with a vacancy to fill and want an agency that understands your local labour market.",
+  "You have been offered work through an agency and want to understand your rights on pay, holiday and written terms.",
+  "You are unsure whether an agency is allowed to charge you for finding work and want clear answers before signing anything."
+ ],
+ "context_heading": "What to understand about employment agencies",
+ "context": [
+  "Employment agencies and employment businesses in the UK must follow the Conduct of Employment Agencies and Employment Businesses Regulations, enforced by the Employment Agency Standards Inspectorate. Agencies cannot usually charge work-seekers for finding them work, so treat any request for a fee from you as a warning sign. Membership of the Recruitment and Employment Confederation or APSCo shows a commitment to an industry code, which you can check for yourself.",
+  "If you take temporary work, the agency has obligations on pay, holiday and right-to-work checks, and you should get clear terms setting out your contract. Employers should expect clear terms of business too. iComply is not regulated and does not give professional advice; we simply introduce you to an agency that can answer your questions directly."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say whether you are looking for temporary work, a permanent role or help filling a vacancy as an employer.",
+  "Describe the kind of work you want or the role you need to fill, including the sector and duties.",
+  "Mention the area you want to work in, since your search was for an agency near you.",
+  "Explain your availability, such as whether you can start straight away or need part-time hours.",
+  "Note any experience, qualifications or right-to-work situation that affects what work suits you.",
+  "Say what you most want from the agency, such as local shifts, a permanent move or advice on your rights."
+ ],
+ "questions_heading": "Questions to ask the agency",
+ "questions": [
+  "Will you ever ask me to pay a fee for finding me work?",
+  "What written terms will I receive before I start a temporary assignment?",
+  "How will my pay, holiday and any deductions be explained to me?",
+  "Which local employers or sectors do you most often place people with?",
+  "How do you check that I have the right to work in the UK, and what documents will you need?",
+  "If I am an employer, what are your terms of business and how do you charge?"
+ ],
+ "faqs": [
+  {
+   "q": "Can an employment agency charge me for finding me work?",
+   "a": "Agencies cannot usually charge work-seekers for finding them work under the Conduct of Employment Agencies and Employment Businesses Regulations. If you are asked for a fee simply to be put forward for a role, ask why and consider walking away."
+  },
+  {
+   "q": "What rights do I have as a temporary worker?",
+   "a": "Agencies supplying temporary workers have obligations on pay, holiday and right-to-work checks, and you should receive clear terms setting out your contract. Ask for those terms in writing before you start so you know where you stand."
+  },
+  {
+   "q": "Does joining the REC or APSCo mean an agency is regulated?",
+   "a": "Membership of the Recruitment and Employment Confederation or APSCo shows a commitment to an industry code, but it is not the same as regulation. All agencies must still follow the regulations enforced by the Employment Agency Standards Inspectorate."
+  },
+  {
+   "q": "How does iComply help me find an agency near me?",
+   "a": "You tell us what you need, and we introduce you to a suitable UK recruitment agency, which quotes you directly with the price on application. iComply is not regulated and does not provide the recruitment service itself or give professional advice."
+  }
+ ]
+}

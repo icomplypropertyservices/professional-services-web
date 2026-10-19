@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for \"instruct a barrister near me\", you likely need specialist legal representation or advice and want to find a barrister who can help. Whether you are going to court or need a written opinion, finding the right barrister locally can feel daunting. Here is how to approach instructing a barrister and what to consider.",
+ "need_heading": "What people searching for a barrister usually need",
+ "need_lead": "People look for a barrister when they need expert advocacy or legal advice in a specific area of law.",
+ "needs": [
+  "You may have a court hearing coming up and need a barrister to represent you.",
+  "You might need a specialist legal opinion on a complex point of law.",
+  "You could be involved in a dispute and want advice on your position before proceeding.",
+  "You may have been told by a solicitor that a barrister is needed for your case.",
+  "You might be considering using the Public Access scheme to instruct a barrister directly."
+ ],
+ "context_heading": "Understanding how to instruct a barrister",
+ "context": [
+  "Barristers in England and Wales are regulated by the Bar Standards Board (BSB). You can check the Barristers' Register to confirm whether a barrister holds a current practising certificate and whether they are authorised to accept instructions directly from the public.",
+  "Traditionally, barristers are instructed through a solicitor, but many are now registered under the Public Access scheme, which allows members of the public to instruct them directly for suitable matters. Barristers usually work from chambers, where clerks manage their diaries and fees."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Give a clear summary of your legal issue and what you need the barrister to do.",
+  "Mention the area of law your matter falls under, such as family, criminal or commercial.",
+  "State whether you are already working with a solicitor or wish to instruct directly.",
+  "Provide key dates, such as any upcoming court hearings or deadlines.",
+  "Explain what outcome you are hoping for, whether it is representation or advice.",
+  "Indicate your location and whether you need a barrister who can travel or appear remotely."
+ ],
+ "questions_heading": "Questions to ask the barrister",
+ "questions": [
+  "What is your experience in this specific area of law?",
+  "Are you authorised to accept instructions directly from the public under the Public Access scheme?",
+  "How do you charge for your services, and what are the likely fees?",
+  "What information or documents do you need from me to get started?",
+  "How will we communicate during the case, and how quickly can I expect responses?",
+  "Can you provide an estimate of the timeline for my matter?"
+ ],
+ "faqs": [
+  {
+   "q": "Can I instruct a barrister directly without a solicitor?",
+   "a": "Yes, if the barrister is authorised under the Public Access scheme and your matter is suitable. You can check the Barristers' Register to see if a barrister is registered for direct access."
+  },
+  {
+   "q": "How do I find a barrister near me?",
+   "a": "You can search online for barristers' chambers in your area or use the Barristers' Register to find barristers by location and specialism. iComply can also introduce you to a suitable barrister based on your needs."
+  },
+  {
+   "q": "What should I do before contacting a barrister?",
+   "a": "Organise your documents chronologically and be clear about what you need. Write a brief summary of your case and any key dates, such as hearings or deadlines."
+  },
+  {
+   "q": "Are barristers regulated?",
+   "a": "Yes, barristers in England and Wales are regulated by the Bar Standards Board (BSB). You can check the Barristers' Register to confirm a barrister's practising status and authorisation."
+  }
+ ],
+ "extra_heading": "Instructing a barrister close to home",
+ "extra": [
+  "Searching for someone near you suggests you may want to attend in person, hand over paperwork face to face, or simply feel that local knowledge matters for your case. Many barristers work from chambers in town and city centres, and clerks can tell you where a barrister is based and whether they can travel to you or appear at a court or tribunal closer to home. It is worth asking early whether your matter will actually need anyone in the room, because some work is done in writing or by video.",
+  "Distance is only one way to judge a barrister, and it should not come before expertise in your area of law. A barrister who practises in exactly the kind of dispute you have may be a better fit even if their chambers are further away, while a nearer barrister in a different specialism may not be right for you. When you compare options, ask about their experience in your type of case, whether they can accept direct instructions under the Public Access scheme, and what the likely fees will be, since quotes are given on application.",
+  "The Barristers' Register lets you check that someone holds a current practising certificate and whether they are authorised to accept instructions directly from the public. If you are instructing through a solicitor, the solicitor usually chooses the barrister and handles the paperwork, so tell us which route you are taking when you enquire. Gathering your documents in date order and writing a short summary of what you need will help any barrister respond usefully, whether they are around the corner or further afield."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Does a barrister have to be near me to take my case?",
+   "a": "Not necessarily. Barristers can often work remotely or travel, and what matters most is their experience in your area of law. Ask the clerks where the barrister is based and how they would handle meetings, hearings or paperwork in your situation."
+  },
+  {
+   "q": "Should I choose a barrister or a solicitor for a local matter?",
+   "a": "Solicitors usually handle the day-to-day running of a case and can instruct a barrister on your behalf, while barristers specialise in advocacy and written opinions. For suitable matters you may be able to instruct a barrister directly under the Public Access scheme, so it helps to be clear about what you need before you approach anyone."
+  },
+  {
+   "q": "What happens at a first meeting with a barrister?",
+   "a": "The barrister will usually want to hear your account, read your documents and discuss the strengths and risks of your position. Come prepared with a clear summary, key dates and any correspondence, and ask what the next steps and likely fees will be."
+  }
+ ]
+}

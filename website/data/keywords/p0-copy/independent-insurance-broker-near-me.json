@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for an independent insurance broker near me, you're likely looking for someone local who can find the right cover for something specific — your home, your business, your car, or a risk that standard insurers don't handle. You want someone who isn't tied to a single insurer and can explain your options clearly. iComply introduces you to a suitable UK insurance broker who will quote you directly, with no obligation.",
+ "need_heading": "What people searching for an independent insurance broker near me usually need",
+ "need_lead": "Most people want a broker who can access a range of insurers and give straightforward advice on cover that fits their situation.",
+ "needs": [
+  "You have a non-standard risk, such as a listed building, a home-based business, or a high-value item, and mainstream insurers won't cover it.",
+  "You run a small business and need cover that matches your trade, premises, or liability exposure, but you don't know which policies are essential.",
+  "You've been quoted a renewal price that seems high and want an independent broker to check whether a better-fitting policy exists.",
+  "You need insurance for a specific event, such as a wedding, a holiday let, or a piece of equipment, and want to compare options from different insurers.",
+  "You want someone local you can speak to face-to-face or on the phone who can explain exclusions and key features before you commit."
+ ],
+ "context_heading": "Why 'independent' matters when choosing a broker",
+ "context": [
+  "An independent insurance broker is not owned by an insurer, so they can approach a wide range of markets on your behalf. That means they can look beyond a single company's products and find cover that suits your particular needs. Many independent brokers also specialise in niche risks that high-street insurers may not handle.",
+  "All insurance brokers and intermediaries in the UK must be authorised by the Financial Conduct Authority (FCA) or be appointed representatives of an authorised firm. You can check a broker on the FCA register. Many brokers also belong to the British Insurance Brokers' Association (BIBA), and some hold Chartered status from the Chartered Insurance Institute. Brokers must understand your demands and needs, explain key policy features and exclusions, and tell you how they are paid."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the type of insurance you need — for example, home, motor, business, travel, or something more specialist.",
+  "Explain any unusual features of the risk, such as a listed property, a home business, or a high-value item.",
+  "Mention your location or the area you want the broker to cover, so we can introduce you to someone nearby.",
+  "Say whether you already have cover and when it is due for renewal, if relevant.",
+  "Note any particular concerns, such as exclusions you want to avoid or a claims history you need to disclose.",
+  "Let us know if you prefer to deal with a broker face-to-face, by phone, or online."
+ ],
+ "questions_heading": "Questions to ask the insurance broker",
+ "questions": [
+  "Are you independent, and which insurers do you typically approach for a risk like mine?",
+  "How many insurers will you compare for my case?",
+  "What information do you need from me to get accurate quotes?",
+  "Will you explain the key exclusions and any conditions in the policies you recommend?",
+  "How are you paid for arranging my insurance, and will you tell me in writing?",
+  "Are you a member of BIBA or do you hold Chartered status, and what does that mean for me?"
+ ],
+ "faqs": [
+  {
+   "q": "What does 'independent' mean when it comes to insurance brokers?",
+   "a": "It means the broker is not owned by an insurer and can approach a range of insurers in the market. They can compare policies from different providers to find cover that suits your needs."
+  },
+  {
+   "q": "How can I check that an insurance broker is properly authorised?",
+   "a": "You can check on the FCA register to confirm the broker is authorised or is an appointed representative of an authorised firm. Many brokers also belong to BIBA, which is a useful sign of professionalism."
+  },
+  {
+   "q": "Will an independent broker definitely find me a cheaper price?",
+   "a": "Not necessarily — independence means they can compare options, but the right cover is about more than price. A broker will focus on matching cover to your needs, and you can judge whether the quote is competitive by comparing the scope of cover and exclusions."
+  },
+  {
+   "q": "What should I have ready when I speak to a broker?",
+   "a": "Have details of what you want to insure, any previous claims, and the cover you currently have, if any. The broker will need this information to understand your demands and needs and to approach insurers on your behalf."
+  }
+ ]
+}

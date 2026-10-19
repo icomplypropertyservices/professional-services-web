@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for \"same day dental near me\", you likely need urgent help for tooth pain or a broken tooth, or you're hoping for a quick fix like a same-day crown. You want to find a private dentist who can see you promptly, without waiting for a routine appointment. We introduce you to a suitable UK professional who can quote you directly for the treatment you need.",
+ "need_heading": "What people searching for same-day dental care usually need",
+ "need_lead": "Most people searching for same-day dental care are dealing with pain or damage that can't wait.",
+ "needs": [
+  "You have severe toothache that started suddenly and over-the-counter painkillers aren't controlling it.",
+  "A filling or crown has broken or come out, leaving a sharp edge or exposed tooth that needs attention.",
+  "You've had a dental injury, such as a knocked or chipped tooth, and want to be seen quickly.",
+  "You have swelling around a tooth or gum that is getting worse and you're worried about infection.",
+  "You need a same-day crown and want to know whether a clinic near you offers digital scanning and on-site milling."
+ ],
+ "context_heading": "What to understand about same-day dental treatment",
+ "context": [
+  "Same-day dental appointments are usually for urgent problems like pain, swelling or a damaged tooth, and some private clinics also offer same-day crowns made using digital scanning and CAD/CAM technology. Not every case is suitable for same-day treatment, so the dentist will need to assess you first. If a same-day crown isn't possible, they may offer a temporary solution and a follow-up appointment.",
+  "Private dental practices in England that provide regulated healthcare must be registered with the Care Quality Commission (CQC), which inspects and publishes ratings. In Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA. Dentists and other dental professionals must be registered with the General Dental Council (GDC), and you can check the GDC register online."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe your main symptom, such as pain, swelling, a broken tooth or a lost filling, and when it started.",
+  "Mention if you have a particular deadline, like a wedding or holiday, that makes same-day treatment important.",
+  "Say whether you are looking for a same-day crown specifically, or just urgent relief from pain.",
+  "Include your location and how far you are willing to travel to be seen quickly.",
+  "Note any dental anxiety or special requirements, such as wheelchair access or a preference for a particular approach.",
+  "Mention if you are already registered with a dentist or if this would be your first visit to a private practice."
+ ],
+ "questions_heading": "Questions to ask the dentist",
+ "questions": [
+  "Can you see me today for urgent dental pain?",
+  "Do you offer same-day crowns, and would my case be suitable for one?",
+  "What is the likely cost of the appointment and any treatment, and are there any additional fees?",
+  "What follow-up care will I need after same-day treatment?",
+  "Are you registered with the General Dental Council, and is the practice registered with the relevant regulator?",
+  "What should I do if the pain gets worse before my appointment?"
+ ],
+ "faqs": [
+  {
+   "q": "Can I get a same-day crown on the NHS?",
+   "a": "Same-day crowns are typically offered by private dental practices, as NHS dental services vary by area and may not provide this option. You can ask the practice directly whether they offer same-day crowns and what the private fee would be."
+  },
+  {
+   "q": "What should I do if I have severe toothache and can't get a same-day appointment?",
+   "a": "If you have severe pain, swelling or bleeding that won't stop, you can call NHS 111 for advice on urgent dental care. For life-threatening emergencies, call 999."
+  },
+  {
+   "q": "How do I check if a dentist is properly registered?",
+   "a": "All dentists must be registered with the General Dental Council (GDC), and you can check the GDC register online. Private practices providing regulated healthcare in England must also be registered with the Care Quality Commission (CQC)."
+  },
+  {
+   "q": "What if I'm not happy with the private dental treatment I receive?",
+   "a": "If something goes wrong, start with the practice's complaints process. If the complaint is not resolved, the Dental Complaints Service can help with private dental complaints."
+  }
+ ],
+ "extra_heading": "What to expect at an urgent same-day appointment",
+ "extra": [
+  "When you contact a practice about same-day dental care, the first conversation is usually a short triage by phone or at the desk. They will ask what is wrong, how long it has been going on and whether you have swelling, bleeding or trouble swallowing or breathing. That helps them decide how quickly you need to be seen, so answer as fully as you can rather than playing down the pain.",
+  "At the appointment itself, the dentist will examine the sore area, often with an X-ray, to work out what is causing the problem before deciding on treatment. They may be able to settle the pain there and then, for example by dressing a tooth or replacing a lost filling, but sometimes the aim is to make you comfortable and plan definitive treatment for a later visit. Ask them to explain what they are doing and why as they go.",
+  "It helps to arrive with a list of any medicines you take, including blood thinners, and to mention allergies and any recent dental work abroad. Be clear about what you can afford before treatment begins, and ask for the cost of each option in writing if you are unsure. If you are nervous, say so early so the dentist can adapt how they work."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Will the dentist definitely treat me on the same day?",
+   "a": "Not always. A same-day appointment usually means being assessed promptly, and treatment may be limited to relieving pain or protecting a damaged tooth until a longer appointment can be arranged. The dentist will explain what can safely be done at that visit."
+  },
+  {
+   "q": "Can I be seen if I am not registered with the practice?",
+   "a": "Many private practices will see people who are not registered with them, though it is worth asking when you call. Tell them you are a new patient and describe your symptoms so they can judge how urgent your case is."
+  },
+  {
+   "q": "What if the pain becomes severe before my appointment?",
+   "a": "If you have severe pain, swelling that is spreading, or difficulty breathing or swallowing, seek urgent medical help. You can call NHS 111 for advice on urgent dental care, and call 999 for life-threatening emergencies."
+  }
+ ]
+}

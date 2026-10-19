@@ -1,0 +1,69 @@
+{
+ "intro": "When you search for local private GPs near me, you're likely looking for a doctor you can see quickly, close to home, without the wait for an NHS appointment. You want the convenience of a private GP who can deal with everyday health concerns, offer longer consultations and provide referrals or certificates when needed.",
+ "need_heading": "What people searching for local private GPs usually need",
+ "need_lead": "Most people want fast, convenient access to a GP for common health problems, with appointments that fit around their life.",
+ "needs": [
+  "You have a health concern that isn't urgent but you don't want to wait for an NHS appointment.",
+  "You need a longer consultation to discuss several issues or a complex problem in one go.",
+  "You want a referral to a specialist and need a GP to write it promptly.",
+  "You require a medical certificate or report for work, travel or insurance quickly.",
+  "You'd prefer to see a GP near your home or workplace, at a time that suits you, including evenings or weekends."
+ ],
+ "context_heading": "What to understand about private GP care",
+ "context": [
+  "Private GPs offer appointments that are often longer than NHS ones, giving you more time to discuss your health. They can see you for the same range of everyday medical problems, and many offer video consultations for convenience. However, a private GP does not replace your NHS GP, so it's important to keep your NHS practice informed.",
+  "Every doctor practising in the UK must be registered with the General Medical Council (GMC), and GPs also appear on the GMC's GP register. You can check a doctor's registration online. Private clinics providing regulated healthcare in England must be registered with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales, Scotland and Northern Ireland, different regulators apply."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Describe your main health concern or the reason you're seeking a private GP, so we can introduce you to a suitable professional.",
+  "Mention any preference for a particular location or how far you're willing to travel.",
+  "Let us know if you need an appointment urgently or if you're flexible about timing.",
+  "Say whether you'd prefer a face-to-face consultation or if a video consultation would work for you.",
+  "Include details of any long-term conditions or medications, as this helps the GP prepare.",
+  "Tell us if you need a specific service, such as a referral, medical certificate or health check."
+ ],
+ "questions_heading": "Questions to ask the private GP",
+ "questions": [
+  "What is the typical length of an appointment, and can I book a longer slot if I have several issues?",
+  "Do you offer video consultations, and for which types of problems are they suitable?",
+  "Will you share consultation notes with my NHS GP, and how do you handle consent?",
+  "What is the process for getting a referral to a specialist, and how long might it take?",
+  "Are there any additional costs for tests, certificates or referrals that I should be aware of?",
+  "What arrangements are in place if I need urgent care outside your opening hours?"
+ ],
+ "faqs": [
+  {
+   "q": "Can I see a private GP for any health problem?",
+   "a": "Private GPs can see you for most everyday medical problems, similar to an NHS GP. They can also provide referrals, tests and certificates. However, for emergencies you should use NHS services such as 111 or 999."
+  },
+  {
+   "q": "Will my NHS GP know I've seen a private GP?",
+   "a": "Good private clinics will ask for your consent to share consultation notes with your NHS practice, so your records stay complete and any medication is prescribed safely. It's important to keep your NHS GP informed."
+  },
+  {
+   "q": "How do I check that a private GP is properly qualified?",
+   "a": "You can search the General Medical Council's online register to confirm that a doctor is registered and holds a licence to practise. For clinics in England, you can also check whether they are registered with the Care Quality Commission."
+  },
+  {
+   "q": "Is a private GP appointment covered by the NHS?",
+   "a": "No, private GP appointments are paid for directly by the patient, and fees vary. You should ask the GP about costs before booking. iComply introduces you to a professional who will quote you directly."
+  }
+ ],
+ "extra_heading": "What to expect from a local private GP appointment",
+ "extra": [
+  "When you search for local private GPs near me, you're probably thinking about convenience as much as care: a clinic you can reach easily, at a time that fits around work or family. A private GP appointment often lasts longer than a standard NHS slot, giving you time to talk through your concerns without feeling rushed. Many clinics also offer video consultations, which can be useful if you're unsure whether you need to be seen in person.",
+  "At your first appointment, the GP will ask about your symptoms and medical history, and may examine you if needed. They can arrange tests, write referrals or provide certificates, and with your consent they should share notes with your NHS GP so your records stay joined up. It's worth asking about costs for any extra services before you book, as fees vary and are usually quoted on application.",
+  "To choose a local private GP, check that the doctor is on the General Medical Council's register and, in England, that the clinic is registered with the Care Quality Commission. You can also ask about appointment length, opening hours and how they handle sharing information with your NHS practice. That way you can compare local options and find one that suits your needs."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Will a private GP near me be able to see me quickly?",
+   "a": "Many private GPs offer same-day or next-day appointments, but availability varies by clinic. When you enquire, ask about the earliest appointment they can offer."
+  },
+  {
+   "q": "Can I see a private GP near me for a second opinion?",
+   "a": "Yes, private GPs can provide a second opinion on a diagnosis or treatment plan. They may review your medical records and discuss your options with you."
+  }
+ ]
+}

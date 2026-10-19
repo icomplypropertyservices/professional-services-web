@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for a gynaecologist near me, you're likely looking for a private consultant who can see you without a long wait, close to home. You may be dealing with heavy periods, pelvic pain, fibroids, endometriosis or menopause symptoms, and want clear answers and a plan. We introduce you to a suitable UK professional who quotes you directly, so you can decide what's right for you.",
+ "need_heading": "What people searching for a gynaecologist near me usually need",
+ "need_lead": "Most people want prompt, local access to a consultant who can investigate and explain their symptoms.",
+ "needs": [
+  "You've been putting up with heavy or painful periods and want to know what's causing them.",
+  "You suspect endometriosis or fibroids and want a specialist opinion without waiting months.",
+  "You're going through menopause and need help managing symptoms that affect your daily life.",
+  "You've had an abnormal smear or scan result and want to discuss it with a consultant.",
+  "You want a private appointment close to home so travel and follow-up are manageable."
+ ],
+ "context_heading": "What to understand about private gynaecologist care",
+ "context": [
+  "Private gynaecologists usually see you at a private hospital or clinic. Hospital consultants should appear on the GMC's specialist register for their field, which you can check online. Private clinics providing regulated healthcare in England must register with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA.",
+  "Many private specialists also work in the NHS. If you have private medical insurance, your insurer may require a GP referral and may limit you to certain consultants or hospitals, so check before you book. You can also ask about scan facilities and follow-up arrangements when you enquire."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe your main symptoms and how long you've had them, as this helps match you to a suitable consultant.",
+  "Mention any relevant test results, such as a recent smear or scan, and whether you've seen a GP already.",
+  "Say whether you have private medical insurance and whether you've been referred by your GP.",
+  "Give your preferred location and how far you're willing to travel for appointments.",
+  "Note any particular concerns, such as wanting a female consultant or needing evening appointments.",
+  "Mention if you need an interpreter or have any accessibility requirements."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "What investigations might I need, and will they be arranged at the same clinic?",
+  "How soon can I be seen, and what is the typical wait for a first appointment?",
+  "What are the costs involved, including any scans or follow-up consultations?",
+  "Do you work in the NHS as well, and can you explain the difference between private and NHS care for my situation?",
+  "What treatment options are available for my symptoms, and what are the risks and benefits?",
+  "How will you share information with my GP, and will I need a referral letter?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check a gynaecologist's credentials?",
+   "a": "You can check whether a consultant appears on the GMC's specialist register for their field by searching the GMC's online register. You can also check whether the private clinic is registered with the relevant regulator, such as the Care Quality Commission in England."
+  },
+  {
+   "q": "Do I need a GP referral to see a private gynaecologist?",
+   "a": "Some private consultants see patients without a GP referral, but your private medical insurer may require one. It's best to check with the consultant's secretary and your insurer before booking."
+  },
+  {
+   "q": "What symptoms might a gynaecologist help with?",
+   "a": "Gynaecologists treat conditions such as heavy periods, endometriosis, fibroids, pelvic pain and menopause problems. If you're unsure whether your symptoms are gynaecological, your GP can advise."
+  },
+  {
+   "q": "Will I be seen quickly if I go private?",
+   "a": "Private appointments are often available sooner than NHS waits, but this varies by consultant and location. You can ask about waiting times when you enquire."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "intro": "You've searched for an allergy clinic near you, which usually means you're trying to make sense of symptoms that keep happening and want proper answers without a long wait. Whether it's a child reacting to certain foods or hay fever that's getting worse each year, finding a clinic close by that can test and explain what's going on is the first step. We introduce people to private GPs who run allergy clinics, and they'll quote you directly for any tests or consultations.",
+ "need_heading": "What people searching for an allergy clinic near me usually need",
+ "need_lead": "Most people want a clear diagnosis and a plan they can act on, without waiting months for an NHS referral.",
+ "needs": [
+  "You've noticed a pattern of reactions after eating certain foods and want to know whether it's a true allergy or something else.",
+  "Your child has had a reaction and you want it investigated properly, with advice on what to avoid and what to do if it happens again.",
+  "Seasonal sneezing and itchy eyes are making life miserable and you want to confirm which pollens or other triggers are causing it.",
+  "You've had a reaction to a medicine or an insect sting and want to understand the risk and how to manage it safely.",
+  "You need a management plan for a known allergy, including what to do in an emergency, and want a specialist to go through it with you."
+ ],
+ "context_heading": "What to understand about private allergy clinics",
+ "context": [
+  "A private GP clinic offering allergy testing will usually start with a detailed history of your reactions, then may arrange skin prick tests or blood tests to confirm triggers. Every doctor practising in the UK must be registered with the General Medical Council (GMC) and hold a licence to practise, and you can check this on the GMC's online register. In England, private clinics providing regulated healthcare must be registered with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales it's Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA.",
+  "A private GP does not replace your NHS GP. Good clinics will ask for your consent to share consultation notes with your NHS practice, so your records stay complete and any medication is prescribed safely. If you've been told to stop antihistamines before testing, follow that advice, and bring a diary of when reactions happened and what you ate or came into contact with. For anyone with a history of severe reactions, an anaphylaxis emergency plan is essential."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Describe the symptoms you've had and how quickly they appear after contact with the suspected trigger.",
+  "Mention whether the problem is food, environmental, a medicine or something else, and whether you've kept a diary of reactions.",
+  "Say whether the person affected is an adult or a child, and include their age if it's a child.",
+  "Let us know about any previous allergy tests or diagnoses, and whether you've been prescribed an adrenaline auto-injector.",
+  "Tell us if you're taking antihistamines or other medicines that might need to be stopped before testing.",
+  "Give your location and how far you're willing to travel, so we can introduce you to a clinic that's genuinely near you."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "What tests will you use to investigate my allergy, and what do they involve?",
+  "Do I need to stop any medicines, such as antihistamines, before the appointment?",
+  "Will you share the results and any treatment plan with my NHS GP?",
+  "How will you help me manage a severe reaction, and will I get an emergency plan?",
+  "What is the follow-up process if the tests don't give a clear answer?",
+  "Are there any risks or side effects from the testing itself that I should know about?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral from my NHS GP to go to a private allergy clinic?",
+   "a": "No, you can usually book directly with a private GP clinic without a referral. However, it's still worth telling your NHS GP that you're having private tests so your records stay joined up."
+  },
+  {
+   "q": "What should I bring to an allergy appointment?",
+   "a": "Bring a diary of your reactions, including what you ate or came into contact with and how long it took for symptoms to start. Also bring a list of any medicines you take and any previous test results you have."
+  },
+  {
+   "q": "Will the clinic test for all possible allergies in one visit?",
+   "a": "Usually not. A private GP will take a history first and then decide which tests are appropriate, as testing everything at once isn't reliable. Some tests may need a follow-up appointment."
+  },
+  {
+   "q": "Is a private allergy clinic suitable for children?",
+   "a": "Many private GPs see children for allergy investigation, but it's best to check when you enquire. The appointment will usually involve taking a detailed history from you as the parent or carer as well as examining the child."
+  }
+ ]
+}

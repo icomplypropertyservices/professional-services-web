@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for a land surveyor near me, you likely need a measured survey of a piece of land for a project you are planning, such as a house extension, a boundary issue or a new build. You want someone local who can visit the site and produce accurate plans to guide your next steps. iComply introduces you to a suitable UK surveying practice that can quote you directly for the work.",
+ "need_heading": "What people searching for a land surveyor near me usually need",
+ "need_lead": "Most people looking for a land surveyor near me have a specific site in mind and need professional measurements to move a project forward.",
+ "needs": [
+  "You are planning an extension or new build and need a topographical survey to show the levels and features of your land before design work begins.",
+  "You are buying a property and want a measured survey to confirm the boundaries and any encroachments before you exchange contracts.",
+  "You are dealing with a boundary dispute with a neighbour and need an accurate plan to establish where the legal boundary lies.",
+  "You are a developer assessing a site and require a detailed land survey to support a planning application.",
+  "You need to divide a plot of land for sale or inheritance and require a precise survey to define the new boundaries."
+ ],
+ "context_heading": "What to understand about land surveys",
+ "context": [
+  "Land surveyors produce topographical and measured surveys of land for design, planning and development. Accurate surveys underpin design, so it is worth asking about the methods they use, such as drone and laser scanning, and checking the deliverable formats they will provide.",
+  "Many surveyors are members of the Royal Institution of Chartered Surveyors (RICS), and RICS-regulated firms must follow professional standards, hold insurance and offer a complaints process. Chartered surveyors use the letters MRICS or FRICS. You can check the RICS directory to confirm a surveyor's membership and ask which report type you are getting and confirm whether the surveyor is independent of any sale."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Describe the location and size of the land you need surveying, including the address and any access restrictions.",
+  "Explain the purpose of the survey, such as for planning, a boundary dispute, or land division, so we can match you with the right expertise.",
+  "Mention any specific features you need recorded, like trees, boundaries, buildings or changes in level.",
+  "State whether you already have any existing plans or surveys that the new surveyor should refer to.",
+  "Indicate your preferred timeline for the survey to be carried out and for receiving the final report.",
+  "Confirm whether you need the survey for a legal or planning process, as this may affect the type of survey required."
+ ],
+ "questions_heading": "Questions to ask the land surveyor",
+ "questions": [
+  "What type of survey will you carry out for my site, and what will the final report include?",
+  "Will you use drone or laser scanning technology, and does that affect the accuracy or cost?",
+  "What deliverable formats will you provide, such as PDF, CAD or BIM files?",
+  "Are you a member of RICS, and is your firm regulated by them?",
+  "How will you handle any boundary discrepancies you find during the survey?",
+  "What is your availability to visit the site, and how long will it take to receive the survey report?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a land surveyor for a house extension?",
+   "a": "A land surveyor can provide a topographical survey that shows the levels and features of your land, which is often required by architects and planners before design work. It helps ensure your extension is designed accurately and meets planning requirements."
+  },
+  {
+   "q": "What is the difference between a land surveyor and a building surveyor?",
+   "a": "A land surveyor measures and maps land and its features, while a building surveyor assesses the condition of a property. For land-related projects, you need a land surveyor; for building defects or condition reports, you need a building surveyor."
+  },
+  {
+   "q": "Can a land surveyor help with a boundary dispute?",
+   "a": "Yes, a land surveyor can produce a measured survey that shows the physical features of your land and may help clarify boundaries. However, they cannot give legal advice, so you may also need a solicitor to interpret the findings in relation to your title deeds."
+  },
+  {
+   "q": "How do I check if a land surveyor is qualified?",
+   "a": "Many land surveyors are members of the Royal Institution of Chartered Surveyors (RICS) and use the letters MRICS or FRICS. You can check the RICS directory to confirm their membership and whether their firm is regulated by RICS."
+  }
+ ]
+}

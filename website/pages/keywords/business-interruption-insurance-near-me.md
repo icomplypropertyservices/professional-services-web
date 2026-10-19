@@ -1,128 +1,132 @@
 ---
 slug: business-interruption-insurance-near-me
 title: Business Interruption Insurance Near Me | iComply Professional Services
-description: Business interruption insurance near you: get matched free with a suitable UK insurance broker via iComply Professional Services. Request a quote — POA.
+description: Need business interruption insurance near you? iComply connects you with a suitable UK insurance brokerage. Free, no-obligation matching. Request a quote — POA.
 family: insurance
 group: insurance
 hub: insurance-brokers
 profession: insurance broker
 service_label: Business interruption insurance
-og_image: /assets/images/healthcare-consult.jpg
+og_image: /assets/images/finance-desk.jpg
 ---
 
 # Business Interruption Insurance Near Me
 
-If you have typed **business interruption insurance near me** into a search bar, you are likely looking for help soon and not too far away. Business interruption insurance replaces lost profit and covers extra costs when insured damage stops you trading.
+You are looking for business interruption insurance near you because you want to protect your income if something happens to your premises. A local insurance broker can help you arrange cover that fits your business, and they will quote you directly.
 
-Rather than calling round, you can send one enquiry to iComply. We look at your needs, location and timing, then introduce you to a suitable insurance brokerage. They quote you directly, POA, and you decide whether to go ahead.
+Business interruption insurance replaces lost profit and covers extra costs when insured damage stops you trading.
+
+We act as the middleman between you and the professional. Share a short brief and we match you with business interruption insurance who has the right experience and capacity. Enquiring is free, and you are under no obligation to accept a quote.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Professional reviewing a client's brief before an introduction for business interruption insurance near me](/assets/images/healthcare-consult.jpg)
+![Professional reviewing a client's brief before an introduction for business interruption insurance near me](/assets/images/finance-desk.jpg)
 
-## What insurance brokers commonly help with
+## What people searching for business interruption insurance near me usually need
 
-Insurance brokers help clients in many situations. Some of the most common are:
+Most people want a broker who understands their business and can explain the cover clearly.
 
-- Renewal prices that have jumped.
-- A claim history or unusual risk that standard insurers decline.
-- A business needing liability, property or specialist cover.
-- New premises, vehicles or staff.
-- A review of whether current cover is adequate.
+- You run a small business and want to make sure you can still pay bills and staff if you have to close temporarily due to damage.
+- You have been asked by a landlord or client to provide proof of business interruption cover and need to arrange it quickly.
+- You are reviewing your existing policy and want to check that your sum insured and indemnity period are realistic.
+- You want to understand what is covered if a supplier or customer stops your business, not just damage at your own premises.
+- You are opening a new business and need to arrange insurance before you start trading.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of insurance broker fits best.
+## How fees usually work (POA)
 
-## Good questions for your first call
+Brokers are often paid commission by the insurer and sometimes charge a broker fee; they must disclose how they are paid if you ask. Premiums are set by insurers based on risk. The broker quotes you, POA.
 
-Once you are introduced, these questions help you decide whether the insurance broker is right for you:
+Compare cover, excesses and exclusions, not just the premium. The cheapest policy is not always the best value when you need to claim.
 
-- How many insurers do you approach for a risk like mine?
-- How do you handle mid-term changes?
-- What are the key exclusions in the cover you recommend?
-- Is the sum insured adequate, and how was it worked out?
-- Will you help if I need to make a claim?
-- What happens if I disclose something incorrectly?
+## When to think twice
 
-## How to check you are in safe hands
+Be cautious if you notice any of the following:
 
-Insurance brokers and intermediaries in the UK must be authorised by the FCA, or be appointed representatives of an authorised firm. Check them on the FCA register. Many brokers belong to the British Insurance Brokers' Association (BIBA), and some hold Chartered status from the Chartered Insurance Institute.
-
-Brokers must understand your demands and needs, explain key policy features and exclusions, and tell you how they are paid. Complaints that are not resolved can go to the Financial Ombudsman Service.
-
-Please note that iComply is a matching service only. We are not regulated as a insurance broker, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
+- Reluctance to explain exclusions
+- Unclear fees or commissions
+- Pressure to skip disclosures
+- No help offered at claim time
 
 **Need business interruption insurance?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
 ## Before you choose business interruption insurance
 
-These practical points are worth knowing before you speak to anyone about business interruption insurance:
+A few points come up again and again with business interruption insurance:
 
 - Indemnity period choice is critical.
 - Sums insured must reflect gross profit.
 - Check non-damage extensions.
 
-A good insurance broker will talk you through each of these in plain English.
+Raise any of these with the insurance broker you are introduced to; they should be happy to explain.
 
-## Red flags when choosing business interruption insurance
+## Qualifications and registration to look for
 
-Be cautious if you notice any of the following:
+Insurance brokers and intermediaries in the UK must be authorised by the FCA, or be appointed representatives of an authorised firm. Check them on the FCA register. Many brokers belong to the British Insurance Brokers' Association (BIBA), and some hold Chartered status from the Chartered Insurance Institute.
 
-- No help offered at claim time
-- Not on the FCA register
-- Pressure to skip disclosures
-- Reluctance to explain exclusions
+Brokers must understand your demands and needs, explain key policy features and exclusions, and tell you how they are paid. Complaints that are not resolved can go to the Financial Ombudsman Service.
 
-## How fees usually work (POA)
+iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
 
-Brokers are often paid commission by the insurer and sometimes charge a broker fee; they must disclose how they are paid if you ask. Premiums are set by insurers based on risk. iComply does not publish prices; the broker quotes you, POA.
+![Planning the first appointment after an enquiry for business interruption insurance near me](/assets/images/hero-workshop.jpg)
 
-Compare cover, excesses and exclusions, not just the premium. The cheapest policy is not always the best value when you need to claim.
-
-![Planning the first appointment after an enquiry for business interruption insurance near me](/assets/images/insurance-advisory.jpg)
-
-## After the introduction
-
-Once introduced, the broker will gather information and approach insurers. Advice and responsibility sit with the authorised broker. iComply does not arrange insurance.
-
-## What to prepare before you enquire
-
-A short, clear brief saves time on both sides. Useful details include:
-
-- What is most important to you, such as cover limits or cost
-- A description of what needs insuring
-- Health information, for personal protection
-- Values of property, stock or vehicles
-- Your current policy documents and renewal date
-- Claims history for the past five years
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
-
-## Typical timescales
-
-Straightforward quotes can often be arranged within days. Complex business risks or specialist cover may take a few weeks while insurers review information, so start before your renewal date.
-
-## Finding business interruption insurance near you
-
-When you search for business interruption insurance near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
-
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
-
-## How our free matching service works
+## How iComply matches you
 
 1. **Enquire for free** with your town or postcode and a short description.
 1. **We clarify** anything unclear, so the introduction is useful from the start.
 1. **We connect you** with business interruption insurance who suits your situation.
 1. **The practice takes over**, confirms scope and fees in writing and does the work.
 
-There is no charge to you for the introduction, and no obligation to accept any quote.
+We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
 
-![Client explaining what they need before being matched with business interruption insurance](/assets/images/finance-desk.jpg)
+## Questions to ask the professional
 
-## FAQs about business interruption insurance near me
+Once you are introduced, these questions help you decide whether the insurance broker is right for you:
 
-### Is a broker more expensive than buying direct?
+- Are you authorised by the FCA, and can you provide your firm reference number?
+- How do you calculate the sum insured for business interruption, and what figure should I use for gross profit?
+- What indemnity period would you recommend for my business, and why?
+- Does the policy include non-damage extensions such as denial of access or supplier failure?
+- How are you paid for arranging this cover, and will you disclose any commission?
+- What is the claims process, and who would I contact if I need to make a claim?
 
-Not necessarily. Brokers can access insurers and schemes not available directly, and help with claims. The right choice depends on how complex your needs are.
+## What to tell iComply when enquiring
+
+You do not need all of this to enquire, but the more you can share, the better the match:
+
+- Your type of business and what you do, so the broker can understand your risks.
+- Your business address or the area you want the broker to cover, since you searched for near me.
+- Whether you already have business interruption cover and when it is due for renewal.
+- The sum insured you have in mind for gross profit, or ask the broker to help you work it out.
+- The indemnity period you think you need, for example how long it would take to recover after a fire or flood.
+- Any specific concerns, such as cover for supplier failure or denial of access, so the broker can check non-damage extensions.
+
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+
+## Understanding business interruption cover
+
+Business interruption insurance is usually added to a commercial property policy and replaces lost profit if insured damage stops you trading. It can also cover extra costs like moving to temporary premises or paying overtime to catch up. The indemnity period you choose is critical: it sets how long the cover lasts after the damage, and it should reflect how long it would realistically take to get back to normal trading. Your sums insured must reflect gross profit, not just turnover, or you may be underinsured.
+
+When you search for business interruption insurance near me, you are likely looking for a local broker who can meet you or understand your area. Insurance brokers in the UK must be authorised by the Financial Conduct Authority (FCA) or be appointed representatives of an authorised firm. You can check them on the FCA register. If you have a complaint that is not resolved, you can take it to the Financial Ombudsman Service.
+
+![Client explaining what they need before being matched with business interruption insurance](/assets/images/insurance-advisory.jpg)
+
+## Business Interruption Insurance Near Me: FAQs
+
+### Do I need business interruption insurance if I already have buildings and contents cover?
+
+Business interruption is usually a separate section or add-on to a commercial property policy. It covers lost profit and extra costs if insured damage stops you trading, which buildings and contents cover alone does not do.
+
+### How do I choose a local insurance broker for business interruption cover?
+
+Look for a broker authorised by the FCA and check them on the FCA register. You may also want to ask if they are a member of BIBA or hold Chartered status, and whether they have experience in your sector.
+
+### What is an indemnity period and why does it matter?
+
+The indemnity period is the maximum length of time after insured damage during which you can claim for lost profit. It should be long enough to cover the time it would realistically take your business to recover to its pre-loss level.
+
+### Can business interruption cover protect me if a supplier fails?
+
+Some policies include non-damage extensions that cover supplier failure or denial of access, but these are not always included as standard. You should ask your broker to check the policy wording and explain any extensions.
 
 ### What is non-disclosure?
 
@@ -132,29 +136,25 @@ Failing to tell an insurer something relevant. It can reduce or void a claim, so
 
 Send us your town or postcode with a short description of what you need. We look for a suitable insurance brokerage with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
 
-### Do I have to accept a quote?
+### Is it free to use iComply?
 
-No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
+Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
 
 ### How quickly will I hear back?
 
 Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
 
-### Is it free to use iComply?
-
-Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
-
 ## Other services you may need
 
-- [Fleet insurance near me](/keywords/fleet-insurance-near-me/)
-- [Business insurance broker near me](/keywords/business-insurance-broker-near-me/)
-- [Health insurance near me](/keywords/health-insurance-near-me/)
-- [Contents insurance broker near me](/keywords/contents-insurance-broker-near-me/)
-- [Buildings insurance near me](/keywords/buildings-insurance-near-me/)
+- [Classic car insurance near me](/keywords/classic-car-insurance-near-me/)
+- [Haulage insurance near me](/keywords/haulage-insurance-near-me/)
+- [Best insurance broker near me](/keywords/best-insurance-broker-near-me/)
+- [Critical illness insurance near me](/keywords/critical-illness-insurance-near-me/)
+- [Commercial insurance broker near me](/keywords/commercial-insurance-broker-near-me/)
 - [Browse all insurance brokers](/hubs/insurance-brokers/)
 
 ## Request your free quote
 
-One short enquiry is all it takes. We connect you with business interruption insurance who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
+Tell us what you need and where you are. We will match you with a suitable insurance broker, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
 
 [Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for a defamation solicitor near me, you likely need local legal help with libel or slander, whether you have been defamed or are accused of it. Defamation covers harmful statements that damage reputation, and a solicitor can explain your options and next steps. Because defamation claims are subject to strict time limits, it is wise to act promptly.",
+ "need_heading": "What people searching for a defamation solicitor usually need",
+ "need_lead": "Defamation can arise from many situations, and a solicitor can help you understand whether you have a claim or a defence.",
+ "needs": [
+  "You have been named in a false and damaging online post and want to know if it is libel and what you can do.",
+  "A newspaper or online publication has published an article about you that you believe is defamatory and you want advice on a correction or apology.",
+  "You have received a letter before claim accusing you of defamation and need to respond within the deadline.",
+  "A former employer or colleague has made untrue statements about you that have harmed your reputation and you want to assess a claim.",
+  "You are a business owner facing damaging false online comments and want to know if they amount to defamation and how to have them removed."
+ ],
+ "context_heading": "Key things to understand about defamation claims",
+ "context": [
+  "Defamation claims in England and Wales must usually be brought within one year of publication, so time is critical. You also need to show that the statement has caused or is likely to cause serious harm to your reputation, which is a threshold set by law. Preserving evidence, such as screenshots or recordings, is essential because posts can be deleted.",
+  "Solicitors in England and Wales are regulated by the Solicitors Regulation Authority (SRA), and you can check an individual or firm on the SRA's register. In Scotland, solicitors are regulated by the Law Society of Scotland, and in Northern Ireland by the Law Society of Northern Ireland. Regulated firms must hold professional indemnity insurance and have a complaints procedure; if that does not resolve things, the Legal Ombudsman can look at service complaints in England and Wales."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Describe the statement you believe is defamatory and where it was published, such as a social media platform, an online publication or a newspaper.",
+  "Explain whether you are the person who has been defamed or the person accused of making the statement.",
+  "Give the date the statement was published or when you first became aware of it, as time limits may apply.",
+  "Say what harm you believe the statement has caused to your reputation or business.",
+  "Mention any steps you have already taken, such as requesting a retraction or contacting the publisher.",
+  "Indicate your location so iComply can introduce you to a solicitor near you who handles defamation matters."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "What do you need from me to assess whether I have a defamation claim?",
+  "How do you charge for your work on defamation matters, and what are the likely costs?",
+  "What is the time limit for bringing a defamation claim, and how does it apply to my situation?",
+  "What evidence should I preserve to support my case?",
+  "What are the possible outcomes, such as an apology, correction or damages?",
+  "How long might the process take, and what are the main steps involved?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a solicitor near me for a defamation matter?",
+   "a": "Not necessarily, as defamation advice can often be given remotely. However, a local solicitor may be more convenient for meetings and court appearances if your case goes to court. iComply can introduce you to a solicitor near you who handles defamation."
+  },
+  {
+   "q": "What is the time limit for making a defamation claim?",
+   "a": "In England and Wales, defamation claims must usually be brought within one year of publication. The court does have discretion to extend this period in some circumstances, but it is best to act quickly. A solicitor can advise you on the specific time limit for your situation."
+  },
+  {
+   "q": "What does 'serious harm' mean in defamation?",
+   "a": "Serious harm is a legal threshold that requires the statement to have caused or be likely to cause serious harm to your reputation. For a body trading for profit, it means serious financial loss. A solicitor can help you assess whether the harm you have suffered meets this threshold."
+  },
+  {
+   "q": "Can I sue for defamation over an online comment?",
+   "a": "Yes, an online comment can be defamatory if it contains false statements that damage your reputation and meet the serious harm threshold. However, there are defences available, such as truth or honest opinion, so it is important to get advice. A solicitor can assess the comment and advise on the best course of action."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for a buildings insurance broker near me, you likely want expert help finding cover for your property's structure, especially if your circumstances are not straightforward. A broker can compare policies from different insurers, explain what is and is not covered, and guide you through the rebuild cost and any exclusions. They will also be on hand if you need to make a claim.",
+ "need_heading": "What people searching for a buildings insurance broker usually need",
+ "need_lead": "Most people looking for a local buildings insurance broker want tailored advice on protecting their property, particularly when standard policies do not fit.",
+ "needs": [
+  "You own a property that has had subsidence or flooding, and you need a broker who can find insurers willing to cover it.",
+  "Your lender requires buildings insurance as a condition of your mortgage, and you want to make sure the policy meets their requirements.",
+  "You are unsure whether your current sum insured reflects the true rebuild cost of your home, and you want expert guidance.",
+  "You are buying a leasehold flat or a property with unusual features, and you need help understanding what the buildings policy should cover.",
+  "You have a portfolio of properties or a commercial building, and you need a broker who can arrange suitable cover for each."
+ ],
+ "context_heading": "Understanding rebuild cost and subsidence history",
+ "context": [
+  "When arranging buildings insurance, insurers base the sum insured on the rebuild cost of your property, not its market value. The rebuild cost is what it would take to demolish and reconstruct the building, including professional fees and site clearance. It is often lower than the market value, but getting it right is important to avoid underinsurance.",
+  "If your property has a history of subsidence, or is in an area prone to flooding, you must disclose this to the broker. Insurers may apply special terms or exclusions, and some may decline cover. A broker can approach specialist insurers and explain the implications, but you should always check the policy wording carefully."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Describe the property type, such as a house, flat, or commercial building, and its age and construction.",
+  "Mention any history of subsidence, flooding, or other structural issues, as this affects the cover available.",
+  "State whether your lender requires buildings insurance and any specific conditions they have set.",
+  "Provide an idea of the rebuild cost if you have one, or say if you need help estimating it.",
+  "Explain any special features, such as listed status, thatched roof, or unusual construction, that might affect insurance.",
+  "Include your postcode or area so iComply can introduce you to a broker familiar with local risks."
+ ],
+ "questions_heading": "Questions to ask the broker",
+ "questions": [
+  "Are you authorised by the Financial Conduct Authority, and can you provide your firm reference number?",
+  "How do you calculate the rebuild cost, and will you help me ensure the sum insured is accurate?",
+  "Which insurers will you approach for a property with my specific history, such as subsidence or flooding?",
+  "What are the main exclusions in the policies you are recommending, and how do they affect my cover?",
+  "How are you paid for arranging this policy, and will you disclose any commission or fees?",
+  "What is your process for handling claims, and will you support me if I need to make one?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a broker for buildings insurance?",
+   "a": "You can buy buildings insurance directly from insurers, but a broker can be helpful if your property has unusual features or a history of subsidence or flooding. They can compare policies and explain exclusions, potentially saving you time and helping you find suitable cover."
+  },
+  {
+   "q": "How do I check if a broker is authorised?",
+   "a": "You can check the Financial Conduct Authority (FCA) register to see if a broker is authorised or an appointed representative. Many brokers also belong to the British Insurance Brokers' Association (BIBA), and some hold Chartered status from the Chartered Insurance Institute."
+  },
+  {
+   "q": "What is the difference between rebuild cost and market value?",
+   "a": "Rebuild cost is the amount needed to reconstruct your property from scratch, including materials and labour, while market value is the price it would fetch if sold. Buildings insurance is based on rebuild cost, which is often lower than market value, so it is important to insure for the correct amount."
+  },
+  {
+   "q": "Can a broker help if my property has had subsidence?",
+   "a": "Yes, a broker can approach insurers who specialise in properties with subsidence history. They will need to disclose the history to insurers, and some may impose conditions or exclusions, but a broker can guide you through the options available."
+  }
+ ],
+ "extra_heading": "Finding a broker who is genuinely near you",
+ "extra": [
+  "Searching for a buildings insurance broker near me suggests you would rather deal with someone you could visit or telephone easily, and that is a reasonable instinct. A broker close by may know the local housing stock, common construction types and the flood or subsidence patterns in your area, which can shape the questions they ask you.",
+  "Distance is only one way to judge a broker, though. Ask whether they deal with the kind of property you own, whether they can place cover with several insurers rather than just one, and how they prefer to communicate, since many brokers now work happily by phone and email as well as in person.",
+  "It also helps to be clear about what you want from the first conversation. A good broker will ask about the property, its rebuild cost and any claims history before talking about insurers, and will explain how they are paid. If they cannot help with your particular property, they should tell you rather than push a policy that does not fit."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Does my broker have to be physically close to my property?",
+   "a": "Not necessarily. What matters more is whether the broker understands your type of property and can access insurers who will cover it. Local knowledge can be useful for flood or subsidence risks, but a broker further away may still arrange suitable cover."
+  },
+  {
+   "q": "Will a local broker visit my property?",
+   "a": "Some brokers may visit, particularly for larger or commercial buildings, but many arrange cover from details and photographs you provide. Ask the broker directly what they need from you and whether a visit forms part of their service."
+  },
+  {
+   "q": "What should I have ready before I speak to a broker?",
+   "a": "Have the property details to hand, including its age, construction and any history of subsidence, flooding or claims. It also helps to know whether your lender has set conditions and whether you already have a rebuild cost figure."
+  }
+ ]
+}

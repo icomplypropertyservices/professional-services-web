@@ -1,0 +1,69 @@
+{
+ "intro": "You're looking for a top private referral near you, which usually means you need a private GP to write a referral letter so you can see a specialist or have a scan. Perhaps your insurer has asked for one, or you want more choice over who you see and when. We can introduce you to a suitable private GP in the UK who can help.",
+ "need_heading": "What people searching for a top private referral near me usually need",
+ "need_lead": "A private referral letter from a GP is often the key to accessing private specialist care or investigations.",
+ "needs": [
+  "You need a referral letter quickly because your insurer requires one before they will authorise treatment.",
+  "You want an open referral so you can choose which specialist to see, rather than being limited to one named consultant.",
+  "Your NHS wait is long and you have decided to see a private specialist, but you need a GP referral first.",
+  "You are not registered with a private GP and want to find one near you who can provide a referral letter.",
+  "You have seen a private GP before but need a fresh referral for a new concern or a different specialist."
+ ],
+ "context_heading": "Understanding private referrals and what 'top' means for you",
+ "context": [
+  "A private referral letter from a GP is often required by insurers before they will authorise specialist care or a scan. Some insurers prefer an open referral, which gives you more choice over which specialist you see. It's worth checking with your insurer what they need before you book.",
+  "When searching for a 'top' private GP, remember that 'top' is subjective. Instead, look for a GP who is registered with the General Medical Council (GMC) and, if the clinic provides regulated healthcare in England, check that it is registered with the Care Quality Commission (CQC). You can search the GMC's online register and the CQC's published ratings to help you decide."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Mention that you are looking for a private referral letter and whether it is for a specialist appointment or a scan.",
+  "Explain if your insurer requires the referral and any specific wording or open referral they have asked for.",
+  "Say whether you have a particular specialist or hospital in mind, or if you need help choosing.",
+  "Include your location and how far you are willing to travel to see a private GP.",
+  "Mention any deadlines or urgency, such as an upcoming appointment or insurer deadline.",
+  "Let us know if you have any preferences, such as a GP who can share notes with your NHS practice."
+ ],
+ "questions_heading": "Questions to ask the private GP",
+ "questions": [
+  "Will you provide an open referral so I can choose which specialist to see?",
+  "Do you have experience writing referral letters for my specific medical concern?",
+  "How quickly can you provide the referral letter?",
+  "Will you share the referral letter and consultation notes with my NHS GP?",
+  "What information do you need from me to write the referral?",
+  "Is there a fee for the referral letter, and what does it cover?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral letter to see a private specialist?",
+   "a": "Many private specialists and insurers require a referral letter from a GP before you can book an appointment or have a scan. It helps the specialist understand your medical history and ensures your insurer can authorise the treatment."
+  },
+  {
+   "q": "What is an open referral?",
+   "a": "An open referral is a letter that does not name a specific specialist, giving you the freedom to choose which consultant you see. Some insurers prefer open referrals, so it's worth checking your policy."
+  },
+  {
+   "q": "Can I get a private referral if I am not registered with a private GP?",
+   "a": "Yes, you can book a consultation with a private GP specifically to obtain a referral letter. They will assess your needs and write the letter, often in the same appointment or shortly after."
+  },
+  {
+   "q": "How do I know if a private GP is properly qualified?",
+   "a": "All doctors practising in the UK must be registered with the General Medical Council (GMC) and hold a licence to practise. You can check a GP's registration on the GMC's online register. Private clinics in England that provide regulated healthcare must also be registered with the Care Quality Commission (CQC)."
+  }
+ ],
+ "extra_heading": "What happens at the private GP appointment for your referral",
+ "extra": [
+  "A private GP appointment for a referral is a proper consultation, not just a letter-writing service. The GP will ask about your symptoms, your medical history and any treatment you have already had, and will usually want to know what your insurer has asked for. Bring any letters, scan results or clinic correspondence you already have, along with your insurer's details if a policy is involved.",
+  "The GP will then decide what the referral should say. If your insurer accepts an open referral, you may prefer that, as it leaves you free to choose the specialist rather than being tied to one name. If you already know which consultant or hospital you want, say so at the appointment so the letter can be addressed correctly and nothing delays authorisation.",
+  "Before you leave, ask how the letter will reach you and whether a copy will go to your NHS GP. A good private clinic will ask your consent to share the consultation notes with your NHS practice, which keeps your records complete and helps your medication stay safe. It is also worth confirming what the fee covers, since a longer consultation or extra paperwork may affect the final quote."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Can the private GP refuse to write a referral?",
+   "a": "A GP writes a referral based on their own clinical judgement, so they may suggest a different route or ask for more information first. If you disagree, you are free to seek a second opinion from another private GP. It helps to explain clearly why you want the referral and what you hope to gain from it."
+  },
+  {
+   "q": "Will my insurer accept a referral from any private GP?",
+   "a": "Insurers set their own rules, so check your policy or ring them before you book. Some ask for an open referral, some want particular details included, and some have conditions about who can write the letter. Knowing this in advance means the GP can write it in a form your insurer will accept."
+  }
+ ]
+}

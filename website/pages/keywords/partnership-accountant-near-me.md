@@ -1,7 +1,7 @@
 ---
 slug: partnership-accountant-near-me
 title: Partnership Accountant Near Me | iComply Professional Services
-description: Need a partnership accountant near you? iComply connects you with a suitable UK accountancy practice. Free, no-obligation matching. Request a quote — POA.
+description: Find a partnership accountant near you with iComply: one free enquiry, matched to a suitable UK accountant. No obligation. Request a quote — POA.
 family: accountant
 group: accountancy
 hub: accountants
@@ -12,40 +12,60 @@ og_image: /assets/images/finance-desk.jpg
 
 # Partnership Accountant Near Me
 
-Looking for **partnership accountant near me** usually starts with a practical problem that needs a qualified person. Partnership accountants prepare partnership accounts and returns and allocate profits correctly to each partner's tax return.
+You're looking for a partnership accountant near you, likely because you're part of a partnership that needs its accounts and returns prepared, or you're thinking of setting one up. A partnership accountant can handle the yearly accounts, the partnership return, and make sure each partner's profit share is correctly reflected on their own tax return. We introduce you to a suitable UK accountant who will quote you directly, with fees on application.
 
-iComply Professional Services is a free matching service. You tell us what you need and where you are; we connect you with a suitable UK accountant who can quote for the work. The practice provides the service, and every quote is POA.
+Partnership accountants prepare partnership accounts and returns and allocate profits correctly to each partner's tax return.
+
+Rather than calling round, you can send one enquiry to iComply. We look at your needs, location and timing, then introduce you to a suitable accountancy practice. They quote you directly, POA, and you decide whether to go ahead.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
 ![Accountancy practice ready to take on a new enquiry for partnership accountant near me](/assets/images/finance-desk.jpg)
 
-## What accountants commonly help with
+## What people searching for a partnership accountant usually need
 
-You do not need to have everything worked out. Clients often come to us with situations like these:
+Most people searching for a partnership accountant near them are dealing with one of these situations.
 
-- A landlord with rental income from one or several properties.
-- A business sale, restructure or investment round that needs proper numbers.
-- A VAT registration or a change of VAT scheme.
-- Someone behind on filings who needs to catch up with HMRC.
-- A new limited company needing year-end accounts and a corporation tax return.
+- You are in a business partnership and need the annual partnership accounts and return prepared accurately.
+- You want to make sure each partner's share of profits is correctly allocated to their individual tax returns.
+- You are forming a partnership and need advice on how the partnership agreement should set out profit shares.
+- You are unsure how basis period reform affects your partnership and need guidance on the transition.
+- You need an accountant who understands partnerships and can help you meet your filing obligations without last-minute stress.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of accountant fits best.
+## How to check you are in safe hands
 
-## Timing and urgency
+In the UK, the word "accountant" on its own is not a protected title, so anyone can use it. Titles such as Chartered Accountant (ICAEW, ICAS or Chartered Accountants Ireland), Chartered Certified Accountant (ACCA) and Chartered Management Accountant (CIMA) are protected, and members are bound by their body's ethics, training and complaints rules. Only registered auditors can sign statutory audit reports.
+
+Every practice offering accountancy services must also be supervised for anti-money-laundering purposes, either by a professional body or by HMRC. It is reasonable to ask which body supervises a firm, whether they hold professional indemnity insurance, and how complaints are handled.
+
+Please note that iComply is a matching service only. We are not regulated as an accountant, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
+
+## One key thing to understand about partnership accounting
+
+In a partnership, the business itself doesn't pay income tax; instead, each partner is taxed on their share of the profits through their own self assessment return. The partnership must still file a partnership return with HMRC, and the way profits are shared is usually set out in the partnership agreement. A partnership accountant prepares the partnership accounts and return and allocates profits correctly to each partner's tax return.
+
+It's also worth knowing that the word "accountant" isn't protected in the UK, so anyone can call themselves one. Protected titles like Chartered Accountant or Chartered Certified Accountant show the holder is bound by a professional body's ethics, training and complaints rules. Every accountancy practice must also be supervised for anti-money-laundering purposes, so you can ask which body supervises them.
+
+**Need a partnership accountant?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
+
+## Typical timescales
 
 Most practices can take on a new client within a few weeks, but capacity tightens sharply in the run-up to the 31 January Self Assessment deadline and around company year ends. If you have a deadline coming up, say so in your enquiry so we can prioritise practices with room to help now.
 
-## How iComply matches you
+## What to tell iComply when you enquire
 
-1. **Enquire for free** with your town or postcode and a short description.
-1. **We clarify** anything unclear, so the introduction is useful from the start.
-1. **We connect you** with a partnership accountant who suits your situation.
-1. **The practice takes over**, confirms scope and fees in writing and does the work.
+A short, clear brief saves time on both sides. Useful details include:
 
-There is no charge to you for the introduction, and no obligation to accept any quote.
+- Mention that you're looking for a partnership accountant near you and whether you're forming a new partnership or already trading.
+- Explain how many partners there are and whether the partnership agreement is already in place.
+- Describe what you need help with, such as annual accounts, the partnership return, or profit allocation.
+- Say whether you have any specific concerns about basis period reform or changes to your accounting period.
+- Let us know if you'd like the accountant to work remotely or if you prefer someone local to meet in person.
+- Include any deadlines or particular circumstances, like a change in the partnership, that might affect the work.
 
-**Need a partnership accountant?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+
+![Next steps after an iComply introduction for a partnership accountant](/assets/images/hero-workshop.jpg)
 
 ## How fees usually work (POA)
 
@@ -53,47 +73,16 @@ Accountancy fees depend on the complexity of your affairs, the quality of your r
 
 Ask for an engagement letter before work starts. It should list what is included, your responsibilities, deadlines and how extra work is charged. Comparing two or three written scopes is usually more useful than comparing headline prices.
 
-## Questions to ask a partnership accountant
+## How our free matching service works
 
-Asking a few direct questions early tells you a lot about how a practice works:
+1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
+1. **We review your brief.** We check the type of accountant you need, your location and your timing.
+1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
+1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
 
-- Do you have experience with businesses or income like mine?
-- Who will actually prepare my accounts, and who reviews them?
-- What do you need from me each month or each year?
-- Is your fee fixed for the year or based on time spent?
-- What is included, and what would be charged as extra work?
-- Are you a member of a professional body, and which one?
+We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
 
-## Checking accountants are qualified and regulated
-
-In the UK, the word "accountant" on its own is not a protected title, so anyone can use it. Titles such as Chartered Accountant (ICAEW, ICAS or Chartered Accountants Ireland), Chartered Certified Accountant (ACCA) and Chartered Management Accountant (CIMA) are protected, and members are bound by their body's ethics, training and complaints rules. Only registered auditors can sign statutory audit reports.
-
-Every practice offering accountancy services must also be supervised for anti-money-laundering purposes, either by a professional body or by HMRC. It is reasonable to ask which body supervises a firm, whether they hold professional indemnity insurance, and how complaints are handled.
-
-iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
-
-![Next steps after an iComply introduction for a partnership accountant](/assets/images/hero-workshop.jpg)
-
-## Finding a partnership accountant near you
-
-When you search for a partnership accountant near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
-
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
-
-## Getting ready for your first conversation
-
-A short, clear brief saves time on both sides. Useful details include:
-
-- The deadlines you know about and any letters from HMRC
-- Which software you use, if any (for example Xero, QuickBooks or Sage)
-- The type of business or income you have (sole trader, partnership, company, landlord, employee)
-- Whether you are VAT registered or close to the threshold
-- Rough annual turnover or income range
-- The services you think you need, even if you are unsure
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
-
-## Practical points about a partnership accountant
+## Key things to know about a partnership accountant
 
 A few points come up again and again with a partnership accountant:
 
@@ -103,53 +92,63 @@ A few points come up again and again with a partnership accountant:
 
 Raise any of these with the accountant you are introduced to; they should be happy to explain.
 
-## Red flags when choosing a partnership accountant
+## Questions to ask the professional
 
-Most professionals are honest and competent, but it is worth knowing the warning signs:
+Once you are introduced, these questions help you decide whether the accountant is right for you:
 
-- No engagement letter or written scope before work begins
-- Pressure to sign up to schemes you do not understand
-- Reluctance to say which professional body or AML supervisor they use
-- No clear answer about who handles your file day to day
+- Are you supervised for anti-money-laundering purposes, and by which body?
+- Do you hold professional indemnity insurance?
+- How do you handle complaints if something goes wrong?
+- What information will you need from each partner to prepare the partnership return?
+- Can you explain how basis period reform might affect our partnership?
+- Will you liaise directly with HMRC on our behalf if there are queries?
 
 ![Client explaining what they need before being matched with a partnership accountant](/assets/images/insurance-advisory.jpg)
 
-## Partnership Accountant Near Me: FAQs
+## FAQs about partnership accountant near me
+
+### Do I need a separate accountant for each partner's tax return?
+
+Not necessarily. Many partnership accountants also prepare the individual partners' self assessment returns, but you can choose to have separate accountants if you prefer. It's worth asking what's included in the quote.
+
+### What is basis period reform and does it affect my partnership?
+
+Basis period reform changes how unincorporated businesses, including partnerships, are taxed on their profits, moving to a tax-year basis. If your accounting period doesn't align with the tax year, you may need to apportion profits. An accountant can explain how this applies to your partnership.
+
+### Can a partnership accountant help if we don't have a written partnership agreement?
+
+Yes, they can still prepare the accounts and return, but without a written agreement, profit sharing may default to equal shares under partnership law. It's often sensible to put an agreement in place, and an accountant can discuss the tax implications with you.
+
+### How are accountants supervised for anti-money-laundering?
+
+Accountancy practices must be supervised by a professional body or by HMRC for anti-money-laundering purposes. You can ask which body supervises the firm you're considering, and it's a reasonable question to ask before engaging them.
 
 ### Do I need a chartered accountant?
 
 Not always. For simple Self Assessment a qualified, supervised accountant may be enough. For audits, complex group structures or specialist tax work, a chartered or certified firm is often the safer choice. We can match you to either.
 
-### Can I switch accountant part-way through the year?
-
-Yes. Your new accountant will contact the old one for professional clearance and any information they need. Tell us your timing and we will match you with a practice that can take over smoothly.
-
 ### Can you find a partnership accountant in my area?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable accountancy practice with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
-
-### Do I have to accept a quote?
-
-No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
 
 ### How quickly will I hear back?
 
 Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
 
-### Can I contact you on WhatsApp?
+### Is it free to use iComply?
 
-Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
+Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
 
-## Related searches
+## People also look for
 
-- [Restaurant accountant near me](/keywords/restaurant-accountant-near-me/)
-- [Accountant near me](/keywords/accountant-near-me/)
-- [Forensic accountants near me](/keywords/forensic-accountants-near-me/)
-- [Limited company accountant near me](/keywords/limited-company-accountant-near-me/)
-- [LLP accountant near me](/keywords/llp-accountant-near-me/)
+- [Crypto accountant near me](/keywords/crypto-accountant-near-me/)
+- [Expat accountant near me](/keywords/expat-accountant-near-me/)
+- [Freelance accountant near me](/keywords/freelance-accountant-near-me/)
+- [Medical accountant near me](/keywords/medical-accountant-near-me/)
+- [Portfolio landlord accountant near me](/keywords/portfolio-landlord-accountant-near-me/)
 - [Browse all accountants](/hubs/accountants/)
 
-## Get a free quote for a partnership accountant
+## Ready to be matched?
 
 Tell us what you need and where you are. We will match you with a suitable accountant, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
 

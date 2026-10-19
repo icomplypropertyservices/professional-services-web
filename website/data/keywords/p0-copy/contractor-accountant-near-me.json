@@ -1,0 +1,73 @@
+{
+ "intro": "You're looking for a contractor accountant near you because your tax affairs as a freelancer or contractor need someone who understands limited companies, umbrella arrangements and IR35. You want a local professional who can handle the specific rules that apply to contract work, not a general accountant who might miss the details. iComply introduces you to a suitable UK accountant who quotes you directly, with fees on application.",
+ "need_heading": "What people searching for a contractor accountant near me usually need",
+ "need_lead": "Contractors and freelancers often need an accountant who can handle the distinct tax and compliance issues that come with contract work.",
+ "needs": [
+  "You work through your own limited company and need help with company accounts, payroll and dividend planning that fits the way contractors are paid.",
+  "You're unsure whether your contract falls inside or outside IR35 and want a professional to review it and advise on your status.",
+  "You use an umbrella company and want to check that your expenses and tax deductions are being handled correctly.",
+  "You have gaps between contracts and need advice on managing your income and expenses through quieter periods.",
+  "You want a local accountant you can meet or speak to easily, who understands the contractor market and can answer questions about travel and subsistence rules."
+ ],
+ "context_heading": "What to understand about contractor accountants",
+ "context": [
+  "In the UK, 'accountant' on its own is not a protected title, so anyone can call themselves an accountant. However, titles like Chartered Accountant (ICAEW, ICAS or Chartered Accountants Ireland), Chartered Certified Accountant (ACCA) and Chartered Management Accountant (CIMA) are protected, and members are bound by their body's ethics, training and complaints rules. It's reasonable to ask which professional body a contractor accountant belongs to and how they handle complaints.",
+  "Every accountancy practice must also be supervised for anti-money-laundering purposes, either by a professional body or by HMRC. When you speak to a contractor accountant, you can ask which body supervises them and whether they hold professional indemnity insurance. This helps you judge the firm's accountability, especially since contractor work involves complex rules like IR35 and expenses."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Whether you work through a limited company, an umbrella company or a mix of both, so we can match you with an accountant experienced in that setup.",
+  "If you need help with IR35 assessments or contract reviews, as this is a specialist area for contractor accountants.",
+  "Any concerns about expenses rules for travel and subsistence, especially if you work on short-term contracts in different locations.",
+  "Whether you have gaps between contracts and need advice on planning for those periods.",
+  "Your approximate location or the area you'd like the accountant to cover, since you searched for 'near me'.",
+  "Any upcoming deadlines or specific tax issues you're facing, so the accountant can quote accurately."
+ ],
+ "questions_heading": "Questions to ask the contractor accountant",
+ "questions": [
+  "Do you include contract reviews for IR35 as part of your service, or is that charged separately?",
+  "How do you handle expenses rules for travel and subsistence for contractors?",
+  "Can you help me plan for gaps between contracts and manage my income through quieter periods?",
+  "Which professional body are you a member of, and how are complaints handled?",
+  "Which body supervises your practice for anti-money-laundering purposes?",
+  "Do you hold professional indemnity insurance?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a specialist contractor accountant rather than a general accountant?",
+   "a": "A general accountant may not be familiar with the specific rules that apply to contractors, such as IR35 and the expenses rules for travel and subsistence. A contractor accountant focuses on these areas and can help you avoid common pitfalls."
+  },
+  {
+   "q": "What is IR35 and why does it matter for contractors?",
+   "a": "IR35 is the set of rules that determines whether a contractor working through a limited company is effectively an employee for tax purposes. Getting it wrong can lead to unexpected tax bills, so it's worth asking whether contract reviews are included."
+  },
+  {
+   "q": "Can a contractor accountant help if I use an umbrella company?",
+   "a": "Yes, many contractor accountants can advise on umbrella arrangements, including checking that your expenses and tax deductions are correct. They can also help you compare umbrella working with a limited company setup."
+  },
+  {
+   "q": "How can I check that a contractor accountant is properly qualified?",
+   "a": "Look for protected titles such as Chartered Accountant, Chartered Certified Accountant or Chartered Management Accountant, and ask which professional body they belong to. You can also ask which body supervises them for anti-money-laundering purposes and whether they hold professional indemnity insurance."
+  }
+ ],
+ "extra_heading": "Choosing between contractor accountants near you",
+ "extra": [
+  "Because contractor accountants all work to the same IR35 and expenses rules, the practical differences between them tend to show up in how they work rather than what they know. A local practice you can visit in person may suit you if you like sitting down with someone, while one that answers questions by phone or email may fit better around contract work that takes you away from home. It is worth thinking about which of those you actually want before you start comparing.",
+  "When you speak to each one, ask the same questions so the answers are genuinely comparable: whether IR35 contract reviews are included or charged separately, how travel and subsistence expenses are handled for your kind of engagement, and what happens to your fee during gaps between contracts. Fee quotes are on application, so ask each practice to set out what is covered rather than judging on a headline figure alone. A practice that explains its charging clearly at this stage is easier to hold to it later.",
+  "It also helps to be clear about your setup before you call, because a contractor accountant's work differs depending on whether you run a limited company or use an umbrella company. If you are thinking of switching between the two, say so, as the advice and the ongoing work are not the same. Bring your most recent accounts or payslips if you have them, so the conversation starts from your real position rather than a general one."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I choose a contractor accountant I can visit in person?",
+   "a": "That depends on how you like to work. A local practice may suit you if you prefer face-to-face meetings, while one you deal with remotely can be easier when contracts take you elsewhere. What matters most is that they understand contractor work and answer your questions clearly."
+  },
+  {
+   "q": "How do I compare contractor accountants when fees are on application?",
+   "a": "Ask each practice to explain what its quote covers, such as company accounts, payroll, dividend planning and IR35 contract reviews, and whether any of those cost extra. Comparing the scope of what is included is more useful than comparing a single figure. You can also ask how they handle questions between appointments."
+  },
+  {
+   "q": "Does it matter whether I run a limited company or use an umbrella company?",
+   "a": "Yes, because the work involved is different. A contractor accountant advising a limited company handles company accounts, payroll and dividend planning, while umbrella arrangements raise different questions about expenses and deductions. Tell the practice which setup you use, or if you are weighing up both."
+  }
+ ]
+}

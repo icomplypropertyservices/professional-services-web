@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for the best solicitors near me usually means you have a legal matter in front of you and you want someone local who knows this kind of work well. Perhaps a house purchase is stalling, a family situation needs sorting, or a dispute is heading towards court. You want to compare a few firms properly rather than pick the first name you see, and that is where we can help by introducing you to a suitable UK solicitor who will quote you directly.",
+ "need_heading": "What people searching for the best solicitors near me usually need",
+ "need_lead": "Most people behind this search want a solicitor close enough to deal with easily, who handles their particular area of law and is clear about costs from the outset.",
+ "needs": [
+  "You are buying or selling a home and want a solicitor nearby who deals with conveyancing day in, day out.",
+  "You are separating or divorcing and need someone local who handles family matters sensitively and knows the court process.",
+  "You run a small business and want a solicitor you can sit down with about a contract, a lease or an unpaid invoice.",
+  "You have been told you may need to go to court and want a solicitor near you who can run the case and instruct a barrister if needed.",
+  "You are sorting out a will, probate or power of attorney and want a local solicitor to prepare the documents properly."
+ ],
+ "context_heading": "How to judge which solicitor is best for you",
+ "context": [
+  "Nobody can tell you objectively who the best solicitor is, because it depends entirely on your matter. What you can do is check that the person handling your case specialises in that area of law, and confirm they are regulated. In England and Wales you can look up an individual or firm on the Solicitors Regulation Authority register; in Scotland it is the Law Society of Scotland, and in Northern Ireland the Law Society of Northern Ireland.",
+  "It also helps to remember that the word lawyer is not protected on its own, so check that whoever deals with your matter is a solicitor, a chartered legal executive or another authorised professional. Reserved work such as conducting litigation and certain probate and conveyancing can only be done by authorised people. Regulated firms must carry professional indemnity insurance and have a complaints procedure, and if a service complaint is not resolved, the Legal Ombudsman can look at it in England and Wales."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Describe the legal matter in your own words, including what has happened so far and what you want to achieve.",
+  "Say which area of law it falls under, such as property, family, business, probate or a dispute.",
+  "Mention where you are based and how far you are willing to travel to see a solicitor in person.",
+  "Explain whether there is a deadline or court date coming up, so the right solicitor can be found for you.",
+  "Note whether you have already seen another solicitor or received legal advice on this matter.",
+  "Include any preferences that matter to you, such as wanting a firm that deals with your type of case regularly."
+ ],
+ "questions_heading": "Questions to ask the solicitor",
+ "questions": [
+  "Do you specialise in this type of matter, and how often do you handle cases like mine?",
+  "Will you be the person dealing with my case, or will it be passed to a colleague?",
+  "Can you set out your costs at the start, including how you charge and what disbursements might arise?",
+  "Are you regulated by the Solicitors Regulation Authority, and can I check your firm on the register?",
+  "How will you keep me updated as the matter progresses?",
+  "If we disagree about the service, what is your complaints procedure and what can I do if it is not resolved?"
+ ],
+ "faqs": [
+  {
+   "q": "Can iComply tell me which solicitor is the best?",
+   "a": "No, because best depends on your particular matter and what you need from a solicitor. We introduce you to a suitable UK solicitor who will quote you directly, and you can compare that quote and check them on the relevant regulator's register before deciding."
+  },
+  {
+   "q": "How do I check a solicitor is properly regulated?",
+   "a": "In England and Wales you can search the Solicitors Regulation Authority register for an individual or firm. In Scotland you can check with the Law Society of Scotland, and in Northern Ireland with the Law Society of Northern Ireland. This confirms they are authorised to carry out reserved legal work."
+  },
+  {
+   "q": "What does price on application mean for a solicitor's quote?",
+   "a": "It means the solicitor will give you a quote based on your specific matter rather than a fixed advertised price. Ask for costs information at the start so you understand how they charge and what extra costs such as court fees might come up."
+  },
+  {
+   "q": "What if I am unhappy with the service from a solicitor?",
+   "a": "Regulated firms must have a complaints procedure, so start by raising it with the firm directly. If that does not resolve things in England and Wales, the Legal Ombudsman can look at service complaints. iComply does not provide the legal service and cannot resolve complaints about it."
+  }
+ ],
+ "extra_heading": "Comparing several solicitors near you fairly",
+ "extra": [
+  "Searching for the best solicitors near me in the plural suggests you are weighing up more than one firm, which is sensible for anything as consequential as a legal matter. The difficulty is that the firms near you may look much alike from the outside, so the comparison has to be on substance rather than presentation. What separates them is how well each one knows your particular area of law and how clearly they explain their costs.",
+  "A practical approach is to narrow the field before you contact anyone. Decide which area of law your matter falls under, then shortlist firms near you whose work centres on that area, and check each one on the Solicitors Regulation Authority register in England and Wales, the Law Society of Scotland or the Law Society of Northern Ireland as appropriate. When you speak to them, ask the same questions of each so the answers can be set side by side.",
+  "It also helps to notice who you actually speak to. Ask whether the person you are talking with will handle your matter personally or whether it will be passed to a colleague, and whether that person is a solicitor or another authorised professional. A firm that answers these questions plainly, and sets out its costs at the start, gives you something concrete to compare."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I contact several solicitors near me before choosing one?",
+   "a": "It is reasonable to speak to a few firms so you can compare how they handle your type of matter and how they explain their costs. Bear in mind that some may charge for an initial discussion, so ask about that before you book."
+  },
+  {
+   "q": "How can I compare solicitors when the work is priced on application?",
+   "a": "Ask each firm for costs information at the start, covering how they charge and what extra costs such as court fees might arise. Because quotes are based on your specific matter, the same set of questions put to each firm makes the answers easier to weigh up."
+  },
+  {
+   "q": "Does living close to my solicitor matter?",
+   "a": "It can help if your matter involves documents to sign in person, going to a local court or simply wanting to sit down face to face. Many matters are handled by phone, post and email, so distance need not rule out a firm that specialises in your area of law."
+  }
+ ]
+}

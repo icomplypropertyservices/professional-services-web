@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for an ENT near you usually means something to do with your ears, nose or throat has been bothering you and you want to see someone who deals with it privately. You may have a hearing test already, a recurring sinus problem, or a child with troublesome tonsils. We introduce you to a suitable UK consultant who quotes you directly, so you can compare what is offered.",
+ "need_heading": "What people searching for an ENT near me usually need",
+ "need_lead": "Most people want a clear opinion on a specific ear, nose or throat problem, often after waiting or wondering whether to act.",
+ "needs": [
+  "You have had a hearing test and want to discuss the results with a specialist who can explain what they mean for you.",
+  "Your sinuses are persistently blocked or painful and you want to know whether treatment or an operation might help.",
+  "A child in the family keeps getting sore throats or ear infections and you want to talk through whether tonsils or grommets are worth considering.",
+  "You have noticed a change in your voice or a feeling of imbalance and want it looked at properly.",
+  "You need a camera examination of your nose or throat and want to know where that can be done privately."
+ ],
+ "context_heading": "What to understand before you book",
+ "context": [
+  "Private ENT consultants often work in the NHS as well, so you may see the same specialist privately as you would in a hospital clinic. If you have private medical insurance, check with your insurer first: they may require a GP referral and may only cover certain consultants or hospitals.",
+  "You can check that a consultant appears on the GMC's specialist register for their field online. In England, private clinics providing regulated healthcare must be registered with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales it is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA. Private hospitals in England may also share outcomes data through the Private Healthcare Information Network (PHIN)."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the main ear, nose or throat symptom that is prompting you to seek help, and how long it has been going on.",
+  "Mention any hearing test results you already have, and whether you can bring them with you.",
+  "Say whether the problem is for you or for a child, and include the child's age if relevant.",
+  "Explain whether you have private medical insurance and whether your insurer has already agreed to a referral.",
+  "Note any preference for a location or hospital that is convenient for you.",
+  "Mention if you have seen a GP about this already, and what they said or suggested."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Will you need to examine me with a camera, and what will that involve?",
+  "What are the surgical and non-surgical options for my condition, and what are the trade-offs?",
+  "Do you work in the NHS as well, and would I see you for follow-up privately?",
+  "How do you share information with my GP about this consultation?",
+  "What should I bring to the appointment, such as hearing test results or a list of medicines?",
+  "If I need a procedure, where would it be done and who would be involved in my care?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral from my GP to see a private ENT consultant?",
+   "a": "Not always, but some consultants prefer one, and your private medical insurer may require a GP referral before they will cover the cost. It is worth checking with the consultant's secretary and your insurer before you book."
+  },
+  {
+   "q": "What happens during a private ENT consultation?",
+   "a": "The consultant will ask about your symptoms and may examine your ears, nose and throat, sometimes using a small camera. They will discuss what they find and talk through possible next steps, including surgical and non-surgical options."
+  },
+  {
+   "q": "Can I see an ENT consultant privately for a child?",
+   "a": "Yes, many private ENT consultants see children for common problems such as recurring ear infections or sore throats. It is best to mention your child's age when you enquire so the right consultant is suggested."
+  },
+  {
+   "q": "How do I check a consultant's registration and the clinic's standards?",
+   "a": "You can check that a consultant is on the GMC's specialist register for their field online. In England, private clinics providing regulated healthcare must be registered with the Care Quality Commission (CQC), which publishes inspection ratings; the equivalent bodies are Healthcare Inspectorate Wales, Healthcare Improvement Scotland and the RQIA in Northern Ireland."
+  }
+ ]
+}

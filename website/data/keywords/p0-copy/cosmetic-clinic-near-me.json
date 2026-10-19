@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for a cosmetic clinic near me, you are probably looking for somewhere local to have a treatment such as anti-wrinkle injections or dermal fillers. You want to know who will be treating you, what rules they follow, and how to choose safely. We can introduce you to an aesthetic practitioner who will quote you directly.",
+ "need_heading": "What people searching for a cosmetic clinic near me usually need",
+ "need_lead": "Most people want a convenient, safe clinic and clear information before they book.",
+ "needs": [
+  "You want a clinic that is easy to get to, perhaps close to home or work, so you can fit appointments around your day.",
+  "You are thinking about anti-wrinkle injections or dermal fillers and want to understand who is qualified to prescribe or perform them.",
+  "You are unsure whether a clinic is registered with the Care Quality Commission (CQC) or whether that applies to the treatments you want.",
+  "You would like to know what to look for in a practitioner, such as registration with the General Medical Council (GMC), the Nursing and Midwifery Council (NMC), or a register like Save Face or the Joint Council for Cosmetic Practitioners (JCCP).",
+  "You want to ask about aftercare and what happens if something goes wrong, without feeling rushed into a decision."
+ ],
+ "context_heading": "What to understand about regulation when choosing a cosmetic clinic",
+ "context": [
+  "Cosmetic clinics provide aesthetic treatments and sometimes cosmetic surgery, so it is important to know which regulations apply. In England, clinics that carry out surgical procedures must be registered with the CQC. For non-surgical treatments, the government has set out plans for a licensing scheme, but until it is in force you need to choose carefully.",
+  "Anti-wrinkle injections use a prescription-only medicine, so a prescriber such as a doctor, nurse prescriber, dentist or pharmacist prescriber must assess you, normally face to face. Dermal fillers are devices rather than medicines, and the rules are tightening. Checking whether a practitioner is on a register such as Save Face or the JCCP, or is a doctor or nurse registered with the GMC or NMC, can offer extra reassurance."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention the treatment you are considering, such as anti-wrinkle injections, dermal fillers, or another cosmetic procedure.",
+  "Say where you are looking for a clinic, including your town or postcode, so we can introduce you to a practitioner who covers your area.",
+  "Explain whether you have had cosmetic treatments before and how they went, as this helps the practitioner understand your experience.",
+  "Share any relevant medical conditions or medicines you take, because a prescriber will need to assess your suitability.",
+  "Let us know if you have a preference for a particular type of practitioner, such as a doctor, nurse, dentist or pharmacist.",
+  "Mention any questions or concerns you have, such as aftercare, side effects, or what happens if you are not happy with the result."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Who will carry out my treatment, and what are their qualifications and professional registrations?",
+  "For anti-wrinkle injections, who will prescribe the medicine and will I have a face-to-face assessment?",
+  "Is your clinic registered with the CQC, and does that cover the treatment I am considering?",
+  "What are the risks and side effects of the treatment, and how are they managed?",
+  "What aftercare do you provide, and who do I contact if I have a problem?",
+  "Can you tell me the total cost, including any follow-up appointments or top-ups?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral to visit a cosmetic clinic?",
+   "a": "No, you can usually book directly with a cosmetic clinic. However, for treatments involving prescription-only medicines, you will need an assessment by a prescriber, which is often done at the clinic."
+  },
+  {
+   "q": "Is a cosmetic clinic the same as a beauty salon?",
+   "a": "Not necessarily. Cosmetic clinics provide treatments such as anti-wrinkle injections and dermal fillers, which may be carried out by healthcare professionals, whereas beauty salons typically offer non-medical treatments. It is important to check who will be treating you and their qualifications."
+  },
+  {
+   "q": "How can I check if a practitioner is properly qualified?",
+   "a": "You can ask the clinic about the practitioner's professional registration. Doctors are registered with the GMC, nurses with the NMC, and some practitioners are on registers such as Save Face or the JCCP. You can also check the registers directly."
+  },
+  {
+   "q": "What does CQC registration mean for a cosmetic clinic?",
+   "a": "In England, clinics that provide surgical procedures must be registered with the CQC, which means they meet certain standards of safety and quality. For non-surgical treatments, registration is not always required, but it can offer extra reassurance."
+  }
+ ]
+}

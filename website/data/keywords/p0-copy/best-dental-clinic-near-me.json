@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for the best dental clinic near me, you're likely looking for a private dentist you can get to easily, who offers the treatment you need and makes you feel comfortable. You might have a specific concern, need a check-up, or want to compare what's available locally. We can introduce you to a suitable UK dental practice, who will quote you directly.",
+ "need_heading": "What people searching for a dental clinic nearby usually need",
+ "need_lead": "Most people want a convenient, well-run practice that suits their circumstances, not just the closest one.",
+ "needs": [
+  "You need a routine check-up or hygiene appointment and want a practice that is easy to reach from home or work.",
+  "You have a dental problem that needs attention soon and want to know which local clinics offer emergency slots.",
+  "You are considering cosmetic or specialist treatment and want to find a practice with the right expertise under one roof.",
+  "You have dental anxiety and want a clinic that takes extra time to explain things and help you feel at ease.",
+  "You are new to the area or your current practice has closed, and you need to register with a private dentist nearby."
+ ],
+ "context_heading": "Understanding 'best' and 'near me' when choosing a dental clinic",
+ "context": [
+  "'Best' is personal: the right clinic for you depends on the treatment you need, how far you are willing to travel, opening hours and how you feel about the practice. Rather than relying on a label, check that the dentists and hygienists are registered with the General Dental Council (GDC) and, in England, that the clinic is registered with the Care Quality Commission (CQC). You can look up both registers yourself.",
+  "For private treatment, ask about costs upfront and what happens if you need follow-up care. If something goes wrong, start with the practice's complaints process; the Dental Complaints Service can help with private dental complaints that are not resolved."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention the treatment you are considering, such as a check-up, hygiene visit, filling, crown, orthodontics or emergency care.",
+  "Say whether you have any particular worries about dental treatment or need extra time and reassurance.",
+  "Give your location and how far you are willing to travel to a clinic.",
+  "Note any preferences for opening hours, such as early mornings, evenings or weekends.",
+  "Explain whether you need to be seen urgently or can wait for a routine appointment.",
+  "Include any special requirements, such as wheelchair access or a practice that treats children."
+ ],
+ "questions_heading": "Questions to ask the dental clinic",
+ "questions": [
+  "What treatments do you offer in-house, and which would you refer to a specialist?",
+  "Are you currently accepting new private patients?",
+  "What are your opening hours, and do you keep emergency slots for urgent problems?",
+  "How do you handle nervous patients, and can I meet the dentist before treatment?",
+  "What are your fees, and will I get a written treatment plan and estimate before I commit?",
+  "What is your complaints procedure if I am unhappy with private treatment?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check that a dental clinic is properly regulated?",
+   "a": "You can check that dentists, hygienists, therapists and nurses are registered with the General Dental Council (GDC) on their online register. In England, private clinics providing regulated healthcare must also be registered with the Care Quality Commission (CQC), which publishes inspection reports and ratings."
+  },
+  {
+   "q": "What should I do if I have a problem with private dental treatment?",
+   "a": "Start by raising it with the practice through their complaints process. If it is not resolved, the Dental Complaints Service can help with private dental complaints."
+  },
+  {
+   "q": "Can I get emergency dental care from a private clinic?",
+   "a": "Many private clinics keep slots for urgent problems, but availability varies. It is worth asking when you contact them, and if you need urgent help outside opening hours, you can call NHS 111 for advice."
+  },
+  {
+   "q": "Will I know the cost before treatment starts?",
+   "a": "A reputable private clinic should give you a written treatment plan and estimate before you commit. Ask for this at your consultation so you understand the fees."
+  }
+ ],
+ "extra_heading": "Comparing dental clinics fairly before you decide",
+ "extra": [
+  "A clinic that calls itself a centre or a practice tells you little on its own, so it helps to compare like with like. A single-dentist practice and a larger clinic with hygienists, specialists and in-house imaging can both be right for different needs, and the size of the team matters more than any label when you have a particular treatment in mind.",
+  "Rather than ranking clinics by reputation, judge each one on what you can check for yourself: whether the dentists and hygienists are on the General Dental Council register, whether the clinic is registered with the relevant regulator for your nation, and whether the opening hours and emergency arrangements fit your life. These are concrete things you can confirm before you book.",
+  "It is also worth asking how a clinic handles referrals. If your treatment needs a specialist such as an orthodontist or endodontist, ask whether that care is available in-house or whether you would be referred on, and check that anyone using a specialist title appears on a GDC specialist list. That way you know what to expect from the first visit."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Does a bigger dental clinic mean better care?",
+   "a": "Not necessarily. Larger clinics may offer specialists and imaging under one roof, which can be convenient, but a smaller practice may suit you better if you value continuity with one dentist. Judge each clinic on the treatment you need and how comfortable you feel there."
+  },
+  {
+   "q": "How can I compare clinics without relying on rankings?",
+   "a": "Look at practical things: opening hours, whether emergency slots are kept, how costs and treatment plans are explained, and whether the clinicians are on the GDC register. You can also ask about the practice's complaints process before you commit."
+  },
+  {
+   "q": "What if my treatment needs a specialist?",
+   "a": "Ask the clinic whether specialist care is available in-house or whether you would be referred. Specialist titles such as orthodontist or endodontist can only be used by people on a GDC specialist list, so you can check that yourself."
+  }
+ ]
+}

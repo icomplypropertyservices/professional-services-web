@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for a bird vet near me, you are looking for someone who understands that birds are not just small animals with feathers — they have very specific needs and can become seriously ill very quickly. You want a vet with real experience of the kind of bird you keep, whether that is a single pet parrot, a backyard flock of chickens or a bird of prey. We can introduce you to a UK vet who works with birds, and they will quote you directly for any treatment.",
+ "need_heading": "What people searching for a bird vet usually need",
+ "need_lead": "Most people looking for a bird vet are worried about a specific bird and want to know where to take it without wasting time.",
+ "needs": [
+  "Your pet bird has fluffed-up feathers, is sitting at the bottom of the cage or has stopped eating, and you know these can be signs of serious illness.",
+  "You have just brought home a parrot or other pet bird and want a vet who can give it a thorough health check and advise on its care.",
+  "One of your backyard hens is unwell, and you need a vet who is comfortable handling poultry as well as companion birds.",
+  "You keep a bird of prey and need a vet with experience of raptors for a routine check or an injury.",
+  "You are moving to a new area and want to register your birds with a local vet before anything goes wrong."
+ ],
+ "context_heading": "What to understand about bird vets",
+ "context": [
+  "Birds are very good at hiding illness, so by the time you notice fluffed feathers or a drop in eating, the bird may already be quite unwell. For that reason, it is worth finding a vet before you have an emergency, so you know where to go and who to call. Not every practice treats birds regularly, so it is reasonable to ask how much experience they have with your type of bird.",
+  "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS), and you can search the RCVS register by name before you book. Some vets hold further qualifications such as an RCVS certificate or advanced practitioner status in a particular species or discipline, and if your bird has a complex problem it is fair to ask whether the vet treating it holds one of these or would refer you to someone who does."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Tell us what kind of bird you have, including the species and how many birds you keep, so we can introduce you to a vet with the right experience.",
+  "Describe the problem you have noticed, such as fluffed feathers, reduced eating, changes in droppings or any injury, and say how long it has been going on.",
+  "Let us know whether this is an emergency or a routine matter, as that affects how quickly you need to be seen.",
+  "Mention your location and how far you are able to travel, since you searched for a bird vet near me.",
+  "Say whether you have been to a vet before with this bird and whether you have any records or test results that might be useful.",
+  "Tell us if you have other animals or birds at home, as that can matter for some conditions."
+ ],
+ "questions_heading": "Questions to ask the vet",
+ "questions": [
+  "How much experience do you have with my type of bird?",
+  "If my bird needs to be seen urgently, how soon can you see it?",
+  "Should I bring the bird in its cage, and should I keep the droppings visible?",
+  "Do you have the equipment to treat birds, such as an incubator or a nebuliser?",
+  "Do you hold any further qualifications in avian medicine, or would you refer me to someone who does?",
+  "What are your arrangements for out-of-hours care if my bird becomes unwell at night or at the weekend?"
+ ],
+ "faqs": [
+  {
+   "q": "What should I do if my bird seems unwell?",
+   "a": "Birds hide illness, so if you notice fluffed feathers, reduced eating or changes in droppings, contact a vet promptly. Bringing the bird in its cage, with the droppings visible, can help the vet assess it. If you are unsure how urgent it is, you can call NHS 111 for general advice, though they cannot advise on animal health."
+  },
+  {
+   "q": "Can any vet treat my bird?",
+   "a": "Not every vet is comfortable treating birds, as avian medicine is a particular interest. It is reasonable to ask whether the practice has experience with your type of bird before you book. You can also check that the vet is registered with the Royal College of Veterinary Surgeons (RCVS) by searching their register."
+  },
+  {
+   "q": "How do I know if a vet is qualified to treat birds?",
+   "a": "Every vet in the UK must be registered with the RCVS, and you can search the register by name. Some vets hold further qualifications such as an RCVS certificate or advanced practitioner status in a species or discipline. If your bird has a complex condition, you can ask whether the vet holds one of these or would refer you."
+  },
+  {
+   "q": "What does it cost to see a bird vet?",
+   "a": "Vets set their own fees, so the cost will depend on the practice and the treatment your bird needs. When you enquire through iComply, the vet will quote you directly, so you know the price before you commit. It is always worth asking about likely costs when you book."
+  }
+ ]
+}

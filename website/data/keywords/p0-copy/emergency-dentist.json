@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for an emergency dentist, you likely have a pressing dental problem that needs attention quickly, such as severe pain, swelling or a broken tooth. You want to know how to get help fast and who to turn to. iComply can introduce you to a suitable UK professional who will quote you directly.",
+ "need_heading": "What people searching for an emergency dentist usually need",
+ "need_lead": "Most people in this situation need urgent advice or treatment for a problem that can't wait for a routine appointment.",
+ "needs": [
+  "You have severe toothache that painkillers aren't controlling and you need to see someone urgently.",
+  "Your face or gum is swollen and you're worried it might be an infection that needs treatment.",
+  "You've broken a tooth or lost a crown or filling and need it repaired quickly.",
+  "You're in pain and can't get an appointment with your regular dentist, so you're looking for an emergency dentist.",
+  "You're visiting the UK and need urgent dental care before you travel home."
+ ],
+ "context_heading": "What to understand about emergency dental care",
+ "context": [
+  "Emergency dentists see urgent problems such as severe toothache, swelling, broken teeth and lost crowns, often the same day. Phone first for an urgent slot, as practices set aside time for emergencies and can advise you on what to do while you wait.",
+  "If you have facial swelling that affects your breathing, you should go to A&E immediately. For other urgent dental problems, NHS 111 can direct you to appropriate care. Private dentists must be registered with the General Dental Council (GDC), and you can check the GDC register online. Private clinics providing regulated healthcare in England must register with the Care Quality Commission (CQC), which inspects and publishes ratings."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe your main symptom, such as severe pain, swelling, a broken tooth or a lost crown.",
+  "Say how long you've had the problem and whether it's getting worse.",
+  "Mention any allergies or medical conditions that might affect treatment.",
+  "State whether you have a regular dentist or if you're new to the area.",
+  "Explain if you need to be seen urgently, for example because of work or travel commitments.",
+  "Give your location and how far you're able to travel for an appointment."
+ ],
+ "questions_heading": "Questions to ask the emergency dentist",
+ "questions": [
+  "How soon can you see me for an emergency appointment?",
+  "What should I do to manage the pain until my appointment?",
+  "Will you treat the problem on the day or will I need a follow-up visit?",
+  "What is the likely cost of the emergency treatment?",
+  "Do you offer treatment under the NHS or is it private only?",
+  "What should I do if my condition gets worse before my appointment?"
+ ],
+ "faqs": [
+  {
+   "q": "Can I get an emergency dentist appointment on a weekend?",
+   "a": "Some private dental practices offer emergency appointments at weekends, but availability varies. Phone first to check, as practices often have arrangements for out-of-hours care."
+  },
+  {
+   "q": "What should I do if I have severe facial swelling?",
+   "a": "If you have facial swelling that affects your breathing or swallowing, you should go to A&E immediately. For other swelling, contact NHS 111 or an emergency dentist for advice."
+  },
+  {
+   "q": "Will an emergency dentist see me if I'm not registered with them?",
+   "a": "Many private emergency dentists will see new patients for urgent problems, but you should phone first to confirm. They may ask for details about your symptoms to prioritise your appointment."
+  },
+  {
+   "q": "How can I check if a dentist is properly registered?",
+   "a": "You can check the General Dental Council (GDC) register online to confirm a dentist is registered. In England, private clinics providing regulated healthcare must also be registered with the Care Quality Commission (CQC), which publishes inspection ratings."
+  }
+ ],
+ "extra_heading": "What to expect at an emergency dental appointment",
+ "extra": [
+  "An emergency appointment is usually about settling the immediate problem rather than completing a full course of treatment. The dentist will ask what happened and when, look at the painful or damaged tooth, and may take an X-ray to see what is going on beneath the surface. From there they can explain what needs doing to get you comfortable.",
+  "You may find the dentist offers to stabilise the tooth there and then, for example by removing a loose fragment, re-cementing a crown or draining an abscess, and then asks you to come back for the permanent repair. Sometimes the emergency visit is mainly about diagnosis and pain relief, with definitive treatment planned for a later appointment. It helps to ask what is being done today and what is being left for next time.",
+  "Because emergency appointments are often shorter than routine ones, it is worth arriving with a clear idea of your symptoms and any medication you take. If you are anxious about dental treatment, say so when you phone, as the practice can advise on how the appointment will run. The aim is to deal with the urgent problem safely and leave you knowing the next step."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Is an emergency appointment the same as a full dental examination?",
+   "a": "Not usually. An emergency appointment focuses on the urgent problem, such as pain, swelling or a damaged tooth, and may be shorter than a routine check-up. The dentist will tell you if a fuller examination is needed once the immediate issue is settled."
+  },
+  {
+   "q": "Can an emergency dentist help if the problem turns out to need specialist care?",
+   "a": "Yes. The dentist can assess what is happening and explain whether your problem needs a specialist, such as an oral surgeon or endodontist. Specialist titles can only be used by people on a General Dental Council specialist list, so you can check the register if a referral is suggested."
+  },
+  {
+   "q": "What if I am not sure whether my problem counts as an emergency?",
+   "a": "If you are in severe pain, have swelling or have damaged a tooth, it is reasonable to phone a practice and describe what has happened. They can tell you whether you need an urgent appointment or whether it can wait. If your breathing or swallowing is affected by swelling, go to A&E instead."
+  }
+ ]
+}

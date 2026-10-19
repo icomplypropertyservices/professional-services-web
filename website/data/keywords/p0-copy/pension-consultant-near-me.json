@@ -1,0 +1,53 @@
+{
+ "intro": "If you have typed pension consultant near me, you are probably looking for someone local who can make sense of a pension decision that feels bigger than a quick phone call. You may be weighing up a scheme at work, thinking through what you already hold, or facing a choice about benefits that you do not want to get wrong. iComply is a free introduction service: you tell us what you need, and we introduce you to a suitable UK pension adviser who quotes you directly, with prices on application.",
+ "need_heading": "What people searching for a pension consultant near me usually need",
+ "need_lead": "Most enquiries come from people who want a real conversation about their pension before they commit to anything.",
+ "needs": [
+  "You are an employer setting up or looking again at a workplace pension scheme and want help with the governance duties that come with running it.",
+  "You have been offered a transfer out of a defined benefit or final salary scheme and understand that this needs specialist advice before you can proceed.",
+  "You hold safeguarded benefits and are unsure what protection they give you or what you would give up by changing them.",
+  "You want to understand the charges on your pension and how they could affect what you end up with.",
+  "You are approaching retirement and want to understand your options, including the free, impartial guidance available from Pension Wise if you are over fifty with a defined contribution pension."
+ ],
+ "context_heading": "Checking who can advise you on pensions",
+ "context": [
+  "Financial advice in the UK is regulated by the Financial Conduct Authority, so before you go further, check that the adviser or firm is authorised, or is an appointed representative of an authorised firm, on the FCA register. If something goes wrong you can complain to the firm, then to the Financial Ombudsman Service, and the Financial Services Compensation Scheme may protect you if an authorised firm fails.",
+  "Some pension decisions carry special rules. Advice on transferring out of a defined benefit scheme above a set value must come from an adviser with pension transfer specialist permissions, and safeguarded benefits deserve particular care. Because the search says near me, it is worth asking whether the adviser works locally in person or mainly by phone and video, and confirming that before you book."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say whether the pension is a workplace scheme, a personal pension, or a defined benefit or final salary scheme, as the advice needed differs.",
+  "Explain whether you are enquiring as an individual or on behalf of an employer with staff to look after.",
+  "Describe the decision in front of you, such as a transfer offer, your charges, or choosing a scheme.",
+  "Mention whether safeguarded benefits are involved, since that affects the permissions the adviser needs.",
+  "Say whether you would prefer to meet locally in person or are happy with phone and video advice.",
+  "Include your rough timescale and anything you have already been told by your scheme or employer, so the adviser can prepare."
+ ],
+ "questions_heading": "Questions to ask the pension adviser",
+ "questions": [
+  "Are you authorised by the Financial Conduct Authority for the particular pension advice I need?",
+  "If my defined benefit transfer is above the set value, do you hold pension transfer specialist permissions?",
+  "How will you be paid for the advice, and what charges should I expect?",
+  "Will you set out in writing why the advice you give is suitable for me?",
+  "How will you handle my safeguarded benefits, and what would I lose by giving them up?",
+  "What happens if I want to complain later, and who would I contact after your firm?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a pension consultant for a defined benefit transfer?",
+   "a": "Advice on transferring out of a defined benefit or final salary scheme above a set value must come from an adviser with pension transfer specialist permissions. Below that value the rules differ, so it is worth confirming your position with the scheme before you enquire."
+  },
+  {
+   "q": "Can a pension consultant help an employer with a workplace scheme?",
+   "a": "Yes, pension consultants advise employers as well as individuals on scheme choice, scheme assessments and benefits strategy. Employer schemes also carry governance duties, and good communication helps staff engage with their pension."
+  },
+  {
+   "q": "Where can I get free guidance on my pension options?",
+   "a": "Pension Wise offers free, impartial guidance for people over fifty with defined contribution pensions. It is guidance rather than regulated advice on your specific circumstances, so it can sit alongside a conversation with an adviser."
+  },
+  {
+   "q": "How do I check that a pension adviser is properly authorised?",
+   "a": "Use the FCA register to check that the adviser or firm is authorised, or is an appointed representative of an authorised firm. If something goes wrong, you can complain to the firm and then to the Financial Ombudsman Service."
+  }
+ ]
+}

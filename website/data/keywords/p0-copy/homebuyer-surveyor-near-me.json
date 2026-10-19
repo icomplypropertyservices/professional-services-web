@@ -1,0 +1,53 @@
+{
+ "intro": "You've found a property you'd like to buy and you're looking for a homebuyer surveyor near you. A HomeBuyer survey, often called a Level Two survey, gives you a clear picture of the condition of a conventional home before you commit. We introduce you to a suitable UK surveyor who will quote you directly for the work.",
+ "need_heading": "What people searching for a homebuyer surveyor near me usually need",
+ "need_lead": "Most people want an independent assessment of a home's condition before they exchange contracts.",
+ "needs": [
+  "You've had an offer accepted on a modern home in reasonable condition and want to know about any urgent issues before you proceed.",
+  "You're unsure whether the survey will include a valuation for your mortgage lender and need to check before you book.",
+  "You want a surveyor who is local to the property so they can visit easily and know the area's typical housing stock.",
+  "You've spotted something during a viewing, such as damp or a crack, and want a professional to look at it before you exchange.",
+  "You want to follow up on concerns raised in the survey report before you commit to the purchase."
+ ],
+ "context_heading": "Understanding HomeBuyer surveys and choosing a surveyor",
+ "context": [
+  "A HomeBuyer survey (RICS Level Two) is designed for conventional homes in reasonable condition. It flags urgent issues and often includes a valuation, but you should always check whether a valuation is included in the quote. Many surveyors are members of the Royal Institution of Chartered Surveyors (RICS), and RICS-regulated firms must follow professional standards, hold insurance and offer a complaints process.",
+  "When choosing a surveyor, check the RICS directory, ask which report type you are getting and confirm whether the surveyor is independent of the sale. It's also worth asking if they have experience with the type of property you're buying. For specialist issues like damp or timber, you may need a surveyor with additional accreditation."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "The property's location and type, such as a modern terraced house or a period flat, so we can match you with a local surveyor.",
+  "The approximate age of the property and whether it has any unusual features, like a thatched roof or timber frame.",
+  "Whether you need a valuation included for your mortgage lender.",
+  "Any specific concerns you have, such as damp, structural movement or drainage.",
+  "Your preferred timing for the survey and any deadline you're working towards.",
+  "Whether you've already had a mortgage valuation and whether you need the survey to address anything specific."
+ ],
+ "questions_heading": "Questions to ask the surveyor",
+ "questions": [
+  "Which type of survey report will you provide, and does it include a valuation?",
+  "Are you a member of RICS, and is your firm regulated by RICS?",
+  "How soon can you carry out the survey, and when will I receive the report?",
+  "Will you be able to discuss the findings with me after I've read the report?",
+  "Do you have experience surveying this type of property and in this area?",
+  "What should I do if the survey flags an issue that needs further investigation?"
+ ],
+ "faqs": [
+  {
+   "q": "What is a HomeBuyer survey and who is it for?",
+   "a": "A HomeBuyer survey, also known as a Level Two survey, is a report on the condition of a conventional home in reasonable condition. It highlights urgent issues and often includes a valuation. It's suitable for most modern homes and older properties that haven't been extensively altered."
+  },
+  {
+   "q": "How do I find a homebuyer surveyor near me?",
+   "a": "You can search the RICS directory for surveyors in your area, or tell iComply what you need and we'll introduce you to a suitable local surveyor. Always check that the surveyor is independent of the sale and ask which report type you'll receive."
+  },
+  {
+   "q": "Does a HomeBuyer survey include a valuation?",
+   "a": "Many HomeBuyer surveys include a valuation, but not all do. You should confirm with the surveyor whether a valuation is included in the quote, especially if you need it for your mortgage lender."
+  },
+  {
+   "q": "What should I do if the survey finds problems?",
+   "a": "If the survey flags issues, discuss them with the surveyor to understand their severity. You may need to get further specialist reports or renegotiate the price before you exchange contracts. Always follow up on concerns before you commit to the purchase."
+  }
+ ]
+}

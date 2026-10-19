@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for dental insurance near you usually means you want help with the cost of check-ups, treatment or emergency cover abroad, and you'd rather speak to someone local who can explain the options. You might be weighing up a policy against paying as you go, or comparing it with a plan your dental practice offers. We introduce you to a suitable UK insurance broker who can talk through what's available and quote you directly.",
+ "need_heading": "What people looking for dental insurance nearby usually need",
+ "need_lead": "Most people searching this way want clear, local help to understand what dental insurance covers and whether it suits their situation.",
+ "needs": [
+  "You want to know whether dental insurance would help with the cost of routine check-ups and treatment, rather than paying the practice each time.",
+  "You're planning a trip abroad and want to understand whether emergency dental cover is included or available as an add-on.",
+  "You've been quoted for a course of treatment and want to see whether insurance could help with some of the cost, within any yearly limits.",
+  "You're comparing a policy with a plan offered by your dental practice and want help understanding the differences.",
+  "You want to speak to someone local who can explain waiting periods, exclusions and how claims work before you decide."
+ ],
+ "context_heading": "Understanding waiting periods and limits",
+ "context": [
+  "Dental insurance policies often have a waiting period before you can claim, and there may be a limit on how much is covered each year. These details vary between policies, so it's worth asking about them clearly before you commit.",
+  "It can also help to compare a policy with any plan your dental practice offers, as the two work in different ways. A broker can explain the key features and exclusions, and tell you how they are paid for their service."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you're looking for dental insurance near you, and whether you have a particular town or area in mind.",
+  "Say whether you're mainly concerned about routine check-ups and treatment, emergency cover abroad, or both.",
+  "Explain whether you're comparing insurance with a plan from your dental practice, so the broker knows what you're weighing up.",
+  "Let us know if you have any upcoming treatment or a trip abroad, as timing can affect what's suitable.",
+  "Mention whether you've had dental insurance before, as this may be relevant to the questions a broker asks.",
+  "Include any preferences you have, such as dealing with a broker locally or by phone, so we can introduce you to someone suitable."
+ ],
+ "questions_heading": "Questions to ask the broker",
+ "questions": [
+  "What waiting period applies before I can claim for check-ups or treatment?",
+  "Is there a yearly limit on how much I can claim, and how does that work in practice?",
+  "Does the policy include emergency dental cover abroad, or is that an add-on?",
+  "How does this compare with the plan my dental practice offers?",
+  "What are the main exclusions I should know about before I decide?",
+  "How are you paid for arranging this policy, and will you explain that clearly?"
+ ],
+ "faqs": [
+  {
+   "q": "Will dental insurance cover the full cost of my treatment?",
+   "a": "Not usually. Policies often have a yearly limit and may not cover every type of treatment, so it's worth checking the details with the broker. They can explain what is included and what isn't before you decide."
+  },
+  {
+   "q": "Can I get dental insurance if I already need treatment?",
+   "a": "Some policies have waiting periods, and existing problems may be excluded. A broker can tell you what's possible and whether it's worth arranging cover now or waiting."
+  },
+  {
+   "q": "How do I check that a broker is properly authorised?",
+   "a": "Insurance brokers and intermediaries in the UK must be authorised by the FCA, or be appointed representatives of an authorised firm. You can check them on the FCA register, and many brokers belong to the British Insurance Brokers' Association (BIBA)."
+  },
+  {
+   "q": "What can I do if I'm unhappy with the policy or the service?",
+   "a": "Brokers must explain key policy features and exclusions, and tell you how they are paid. If you have a complaint that isn't resolved, you can take it to the Financial Ombudsman Service."
+  }
+ ],
+ "extra_heading": "Dental insurance or a practice plan?",
+ "extra": [
+  "If you're searching for dental insurance near you, it's worth knowing that many dental practices offer their own plans, which usually spread the cost of routine care at that practice. Insurance works differently: it's arranged through an insurer and can help towards treatment, sometimes including emergency cover abroad. Knowing which one you're actually after helps a broker point you in the right direction.",
+  "A practice plan generally ties you to that practice, while insurance may give you more flexibility about where you're treated, depending on the policy. The two can also sit alongside each other, so it's worth asking how they would interact in your case. A broker can explain the key features and exclusions of a policy and how it compares with what your practice offers.",
+  "Before you commit, think about what you actually want covered: routine check-ups, a particular course of treatment, or peace of mind while travelling. Waiting periods and yearly limits can affect how useful a policy is for your plans, so raise these early. A broker must understand your demands and needs before recommending anything."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Is dental insurance the same as a plan from my dental practice?",
+   "a": "No. A practice plan usually spreads the cost of routine care at that practice, while dental insurance is a policy arranged through an insurer that can help towards treatment costs. They work in different ways, and a broker can explain how a policy compares with your practice's plan."
+  },
+  {
+   "q": "Can I use dental insurance at any practice?",
+   "a": "That depends on the policy, so it's worth checking before you decide. Some policies may give you more choice about where you're treated, while others may not. Ask the broker to explain how this works for the cover you're considering."
+  },
+  {
+   "q": "Do I need to tell the broker about my teeth and gums?",
+   "a": "Brokers must understand your demands and needs, so they may ask about your dental history and any treatment you're expecting. Existing problems may be excluded, and waiting periods can apply. Being open helps them explain what's suitable for you."
+  }
+ ]
+}

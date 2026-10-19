@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for a private vet near me, you're likely looking for a local veterinary practice that feels personal and independent, rather than part of a large chain. You want to know who will care for your animal and how to find the right practice close to home. We can introduce you to a suitable UK vet who will quote you directly for the care your animal needs.",
+ "need_heading": "What people searching for a private vet near me usually need",
+ "need_lead": "Most people want a local practice where they can build a relationship with the vet and get clear, direct answers about their animal's health.",
+ "needs": [
+  "You have a pet that needs a check-up or treatment and you'd prefer a practice that isn't part of a big group, so you can see the same vet each time.",
+  "You've moved to a new area and want to register with a nearby vet before any problem arises, ideally one where the vet knows your animal's history.",
+  "Your animal has a ongoing condition and you want continuity of care from a vet who will remember the details without you having to repeat them.",
+  "You're looking for a practice that offers out-of-hours cover or can explain how emergencies are handled, especially if you live in a rural area.",
+  "You want to ask about the vet's qualifications or special interests before booking, to make sure they're the right person for your animal's needs."
+ ],
+ "context_heading": "What to understand about private vets near you",
+ "context": [
+  "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS), and you can search the RCVS register by name before you book. Veterinary nurses have their own RCVS register too. Many practices also join the voluntary RCVS Practice Standards Scheme, which inspects premises, equipment and clinical processes, so you can ask whether a practice is part of it.",
+  "Some vets hold further qualifications such as an RCVS certificate, advanced practitioner status or specialist status in a particular species or discipline. If your animal has a complex or unusual condition, it is reasonable to ask whether the vet treating it holds one of these, or whether they refer to someone who does. Independent practices are owned by the vets who work there rather than by a large group, and some owners prefer the continuity and personal approach this can bring."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Tell us the species and breed of your animal, and whether it has any ongoing health issues or special needs.",
+  "Let us know the type of care you're looking for, such as a routine check-up, vaccinations, dental work or advice on a specific condition.",
+  "Mention your location and how far you're willing to travel to find a practice that suits you.",
+  "Say whether you'd prefer an independent practice where you're likely to see the same vet each visit.",
+  "Explain if you need out-of-hours cover or emergency arrangements, as these can vary between practices.",
+  "Include any preferences about the vet's experience or qualifications, such as an interest in exotic species or a particular treatment approach."
+ ],
+ "questions_heading": "Questions to ask the vet",
+ "questions": [
+  "Will I usually see the same vet each time I visit, or might I see different vets depending on the day?",
+  "What are your out-of-hours arrangements, and who provides cover when the practice is closed?",
+  "Are you registered with the RCVS, and do you hold any further qualifications in my animal's species or condition?",
+  "Is the practice part of the RCVS Practice Standards Scheme, and what does that mean for the care you provide?",
+  "How do you handle referrals if my animal needs specialist treatment?",
+  "Can you explain the likely costs of treatment upfront, so I know what to expect before we proceed?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check if a vet is properly qualified?",
+   "a": "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS). You can search the RCVS register by name before you book to confirm their registration. Veterinary nurses also have their own RCVS register."
+  },
+  {
+   "q": "What does it mean if a practice is independent?",
+   "a": "Independent practices are owned by the vets who work there rather than by a large group. This can mean you see the same vet each visit and build a personal relationship with them, which some owners prefer for continuity of care."
+  },
+  {
+   "q": "Can I ask for a vet with a special interest in my animal?",
+   "a": "Yes, it's reasonable to ask whether the vet holds further qualifications such as an RCVS certificate or specialist status in a particular species or discipline. If your animal has a complex condition, you can also ask whether they refer to someone with that expertise."
+  },
+  {
+   "q": "How do I find out about out-of-hours care?",
+   "a": "Out-of-hours arrangements vary between practices and may be shared with other local practices. It's worth asking directly how emergencies are handled when the practice is closed, so you know what to do if your animal needs urgent help."
+  }
+ ]
+}

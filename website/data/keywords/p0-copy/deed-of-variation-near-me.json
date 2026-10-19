@@ -1,0 +1,53 @@
+{
+ "intro": "You've searched for a deed of variation near you, which usually means someone has died and the people left behind want to change how the estate is shared out. Perhaps the will doesn't quite fit the family's circumstances, or there may be tax reasons to redirect a share. A local wills and probate specialist can explain whether a deed of variation is possible in your situation and what it would involve.",
+ "need_heading": "When people search for a deed of variation near me",
+ "need_lead": "Most people looking for a deed of variation near them are trying to adjust an inheritance after a death, often within a family.",
+ "needs": [
+  "You want to redirect part of an inheritance to someone else, perhaps a child or grandchild, rather than keeping it yourself.",
+  "The will leaves assets in a way that creates an unnecessary tax bill, and you want to see if a variation can reduce it.",
+  "One beneficiary wants to give up their share so that another person can benefit, and everyone affected needs to agree.",
+  "You are unsure whether a deed of variation is still possible because some time has passed since the death.",
+  "You need to understand what statements may be required for tax purposes when a variation is made."
+ ],
+ "context_heading": "The two-year window and the need for agreement",
+ "context": [
+  "A deed of variation must normally be made within two years of the person's death, so timing matters. All affected beneficiaries usually need to agree to the change, and the deed cannot be used to make a payment to someone for agreeing.",
+  "The tax effect of a variation can be significant, and statements may need to be included for inheritance tax or capital gains tax purposes. Because of this, it is important to take advice from someone who understands both the legal and tax sides."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention the date of death so the specialist can check whether the two-year window still applies.",
+  "Explain briefly what change you want to make to the estate and who would be affected.",
+  "Say whether all the beneficiaries are likely to agree to the variation.",
+  "Mention any tax concerns you already know about, such as inheritance tax or capital gains tax.",
+  "Indicate whether the estate is in England, Wales or Scotland, as the rules differ.",
+  "Let us know if there is a will and whether probate has already been applied for."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you regulated, and do you hold professional indemnity insurance?",
+  "What information do you need from me to assess whether a deed of variation is possible?",
+  "How will you handle the tax statements that may be needed?",
+  "What happens if one beneficiary does not agree to the variation?",
+  "Can you explain the effect of the variation on any means-tested benefits or care fees?",
+  "What are your fees and how will they be charged?"
+ ],
+ "faqs": [
+  {
+   "q": "Can a deed of variation be made after the two-year period?",
+   "a": "Generally, a deed of variation must be made within two years of the death. After that, it may not be possible without special arrangements, so it is best to act promptly."
+  },
+  {
+   "q": "Do all beneficiaries need to agree to a deed of variation?",
+   "a": "Yes, all affected beneficiaries usually need to agree to the change. If someone does not agree, the variation cannot proceed in the way you might want."
+  },
+  {
+   "q": "Can a deed of variation be used to reduce inheritance tax?",
+   "a": "It can be, depending on the circumstances. A specialist can explain how the variation might affect the tax position and what statements are needed."
+  },
+  {
+   "q": "Is a deed of variation only for wills?",
+   "a": "No, it can also apply where someone died without a will, under the intestacy rules. The same two-year window and need for agreement apply."
+  }
+ ]
+}

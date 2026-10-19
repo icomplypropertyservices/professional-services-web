@@ -1,0 +1,73 @@
+{
+ "intro": "You're looking for financial advisers near you, probably because you want someone local who can sit down with you and make sense of your savings, investments or retirement plans. Searching for advisers near me usually means you're comparing a few firms and want to know who is properly authorised and how they work before you get in touch. We can introduce you to a financial adviser in the UK who will quote you directly, and you pay them for the advice you receive.",
+ "need_heading": "What people searching for financial advisers near me usually need",
+ "need_lead": "Most people want a clear, face-to-face conversation about their money with someone who is regulated and can explain the options in plain terms.",
+ "needs": [
+  "You want to take stock of your pension pots and understand whether they are working hard enough for your retirement.",
+  "You have savings sitting in cash and want to know whether investing is sensible for your goals and your tolerance for risk.",
+  "You need to protect your family with life insurance or income protection and want advice on what cover is appropriate.",
+  "You are approaching retirement and want to understand your options for taking income from your pension.",
+  "You have inherited money or sold a property and want help deciding what to do with a lump sum."
+ ],
+ "context_heading": "Check authorisation before you meet",
+ "context": [
+  "Financial advice in the UK is regulated by the Financial Conduct Authority (FCA). Before you book a meeting, check that the adviser or firm is authorised, or is an appointed representative of an authorised firm, on the FCA register. If something goes wrong you can complain to the firm, then to the Financial Ombudsman Service, and the Financial Services Compensation Scheme may protect you if an authorised firm fails.",
+  "Advisers must tell you whether their advice is independent (considering the whole market) or restricted (limited to certain products or providers), and how they charge. Chartered status from the Chartered Insurance Institute or the Personal Finance Society, and certifications such as CFP, show advanced qualifications. Ask about these when you compare advisers near you."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say what you want help with, such as retirement planning, investing a lump sum or protecting your family.",
+  "Mention whether you have existing pensions, savings or investments and roughly what you hope to achieve.",
+  "Explain whether you prefer independent advice or are open to restricted advice.",
+  "Say whether you want an ongoing relationship with an adviser or a one-off piece of advice.",
+  "Confirm that you are looking for a financial adviser near you and give your town or postcode area.",
+  "Mention any deadline you are working towards, such as a retirement date or a property purchase."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you authorised by the Financial Conduct Authority, or an appointed representative of an authorised firm?",
+  "Will you provide independent advice or restricted advice?",
+  "How do you charge for your advice, and will you set out the cost in writing before I commit?",
+  "What ongoing service will you provide after the initial advice, and how will that be agreed in writing?",
+  "Do you hold Chartered status or certifications such as CFP?",
+  "Can you explain how you would approach my situation and what information you need from me?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check that a financial adviser near me is properly authorised?",
+   "a": "Look up the adviser or firm on the FCA register. The register shows whether they are authorised or an appointed representative of an authorised firm. If they are not listed, do not proceed."
+  },
+  {
+   "q": "What is the difference between independent and restricted advice?",
+   "a": "Independent advisers consider the whole market when recommending products. Restricted advisers are limited to certain products or providers. Advisers must tell you which type of advice they offer before you engage them."
+  },
+  {
+   "q": "How will I know what the advice will cost?",
+   "a": "Advisers must tell you how they charge. Ask for the fees or charges in writing before you agree to any work, so you can compare advisers near you on a like-for-like basis."
+  },
+  {
+   "q": "What can I do if I am unhappy with the advice I receive?",
+   "a": "You can complain to the firm first. If you are not satisfied, you can take your complaint to the Financial Ombudsman Service. The Financial Services Compensation Scheme may also protect you if an authorised firm fails."
+  }
+ ],
+ "extra_heading": "Comparing several local advisers fairly",
+ "extra": [
+  "Searching for financial advisers near me, in the plural, suggests you are weighing up more than one option rather than looking for a single name. That is a sensible approach, because the right adviser for you depends on the kind of advice you need and how you prefer to work with someone. Comparing a few local firms side by side helps you see the differences clearly before you commit to anything.",
+  "The first thing to compare is scope: whether each firm offers independent advice across the whole market or restricted advice limited to certain products or providers. Next, ask each one to explain in writing how they charge, so you can compare them on a like-for-like basis rather than guessing. It also helps to ask whether they have experience with your particular situation, such as consolidating pension pots or planning retirement income, and how they prefer to meet, whether in person locally or another way.",
+  "A common misunderstanding is that choosing a local adviser means choosing whoever is closest or whoever answers first. Distance matters less than authorisation, the type of advice on offer, clear charges and a way of working that suits you. Take your time, check each firm on the FCA register, and let the answers you receive guide your decision rather than pressure to decide quickly."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I meet more than one financial adviser near me before deciding?",
+   "a": "Many people find it helpful to speak to a few before choosing, because it lets you compare how they explain things and how they charge. You are under no obligation to proceed with any of them after an initial conversation."
+  },
+  {
+   "q": "Does it matter if the adviser is local to me?",
+   "a": "Being nearby can make face-to-face meetings easier, but it is not the most important factor. Authorisation, whether the advice is independent or restricted, and clear charges matter more than distance alone."
+  },
+  {
+   "q": "Can I get advice on just one thing, such as a pension, rather than my whole finances?",
+   "a": "Yes, many people seek advice on a single area, such as retirement options or investing a lump sum. Tell each adviser what you want covered so their quote reflects the work involved."
+  }
+ ]
+}

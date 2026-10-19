@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for tax consultants near you usually means something has moved beyond the ordinary return — a relief you want to claim properly, a restructure, an overseas element, or a dispute with HMRC. You want someone local enough to sit down with, who can look at your circumstances and quote you directly for the work. iComply takes what you tell us and introduces you to a suitable UK tax professional, who then quotes you POA.",
+ "need_heading": "What people searching for tax consultants near me usually need",
+ "need_lead": "Most people typing this search have a specific decision or problem that their usual accountant cannot cover alone.",
+ "needs": [
+  "You are facing a one-off, high-value decision — selling a business, restructuring a company, or planning an inheritance — and want specialist advice before you commit.",
+  "You have an overseas element to your affairs, such as foreign income, a move abroad, or a non-UK resident issue, and need someone who deals with international tax.",
+  "You are in a dispute or enquiry with HMRC and want a consultant who handles that kind of work rather than your everyday accountant.",
+  "You want a defined piece of work — a check of your position, a claim for a relief, or advice on a transaction — priced as a fixed fee so you know where you stand.",
+  "You would rather deal with someone local you can meet or speak to easily, and you want to compare a few consultants before choosing."
+ ],
+ "context_heading": "Knowing who you are dealing with",
+ "context": [
+  "\"Tax adviser\" is not a protected title in the UK, so anyone can describe themselves that way. The Chartered Institute of Taxation, which sets the CTA qualification, and the Association of Taxation Technicians are the main specialist bodies, and their members follow Professional Conduct in Relation to Taxation — a shared code covering honesty, confidentiality and dealing with HMRC. Many accountants and solicitors also advise on tax.",
+  "Tax advisers who charge a fee must be supervised for anti-money-laundering purposes, and HMRC has been tightening standards for paid tax agents. It is therefore reasonable to ask about qualifications, supervision and professional indemnity insurance before you go ahead. Because you are comparing several consultants, ask each the same questions so you can judge them on the same basis rather than on who sounds most confident."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the decision or problem in plain terms — what has happened, what you are trying to achieve, and any deadline you are working to.",
+  "Say whether the work is a one-off piece of advice or ongoing support, so the right kind of consultant is introduced.",
+  "Mention any overseas connection, such as foreign income, property abroad, or a planned move, since that points to international experience.",
+  "Explain whether HMRC is already involved, for example an enquiry or a dispute, and what stage it has reached.",
+  "Note whether you already have an accountant and whether they will stay involved, because the consultant should keep them informed.",
+  "Give your location and how far you are willing to travel, or whether you would prefer to work remotely, so the introduction is genuinely near you."
+ ],
+ "questions_heading": "Questions to ask the consultant",
+ "questions": [
+  "Which qualifications do you hold, and are you a member of the Chartered Institute of Taxation or the Association of Taxation Technicians?",
+  "How will you be supervised for anti-money-laundering purposes, and do you hold professional indemnity insurance?",
+  "Have you handled matters like mine before, and how would you approach it?",
+  "Can you give me a fixed fee for this defined piece of work, and what would fall outside it?",
+  "Will you keep my accountant informed, and how will the three of us work together?",
+  "What will you need from me, and roughly what stages should I expect the work to go through?"
+ ],
+ "faqs": [
+  {
+   "q": "Is a tax consultant the same as an accountant?",
+   "a": "Not necessarily. Many accountants advise on tax, but tax consultants specialise in complex areas such as reliefs, restructures, international tax and disputes. Some hold the CTA or ATT qualifications, while others come from an accounting or legal background."
+  },
+  {
+   "q": "How do I judge which tax consultant is right for me?",
+   "a": "Ask each one the same questions about qualifications, supervision, insurance and experience of matters like yours, and compare the answers. A fixed fee for defined work makes it easier to compare like with like, and you should feel able to ask how they will keep your accountant informed."
+  },
+  {
+   "q": "Do I need a consultant near me, or can I work remotely?",
+   "a": "Many people prefer someone local they can meet, but much tax work can be done by phone and email. Tell iComply how far you are willing to travel and whether remote work suits you, and the introduction can reflect that."
+  },
+  {
+   "q": "What should I have ready before I speak to a consultant?",
+   "a": "Gather the documents behind the issue — correspondence from HMRC, accounts or records, and any relevant dates. A clear outline of what you are trying to achieve and any deadline helps the consultant quote and advise properly."
+  }
+ ]
+}

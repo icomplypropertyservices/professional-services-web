@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for an asylum solicitor near you usually means something urgent is already happening — a claim to make, an interview coming up, or a refusal letter that needs answering quickly. You want someone local you can actually sit down with, who is properly qualified to advise on protection cases. iComply can introduce you to a suitable UK professional who will quote you directly, with the price on application.",
+ "need_heading": "What people searching for an asylum solicitor near me usually need",
+ "need_lead": "Asylum work is specialist, and the situations behind this search tend to be time-sensitive and personal.",
+ "needs": [
+  "You are preparing your asylum claim and need help putting your statement and supporting evidence together clearly and honestly.",
+  "You have an asylum interview approaching and want to understand what will be asked and how to prepare for it.",
+  "You have received a refusal and need to know whether you can appeal or make a fresh claim, and by when.",
+  "You are supporting a family member or friend through the asylum process and want proper advice on what happens next.",
+  "You want to speak to someone face to face near where you live, rather than dealing with a process entirely at a distance."
+ ],
+ "context_heading": "Checking that an adviser can legally help with asylum",
+ "context": [
+  "In the UK it is a criminal offence to give immigration advice unless the person is qualified and regulated. That means they must be registered with the Immigration Advice Authority (formerly the OISC) at the right level for your matter, or be a solicitor, barrister or chartered legal executive authorised by their own regulator. You can check the IAA's adviser finder or the Solicitors Regulation Authority register before you share documents or pay anything.",
+  "IAA advisers are registered at levels that limit what they can do, from basic applications up to appeals and representation, so it is worth asking what level they hold and whether it covers your type of case. Legal aid often covers asylum work, so ask early whether it applies to you. Interviews are key moments in a claim, and appeals have short deadlines, so raise anything time-sensitive straight away."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say where you are in the process — for example whether you are making a first claim, preparing for an interview, or responding to a refusal.",
+  "Mention any deadline or interview date you have been given, since appeals and interviews can be time-critical.",
+  "Explain briefly what the case is about and whether anyone else, such as a family member, is involved.",
+  "Say what you need most: help with your statement and evidence, interview preparation, an appeal, or a fresh claim.",
+  "Mention whether you think legal aid might apply, as this affects who can take the work on.",
+  "Give your location and how far you can reasonably travel to see someone in person."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you regulated to give asylum advice, and which regulator are you registered with?",
+  "If you are an IAA adviser, what level are you registered at, and does it cover appeals and representation?",
+  "Do you think legal aid may be available for my situation?",
+  "What do you need from me first, and are there any deadlines I should be aware of?",
+  "How will you help me prepare for my asylum interview?",
+  "What happens if my claim is refused — can you help with an appeal or a fresh claim?"
+ ],
+ "faqs": [
+  {
+   "q": "Can anyone help me with an asylum claim?",
+   "a": "No. Giving immigration advice in the UK without being qualified and regulated is a criminal offence. The person helping you should be registered with the Immigration Advice Authority at the right level, or be a solicitor, barrister or chartered legal executive authorised by their own regulator."
+  },
+  {
+   "q": "How do I check that an asylum solicitor near me is properly regulated?",
+   "a": "You can use the Immigration Advice Authority's adviser finder, or the Solicitors Regulation Authority register if they are a solicitor. It is sensible to check before you share documents or pay anything."
+  },
+  {
+   "q": "Does legal aid cover asylum work?",
+   "a": "Legal aid often covers asylum cases, though whether it applies depends on your circumstances and the work involved. Ask the professional early on whether legal aid may be available to you."
+  },
+  {
+   "q": "What should I do if I have an interview or appeal deadline coming up?",
+   "a": "Interviews are key moments in a claim and appeals have short deadlines, so tell iComply and the professional about any date you have been given straight away. Being clear about timing helps them judge whether they can help in time."
+  }
+ ],
+ "extra_heading": "Why the word \"near me\" matters more in asylum cases",
+ "extra": [
+  "Asylum work involves several face-to-face moments that are hard to handle remotely: going through your statement line by line, preparing for interview, and being briefed before a hearing. Choosing someone within reasonable travelling distance of where you are actually living matters, especially if your accommodation could change while your claim is ongoing.",
+  "Being near also makes it easier to get documents to them quickly when a deadline is close. Ask how they prefer to receive paperwork and whether they can see you in person at short notice, rather than only by phone or email.",
+  "Local knowledge can help too. A professional working regularly in your area will know the nearby Home Office reporting arrangements and the practicalities of getting to interview and hearing venues, which takes some of the guesswork out of the days ahead."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Does an asylum solicitor near me have to be in the same town?",
+   "a": "Not necessarily, but it helps if they are close enough that you can attend appointments in person without difficulty. Ask how they handle meetings and whether they can see you face to face when it counts, such as before an interview or hearing."
+  },
+  {
+   "q": "Can I change professionals partway through my asylum claim?",
+   "a": "It is possible to move to a different regulated professional, but it can take time and your file has to be transferred. If you are thinking about it, raise it early and be clear about any interview or appeal date already set, so nothing is missed."
+  },
+  {
+   "q": "What happens at a first appointment about asylum?",
+   "a": "Expect to go through your history and the timeline of your claim, and to be asked what evidence you already have. The professional should explain what they can do, whether legal aid may apply, and what they need from you next — and you should feel able to ask about their regulation and level of registration."
+  }
+ ]
+}

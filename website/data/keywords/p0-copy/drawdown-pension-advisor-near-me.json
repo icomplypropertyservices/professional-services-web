@@ -1,0 +1,53 @@
+{
+ "intro": "You've searched for a drawdown pension adviser near you, which usually means you're thinking about taking a flexible income from your pension while keeping it invested. You want someone local who can explain how drawdown works and help you decide if it's right for you. We can introduce you to a suitable UK pension adviser who will quote you directly.",
+ "need_heading": "What people searching for a drawdown pension adviser near me usually need",
+ "need_lead": "Most people looking for a drawdown adviser want clear, local guidance on turning their pension into a flexible income without running out of money.",
+ "needs": [
+  "You have a defined contribution pension and want to understand how to take a regular income from it while it stays invested.",
+  "You are unsure how much you can safely withdraw each year without depleting your fund too quickly.",
+  "You want to know how withdrawals are taxed, especially beyond your tax-free cash.",
+  "You need to understand the investment risk that remains when your pension is in drawdown.",
+  "You have safeguarded benefits or a final salary scheme and want to know whether drawdown is even an option for you."
+ ],
+ "context_heading": "What to understand about drawdown advice",
+ "context": [
+  "Drawdown lets you take a flexible income from your pension while it remains invested, but the value can go down as well as up. The rate at which you withdraw affects how long your money lasts, and tax applies to withdrawals beyond your tax-free cash. A local adviser can help you set a sustainable withdrawal plan.",
+  "Financial advice in the UK is regulated by the Financial Conduct Authority (FCA). You can check that any adviser or firm is authorised on the FCA register. If something goes wrong, you can complain to the firm and then to the Financial Ombudsman Service, and the Financial Services Compensation Scheme may protect you if an authorised firm fails. Free, impartial guidance is also available from Pension Wise for people with defined contribution pensions who are approaching retirement."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "The size of your pension pot and whether it is a defined contribution or defined benefit scheme.",
+  "Whether you have any safeguarded benefits or a promised annuity rate.",
+  "How much income you are hoping to take and how often.",
+  "Your age and when you plan to start drawdown.",
+  "Whether you have other sources of retirement income, such as a State Pension or other savings.",
+  "Any preference for a local adviser or one who can meet remotely."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you authorised by the FCA to give advice on drawdown?",
+  "How do you decide on a sustainable withdrawal rate for my pension?",
+  "What investment approach will you use for my drawdown fund?",
+  "How will my withdrawals be taxed, and what should I watch out for?",
+  "What are your fees and how will they be charged?",
+  "What happens if my fund performs poorly or I need to change my income?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a local adviser for drawdown?",
+   "a": "Not necessarily, but meeting in person can help you build a relationship and discuss your options clearly. Many advisers also offer remote meetings, so you can choose what suits you."
+  },
+  {
+   "q": "What is the difference between drawdown and an annuity?",
+   "a": "Drawdown keeps your pension invested and lets you take a flexible income, while an annuity converts your pot into a fixed income for life. Each has different risks and benefits, and an adviser can help you compare them."
+  },
+  {
+   "q": "Can I take tax-free cash and still use drawdown?",
+   "a": "Yes, you can usually take up to a quarter of your pension as tax-free cash and put the rest into drawdown. The withdrawals you take beyond the tax-free cash are taxed as income."
+  },
+  {
+   "q": "What if I have a final salary pension?",
+   "a": "If you are considering transferring out of a defined benefit (final salary) scheme above a set value, you must take advice from an adviser with pension transfer specialist permissions. Safeguarded benefits also need particular care, so make sure your adviser has the right permissions."
+  }
+ ]
+}

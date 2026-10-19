@@ -12,29 +12,33 @@ og_image: /assets/images/hero-workshop.jpg
 
 # Wealth Planner Near Me
 
-If you have typed **wealth planner near me** into a search bar, you are likely looking for help soon and not too far away. Wealth planners help people with significant assets plan investments, tax, estate and family wealth.
+Searching for a wealth planner near you usually means you have significant assets to look after and want someone local who can see the whole picture. You might be planning for retirement, thinking about passing money to the next generation, or wanting investments, tax and estate matters to work together. We can introduce you to a UK financial adviser who deals with this kind of planning, and they will quote you directly.
 
-iComply Professional Services is a free matching service. You tell us what you need and where you are; we connect you with a suitable UK financial adviser who can quote for the work. The practice provides the service, and every quote is POA.
+Wealth planners help people with significant assets plan investments, tax, estate and family wealth.
+
+Rather than calling round, you can send one enquiry to iComply. We look at your needs, location and timing, then introduce you to a suitable financial advice firm. They quote you directly, POA, and you decide whether to go ahead.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Planning the first appointment after an enquiry for wealth planner near me](/assets/images/hero-workshop.jpg)
+![Financial advice firm ready to take on a new enquiry for wealth planner near me](/assets/images/hero-workshop.jpg)
 
-## What financial advisers commonly help with
+## What people searching for a local wealth planner usually need
 
-Every enquiry is different, but these are typical starting points for clients who contact financial advisers:
+Most people who search this way want joined-up help with money that has grown beyond simple savings.
 
-- Investing a lump sum from savings, inheritance or a business sale.
-- Reviewing scattered pensions and investments.
-- Planning for inheritance tax.
-- Planning for retirement and pensions.
-- An annual review of an existing plan.
+- You have investments, pensions or property that add up to a meaningful sum and you want a coherent plan rather than separate pots.
+- You are approaching or in retirement and want to understand how to draw on your assets in a sensible order.
+- You want to think about inheritance and how your estate passes to family, alongside the tax that may apply.
+- You would like your financial planning to sit alongside your will and tax affairs, with your solicitor and accountant brought in where needed.
+- You want someone you can meet or speak to locally who will explain their charges clearly before any work begins.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of financial adviser fits best.
+## Timing and urgency
 
-## Practical points about a wealth planner
+A first meeting is often available within a week or two. A full recommendation usually follows after the adviser has gathered information and researched options, which can take a few weeks.
 
-A few points come up again and again with a wealth planner:
+## Key things to know about a wealth planner
+
+These practical points are worth knowing before you speak to anyone about a wealth planner:
 
 - Coordinate with solicitors and accountants.
 - Family governance can help.
@@ -42,119 +46,110 @@ A few points come up again and again with a wealth planner:
 
 A good financial adviser will talk you through each of these in plain English.
 
-## Good questions for your first call
-
-Asking a few direct questions early tells you a lot about how a practice works:
-
-- What happens if I want to stop ongoing advice?
-- How do you charge for initial advice and ongoing service?
-- How will you report on performance?
-- Which platforms or providers do you typically use, and why?
-- What qualifications do you hold?
-- What will the ongoing service include each year?
-
 **Need a wealth planner?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
+
+## Checking who is authorised
+
+Financial advice in the UK is regulated by the Financial Conduct Authority (FCA). Before you engage anyone, check that the adviser or firm is authorised, or is an appointed representative of an authorised firm, on the FCA register. If something goes wrong you can complain to the firm, then to the Financial Ombudsman Service, and the Financial Services Compensation Scheme may protect you if an authorised firm fails.
+
+Advisers must also tell you whether their advice is independent, considering the whole market, or restricted to certain products or providers, and how they charge. Advanced qualifications such as Chartered status from the Chartered Insurance Institute or the Personal Finance Society, or certification such as CFP, can show a deeper level of training.
+
+## Questions to ask the professional
+
+Once you are introduced, these questions help you decide whether the financial adviser is right for you:
+
+- Are you independent or restricted in the advice you give?
+- How do you charge for your work, and will I see the fees in writing before anything begins?
+- How will you coordinate with my solicitor and accountant on estate and tax matters?
+- What experience do you have with clients whose assets are similar to mine?
+- How will you revisit my plan over time, and what does that involve?
+- What qualifications do you and the firm hold, and are you on the FCA register?
+
+![Planning the first appointment after an enquiry for wealth planner near me](/assets/images/insurance-advisory.jpg)
 
 ## How fees usually work (POA)
 
-Advisers often charge for initial advice, then an ongoing fee for reviews, which may be fixed or a percentage of the money they look after. Firms must set out charges clearly before advising you. iComply does not publish fees; the firm quotes you, POA.
+Advisers often charge for initial advice, then an ongoing fee for reviews, which may be fixed or a percentage of the money they look after. Firms must set out charges clearly before advising you. The firm quotes you, POA.
 
 Ask for charges in pounds as well as percentages, and check what the ongoing service includes. The FCA's Consumer Duty expects firms to provide fair value.
 
-## Getting ready for your first conversation
+## Qualifications and registration to look for
 
-You do not need all of this to enquire, but the more you can share, the better the match:
-
-- Any deadlines, such as a pension decision
-- Family situation and dependants
-- Your goals in plain words, such as retiring at 60
-- Income, outgoings and savings
-- Property and mortgage details
-- Pensions, investments and their latest statements
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
-
-## How long things usually take
-
-A first meeting is often available within a week or two. A full recommendation usually follows after the adviser has gathered information and researched options, which can take a few weeks.
-
-![Next steps after an iComply introduction for a wealth planner](/assets/images/healthcare-consult.jpg)
-
-## Near me: how local matching works
-
-When you search for a wealth planner near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
-
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
-
-## How iComply matches you
-
-1. **Enquire for free** with your town or postcode and a short description.
-1. **We clarify** anything unclear, so the introduction is useful from the start.
-1. **We connect you** with a wealth planner who suits your situation.
-1. **The practice takes over**, confirms scope and fees in writing and does the work.
-
-We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
-
-## After the introduction
-
-Once introduced, the firm will explain its services and charges, then complete a fact-find with you. Advice and responsibility sit with the authorised firm. iComply does not give financial advice. The value of investments can fall as well as rise.
-
-## How to check you are in safe hands
-
-Financial advice in the UK is regulated by the Financial Conduct Authority (FCA). Check that any adviser or firm is authorised, or is an appointed representative of an authorised firm, on the FCA register. If something goes wrong you can complain to the firm, then to the Financial Ombudsman Service, and the Financial Services Compensation Scheme may protect you if an authorised firm fails.
+Check that any adviser or firm is authorised, or is an appointed representative of an authorised firm, on the FCA register.
 
 Advisers must tell you whether their advice is independent (considering the whole market) or restricted (limited to certain products or providers), and how they charge. Chartered status from the Chartered Insurance Institute or the Personal Finance Society, and certifications such as CFP, show advanced qualifications.
 
 iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
 
-## Red flags when choosing a wealth planner
+## How iComply matches you
 
-Most professionals are honest and competent, but it is worth knowing the warning signs:
+1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
+1. **We review your brief.** We check the type of financial adviser you need, your location and your timing.
+1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
+1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
 
-- Guaranteed high returns
-- Unclear or hidden charges
-- Pressure to transfer pensions or invest quickly
-- Unregulated investments presented as safe
+There is no charge to you for the introduction, and no obligation to accept any quote.
 
-![Client explaining what they need before being matched with a wealth planner](/assets/images/insurance-advisory.jpg)
+## What to tell us when you enquire
 
-## FAQs: a wealth planner
+You do not need all of this to enquire, but the more you can share, the better the match:
 
-### What is the difference between independent and restricted advice?
+- Describe the assets you want to plan around, such as investments, pensions, property or family business interests.
+- Say what you are hoping to achieve, whether that is retirement income, passing wealth to the next generation, or organising tax and estate matters.
+- Mention whether you already work with a solicitor or accountant, as coordination may be useful.
+- Explain whether you are looking for ongoing planning or help with a particular decision.
+- Say roughly where you are and whether you would prefer to meet in person locally or work remotely.
+- Note any preferences about how you like to receive information, such as plain explanations of charges before you commit.
 
-Independent advisers consider products from across the market. Restricted advisers focus on certain products or providers. Both can give good advice; they must tell you which they offer.
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+
+![Client explaining what they need before being matched with a wealth planner](/assets/images/finance-desk.jpg)
+
+## FAQs about wealth planner near me
+
+### Is a wealth planner the same as a financial adviser?
+
+In the UK, wealth planning is generally carried out by regulated financial advisers who specialise in clients with significant assets. They help with investments, tax, estate and family wealth, often working alongside solicitors and accountants.
+
+### How do I check that a wealth planner is authorised?
+
+Look up the adviser and the firm on the FCA register to confirm they are authorised or an appointed representative of an authorised firm. If something goes wrong, you can complain to the firm and then to the Financial Ombudsman Service.
+
+### Should I choose an independent or restricted adviser?
+
+Independent advisers consider the whole market, while restricted advisers are limited to certain products or providers. Advisers must tell you which they are, so you can decide what suits your situation.
+
+### What should I have ready before I speak to a wealth planner?
+
+It helps to gather details of your assets, pensions, property and any existing arrangements, along with your goals for retirement and inheritance. Being clear about what you want to achieve makes the first conversation more useful.
 
 ### Is the first meeting free?
 
 Many firms offer a free initial consultation to explain their service and charges. Formal advice is then charged as agreed in writing.
 
-### How do I find a wealth planner near me?
+### Can you find a wealth planner in my area?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable financial advice firm with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
 
-### Can I contact you on WhatsApp?
+### Is it free to use iComply?
 
-Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
+Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
 
-### Is iComply regulated?
+### How quickly will I hear back?
 
-iComply is a matching service. We are not a financial adviser and we do not give professional advice. The professionals we introduce are registered with their own bodies, and you can check them.
+Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
 
-### Do I have to accept a quote?
+## Related searches
 
-No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
-
-## Other services you may need
-
-- [Independent financial advisor near me](/keywords/independent-financial-advisor-near-me/)
+- [Cashflow planning advisor near me](/keywords/cashflow-planning-advisor-near-me/)
+- [Local financial advisor near me](/keywords/local-financial-advisor-near-me/)
+- [Financial planner near me](/keywords/financial-planner-near-me/)
 - [Best IFA near me](/keywords/best-ifa-near-me/)
 - [Best financial adviser near me](/keywords/best-financial-adviser-near-me/)
-- [Best IFA nationwide near me](/keywords/best-ifa-nationwide-near-me/)
-- [Best financial advisors near me](/keywords/best-financial-advisors-near-me/)
 - [Browse all financial advisers](/hubs/wealth-management/)
 
 ## Request your free quote
 
-Tell us what you need and where you are. We will match you with a suitable financial adviser, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
+One short enquiry is all it takes. We connect you with a wealth planner who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
 
 [Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

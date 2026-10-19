@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a male fertility clinic near you usually means something has prompted you to look into sperm health — a semen analysis that came back concerning, trouble conceiving, or a GP suggesting you see someone with specialist knowledge. Male fertility clinics look into sperm problems and treat their causes, often with andrologists and urologists. Finding one close to home matters, because these appointments tend to involve tests, follow-ups and sometimes treatment over a period of months.",
+ "need_heading": "What people searching for a male fertility clinic usually need",
+ "need_lead": "Most people typing this search want a clinic within reasonable travelling distance that understands male fertility specifically, rather than a general fertility service focused on women.",
+ "needs": [
+  "You have had a semen analysis and the results raised a question about sperm count, movement or shape, and you want it looked at properly.",
+  "You and your partner have been trying to conceive for a while and you want to be checked as well, rather than assuming the issue lies elsewhere.",
+  "A GP has suggested a referral or further tests, and you would like to find a local clinic that deals with male fertility.",
+  "You have a known or suspected cause of sperm problems, such as a varicocele or a previous infection, and want to discuss what can be done.",
+  "You have been told that ICSI or surgical sperm retrieval might be an option and want to talk it through with someone nearby."
+ ],
+ "context_heading": "Licensing and what it means for your search",
+ "context": [
+  "Clinics offering IVF, donor treatment, egg and embryo freezing and most other fertility treatments must be licensed by the Human Fertilisation and Embryology Authority (HFEA). The HFEA's Choose a Fertility Clinic tool shows each licensed clinic's inspection ratings, success rates and patient feedback, so it is a sensible place to check a clinic you are considering near you.",
+  "Some simple tests, such as blood hormone checks, may be offered by clinics outside HFEA licensing. But any treatment involving eggs, sperm or embryos should always be with a licensed centre, so ask about licensing early on when you approach a clinic."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say roughly where you are and how far you are willing to travel, since you are looking for a clinic near you.",
+  "Mention whether you have already had a semen analysis and, if so, what you were told about the results.",
+  "Explain whether you and your partner are trying to conceive and for how long, in your own words.",
+  "Note any known medical history that might be relevant, such as a varicocele, an undescended testicle, an infection or previous surgery.",
+  "Say whether a GP has already referred you or suggested tests, and whether you have any results to share.",
+  "Mention whether treatment such as ICSI or surgical sperm retrieval has been raised with you, so the clinic can prepare for the conversation."
+ ],
+ "questions_heading": "Questions to ask the clinic",
+ "questions": [
+  "Is this clinic licensed by the HFEA for the treatment I might need?",
+  "Which tests will you run first, and what will they tell us about my sperm?",
+  "Will I see an andrologist or urologist, or another specialist in male fertility?",
+  "What lifestyle factors might be affecting my sperm, and what changes are worth making?",
+  "If a cause is found, what treatments do you offer, and would ICSI or surgical sperm retrieval ever be part of the plan?",
+  "How will you share results with me and my partner, and what happens at follow-up appointments?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral from my GP to attend a male fertility clinic?",
+   "a": "It varies between clinics, so it is worth asking when you first get in touch. Some accept self-referral for an initial consultation and tests, while others prefer a GP referral. Your GP can also arrange some initial tests, which may save time."
+  },
+  {
+   "q": "What happens at a first appointment about male fertility?",
+   "a": "You would usually discuss your history, any previous semen analysis results and possible causes of sperm problems. The clinic may arrange further tests, such as a repeat semen analysis or blood hormone checks, before talking through options. It helps to bring any results you already have."
+  },
+  {
+   "q": "Can lifestyle changes really affect sperm?",
+   "a": "Lifestyle factors do affect sperm, and clinics commonly discuss things like smoking, alcohol, weight and heat exposure. Changes take time to show in semen analysis results, so a clinic will usually advise on this alongside any tests. Ask what is most relevant in your case."
+  },
+  {
+   "q": "How do I check whether a clinic near me is properly licensed?",
+   "a": "The HFEA's Choose a Fertility Clinic tool lists licensed clinics and shows inspection ratings, success rates and patient feedback. Treatment involving eggs, sperm or embryos should always be with a licensed centre. Simple tests may be offered elsewhere, so ask about licensing directly if you are unsure."
+  }
+ ]
+}

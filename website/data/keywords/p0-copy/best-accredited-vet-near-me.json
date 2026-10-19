@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for the best accredited vet near you usually means you want a practice you can trust with your animal's health, and you'd like to know it meets proper standards. You may have a pet that needs care now, or you're planning ahead and want to register somewhere reliable. We introduce people to UK vets who can quote them directly for the care they need.",
+ "need_heading": "What people searching for an accredited vet usually need",
+ "need_lead": "Most people want a nearby practice that is properly regulated and can meet their animal's needs, whether routine or urgent.",
+ "needs": [
+  "You've moved to a new area and need to register your pet with a local vet before anything goes wrong.",
+  "Your animal has a ongoing condition and you want a practice that can provide continuity of care close to home.",
+  "You're looking for a practice that offers preventive health plans to spread the cost of vaccinations and parasite control.",
+  "You need to know how the practice handles out-of-hours care, especially if your pet becomes unwell at night or at the weekend.",
+  "You want to check that any vet treating your animal is on the Royal College of Veterinary Surgeons register and that the practice meets voluntary standards."
+ ],
+ "context_heading": "Understanding accreditation and finding the right vet",
+ "context": [
+  "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS), and you can search the RCVS register by name before you book. Veterinary nurses have their own RCVS register too. Many practices also join the voluntary RCVS Practice Standards Scheme, which inspects premises, equipment and clinical processes.",
+  "Some vets hold further qualifications such as an RCVS certificate, advanced practitioner status or specialist status in a particular species or discipline. If your animal has a complex or unusual condition, it is reasonable to ask whether the vet treating it holds one of these, or whether they refer to someone who does. When searching for the best accredited vet near you, it helps to check these credentials and ask about out-of-hours arrangements."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "The species and breed of your animal, and its age, so the vet can understand the context.",
+  "Whether your pet has any ongoing medical conditions or special requirements.",
+  "Whether you are looking for routine preventive care, a specific treatment, or advice on a particular problem.",
+  "Your location and how far you are willing to travel to the practice.",
+  "Any preference for a practice that holds RCVS Practice Standards Scheme accreditation or has vets with further qualifications.",
+  "Whether you need help with out-of-hours cover or a practice that offers preventive health plans."
+ ],
+ "questions_heading": "Questions to ask the vet",
+ "questions": [
+  "Are you registered with the Royal College of Veterinary Surgeons?",
+  "Does the practice hold RCVS Practice Standards Scheme accreditation?",
+  "How do you cover out-of-hours care, and is there an extra charge for that?",
+  "Do you offer preventive health plans, and what do they include?",
+  "Do any of your vets hold further qualifications in my animal's species or condition?",
+  "What are your consultation fees, and do you provide estimates before treatment?"
+ ],
+ "faqs": [
+  {
+   "q": "How can I check if a vet is accredited?",
+   "a": "You can search the Royal College of Veterinary Surgeons (RCVS) register by name to confirm a vet is registered. You can also ask the practice whether it holds voluntary RCVS Practice Standards Scheme accreditation, which is inspected."
+  },
+  {
+   "q": "What does 'accredited' mean for a vet practice?",
+   "a": "In the UK, all practising vets must be registered with the RCVS. Accreditation usually refers to the voluntary RCVS Practice Standards Scheme, which inspects premises, equipment and clinical processes to ensure they meet certain standards."
+  },
+  {
+   "q": "How do I find the best vet near me?",
+   "a": "The best vet for you will depend on your animal's needs, location and your preferences. You can check RCVS registration and Practice Standards Scheme accreditation, ask about out-of-hours cover, and visit the practice to see if you feel comfortable."
+  },
+  {
+   "q": "Can iComply help me find an accredited vet near me?",
+   "a": "Yes, we can introduce you to UK vets who may suit your needs. You tell us what you're looking for and we introduce you to a professional who can quote you directly."
+  }
+ ],
+ "extra_heading": "Weighing up accredited practices for yourself",
+ "extra": [
+  "The word best in your search is doing a lot of work, and it is worth being clear that no official body ranks veterinary practices from first to last. What counts as best depends on your animal, how far you are willing to travel and what you need from a practice, so the useful comparison is between the things you can actually check before you book.",
+  "Start with the RCVS register for each vet whose name you see, then ask whether the practice belongs to the voluntary RCVS Practice Standards Scheme and what that means for its premises, equipment and clinical processes. From there, compare practical points side by side: how each practice covers nights and weekends, whether it runs a preventive health plan and what that includes, and whether anyone there holds further qualifications in your animal's species or condition.",
+  "It also helps to visit before you commit, because a practice that suits one household may not suit yours. Pay attention to how staff handle your animal, how clearly they explain what happens next, and whether you feel able to ask questions without being rushed. That impression, alongside the register check, gives you a far better basis for a decision than any label."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Can I find out which vet is genuinely the best near me?",
+   "a": "There is no official ranking of veterinary practices, so nobody can tell you honestly that one is the best. You can compare them yourself by checking RCVS registration, asking about Practice Standards Scheme membership, and looking at out-of-hours cover, preventive plans and qualifications relevant to your animal."
+  },
+  {
+   "q": "Does accredited mean the same as registered?",
+   "a": "No. Registration with the Royal College of Veterinary Surgeons is a legal requirement for every vet practising in the UK, while accreditation usually refers to the voluntary RCVS Practice Standards Scheme, which a practice chooses to join and is inspected against. A practice can be perfectly properly registered without holding that voluntary accreditation."
+  },
+  {
+   "q": "Should I ask about qualifications before my first appointment?",
+   "a": "It is reasonable to ask at the point you book, especially if your animal has a complex or unusual condition. Some vets hold an RCVS certificate, advanced practitioner status or specialist status in a particular species or discipline, and a practice can tell you whether someone with that background will be treating your animal or whether they would refer you on."
+  }
+ ]
+}

@@ -238,6 +238,29 @@ if (str_contains($sitemap, 'marketing-consultants')) {
     $errors[] = 'sitemap contains marketing-consultants';
 }
 
+// G10: no noindex anywhere, robots.txt must not block crawling, no X-Robots-Tag header in netlify.toml.
+$noindexHits = 0;
+$rii = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($dist, FilesystemIterator::SKIP_DOTS));
+foreach ($rii as $file) {
+    if (substr((string) $file, -5) === '.html' && stripos((string) file_get_contents((string) $file), 'noindex') !== false) {
+        $noindexHits++;
+    }
+}
+if ($noindexHits > 0) {
+    $errors[] = 'noindex found in ' . $noindexHits . ' HTML files';
+}
+$robots = (string) @file_get_contents($dist . '/robots.txt');
+if (preg_match('/^Disallow:\s*\/\s*$/mi', $robots)) {
+    $errors[] = 'robots.txt blocks the whole site';
+}
+$toml = (string) @file_get_contents(dirname(__DIR__, 2) . '/netlify.toml');
+if (stripos($toml, 'X-Robots-Tag') !== false && preg_match('/^\s*X-Robots-Tag\s*=/mi', $toml)) {
+    $errors[] = 'netlify.toml still sets X-Robots-Tag';
+}
+if (is_file($dist . '/_headers') && stripos((string) file_get_contents($dist . '/_headers'), 'X-Robots-Tag') !== false) {
+    $errors[] = '_headers sets X-Robots-Tag';
+}
+
 $css = $dist . '/assets/css/site.css';
 if (!is_file($css) || filesize($css) < 4000) {
     $errors[] = 'css missing or thin';

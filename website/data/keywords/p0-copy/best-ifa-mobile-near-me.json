@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for the \"best IFA mobile near me\" usually means you want independent financial advice from someone who can come to you, rather than travelling to an office. Perhaps you are busy, have limited mobility, or simply feel more comfortable discussing pensions and investments at your own kitchen table. We can introduce you to a UK financial adviser who works in your area and is willing to meet you where you are.",
+ "need_heading": "What people searching for a mobile IFA usually need",
+ "need_lead": "A mobile adviser suits people who want independent financial advice but find it easier to talk things through at home.",
+ "needs": [
+  "You want to look again at your pension arrangements but would rather not travel to a city centre office.",
+  "You have limited mobility or caring responsibilities that make leaving the house difficult.",
+  "You are nearing retirement and want to discuss your options face to face in familiar surroundings.",
+  "You have investments or savings and want independent advice on whether they still suit you.",
+  "You would prefer to go through documents and ask questions together at your own table rather than over the phone."
+ ],
+ "context_heading": "Understanding independent advice and the word best",
+ "context": [
+  "An independent financial adviser considers products from across the market when recommending pensions, investments and protection, and must tell you whether their advice is independent or restricted and how they charge. Financial advice in the UK is regulated by the Financial Conduct Authority, so check that any adviser or firm is authorised, or is an appointed representative of an authorised firm, on the FCA register.",
+  "No one can promise that an adviser is the best for you, so judge for yourself: ask about qualifications such as Chartered status from the Chartered Insurance Institute or the Personal Finance Society, and certifications such as CFP, and ask for charges to be set out in pounds before you commit. If something goes wrong you can complain to the firm, then to the Financial Ombudsman Service, and the Financial Services Compensation Scheme may protect you if an authorised firm fails."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say where you are based and how far you would like an adviser to travel to see you.",
+  "Explain what you want advice on, such as pensions, investments or protection.",
+  "Mention whether you already have an adviser or have received advice before.",
+  "Describe any accessibility needs or preferences for meeting at home.",
+  "Say whether you would like to meet in person only or are open to a mix of home visits and remote contact.",
+  "Include anything that affects your timeline, such as a retirement date or a planned change in circumstances."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Will you confirm in writing whether your advice is independent or restricted?",
+  "Can you set out all your charges in pounds before we begin?",
+  "What qualifications do you hold, and are you Chartered or CFP certified?",
+  "How many home visits are included, and is travel charged separately?",
+  "Will you be my named adviser throughout, or might I deal with others in the firm?",
+  "How do you handle complaints, and are you covered by the Financial Ombudsman Service?"
+ ],
+ "faqs": [
+  {
+   "q": "Can an independent financial adviser really visit me at home?",
+   "a": "Many advisers offer home visits, but arrangements vary by firm and by how far you live from their base. Tell us your location and what you need, and we can introduce you to an adviser who works in your area and is willing to meet you where you are."
+  },
+  {
+   "q": "How do I check that an adviser is authorised?",
+   "a": "Search the FCA register for the adviser or firm, and check whether they are authorised or an appointed representative of an authorised firm. This is a sensible step before any meeting, whether at home or elsewhere."
+  },
+  {
+   "q": "Does independent mean the adviser is the best for me?",
+   "a": "Independent means the adviser considers products from across the market, not that they are the best for your circumstances. Compare qualifications and charges in pounds, and ask questions until you feel comfortable."
+  },
+  {
+   "q": "What should I have ready for a home visit?",
+   "a": "Gather recent pension statements, investment valuations and details of any protection policies, so the adviser can see your full position. It also helps to write down your goals and any questions in advance."
+  }
+ ],
+ "extra_heading": "Making a home visit work well for you",
+ "extra": [
+  "A mobile adviser will usually want to see your paperwork spread out, so clear a table and have recent pension statements, investment valuations and details of any protection policies to hand. It also helps to have a rough picture of your income and outgoings, since advice on pensions and investments is only as good as the information behind it.",
+  "Think about who else should be present. If you have a partner, or an adult family member who helps with your affairs, having them there means everyone hears the same explanation and can ask questions while the adviser is still in the room. If you would rather talk privately, say so when you arrange the visit.",
+  "Before the meeting, note down what you want to achieve and what worries you, whether that is retiring earlier, simplifying scattered pensions or making sure your savings suit your appetite for risk. A home visit gives you time to go at your own pace, so use it to ask the adviser to repeat anything that is not clear rather than letting it pass."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Is a home visit different from advice given in an office?",
+   "a": "The advice itself should be the same, because an independent adviser considers products from across the market wherever you meet. What changes is the setting, which can make it easier to go through documents together and ask questions at your own pace."
+  },
+  {
+   "q": "Should I be wary if an adviser presses me to decide at the first visit?",
+   "a": "You are never obliged to commit on the spot, and a reputable adviser will be happy for you to take time to think. Ask for their charges in pounds and their independent or restricted status in writing, and compare before you decide."
+  },
+  {
+   "q": "Can I have a home visit if I live in a rural area?",
+   "a": "Some advisers travel widely and others keep to a tighter patch, so it depends on the firm and the distance involved. Tell us where you are and how far you would like someone to travel, and we can introduce you to an adviser willing to come to you."
+  }
+ ]
+}

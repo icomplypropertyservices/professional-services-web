@@ -1,0 +1,69 @@
+{
+ "intro": "When you search for a local private prescription near me, you likely need a medicine quickly or without waiting for an NHS appointment. You want to know which local prescriber can issue it and how the process works, including the costs involved.",
+ "need_heading": "What people searching for a local private prescription usually need",
+ "need_lead": "A private prescription can be a straightforward way to get the medicine you need, but it helps to understand the steps first.",
+ "needs": [
+  "You have run out of a regular medicine and cannot get an NHS appointment soon enough.",
+  "You need a medicine that is not normally available on the NHS, such as for travel or a specific condition.",
+  "You want to avoid waiting for an NHS prescription and are willing to pay for a private one.",
+  "You are unsure whether a private prescription will cost more or less than the NHS charge for your medicine.",
+  "You need a controlled drug and want to know the extra rules that apply."
+ ],
+ "context_heading": "What to understand about private prescriptions",
+ "context": [
+  "A private prescription is issued by a doctor or other prescriber outside the NHS. You pay the prescriber's fee and then the pharmacy's price for the medicine. Some medicines are cheaper on private prescription than the NHS charge, but others are not, so it is worth checking.",
+  "You will need a consultation first, as the prescriber must assess whether the medicine is right for you. Controlled drugs have extra rules, and a private GP does not replace your NHS GP. Good private clinics will ask for consent to share notes with your NHS practice so your records stay complete."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Mention the name of the medicine you need and, if you know it, the dose and form.",
+  "Explain why you need the prescription, for example whether it is a repeat of a regular medicine or something new.",
+  "Say whether you have already seen a doctor about this and whether you have a diagnosis.",
+  "Confirm that you are looking for a private prescription rather than an NHS one.",
+  "Mention any preference for a local clinic or pharmacy, such as one near your home or work.",
+  "Note if the medicine is a controlled drug, as this may affect which professional can help."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "What is your fee for issuing a private prescription?",
+  "Will I need a consultation first, and is that included in your fee?",
+  "Can you tell me roughly how much the medicine will cost at a pharmacy?",
+  "Do you have experience prescribing this medicine privately?",
+  "Will you share details of the consultation with my NHS GP?",
+  "If the medicine is a controlled drug, what extra steps are involved?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I find a local private prescriber near me?",
+   "a": "You can ask iComply to introduce you to a private GP clinic in your area. They will assess your need and, if appropriate, issue a private prescription."
+  },
+  {
+   "q": "Will a private prescription cost more than the NHS charge?",
+   "a": "It depends on the medicine. Some medicines are cheaper on private prescription than the NHS charge, while others are more expensive. You pay the prescriber's fee and the pharmacy's price separately."
+  },
+  {
+   "q": "Can I get a private prescription for a controlled drug?",
+   "a": "Controlled drugs have extra rules, and not all prescribers will issue them privately. You will need a consultation, and the prescriber will follow strict guidelines."
+  },
+  {
+   "q": "Do I need to see a doctor first?",
+   "a": "Yes, a consultation is needed before a private prescription can be issued. The prescriber must check that the medicine is safe and appropriate for you."
+  }
+ ],
+ "extra_heading": "Getting the prescription filled locally",
+ "extra": [
+  "A private prescription is not tied to a particular pharmacy, so once a private GP has issued it you can usually take it to a pharmacy of your choosing, including one near your home or work. It helps to ring ahead and ask whether the pharmacy stocks the medicine and what it will charge, since the pharmacy's price is separate from the prescriber's fee.",
+  "Some medicines are kept in short supply or need to be ordered in, so checking before you travel can save a wasted trip. If the medicine needs to be kept cold or handled in a particular way, mention this when you call so the pharmacy can prepare.",
+  "It is worth keeping the prescription safe and checking the details, such as the medicine name, dose and form, before you leave the clinic. If anything looks unclear, ask the prescriber to explain it rather than relying on the pharmacy to interpret it."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Can I choose which pharmacy to use for a private prescription?",
+   "a": "Yes, a private prescription is not usually tied to one pharmacy, so you can normally take it wherever suits you. It is sensible to check first that the pharmacy stocks the medicine and what it will charge."
+  },
+  {
+   "q": "What should I have ready before I contact a private GP about a prescription?",
+   "a": "Have the name of the medicine, the dose and form if you know them, and a note of any medicines you already take. Mentioning whether this is a repeat or something new helps the prescriber assess your need."
+  }
+ ]
+}

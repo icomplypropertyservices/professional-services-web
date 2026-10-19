@@ -1,0 +1,73 @@
+{
+ "intro": "You're a contractor looking for an insurance broker nearby who understands the cover you actually need. Whether you're a freelancer, consultant or limited company director, the right broker can help you compare policies and explain the small print. iComply introduces you to a UK insurance broker who will quote you directly, with prices on application.",
+ "need_heading": "What contractors usually need from an insurance broker",
+ "need_lead": "Contractors often need cover that fits the way they work, not an off-the-shelf policy.",
+ "needs": [
+  "You've been asked for professional indemnity cover by a client before a contract can start.",
+  "You're unsure whether your work falls inside IR35 and want to understand if IR35 insurance is worth having.",
+  "You need public liability cover for visiting client sites or working away from your own office.",
+  "You're finishing a contract and want to check whether run-off cover is needed for claims made after the policy ends.",
+  "You want a broker who can explain exclusions clearly before you commit to a policy."
+ ],
+ "context_heading": "Why using a broker for contractor insurance makes sense",
+ "context": [
+  "Insurance brokers in the UK must be authorised by the Financial Conduct Authority (FCA) or be appointed representatives of an authorised firm. You can check any broker on the FCA register. Many also belong to the British Insurance Brokers' Association (BIBA), and some hold Chartered status from the Chartered Insurance Institute.",
+  "A broker must understand your demands and needs, explain key policy features and exclusions, and tell you how they are paid. If something goes wrong and you can't resolve a complaint, you can take it to the Financial Ombudsman Service. This means you get a clear explanation before you buy, not just a price."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the type of contracting work you do and the industry you work in.",
+  "Say whether a client has specified any insurance requirements, such as professional indemnity or public liability.",
+  "Mention if you work through a limited company or as a sole trader.",
+  "Explain whether you need cover for IR35 or run-off cover after a contract ends.",
+  "Say whether you already have a policy and are looking to switch or renew.",
+  "Confirm that you want a broker near you who understands contractor insurance."
+ ],
+ "questions_heading": "Questions to ask the insurance broker",
+ "questions": [
+  "Are you authorised by the FCA, and can you confirm your firm's status on the FCA register?",
+  "Do you specialise in insurance for contractors and freelancers?",
+  "How will you assess my demands and needs before recommending a policy?",
+  "Can you explain the key exclusions that might affect my type of work?",
+  "Do you charge a fee, and how will you tell me about it?",
+  "What is your process if I need to make a claim?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need professional indemnity insurance as a contractor?",
+   "a": "Not always by law, but many clients require it before they will sign a contract. A broker can tell you whether it's needed for your specific work and what level of cover is typical."
+  },
+  {
+   "q": "What is IR35 insurance and do I need it?",
+   "a": "IR35 insurance can help with the costs of an HMRC investigation if your contract status is questioned. Whether it's worth having depends on your circumstances, so ask the broker to explain what it covers."
+  },
+  {
+   "q": "What is run-off cover and when would I need it?",
+   "a": "Run-off cover protects you for claims made after your policy ends, for work you did while it was active. If you're finishing a contract, ask the broker whether you need it and for how long."
+  },
+  {
+   "q": "How do I check that a broker is properly authorised?",
+   "a": "You can search the FCA register for the firm's name to confirm it is authorised or an appointed representative. The broker should also be happy to explain how they are regulated."
+  }
+ ],
+ "extra_heading": "Finding a broker who is genuinely near you",
+ "extra": [
+  "Searching for a contractor insurance broker near me suggests you'd rather deal with someone you could meet or ring locally, perhaps because you want a face-to-face conversation about policies that are hard to compare on your own. Distance is only part of the picture, though: what matters most is whether the broker regularly handles contractor cover and can talk you through professional indemnity, public liability and IR35 questions without hesitation.",
+  "When you weigh up local options, ask each broker the same set of questions so you can judge them side by side. Do they deal with contractors as a matter of course? Can they explain exclusions in plain words? Will they set out how they are paid before you commit? A broker who answers these clearly is a better sign than one who simply quotes a price.",
+  "Remember that a nearby broker is not automatically the right one, and a broker further away may suit you better if they specialise in your line of work. Because quotes are on application, the conversation you have before any price is given is where you learn the most. Take your time, compare how each broker responds, and choose the one who makes the cover feel understandable."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Does my broker need to be in the same town as me?",
+   "a": "No. Many contractors deal with brokers by phone or email, and what counts is their knowledge of contractor cover rather than their postcode. A local broker can still be convenient if you prefer meeting in person, so it's worth asking how they usually work with clients."
+  },
+  {
+   "q": "How can I tell whether a broker really understands contractor insurance?",
+   "a": "Ask them to explain professional indemnity, public liability and run-off cover in relation to your own work, and to talk through IR35 if it applies to you. A broker who handles contractors regularly should be able to do this clearly and flag the exclusions that could affect you."
+  },
+  {
+   "q": "What should I have ready before I speak to a broker near me?",
+   "a": "Have a note of the work you do, any cover a client has asked for, and whether you trade as a sole trader or through a limited company. Mention any existing policy and whether you are renewing or switching, so the broker can assess your demands and needs properly."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "intro": "You're looking for a graduate recruitment agency near you, probably because you're an employer wanting to fill graduate roles or a graduate hoping to find entry-level work. A local agency can help you navigate the graduate market, but it's important to know what to expect and how to choose the right one.",
+ "need_heading": "What people searching for a graduate recruitment agency near me usually need",
+ "need_lead": "Whether you're hiring or job hunting, a graduate recruitment agency near you can connect you with the right opportunities or candidates.",
+ "needs": [
+  "You're an employer with graduate roles to fill and want a local agency that understands the graduate market and can introduce you to suitable candidates.",
+  "You're a recent graduate or school leaver looking for entry-level roles and want an agency that specialises in graduate recruitment and is easy to reach.",
+  "You need help understanding how graduate recruitment agencies work, including what they charge and what services they offer.",
+  "You want to find an agency that follows industry regulations and codes of practice, so you can be confident in the service you receive.",
+  "You're unsure about the timing of graduate recruitment and want advice on when to start looking or hiring."
+ ],
+ "context_heading": "One key thing to understand about graduate recruitment agencies",
+ "context": [
+  "Graduate recruitment agencies in the UK must follow the Conduct of Employment Agencies and Employment Businesses Regulations, which are enforced by the Employment Agency Standards Inspectorate. As a work-seeker, you should not usually be charged a fee for finding you work. Membership of a professional body such as the Recruitment and Employment Confederation (REC) or APSCo indicates a commitment to an industry code, which you can ask about.",
+  "Timing is important in graduate recruitment, as it often follows the academic calendar. Many graduate schemes and entry-level roles are advertised in the autumn and winter for the following year, so starting your search early can be beneficial. Assessment centres are commonly used to select candidates, and successful applicants may be offered structured development programmes."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Whether you are an employer looking to hire graduates or a graduate looking for work, so iComply can introduce you to the right kind of agency.",
+  "The type of roles or candidates you are interested in, including the industry or sector and any specific skills or qualifications required.",
+  "Your location and how far you are willing to travel, since you are looking for an agency near you.",
+  "Any timescales you have in mind, such as when you need to fill a position or when you are available to start work.",
+  "Whether you have any particular requirements, such as part-time roles, internships, or schemes with structured training.",
+  "Any preferences you have regarding the agency, such as whether they are a member of a professional body or specialise in your field."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "What is your experience in graduate recruitment, and which sectors do you specialise in?",
+  "How do you source and select graduates for the roles you work on?",
+  "What is your process for matching candidates to employers, and how long does it typically take?",
+  "Do you charge work-seekers any fees for finding them work?",
+  "Are you a member of a professional body such as the Recruitment and Employment Confederation (REC) or APSCo?",
+  "What support do you offer graduates throughout the application process, such as help with CVs or interview preparation?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I have to pay a graduate recruitment agency to find me work?",
+   "a": "In the UK, employment agencies cannot usually charge work-seekers for finding them work. The Employment Agency Standards Inspectorate enforces these rules. However, it's always wise to check the terms before signing up."
+  },
+  {
+   "q": "When is the best time to start looking for a graduate scheme?",
+   "a": "Graduate recruitment often follows the academic calendar, with many schemes opening applications in the autumn and winter for the following year. Starting early gives you the best chance of securing a place."
+  },
+  {
+   "q": "What is an assessment centre and will I have to attend one?",
+   "a": "An assessment centre is a selection event where candidates take part in exercises and interviews. Many graduate employers use them as part of their recruitment process. Your agency should prepare you for what to expect."
+  },
+  {
+   "q": "How can I check if a graduate recruitment agency is reputable?",
+   "a": "You can ask if the agency is a member of a professional body like the Recruitment and Employment Confederation (REC) or APSCo, which indicates a commitment to an industry code. You can also check with the Employment Agency Standards Inspectorate for any enforcement actions."
+  }
+ ]
+}

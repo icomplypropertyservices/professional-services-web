@@ -7,34 +7,68 @@ group: accountancy
 hub: accountants
 profession: accountant
 service_label: Limited company accountant
-og_image: /assets/images/healthcare-consult.jpg
+og_image: /assets/images/insurance-advisory.jpg
 ---
 
 # Limited Company Accountant Near Me
 
-If you have typed **limited company accountant near me** into a search bar, you are likely looking for help soon and not too far away. Limited companies must file accounts with Companies House and a corporation tax return with HMRC, and directors often need personal tax returns too.
+You're looking for an accountant who understands limited companies, probably because you've set one up or are about to, and you want someone local who can handle the filing and tax side. The search for a "limited company accountant near me" suggests you'd rather deal with someone you can meet or speak to easily, and who knows the Companies House and HMRC requirements that come with running a limited company.
+
+Limited companies must file accounts with Companies House and a corporation tax return with HMRC, and directors often need personal tax returns too.
 
 We act as the middleman between you and the professional. Share a short brief and we match you with a limited company accountant who has the right experience and capacity. Enquiring is free, and you are under no obligation to accept a quote.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Professional reviewing a client's brief before an introduction for limited company accountant near me](/assets/images/healthcare-consult.jpg)
+![Accountancy practice ready to take on a new enquiry for limited company accountant near me](/assets/images/insurance-advisory.jpg)
 
-## Common reasons people contact accountants
+## What people searching for a limited company accountant usually need
 
-Every enquiry is different, but these are typical starting points for clients who contact accountants:
+Most people behind this search want practical help with the ongoing duties of running a limited company, not just a one-off tax return.
 
-- A sole trader filing a first Self Assessment return.
-- A landlord with rental income from one or several properties.
-- A VAT registration or a change of VAT scheme.
-- A contractor deciding how to work and how to pay themselves.
-- A business sale, restructure or investment round that needs proper numbers.
+- You've recently incorporated a limited company and need to understand what accounts and returns have to be filed, and when.
+- You're already trading through a limited company but your current accountant isn't local or isn't giving you the attention you need.
+- You want someone to prepare your annual accounts for Companies House and your corporation tax return for HMRC.
+- You're unsure how to pay yourself efficiently through a mix of salary and dividends, and want advice on the tax consequences.
+- You need help with the confirmation statement and other routine filings, and want to know who is responsible for sending what.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of accountant fits best.
-
-## After the introduction
+## What happens after you are introduced
 
 After the introduction, the practice will usually run its own onboarding: identity checks required under money-laundering rules, an engagement letter and authority to act with HMRC. From then on the relationship is between you and the accountant. You stay free to change firms later; a professional clearance letter makes handovers straightforward.
+
+## What to understand about limited company accounting
+
+A limited company has its own filing obligations that are separate from your personal tax return. Accounts must go to Companies House and a corporation tax return to HMRC, and as a director you may also need to file a Self Assessment return. A good accountant will make clear which of these they will handle for you and which remain your responsibility.
+
+The word "accountant" is not a protected title in the UK, so it's worth asking about professional qualifications and supervision. Titles such as Chartered Accountant, Chartered Certified Accountant and Chartered Management Accountant are protected, and every practice offering accountancy services must be supervised for anti-money-laundering purposes by a professional body or HMRC.
+
+**Need a limited company accountant?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
+
+## Questions to ask the professional
+
+Asking a few direct questions early tells you a lot about how a practice works:
+
+- Will you prepare and file the annual accounts with Companies House and the corporation tax return with HMRC?
+- Do you handle director Self Assessment returns, and is that included in your quote?
+- Who will submit the confirmation statement each year?
+- Can you help me plan a tax-efficient mix of salary and dividends before the year end?
+- Which professional body supervises your practice for anti-money-laundering purposes, and do you hold professional indemnity insurance?
+- How do you handle complaints if I'm unhappy with your service?
+
+## What to tell iComply when you enquire
+
+You do not need all of this to enquire, but the more you can share, the better the match:
+
+- Say that you're looking for an accountant for a limited company and whether the company is already trading or still dormant.
+- Mention where you're based and how far you're willing to travel, since you searched for someone near you.
+- Explain what you need help with, such as annual accounts, corporation tax, confirmation statements, payroll or director Self Assessment.
+- Let us know if you're behind with any filings or have received reminders from Companies House or HMRC.
+- Say whether you already have an accountant and, if so, whether you're looking to switch.
+- Include any preferences, such as wanting someone who can meet in person or who works with your particular sector.
+
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+
+![Next steps after an iComply introduction for a limited company accountant](/assets/images/finance-desk.jpg)
 
 ## Qualifications and registration to look for
 
@@ -42,31 +76,24 @@ In the UK, the word "accountant" on its own is not a protected title, so anyone 
 
 Every practice offering accountancy services must also be supervised for anti-money-laundering purposes, either by a professional body or by HMRC. It is reasonable to ask which body supervises a firm, whether they hold professional indemnity insurance, and how complaints are handled.
 
-Please note that iComply is a matching service only. We are not regulated as a accountant, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
+Please note that iComply is a matching service only. We are not regulated as an accountant, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
 
-**Need a limited company accountant?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
-
-## How our free matching service works
+## From enquiry to quote in four steps
 
 1. **Enquire for free** with your town or postcode and a short description.
 1. **We clarify** anything unclear, so the introduction is useful from the start.
 1. **We connect you** with a limited company accountant who suits your situation.
 1. **The practice takes over**, confirms scope and fees in writing and does the work.
 
-We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
+There is no charge to you for the introduction, and no obligation to accept any quote.
 
-## Questions to ask a limited company accountant
+## Costs and quotes for a limited company accountant
 
-Asking a few direct questions early tells you a lot about how a practice works:
+Accountancy fees depend on the complexity of your affairs, the quality of your records and how much of the work you want the accountant to take on. Many practices offer fixed monthly or annual packages; others charge for time. Either can be fair if the scope is written down. iComply does not set or publish fees: the practice will quote you, and that quote is POA.
 
-- How do you handle Making Tax Digital requirements?
-- What do you need from me each month or each year?
-- What is included, and what would be charged as extra work?
-- Do you have experience with businesses or income like mine?
-- Who will actually prepare my accounts, and who reviews them?
-- How quickly do you usually reply to emails and calls?
+Ask for an engagement letter before work starts. It should list what is included, your responsibilities, deadlines and how extra work is charged. Comparing two or three written scopes is usually more useful than comparing headline prices.
 
-## Before you choose a limited company accountant
+## Practical points about a limited company accountant
 
 A few points come up again and again with a limited company accountant:
 
@@ -76,44 +103,25 @@ A few points come up again and again with a limited company accountant:
 
 Raise any of these with the accountant you are introduced to; they should be happy to explain.
 
-![Planning the first appointment after an enquiry for limited company accountant near me](/assets/images/finance-desk.jpg)
+![Planning the first appointment after an enquiry for limited company accountant near me](/assets/images/hero-workshop.jpg)
 
-## Near me: how local matching works
+## FAQs about limited company accountant near me
 
-When you search for a limited company accountant near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
+### Do I need an accountant who is local to me?
 
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
+Not necessarily, but many people prefer someone they can meet face to face, especially when setting up a limited company. If you search for a limited company accountant near me, you're probably looking for that convenience, but you can also ask whether they work remotely.
 
-## How fees usually work (POA)
+### What is the difference between a bookkeeper and an accountant for a limited company?
 
-Accountancy fees depend on the complexity of your affairs, the quality of your records and how much of the work you want the accountant to take on. Many practices offer fixed monthly or annual packages; others charge for time. Either can be fair if the scope is written down. iComply does not set or publish fees: the practice will quote you, and that quote is POA.
+A bookkeeper typically records day-to-day transactions, while an accountant prepares the annual accounts and tax returns and can advise on tax planning. For a limited company, you need someone who can handle the statutory filings with Companies House and HMRC.
 
-Ask for an engagement letter before work starts. It should list what is included, your responsibilities, deadlines and how extra work is charged. Comparing two or three written scopes is usually more useful than comparing headline prices.
+### Can I prepare my own limited company accounts?
 
-## What to prepare before you enquire
+It is possible to prepare and file your own accounts and tax returns, but many directors use an accountant to avoid mistakes and to get advice on tax planning. The requirements can be complex, and penalties can apply for late filing.
 
-You do not need all of this to enquire, but the more you can share, the better the match:
+### What should I have ready when I first contact an accountant?
 
-- Your Unique Taxpayer Reference or company number
-- The type of business or income you have (sole trader, partnership, company, landlord, employee)
-- The deadlines you know about and any letters from HMRC
-- Whether you are VAT registered or close to the threshold
-- Rough annual turnover or income range
-- The services you think you need, even if you are unsure
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
-
-## Typical timescales
-
-Most practices can take on a new client within a few weeks, but capacity tightens sharply in the run-up to the 31 January Self Assessment deadline and around company year ends. If you have a deadline coming up, say so in your enquiry so we can prioritise practices with room to help now.
-
-![Next steps after an iComply introduction for a limited company accountant](/assets/images/hero-workshop.jpg)
-
-## Limited Company Accountant Near Me: FAQs
-
-### Do I need a chartered accountant?
-
-Not always. For simple Self Assessment a qualified, supervised accountant may be enough. For audits, complex group structures or specialist tax work, a chartered or certified firm is often the safer choice. We can match you to either.
+It helps to have your company registration number, recent bank statements, and any records of income and expenses. If you're switching accountants, have your latest accounts and tax returns to hand.
 
 ### Can I switch accountant part-way through the year?
 
@@ -123,29 +131,25 @@ Yes. Your new accountant will contact the old one for professional clearance and
 
 Send us your town or postcode with a short description of what you need. We look for a suitable accountancy practice with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
 
-### Do I have to accept a quote?
+### Is iComply regulated?
 
-No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
+iComply is a matching service. We are not an accountant and we do not give professional advice. The professionals we introduce are registered with their own bodies, and you can check them.
 
-### How quickly will I hear back?
+### Is it free to use iComply?
 
-Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
+Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
 
-### Can I contact you on WhatsApp?
+## Other services you may need
 
-Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
-
-## Related searches
-
+- [Construction accountant near me](/keywords/construction-accountant-near-me/)
+- [Portfolio landlord accountant near me](/keywords/portfolio-landlord-accountant-near-me/)
 - [CIS accountant near me](/keywords/cis-accountant-near-me/)
-- [Commercial accountant near me](/keywords/commercial-accountant-near-me/)
-- [Crypto accountant near me](/keywords/crypto-accountant-near-me/)
-- [Dentist accountant near me](/keywords/dentist-accountant-near-me/)
-- [Medical accountant near me](/keywords/medical-accountant-near-me/)
+- [Best accountant near me](/keywords/best-accountant-near-me/)
+- [CIMA accountant near me](/keywords/cima-accountant-near-me/)
 - [Browse all accountants](/hubs/accountants/)
 
-## Ready to be matched?
+## Request your free quote
 
-One short enquiry is all it takes. We connect you with a limited company accountant who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
+Tell us what you need and where you are. We will match you with a suitable accountant, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
 
 [Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

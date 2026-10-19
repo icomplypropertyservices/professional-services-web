@@ -1,0 +1,69 @@
+{
+ "intro": "When you type \"immigration advisor near me\", you're likely looking for someone local who can guide you through a visa application, an extension, settlement, or a refusal. You want to know who is properly regulated to give immigration advice and how to get a quote for your situation. iComply introduces you to a suitable UK immigration adviser who can quote you directly, with fees on application.",
+ "need_heading": "What people searching for an immigration adviser nearby usually need",
+ "need_lead": "Most people want clear, regulated help with a specific immigration matter, without wasting time on unqualified advisers.",
+ "needs": [
+  "You need to apply for a visa to join family or work in the UK and want to make sure your evidence meets the rules.",
+  "You are extending or switching your current visa and are unsure which category fits your circumstances.",
+  "You have received a refusal and want advice on whether you can challenge it or reapply.",
+  "You are applying for settlement or naturalisation and need help showing you meet the requirements.",
+  "You want to check that an adviser is properly registered before sharing personal documents or paying any money."
+ ],
+ "context_heading": "The key thing to understand before you choose an adviser",
+ "context": [
+  "In the UK, it is a criminal offence to give immigration advice unless the adviser is qualified and regulated. They must be registered with the Immigration Advice Authority (IAA, formerly the OISC) at the right level for your matter, or be a solicitor, barrister or chartered legal executive authorised by their own regulator. You can check the IAA's adviser finder or the SRA register before you share documents or pay.",
+  "IAA advisers are registered at levels that limit what they can do, from basic applications to appeals and representation. Ask what level an adviser holds and whether it covers your type of case. Fees are usually quoted on application, so you can compare what is included before you commit."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the type of application or matter you need help with, such as a family visa, work visa, extension, settlement, naturalisation or a refusal.",
+  "Say where you are based and whether you need someone nearby or are happy to work with an adviser remotely.",
+  "Mention any deadlines you are working towards, such as a visa expiry or a response date on a refusal.",
+  "Explain whether you have already started an application or received a decision.",
+  "Include the country you are applying from or your current immigration status in the UK.",
+  "Note any particular needs, such as language preferences or accessibility requirements."
+ ],
+ "questions_heading": "Questions to ask the immigration adviser",
+ "questions": [
+  "Are you registered with the Immigration Advice Authority, and at what level?",
+  "If you are a solicitor or barrister, which regulator authorises you?",
+  "Does your registration cover the type of application I need help with?",
+  "What information and documents will you need from me to provide a quote?",
+  "How will you keep me updated on the progress of my case?",
+  "What are your fees and what do they include?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check that an immigration adviser is properly regulated?",
+   "a": "You can check the Immigration Advice Authority's adviser finder or the Solicitors Regulation Authority register, depending on how the adviser is regulated. Always do this before sharing documents or paying any money."
+  },
+  {
+   "q": "Can iComply give me immigration advice?",
+   "a": "No, iComply is not regulated to give immigration advice and does not provide the service itself. We introduce you to a suitable UK immigration adviser who can advise you and quote you directly."
+  },
+  {
+   "q": "What does 'price on application' mean for immigration advice?",
+   "a": "It means the adviser will quote you a fee after learning about your situation, as costs vary with the complexity of the case. You can then compare quotes and decide what suits you."
+  },
+  {
+   "q": "Do I need to use an adviser, or can I apply myself?",
+   "a": "You can make some immigration applications yourself, but the rules and evidence requirements can be detailed. A regulated adviser can help you understand what is needed for your particular case."
+  }
+ ],
+ "extra_heading": "Finding an adviser who is genuinely near you",
+ "extra": [
+  "Searching for an immigration advisor near me often means you want to sit down with someone face to face, perhaps because your case involves documents you would rather hand over in person or because English is not your first language. But 'near me' can be misleading: a local adviser may not be regulated for your type of case, while a slightly further one may be. The key is to check regulation first, then location.",
+  "When comparing advisers, ask whether they offer appointments in person, by phone or online, and whether they charge for an initial consultation. Some advisers will give a free short assessment; others charge. Either way, ask what the fee covers and whether it is deducted from the total if you proceed. This helps you compare like for like.",
+  "At a first appointment, the adviser should explain their regulatory status and what they can and cannot do for you. They will ask about your immigration history and your goals, and tell you what evidence you need. You should leave with a clear idea of the next steps and a written quote for the work."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Can I use an adviser who is not local to me?",
+   "a": "Yes. Many people work with advisers remotely by phone, email or video call. What matters most is that the adviser is properly regulated for your type of case, not where they are based."
+  },
+  {
+   "q": "What should I bring to a first meeting with an immigration adviser?",
+   "a": "Bring any letters from the Home Office, your passport and immigration documents, and a note of your immigration history. Also bring a list of questions and be ready to explain what you want to achieve."
+  }
+ ]
+}

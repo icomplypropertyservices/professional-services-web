@@ -1,0 +1,74 @@
+{
+ "intro": "You've searched for the best barrister rated near me, so you're likely facing a legal problem that needs specialist advocacy or advice and want someone local and well regarded. The word best means different things for different cases, so it helps to know what to look for. We can introduce you to a barrister who matches your needs, and they will quote you directly.",
+ "need_heading": "What people searching for a well-regarded barrister usually need",
+ "need_lead": "People often search for a well-regarded barrister when they want strong representation or clear advice on a specific legal issue.",
+ "needs": [
+  "You have a court hearing coming up and want a barrister who regularly appears in that type of case.",
+  "You need an expert opinion on the strength of your case before deciding what to do next.",
+  "You want someone to draft or settle legal documents, such as a statement of case or a witness statement.",
+  "You are considering instructing a barrister directly under the Public Access scheme and want to find one near you.",
+  "You have been referred by a solicitor but would like to know more about the barrister's specialism and approach."
+ ],
+ "context_heading": "Understanding barrister ratings and regulation",
+ "context": [
+  "Barristers in England and Wales are regulated by the Bar Standards Board (BSB). You can check the Barristers' Register to confirm whether someone holds a current practising certificate and whether they are authorised to accept instructions directly from the public. In Scotland, the equivalent professionals are advocates, regulated through the Faculty of Advocates.",
+  "There is no official rating of barristers, so the best barrister for you depends on their relevant specialism, experience in cases like yours, and how clearly they explain things. Many barristers work from chambers with clerks who manage diaries and fees, and those registered under the Public Access scheme can be instructed directly by members of the public for suitable matters."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the legal issue you need help with, including the type of court or tribunal involved if you know it.",
+  "Say whether you are looking for advice, representation at a hearing, drafting of documents, or a combination.",
+  "Mention any important deadlines or hearing dates so the barrister can check their availability.",
+  "Confirm whether you are instructing directly or through a solicitor, as this affects how the barrister is engaged.",
+  "Explain what you mean by 'best' for you, such as specific expertise, location, or a particular approach to your case.",
+  "Include your location and how far you are willing to travel, since 'near me' can mean different things."
+ ],
+ "questions_heading": "Questions to ask the barrister",
+ "questions": [
+  "What is your experience in cases like mine, and do you specialise in this area of law?",
+  "Are you authorised to accept instructions directly from the public under the Public Access scheme?",
+  "How will you keep me informed about the progress of my case?",
+  "What are your fees likely to be for the work I need, and how will they be agreed?",
+  "Can you explain the strengths and weaknesses of my case in plain language?",
+  "What outcomes have you achieved in similar cases, and what would you advise as the next step?"
+ ],
+ "faqs": [
+  {
+   "q": "How can I check if a barrister is properly regulated?",
+   "a": "You can check the Barristers' Register on the Bar Standards Board's official register to see if someone holds a current practising certificate and whether they are authorised for Public Access work."
+  },
+  {
+   "q": "What does 'rated' mean for a barrister?",
+   "a": "There is no official rating system for barristers. Ratings you see elsewhere may reflect client feedback or directory entries, but they are not a promise of quality. It's best to focus on the barrister's relevant specialism and experience."
+  },
+  {
+   "q": "Can I instruct a barrister directly without a solicitor?",
+   "a": "Yes, if the barrister is registered under the Public Access scheme and your matter is suitable. The barrister will tell you if your case needs a solicitor instead."
+  },
+  {
+   "q": "How do I find a barrister near me?",
+   "a": "Barristers usually work from chambers, and many accept instructions from clients across the country. When you enquire, tell us your location and how far you are willing to travel so we can introduce you to a suitable barrister."
+  }
+ ],
+ "extra_heading": "Comparing barristers when \"best\" and \"rated\" mean different things",
+ "extra": [
+  "When you search for the best barrister rated near me, part of what you are weighing is reputation, and reputation in the Bar works differently from other services. Barristers are usually grouped in chambers, and the clerks there manage diaries and fees and can tell you which members handle your kind of case. A barrister known for criminal advocacy may be exactly wrong for a boundary dispute, so ask about specialism in your area of law before anything else.",
+  "Ratings you come across elsewhere may come from client feedback or legal directories, and neither is an official mark of quality. The Bar Standards Board does not rate barristers, so treat any ranking as one view among several rather than a verdict. A more reliable approach is to ask how often the barrister has handled matters like yours and whether they can explain your position in plain language.",
+  "Near me can be misleading too, because barristers frequently travel and much advice and drafting is done remotely. Ask whether your hearing or tribunal is one the barrister can attend conveniently, and whether travel affects how they work with you. If you want to instruct directly, check on the Barristers' Register that the barrister holds a current practising certificate and is authorised for Public Access.",
+  "At a first appointment, expect the barrister to ask for the documents and dates that matter, then set out the strengths and weaknesses of your position. They should explain what they can do, whether your matter is suitable for direct instruction, and how fees will be agreed for that defined piece of work. Come away knowing the next step rather than a vague sense of reassurance."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I choose a barrister by ratings or by specialism?",
+   "a": "Specialism matters more, because a barrister who regularly handles your kind of case will understand the procedure and the arguments that tend to work. Ratings can be a starting point for a shortlist, but ask about relevant experience and how clearly they explain things before deciding."
+  },
+  {
+   "q": "Does a barrister near me have to be in my town?",
+   "a": "Not necessarily. Barristers often work from chambers and travel for hearings, and a good deal of advice and drafting is done remotely. What matters is whether they can attend the court or tribunal that applies to you and whether the practical arrangements suit you."
+  },
+  {
+   "q": "Can I ask about fees before I commit?",
+   "a": "Yes. Barristers usually agree fees for a defined piece of work, and the clerks at chambers manage diaries and fees. Ask what the fee covers, whether it is fixed or estimated, and what might change it, so you can compare quotes on a like-for-like basis."
+  }
+ ]
+}

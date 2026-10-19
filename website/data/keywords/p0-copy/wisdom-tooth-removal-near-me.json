@@ -1,0 +1,53 @@
+{
+ "intro": "You've searched for wisdom tooth removal near you, so you're likely in pain or have been told your wisdom tooth needs to come out. Finding a local private dentist who can assess it and talk you through the options is a sensible next step. We can introduce you to a UK professional who will quote you directly.",
+ "need_heading": "What people searching for wisdom tooth removal usually need",
+ "need_lead": "Most people want a clear answer about whether the tooth should come out and what that involves.",
+ "needs": [
+  "You have pain or swelling at the back of your mouth and want a dentist to look at it soon.",
+  "Your dentist has mentioned your wisdom tooth and you want a second opinion on whether removal is needed.",
+  "You have been told the tooth is impacted or close to a nerve and want to see someone experienced in complex cases.",
+  "You want to understand what the recovery will involve before you commit to treatment.",
+  "You need a private dentist near you because you are not registered with an NHS dentist or want to be seen sooner."
+ ],
+ "context_heading": "What to understand about wisdom tooth removal",
+ "context": [
+  "Wisdom tooth removal is considered when a wisdom tooth causes infection, decay, pain or damage to neighbouring teeth. An X-ray is usually taken to see how the tooth is positioned and to guide the decision. If the case is complex, such as an impacted tooth or one near a nerve, you may be referred to an oral surgeon.",
+  "Private dentists must be registered with the General Dental Council (GDC), and you can check the register online. Private clinics providing regulated healthcare in England must register with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales it is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA. If something goes wrong with private treatment, start with the practice's complaints process, and the Dental Complaints Service can help if it is not resolved."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe your symptoms, such as pain, swelling or difficulty opening your mouth, and how long you have had them.",
+  "Say whether your dentist has already taken an X-ray or mentioned the position of the tooth.",
+  "Mention if you have been told the tooth is impacted or near a nerve, or if you have been referred to an oral surgeon.",
+  "Let us know if you have any health conditions or take medication that might affect healing or treatment.",
+  "Say whether you would prefer to be seen quickly or can wait for a routine appointment.",
+  "Give your location and how far you are willing to travel to see a dentist."
+ ],
+ "questions_heading": "Questions to ask the dentist",
+ "questions": [
+  "Will you take an X-ray to see how my wisdom tooth is positioned?",
+  "Do you think removal is needed, or could it be managed another way?",
+  "Will you do the removal yourself, or would you refer me to an oral surgeon?",
+  "What can I expect during the procedure, and will I need sedation or a local anaesthetic?",
+  "How should I plan my recovery, and what aftercare will I need?",
+  "What are the risks of removal in my case, especially if the tooth is near a nerve?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I always need my wisdom tooth removed?",
+   "a": "No, not always. Removal is considered when the tooth causes infection, decay, pain or damage to neighbouring teeth, and an X-ray helps guide that decision."
+  },
+  {
+   "q": "Will the dentist take an X-ray first?",
+   "a": "Yes, an X-ray is usually taken to see the position of the tooth and to plan the treatment. It helps the dentist decide whether removal is straightforward or needs an oral surgeon."
+  },
+  {
+   "q": "How long is recovery after wisdom tooth removal?",
+   "a": "Recovery varies from person to person, but it is sensible to plan a few days of rest and soft food. Your dentist will give you specific aftercare advice."
+  },
+  {
+   "q": "What if I have a complaint about private treatment?",
+   "a": "Start with the practice's complaints process. If it is not resolved, the Dental Complaints Service can help with private dental complaints."
+  }
+ ]
+}

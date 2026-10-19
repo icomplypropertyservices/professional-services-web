@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for emergency dental near me, you are likely in pain, worried about an injury, or facing a problem that cannot wait for a routine appointment. You need to know who can see you quickly and what to do while you wait. We can introduce you to a private dentist who handles urgent dental care, and they will quote you directly.",
+ "need_heading": "What people searching for emergency dental near me usually need",
+ "need_lead": "Most people searching for emergency dental near me need fast, practical help for a problem that is causing pain or distress right now.",
+ "needs": [
+  "You have severe toothache that is keeping you awake or stopping you from eating and drinking normally.",
+  "You have a swollen face or jaw, which can be a sign of infection that needs urgent attention.",
+  "You have knocked out an adult tooth or broken a tooth in an accident, and you are not sure what to do next.",
+  "You have bleeding from the mouth that will not stop, or you have injured your mouth and need to know whether it is serious.",
+  "You have lost a filling or crown and the tooth is sensitive or sharp, making it hard to eat or speak comfortably."
+ ],
+ "context_heading": "What to understand about emergency dental care",
+ "context": [
+  "Emergency dental care treats pain, infection and trauma quickly, then plans follow-up treatment. Pain relief may come first, and a permanent fix often follows at a later appointment. If you have knocked out an adult tooth, keep it in milk and seek help promptly.",
+  "Dentists, dental hygienists, dental therapists and dental nurses must be registered with the General Dental Council (GDC), and you can check the GDC register online. Private clinics providing regulated healthcare in England must register with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA. If something goes wrong with private dental treatment, start with the practice's complaints process, and the Dental Complaints Service can help with private dental complaints that are not resolved."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe your main symptom, such as severe pain, swelling, bleeding, or a broken or knocked-out tooth.",
+  "Say when the problem started and whether it is getting worse.",
+  "Mention any recent injury to your mouth or face.",
+  "Explain what you have already tried for relief, such as painkillers or a cold compress.",
+  "Say whether you have a regular dentist and whether you are looking for private care.",
+  "Give your location and say how far you are able to travel for an appointment."
+ ],
+ "questions_heading": "Questions to ask the dentist",
+ "questions": [
+  "How soon can you see me for this problem?",
+  "What can I do to manage the pain or swelling before my appointment?",
+  "Will you treat the immediate problem first and plan follow-up care?",
+  "What will the emergency appointment involve and what will it cost?",
+  "Do you have experience treating this kind of dental emergency?",
+  "What should I do if my symptoms get worse before I am seen?"
+ ],
+ "faqs": [
+  {
+   "q": "What should I do if I knock out an adult tooth?",
+   "a": "Keep the tooth in milk and seek dental help promptly. Do not try to put a baby tooth back in."
+  },
+  {
+   "q": "Can a private dentist help with severe toothache?",
+   "a": "Yes, a private dentist can assess the cause of severe toothache and provide urgent treatment. Pain relief may come first, with permanent treatment planned afterwards."
+  },
+  {
+   "q": "How do I know the dentist is properly registered?",
+   "a": "You can check the General Dental Council (GDC) register online to confirm the dentist is registered. Private clinics providing regulated healthcare in England must also register with the Care Quality Commission (CQC), which inspects and publishes ratings."
+  },
+  {
+   "q": "What if I am not happy with the private dental treatment I receive?",
+   "a": "Start with the practice's complaints process. If the complaint is not resolved, the Dental Complaints Service can help with private dental complaints."
+  }
+ ],
+ "extra_heading": "Getting help quickly without a regular dentist",
+ "extra": [
+  "Searching for emergency dental near me often means you do not have a regular dentist to call, or your usual practice is closed and you cannot wait until it reopens. That is a common position, and it helps to say so plainly when you enquire, because the dentist will want to know whether anyone already holds your dental records. If you do have a regular dentist, mention them too, as they may be able to see you sooner than you expect.",
+  "Before you travel, think about what you can safely do at home. A cold compress held against the outside of your cheek can ease swelling, and a pharmacist can advise on pain relief that is suitable for you. If your face or jaw is swelling and you feel unwell, or you have trouble breathing or swallowing, seek urgent medical help rather than waiting for a dental appointment, and call 999 if it is an emergency.",
+  "When you compare practices for urgent care, ask two practical questions: whether they keep time aside for people in pain, and what the emergency appointment covers. An urgent visit often deals with the immediate problem and plans the permanent treatment as a separate step, so ask what happens next and what each stage involves. Price is on application, so ask for the cost of the urgent visit and any follow-up before you agree to be seen."
+ ],
+ "extra_faqs": [
+  {
+   "q": "I do not have a regular dentist — can I still be seen for an emergency?",
+   "a": "Yes. Private practices can see people who are not registered with them, though you should say when you enquire that you do not have a regular dentist. It also helps to mention any treatment you have had recently and any medication you take."
+  },
+  {
+   "q": "When is a dental problem too urgent to wait for a dental appointment?",
+   "a": "If you have swelling around your face or jaw that is spreading, or you are having difficulty breathing or swallowing, treat it as a medical emergency and call 999. For advice when it is not life-threatening, NHS 111 can guide you on where to go."
+  },
+  {
+   "q": "Will the emergency appointment fix the problem for good?",
+   "a": "Not always. Emergency dental care treats pain, infection and trauma quickly, then plans follow-up treatment, so pain relief may come first and the permanent repair may happen at a later visit. Ask the dentist to explain what has been done and what still needs doing."
+  }
+ ]
+}

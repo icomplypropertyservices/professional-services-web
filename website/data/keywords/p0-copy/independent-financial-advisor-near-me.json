@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for an independent financial advisor near me, you're likely looking for someone local who can give you unbiased advice across the whole market. You want to understand your options without feeling tied to a particular provider, and you'd like to know who is qualified to help you make important financial decisions.",
+ "need_heading": "What people searching for an independent financial advisor near me usually need",
+ "need_lead": "Most people want clear, impartial guidance on a specific financial decision and prefer to speak with someone nearby.",
+ "needs": [
+  "You want help planning for retirement but are unsure which pension options are right for you.",
+  "You have received a lump sum or inheritance and need advice on how to invest it wisely.",
+  "You are considering whether to transfer a defined benefit pension and want independent guidance.",
+  "You need advice on protecting your family with life insurance or income protection.",
+  "You are looking for someone local who can look over your existing investments and suggest improvements."
+ ],
+ "context_heading": "Understanding independent versus restricted advice",
+ "context": [
+  "Independent financial advisers must consider the whole market and are not tied to particular providers. Restricted advisers, on the other hand, focus on a limited range of products or providers. Both can offer good advice, but independent advice gives you access to a wider choice.",
+  "Financial advice in the UK is regulated by the Financial Conduct Authority (FCA). You can check that any adviser or firm is authorised on the FCA register. Advisers must also tell you whether their advice is independent or restricted and explain how they charge."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Mention the specific financial goal you want help with, such as retirement planning or investment advice.",
+  "Say whether you prefer to meet an adviser in person and how far you are willing to travel.",
+  "Explain if you have existing pensions, investments or policies that need looking over.",
+  "Indicate whether you have a preference for independent or restricted advice.",
+  "Share any timescales you have in mind, such as planning to retire in the next few years.",
+  "Note if you would like the adviser to explain their charges clearly before you commit."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you independent or restricted, and what does that mean for the advice I will receive?",
+  "How do you charge for your services, and will I receive a clear breakdown in writing?",
+  "Are you and your firm authorised by the Financial Conduct Authority?",
+  "What qualifications and experience do you have in the area I need help with?",
+  "Will you provide your recommendations in writing, including the reasons behind them?",
+  "What ongoing service do you offer, and how often will we go over my arrangements?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check that an adviser is authorised?",
+   "a": "You can check the Financial Conduct Authority (FCA) register to see if an adviser or firm is authorised. The register will show whether they are independent or restricted and what permissions they have."
+  },
+  {
+   "q": "What is the difference between independent and restricted advice?",
+   "a": "Independent advisers must consider the whole market and are not tied to particular providers. Restricted advisers focus on a limited range of products or providers. Both can offer good advice, but independent advice gives you access to a wider choice."
+  },
+  {
+   "q": "Will I have to pay for the initial meeting?",
+   "a": "Some advisers offer a free initial consultation, while others charge for their time from the start. It is best to ask about fees upfront so you know what to expect."
+  },
+  {
+   "q": "Can I complain if I am unhappy with the advice?",
+   "a": "Yes, you can complain to the firm first. If you are not satisfied with their response, you can take your complaint to the Financial Ombudsman Service. The Financial Services Compensation Scheme may also protect you if an authorised firm fails."
+  }
+ ],
+ "extra_heading": "Choosing an adviser who is genuinely near you",
+ "extra": [
+  "Searching for an independent financial advisor near me often means you would rather sit down face to face than work entirely by phone or online. Local knowledge can be useful, but the more important question is whether the adviser is authorised and independent, which you can check on the FCA register before you contact them.",
+  "Distance matters most for the first meeting and any regular reviews. Ask how the adviser usually works with clients who live nearby: whether they visit you at home, whether you go to their office, and whether they offer video or phone appointments for convenience. You should also ask whether they cover your specific need, such as retirement planning or investment advice, since some firms focus on particular areas.",
+  "When you speak to more than one local adviser, compare how clearly each explains their independence, their charges and what you will receive in writing. A nearby office is no substitute for a clear explanation of how they are paid, so ask for a written breakdown before you commit. If something goes wrong later, you can complain to the firm and then to the Financial Ombudsman Service."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Does an adviser need to be based in my town to be truly local?",
+   "a": "Not necessarily. Some advisers cover a wider area but still meet clients face to face, while others work mainly by phone or video. What matters is that you can reach them easily and that they understand your circumstances, so ask how they usually arrange meetings with clients near you."
+  },
+  {
+   "q": "How can I tell if an adviser is independent rather than restricted?",
+   "a": "Advisers must tell you whether their advice is independent or restricted, and you can also check the FCA register. Independent advisers must consider the whole market and are not tied to particular providers, while restricted advisers focus on a limited range of products or providers."
+  },
+  {
+   "q": "What should I have ready for a first meeting with a local adviser?",
+   "a": "It helps to gather details of any pensions, investments or policies you already hold, along with a clear idea of what you want to achieve. Write down your questions about charges and independence so you can compare answers from different advisers."
+  }
+ ]
+}

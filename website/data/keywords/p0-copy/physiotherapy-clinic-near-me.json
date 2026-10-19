@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for a physiotherapy clinic near me, you're likely looking for a local place to get hands-on help with a physical problem. You might be dealing with a sports injury, recovery from surgery, or a condition that affects how you move. Finding a clinic that suits your needs and is easy to get to can make a real difference.",
+ "need_heading": "What people searching for a physiotherapy clinic near me usually need",
+ "need_lead": "Most people want a convenient, well-equipped clinic with a registered physiotherapist who can assess and treat their specific issue.",
+ "needs": [
+  "You have a sports injury and want a clinic with gym equipment so you can do rehabilitation exercises under supervision.",
+  "You are recovering from surgery and need a physiotherapist who can guide you through a safe return to movement.",
+  "You have a neurological condition and are looking for a clinic with experience in this area.",
+  "You want to use your private health insurance and need to check whether the clinic is recognised by your insurer.",
+  "You are in pain and want a clinic that is easy to get to and can offer an appointment soon."
+ ],
+ "context_heading": "What to understand when choosing a physiotherapy clinic near you",
+ "context": [
+  "In the UK, 'physiotherapist' is a protected title, so anyone using it must be registered with the Health and Care Professions Council (HCPC). You can check the HCPC register online to confirm a physiotherapist's registration. Many physiotherapists are also members of the Chartered Society of Physiotherapy (CSP), which is shown by the letters MCSP after their name.",
+  "Physiotherapy clinics vary in the facilities they offer, such as gym equipment and specialist clinics for sport, spine or neurology. If you have a specific need, it's worth asking about the clinic's specialist interests. Also, if you plan to use health insurance, check that the clinic is recognised by your insurer before you book."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Describe the problem you need help with, such as a sports injury, post-surgery rehabilitation, or a neurological condition.",
+  "Mention any specialist interest you have, for example sport, spine or neurology, so we can introduce you to a suitable professional.",
+  "Say whether you need gym access for your rehabilitation, as not all clinics have this.",
+  "Let us know if you plan to use private health insurance and which insurer you are with.",
+  "Tell us your location and how far you are willing to travel to a clinic.",
+  "Share any preferences you have, such as a preference for a male or female physiotherapist or a particular day or time for appointments."
+ ],
+ "questions_heading": "Questions to ask the physiotherapist",
+ "questions": [
+  "Are you registered with the Health and Care Professions Council (HCPC)?",
+  "Do you have a special interest in my condition, such as sport, spine or neurology?",
+  "Does the clinic have gym equipment that I can use as part of my rehabilitation?",
+  "Are you recognised by my private health insurer?",
+  "What is the typical process for a first appointment and follow-up sessions?",
+  "Can you tell me about the fees for an initial assessment and any follow-up sessions?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check if a physiotherapist is properly qualified?",
+   "a": "You can check whether a physiotherapist is registered with the Health and Care Professions Council (HCPC) by searching the online register. Only those registered with the HCPC can legally use the title 'physiotherapist'. Many also hold membership of the Chartered Society of Physiotherapy (CSP), shown by MCSP after their name."
+  },
+  {
+   "q": "What should I expect at my first physiotherapy appointment?",
+   "a": "At your first appointment, the physiotherapist will usually assess your condition, ask about your medical history and discuss your goals. They may also provide some initial treatment or exercises. The exact process will depend on your individual needs and the clinic's approach."
+  },
+  {
+   "q": "Can I see a physiotherapist at a clinic near me through my private health insurance?",
+   "a": "Many private health insurers cover physiotherapy, but you should check with your insurer before booking. Ask the clinic whether they are recognised by your insurer and what information you need to provide. Some insurers require a referral from your GP."
+  },
+  {
+   "q": "What is the difference between a physiotherapy clinic and other types of therapy?",
+   "a": "Physiotherapy clinics are led by HCPC-registered physiotherapists who are trained to assess and treat a wide range of physical conditions. Other therapists, such as sports therapists or massage therapists, may offer helpful treatments but are not physiotherapists. For an injury, post-surgery rehabilitation or a neurological condition, it's important to see a registered physiotherapist."
+  }
+ ]
+}

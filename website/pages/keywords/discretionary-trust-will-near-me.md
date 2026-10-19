@@ -7,53 +7,46 @@ group: legal
 hub: wills-probate
 profession: wills and probate specialist
 service_label: Will with a discretionary trust
-og_image: /assets/images/healthcare-consult.jpg
+og_image: /assets/images/insurance-advisory.jpg
 ---
 
 # Discretionary Trust Will Near Me
 
-Searching for **discretionary trust will near me**? You probably want someone suitable, available and within reach. A discretionary trust will lets trustees decide how assets are used among a group of beneficiaries, giving flexibility and protection.
+You're looking for a discretionary trust will near you, which usually means you want more control over how your assets are passed on than a straightforward will allows. Perhaps you have a vulnerable family member, a complex family situation, or assets you want to protect for the longer term. A wills and probate specialist can explain how a discretionary trust will works and whether it suits your circumstances.
+
+A discretionary trust will lets trustees decide how assets are used among a group of beneficiaries, giving flexibility and protection.
 
 iComply Professional Services is a free matching service. You tell us what you need and where you are; we connect you with a suitable UK wills and probate specialist who can quote for the work. The practice provides the service, and every quote is POA.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Client explaining what they need before being matched with a will with a discretionary trust](/assets/images/healthcare-consult.jpg)
+![Client explaining what they need before being matched with a will with a discretionary trust](/assets/images/insurance-advisory.jpg)
 
-## What wills and probate specialists commonly help with
+## What people searching for a discretionary trust will near me usually need
 
-Every enquiry is different, but these are typical starting points for clients who contact wills and probate specialists:
+Most people who search for a discretionary trust will near me are trying to balance flexibility, protection and family security.
 
-- Planning for inheritance tax and passing on assets.
-- A blended family with children from different relationships.
-- Setting up lasting powers of attorney alongside a will.
-- Updating a will after marriage, divorce or a new relationship.
-- Dealing with the estate of a parent or partner who has died.
+- You want to provide for a child or adult who may not be able to manage money themselves, so trustees can decide how and when funds are used.
+- You have a family member who is receiving means-tested benefits and you want to avoid affecting their entitlement, while still helping them in the future.
+- You are worried about a beneficiary's creditors or a possible divorce, and you want the trust to protect assets from being lost outside the family.
+- You have a blended family and want to ensure your current partner is provided for while ultimately preserving assets for your children.
+- You want to leave a letter of wishes to guide your trustees on how you would like the trust to be used, without making it legally binding.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of wills and probate specialist fits best.
+## One key thing to understand about discretionary trust wills
 
-## Your relationship with the practice
+A discretionary trust will allows your trustees to decide how assets are used among a group of beneficiaries. This gives flexibility and protection, but trusts have their own tax rules, so it is important to understand the potential tax consequences. A specialist can explain how these rules apply to your situation.
 
-Once introduced, the practice will take instructions, carry out identity checks and confirm the fee in writing. They are responsible for the legal work. iComply does not draft wills or administer estates.
+Writing a will is not a reserved legal activity in England and Wales, so some will writers are not regulated. Solicitors (regulated by the SRA) and chartered legal executives (regulated by CILEx) are regulated, insured and covered by the Legal Ombudsman. Many specialists are also members of STEP or Solicitors for the Elderly. When choosing a provider, ask whether they are regulated, whether they hold professional indemnity insurance and where your original will is stored. Scotland has its own rules on succession and confirmation, so make sure your adviser practises in the right jurisdiction.
 
-## Good questions for your first call
+## How to check you are in safe hands
 
-Once you are introduced, these questions help you decide whether the wills and probate specialist is right for you:
+Solicitors (SRA) and chartered legal executives (CILEx) are regulated, insured and covered by the Legal Ombudsman. Many specialists are also members of STEP (the Society of Trust and Estate Practitioners) or Solicitors for the Elderly. Applying for a grant of probate on someone else's behalf for a fee is a reserved activity.
 
-- Do you also handle lasting powers of attorney?
-- For probate, what will you do and what will the executors do?
-- Is the fee fixed for the will, or charged by time?
-- Where will the original be stored, and is there a charge?
-- How do you estimate the cost of administering an estate?
-- What happens if a family member raises a dispute?
+When choosing a provider, ask whether they are regulated, whether they hold professional indemnity insurance and where your original will is stored. Scotland has its own rules on succession and confirmation, so make sure your adviser practises in the right jurisdiction.
+
+iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
 
 **Need a will with a discretionary trust?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
-
-## Looking for a will with a discretionary trust close to home
-
-When you search for a will with a discretionary trust near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
-
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
 
 ## How iComply matches you
 
@@ -64,72 +57,88 @@ Near-me searches return lots of results, from directories to adverts. Our role i
 
 We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
 
-## Timing and urgency
+## Warning signs to watch for
 
-A straightforward will can often be drafted within a few weeks of the first meeting. Estates take longer: obtaining a grant, collecting assets and paying debts commonly takes many months, more if property must be sold or there is a dispute.
+Most professionals are honest and competent, but it is worth knowing the warning signs:
+
+- No regulation and no professional indemnity insurance
+- Percentage fees for estate work without a clear explanation
+- Unwillingness to provide a written estimate
+- Pressure to buy add-on trusts or storage you do not need
 
 ![Next steps after an iComply introduction for a will with a discretionary trust](/assets/images/hero-workshop.jpg)
 
-## What a will with a discretionary trust is likely to cost (POA)
+## What to tell iComply when enquiring
 
-Simple wills are often offered at a fixed fee, while trusts, business assets and complex families take more time. Estate administration may be charged by time, as a fixed fee for set stages, or occasionally as a percentage of the estate. iComply does not publish fees; the practice will quote you, POA.
+You do not need all of this to enquire, but the more you can share, the better the match:
 
-Ask for the fee in writing, including storage, VAT and probate court fees. For estate work, ask for an estimate of the total cost and how often you will receive updates.
+- Mention that you are interested in a discretionary trust will and what you hope to achieve, such as protecting a vulnerable beneficiary or keeping assets in the family.
+- Describe your family circumstances, including any children from a previous relationship, a spouse or partner, or dependants with additional needs.
+- Explain whether any beneficiary receives means-tested benefits or has creditors, as this can affect how the trust is set up.
+- Say whether you already have a will and whether you want to update it or start afresh.
+- Confirm where you live, as the law differs across the UK, and whether you need advice on property or assets in another jurisdiction.
+- Let us know if you have a letter of wishes or any existing trust arrangements, so the specialist can take these into account.
+
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
 ## Key things to know about a will with a discretionary trust
 
-A few points come up again and again with a will with a discretionary trust:
+These practical points are worth knowing before you speak to anyone about a will with a discretionary trust:
 
 - Useful for vulnerable beneficiaries.
 - Trusts have tax rules.
 - Leave a letter of wishes.
 
-A good wills and probate specialist will talk you through each of these in plain English.
+Raise any of these with the wills and probate specialist you are introduced to; they should be happy to explain.
 
-## Information that helps us match you
+## Costs and quotes for a will with a discretionary trust
 
-You do not need all of this to enquire, but the more you can share, the better the match:
+Simple wills are often offered at a fixed fee, while trusts, business assets and complex families take more time. Estate administration may be charged by time, as a fixed fee for set stages, or occasionally as a percentage of the estate. The practice will quote you, POA.
 
-- Questions about care costs or inheritance tax
-- Who you would like as executors and guardians
-- Any property owned jointly, overseas or through a business
-- A list of main assets and roughly what they are worth
-- Who you would like to benefit, and anyone you want to exclude
-- Pension and life insurance nominations
+Ask for the fee in writing, including storage, VAT and probate court fees. For estate work, ask for an estimate of the total cost and how often you will receive updates.
 
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+## Questions to ask the professional
 
-## Checking wills and probate specialists are qualified and regulated
+Once you are introduced, these questions help you decide whether the wills and probate specialist is right for you:
 
-Writing a will is not a reserved legal activity in England and Wales, so some will writers are not regulated. Solicitors (SRA) and chartered legal executives (CILEx) are regulated, insured and covered by the Legal Ombudsman. Many specialists are also members of STEP (the Society of Trust and Estate Practitioners) or Solicitors for the Elderly. Applying for a grant of probate on someone else's behalf for a fee is a reserved activity.
-
-When choosing a provider, ask whether they are regulated, whether they hold professional indemnity insurance and where your original will is stored. Scotland has its own rules on succession and confirmation, so make sure your adviser practises in the right jurisdiction.
-
-Please note that iComply is a matching service only. We are not regulated as a wills and probate specialist, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
+- Are you regulated, and do you hold professional indemnity insurance?
+- What are the tax implications of setting up a discretionary trust will for my circumstances?
+- How will the trustees be able to use the trust assets for my beneficiaries?
+- Can I include a letter of wishes, and how would you help me draft it?
+- What are the costs involved in setting up and administering the trust?
+- How often should I revisit the trust will, and what triggers a fresh look?
 
 ![Wills and probate practice ready to take on a new enquiry for discretionary trust will near me](/assets/images/finance-desk.jpg)
 
-## FAQs about discretionary trust will near me
+## FAQs: a will with a discretionary trust
+
+### Do I need a discretionary trust will if I have a vulnerable child?
+
+A discretionary trust will can be useful for vulnerable beneficiaries because trustees can decide how assets are used for them over time. It can help ensure money is managed sensibly and protected from outside risks. A specialist can advise whether it is appropriate for your child's needs.
+
+### What is a letter of wishes and do I need one?
+
+A letter of wishes is a non-binding document that guides your trustees on how you would like the trust to be used. It can be helpful for explaining your intentions, especially in complex family situations. It is not legally binding, but trustees will usually consider it.
+
+### How are discretionary trusts taxed?
+
+Discretionary trusts have their own tax rules, including potential inheritance tax, income tax and capital gains tax implications. The rules can be complex and depend on the trust's assets and how it is managed. A wills and probate specialist can explain how these might apply to your situation.
+
+### Can I set up a discretionary trust will if I live in Scotland?
+
+Scotland has its own rules on succession and confirmation, so a discretionary trust will may be treated differently. It is important to use an adviser who practises in Scotland and understands Scots law. iComply can introduce you to a suitable professional in your jurisdiction.
 
 ### What happens if I die without a will?
 
 The intestacy rules decide who inherits, which may not reflect your wishes, especially for unmarried partners and stepchildren. A will lets you choose.
 
-### Do I need a solicitor for probate?
-
-Not always. Executors can apply for probate themselves for simpler estates. Many choose professional help where there is property, inheritance tax, overseas assets or family tension.
-
-### Can you find a will with a discretionary trust in my area?
+### How do I find a will with a discretionary trust near me?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable wills and probate practice with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
 
-### Can I contact you on WhatsApp?
+### How quickly will I hear back?
 
-Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
-
-### Do I have to accept a quote?
-
-No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
+Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
 
 ### Is iComply regulated?
 
@@ -137,15 +146,15 @@ iComply is a matching service. We are not a wills and probate specialist and we 
 
 ## People also look for
 
-- [Letters of administration near me](/keywords/letters-of-administration-near-me/)
-- [Property trust will near me](/keywords/property-trust-will-near-me/)
-- [Mirror wills near me](/keywords/mirror-wills-near-me/)
+- [Best inheritance dispute near me](/keywords/best-inheritance-dispute-near-me/)
+- [Business will near me](/keywords/business-will-near-me/)
 - [Best family trust near me](/keywords/best-family-trust-near-me/)
-- [Will writing near me](/keywords/will-writing-near-me/)
+- [Property trust will near me](/keywords/property-trust-will-near-me/)
+- [Deed of variation near me](/keywords/deed-of-variation-near-me/)
 - [Browse all wills and probate specialists](/hubs/wills-probate/)
 
-## Get a free quote for a will with a discretionary trust
+## Request your free quote
 
-Tell us what you need and where you are. We will match you with a suitable wills and probate specialist, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
+One short enquiry is all it takes. We connect you with a will with a discretionary trust who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
 
 [Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

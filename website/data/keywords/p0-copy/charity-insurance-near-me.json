@@ -1,0 +1,53 @@
+{
+ "intro": "You're looking for charity insurance near you because your organisation needs cover that fits the way it actually works — volunteers, events, trustees and all. A local insurance broker can talk through what your charity does and find a policy that matches, then quote you directly. iComply introduces you to a suitable UK professional; the quote and advice come from them, not from us.",
+ "need_heading": "What people searching for charity insurance near me usually need",
+ "need_lead": "Charities often need cover that goes beyond a standard business policy, because the risks involve volunteers, trustees and fundraising events.",
+ "needs": [
+  "You need cover for volunteers who give their time at your charity, in case something goes wrong while they are helping.",
+  "You are planning an event or fundraiser and want to know whether your existing cover is enough or if you need extra protection for the day.",
+  "You want trustee indemnity cover so that trustees are protected if a decision they make is later questioned.",
+  "Your charity holds property, equipment or cash, and you need insurance that reflects what you own and where it is kept.",
+  "You are setting up a new charity or changing what you do, and you need to arrange cover that matches your activities from the start."
+ ],
+ "context_heading": "Understanding charity insurance and how brokers work",
+ "context": [
+  "Insurance brokers and intermediaries in the UK must be authorised by the FCA, or be appointed representatives of an authorised firm. You can check them on the FCA register, and many brokers belong to the British Insurance Brokers' Association (BIBA), while some hold Chartered status from the Chartered Insurance Institute.",
+  "A broker must understand your charity's demands and needs, explain key policy features and exclusions, and tell you how they are paid. If a complaint is not resolved, you can take it to the Financial Ombudsman Service. iComply does not give advice or provide the insurance itself — we simply introduce you to a broker who can."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe what your charity does and the kinds of activities it runs, so the broker can match cover to your actual work.",
+  "Mention whether you use volunteers and roughly how many, as volunteer cover is often a key part of a charity policy.",
+  "List any events or fundraising activities you have planned, and whether they involve the public or take place away from your usual premises.",
+  "Explain what property or equipment the charity owns or uses, including any items kept at volunteers' homes or in storage.",
+  "Say whether you need trustee indemnity cover, and if so, what kind of decisions or responsibilities your trustees have.",
+  "Include your charity's location and where your activities mainly take place, since you are looking for a broker near you."
+ ],
+ "questions_heading": "Questions to ask the insurance broker",
+ "questions": [
+  "Does this policy cover our volunteers while they are working for the charity, and are there any conditions?",
+  "What is included for trustee indemnity, and what situations would not be covered?",
+  "If we run an event or fundraiser, will we need extra cover, and how do we arrange that?",
+  "Are there exclusions in this policy that might affect our particular activities or the property we use?",
+  "How are you paid for arranging this insurance, and will that be clear on the quote?",
+  "Are you authorised by the FCA, and can you explain how complaints are handled if we have a problem?"
+ ],
+ "faqs": [
+  {
+   "q": "Do charities need a special kind of insurance?",
+   "a": "Charities often need cover that addresses volunteers, trustees, events and fundraising, which may not be included in a standard business policy. A broker can explain what is typically included and help you decide what your charity needs."
+  },
+  {
+   "q": "Can a local broker help if our charity runs events?",
+   "a": "Yes, a broker can talk through your events and check whether your cover needs extending for the day. They can also explain what information they need about the event to arrange the right protection."
+  },
+  {
+   "q": "What does trustee indemnity cover protect?",
+   "a": "Trustee indemnity is designed to protect trustees if they are personally held responsible for certain decisions made on behalf of the charity. A broker can explain the scope and any limits of this cover."
+  },
+  {
+   "q": "How do I check that a broker is properly authorised?",
+   "a": "You can check whether a broker is authorised by the FCA on the FCA register. Many brokers also belong to BIBA, and some hold Chartered status from the Chartered Insurance Institute, which you can ask about."
+  }
+ ]
+}

@@ -7,30 +7,98 @@ group: legal
 hub: wills-probate
 profession: wills and probate specialist
 service_label: Letters of administration
-og_image: /assets/images/healthcare-consult.jpg
+og_image: /assets/images/insurance-advisory.jpg
 ---
 
 # Letters of Administration Near Me
 
-Searching for **letters of administration near me**? You probably want someone suitable, available and within reach. When someone dies without a valid will, the closest relative usually applies for letters of administration to deal with the estate.
+When someone dies without a valid will, the people left behind often need to apply for letters of administration to deal with the estate. You may be searching for 'letters of administration near me' because you are unsure who can apply, what the process involves, or where to find a local specialist. We introduce you to a wills and probate specialist who can explain the intestacy rules and quote you directly.
+
+When someone dies without a valid will, the closest relative usually applies for letters of administration to deal with the estate.
 
 Rather than calling round, you can send one enquiry to iComply. We look at your needs, location and timing, then introduce you to a suitable wills and probate practice. They quote you directly, POA, and you decide whether to go ahead.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Client explaining what they need before being matched with letters of administration](/assets/images/healthcare-consult.jpg)
+![Client explaining what they need before being matched with letters of administration](/assets/images/insurance-advisory.jpg)
 
-## Where wills and probate specialists can help
+## What people searching for letters of administration usually need
 
-You do not need to have everything worked out. Clients often come to us with situations like these:
+Most people looking for letters of administration are dealing with a death and need clear, local guidance on the next steps.
 
-- A first will after buying a home or having children.
-- Setting up lasting powers of attorney alongside a will.
-- Updating a will after marriage, divorce or a new relationship.
-- Planning for inheritance tax and passing on assets.
-- A dispute about a will or how an estate is being handled.
+- You are a close relative of someone who died without a valid will and need to know if you are entitled to apply for letters of administration.
+- You have been told you need a grant of letters of administration before you can access or distribute the estate.
+- You are unsure whether you need a solicitor or probate specialist to help you apply, or whether you can do it yourself.
+- You want to find a local wills and probate specialist who can explain the intestacy rules and handle the paperwork on your behalf.
+- You are an unmarried partner who has discovered you have no automatic right to inherit or apply, and you need advice on your position.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of wills and probate specialist fits best.
+## Practical points about letters of administration
+
+A few points come up again and again with letters of administration:
+
+- Intestacy rules decide who can apply.
+- The process is similar to probate.
+- Unmarried partners have no automatic rights.
+
+A good wills and probate specialist will talk you through each of these in plain English.
+
+## One key thing to understand about letters of administration
+
+Letters of administration are granted when someone dies without a valid will. The intestacy rules decide who can apply, and the process is similar to probate. Unmarried partners have no automatic rights under these rules, so it is important to get advice if you are in that situation.
+
+Applying for a grant of probate on someone else's behalf for a fee is a reserved legal activity. That means anyone you pay to handle the application for you must be regulated. Solicitors are regulated by the SRA and chartered legal executives by CILEx, and both are covered by the Legal Ombudsman. Many specialists are also members of STEP or Solicitors for the Elderly.
+
+**Need letters of administration?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
+
+## How fees usually work (POA)
+
+Simple wills are often offered at a fixed fee, while trusts, business assets and complex families take more time. Estate administration may be charged by time, as a fixed fee for set stages, or occasionally as a percentage of the estate. The practice will quote you, POA.
+
+Ask for the fee in writing, including storage, VAT and probate court fees. For estate work, ask for an estimate of the total cost and how often you will receive updates.
+
+## Questions to ask the professional
+
+Once you are introduced, these questions help you decide whether the wills and probate specialist is right for you:
+
+- Are you regulated, and by which body?
+- Do you hold professional indemnity insurance?
+- Will you be applying for the letters of administration on my behalf, and is that a reserved activity?
+- How will you keep me informed throughout the process?
+- What information or documents will you need from me to begin?
+- Can you explain the intestacy rules and how they apply to my situation?
+
+![Next steps after an iComply introduction for letters of administration](/assets/images/hero-workshop.jpg)
+
+## What to tell iComply when you enquire
+
+You do not need all of this to enquire, but the more you can share, the better the match:
+
+- Say that you are looking for help with letters of administration and whether you are the person who expects to apply.
+- Give your relationship to the person who died, for example whether you are a spouse, child, sibling or unmarried partner.
+- Mention whether there is a will at all, even an old one, and whether it is valid.
+- Explain whether the estate is straightforward or includes property, investments or business interests.
+- Confirm where in the UK the person lived and where the estate is based, as Scotland has different rules.
+- Let us know if you have already started the application or spoken to anyone else about it.
+
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+
+## From enquiry to quote in four steps
+
+1. **Enquire for free** with your town or postcode and a short description.
+1. **We clarify** anything unclear, so the introduction is useful from the start.
+1. **We connect you** with letters of administration who suits your situation.
+1. **The practice takes over**, confirms scope and fees in writing and does the work.
+
+There is no charge to you for the introduction, and no obligation to accept any quote.
+
+## Red flags when choosing letters of administration
+
+Most professionals are honest and competent, but it is worth knowing the warning signs:
+
+- No regulation and no professional indemnity insurance
+- Pressure to buy add-on trusts or storage you do not need
+- Unwillingness to provide a written estimate
+- Percentage fees for estate work without a clear explanation
 
 ## Checking wills and probate specialists are qualified and regulated
 
@@ -40,95 +108,31 @@ When choosing a provider, ask whether they are regulated, whether they hold prof
 
 iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
 
-## Your relationship with the practice
+![Wills and probate practice ready to take on a new enquiry for letters of administration near me](/assets/images/finance-desk.jpg)
 
-Once introduced, the practice will take instructions, carry out identity checks and confirm the fee in writing. They are responsible for the legal work. iComply does not draft wills or administer estates.
+## Letters of Administration Near Me: FAQs
 
-**Need letters of administration?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
+### Do I need a solicitor to apply for letters of administration?
 
-## Key things to know about letters of administration
+You can apply for letters of administration yourself, but many people choose a specialist to handle the paperwork. If you pay someone to apply on your behalf for a fee, that is a reserved legal activity and they must be regulated.
 
-A few points come up again and again with letters of administration:
+### What is the difference between probate and letters of administration?
 
-- Intestacy rules decide who can apply.
-- The process is similar to probate.
-- Unmarried partners have no automatic rights.
+Probate is granted when there is a valid will, while letters of administration are granted when there is no valid will. The process is similar, but the intestacy rules decide who can apply for letters of administration.
 
-Raise any of these with the wills and probate specialist you are introduced to; they should be happy to explain.
+### Can an unmarried partner apply for letters of administration?
 
-## Warning signs to watch for
+Unmarried partners have no automatic right to apply for letters of administration under the intestacy rules. A specialist can explain your position and whether you may be able to apply in other ways.
 
-Most professionals are honest and competent, but it is worth knowing the warning signs:
+### How do I find a local specialist for letters of administration?
 
-- No proper advice about signing and witnessing
-- Percentage fees for estate work without a clear explanation
-- Pressure to buy add-on trusts or storage you do not need
-- No regulation and no professional indemnity insurance
-
-## From enquiry to quote in four steps
-
-1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
-1. **We review your brief.** We check the type of wills and probate specialist you need, your location and your timing.
-1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
-1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
-
-There is no charge to you for the introduction, and no obligation to accept any quote.
-
-![Wills and probate practice ready to take on a new enquiry for letters of administration near me](/assets/images/hero-workshop.jpg)
-
-## What to ask before you instruct anyone
-
-Once you are introduced, these questions help you decide whether the wills and probate specialist is right for you:
-
-- Do you also handle lasting powers of attorney?
-- For probate, what will you do and what will the executors do?
-- Is the fee fixed for the will, or charged by time?
-- How will you check the will is valid and properly signed?
-- Where will the original be stored, and is there a charge?
-- How do you estimate the cost of administering an estate?
-
-## Finding letters of administration near you
-
-When you search for letters of administration near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
-
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
-
-## How long things usually take
-
-A straightforward will can often be drafted within a few weeks of the first meeting. Estates take longer: obtaining a grant, collecting assets and paying debts commonly takes many months, more if property must be sold or there is a dispute.
-
-## Costs and quotes for letters of administration
-
-Simple wills are often offered at a fixed fee, while trusts, business assets and complex families take more time. Estate administration may be charged by time, as a fixed fee for set stages, or occasionally as a percentage of the estate. iComply does not publish fees; the practice will quote you, POA.
-
-Ask for the fee in writing, including storage, VAT and probate court fees. For estate work, ask for an estimate of the total cost and how often you will receive updates.
-
-## Getting ready for your first conversation
-
-A short, clear brief saves time on both sides. Useful details include:
-
-- Who you would like as executors and guardians
-- Any property owned jointly, overseas or through a business
-- Details of any existing will
-- Questions about care costs or inheritance tax
-- Pension and life insurance nominations
-- A list of main assets and roughly what they are worth
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
-
-![Next steps after an iComply introduction for letters of administration](/assets/images/finance-desk.jpg)
-
-## FAQs: letters of administration
-
-### What happens if I die without a will?
-
-The intestacy rules decide who inherits, which may not reflect your wishes, especially for unmarried partners and stepchildren. A will lets you choose.
+You can search for wills and probate specialists in your area and check their regulation status. iComply introduces you to a suitable UK professional who quotes you directly, so you can compare before deciding.
 
 ### Do I need a solicitor for probate?
 
 Not always. Executors can apply for probate themselves for simpler estates. Many choose professional help where there is property, inheritance tax, overseas assets or family tension.
 
-### Can you find letters of administration in my area?
+### How do I find letters of administration near me?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable wills and probate practice with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
 
@@ -136,24 +140,20 @@ Send us your town or postcode with a short description of what you need. We look
 
 Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
 
-### Can I contact you on WhatsApp?
+### Is iComply regulated?
 
-Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
+iComply is a matching service. We are not a wills and probate specialist and we do not give professional advice. The professionals we introduce are registered with their own bodies, and you can check them.
 
-### How quickly will I hear back?
+## Other services you may need
 
-Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
-
-## People also look for
-
-- [Probate application near me](/keywords/probate-application-near-me/)
-- [Best estate planning near me](/keywords/best-estate-planning-near-me/)
-- [Best estate administration near me](/keywords/best-estate-administration-near-me/)
-- [Mirror wills near me](/keywords/mirror-wills-near-me/)
-- [Best complex wills near me](/keywords/best-complex-wills-near-me/)
+- [Discretionary trust will near me](/keywords/discretionary-trust-will-near-me/)
+- [Deed of variation near me](/keywords/deed-of-variation-near-me/)
+- [Best business wills near me](/keywords/best-business-wills-near-me/)
+- [Best inheritance dispute near me](/keywords/best-inheritance-dispute-near-me/)
+- [Complex will near me](/keywords/complex-will-near-me/)
 - [Browse all wills and probate specialists](/hubs/wills-probate/)
 
-## Request your free quote
+## Ready to be matched?
 
 Tell us what you need and where you are. We will match you with a suitable wills and probate specialist, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
 

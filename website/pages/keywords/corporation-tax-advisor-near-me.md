@@ -12,33 +12,70 @@ og_image: /assets/images/insurance-advisory.jpg
 
 # Corporation Tax Advisor Near Me
 
-If you have typed **corporation tax advisor near me** into a search bar, you are likely looking for help soon and not too far away. Corporation tax advisers help companies plan profits, claim reliefs such as R&D and capital allowances, and structure groups.
+You're looking for a corporation tax advisor near you because your company's tax position needs proper attention, whether you're planning ahead, facing an HMRC query, or unsure how to claim reliefs correctly. A local adviser can help you understand your obligations and make the most of the rules. iComply introduces you to a suitable UK professional who will quote you directly, with fees on application.
 
-Rather than calling round, you can send one enquiry to iComply. We look at your needs, location and timing, then introduce you to a suitable tax practice. They quote you directly, POA, and you decide whether to go ahead.
+Corporation tax advisers help companies plan profits, claim reliefs such as R&D and capital allowances, and structure groups.
+
+We act as the middleman between you and the professional. Share a short brief and we match you with a corporation tax adviser who has the right experience and capacity. Enquiring is free, and you are under no obligation to accept a quote.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
 ![Client explaining what they need before being matched with a corporation tax adviser](/assets/images/insurance-advisory.jpg)
 
-## Common reasons people contact tax advisers
+## What people searching for a corporation tax advisor near me usually need
 
-Tax advisers help clients in many situations. Some of the most common are:
+Most people want clear, local help with company tax that fits their specific circumstances.
 
-- Selling a property, shares or a business and wanting to understand the tax.
-- A VAT question that could affect pricing or cash flow.
-- A business considering investment schemes such as EIS or SEIS.
-- A contractor unsure how IR35 applies to their work.
-- Planning for inheritance tax across the family.
+- You run a small company and want to plan your profits before the year end so you're not caught out by a surprise tax bill.
+- You're thinking about claiming R&D tax relief or capital allowances but have heard HMRC is scrutinising claims and want to get it right.
+- Your company is part of a group and you're unsure how group relief could shelter profits between companies.
+- You've received a letter from HMRC about your corporation tax return and want a professional to help you respond.
+- You're setting up a new company or restructuring and need advice on how corporation tax will apply to your plans.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of tax adviser fits best.
+## Questions to ask the professional
 
-## What a corporation tax adviser is likely to cost (POA)
+Asking a few direct questions early tells you a lot about how a practice works:
 
-Tax advice is usually charged by time or as a fixed fee for a defined piece of work, such as a written report or handling an HMRC enquiry. Complexity, deadlines and the amount at stake all affect the quote. iComply does not publish fees; the adviser you are matched with will quote you, POA.
+- What qualifications and professional body memberships do you hold?
+- How will you help me plan for corporation tax before my year end?
+- What is your experience with R&D claims and how do you ensure they meet HMRC's requirements?
+- Can you explain how group relief might apply to my company structure?
+- What is your approach to dealing with HMRC on my behalf?
+- What are your fees and how will you keep me informed about costs?
+
+## How fees usually work (POA)
+
+Tax advice is usually charged by time or as a fixed fee for a defined piece of work, such as a written report or handling an HMRC enquiry. Complexity, deadlines and the amount at stake all affect the quote. The adviser you are matched with will quote you, POA.
 
 Ask whether the first conversation is free or chargeable, and ask for a written scope before detailed advice begins. If an HMRC enquiry is involved, ask whether you have fee protection insurance through an existing accountant.
 
-## How to check you are in safe hands
+**Need a corporation tax adviser?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
+
+## From enquiry to quote in four steps
+
+1. **Enquire for free** with your town or postcode and a short description.
+1. **We clarify** anything unclear, so the introduction is useful from the start.
+1. **We connect you** with a corporation tax adviser who suits your situation.
+1. **The practice takes over**, confirms scope and fees in writing and does the work.
+
+We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
+
+## What to tell iComply when enquiring
+
+A short, clear brief saves time on both sides. Useful details include:
+
+- Mention that you're looking for a corporation tax advisor near you and give your location so we can introduce you to a professional in your area.
+- Describe your company's situation, such as its size, whether it's part of a group, and whether you're a startup or an established business.
+- Explain what you need help with, for example year-end planning, a R&D claim, capital allowances, or group relief.
+- Say whether you've already filed your corporation tax return or received any correspondence from HMRC.
+- Include any deadlines you're working towards, such as your accounting period end or a response date from HMRC.
+- Let us know if you have a preference for a particular type of adviser, such as a chartered tax adviser or an accountant with tax expertise.
+
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+
+![Professional reviewing a client's brief before an introduction for corporation tax advisor near me](/assets/images/finance-desk.jpg)
+
+## Checking tax advisers are qualified and regulated
 
 "Tax adviser" is not a protected title in the UK. The Chartered Institute of Taxation (CTA qualification) and the Association of Taxation Technicians (ATT) are the main specialist bodies, and many accountants and solicitors also advise on tax. Members of these bodies follow Professional Conduct in Relation to Taxation, a shared code covering honesty, confidentiality and dealing with HMRC.
 
@@ -46,113 +83,71 @@ Tax advisers who provide services for a fee must be supervised for anti-money-la
 
 Adviser and advisor are simply two spellings of the same word. What matters is whether the person giving advice is qualified and, where the law requires it, regulated for that type of advice.
 
-iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
+Please note that iComply is a matching service only. We are not regulated as a tax adviser, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
 
-**Need a corporation tax adviser?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
-
-## How our free matching service works
-
-1. **Enquire for free** with your town or postcode and a short description.
-1. **We clarify** anything unclear, so the introduction is useful from the start.
-1. **We connect you** with a corporation tax adviser who suits your situation.
-1. **The practice takes over**, confirms scope and fees in writing and does the work.
-
-There is no charge to you for the introduction, and no obligation to accept any quote.
-
-## Information that helps us match you
-
-A short, clear brief saves time on both sides. Useful details include:
-
-- Any deadlines given by HMRC or a buyer or seller
-- The tax years involved
-- Copies of any HMRC letters, with reference numbers
-- Whether you want a one-off answer or ongoing support
-- A short summary of the question or problem in your own words
-- Relevant figures, even if they are estimates
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
-
-## How long things usually take
+## Typical timescales
 
 Straightforward questions can often be answered within a couple of weeks. HMRC enquiries and appeals have their own deadlines, which should be included in your enquiry so we can prioritise advisers with capacity. Large transactions benefit from advice before contracts are signed, not after.
 
-![Professional reviewing a client's brief before an introduction for corporation tax advisor near me](/assets/images/healthcare-consult.jpg)
+## What to understand about corporation tax advice
 
-## Warning signs to watch for
+Tax adviser is not a protected title in the UK, so anyone can call themselves one. The main specialist bodies are the Chartered Institute of Taxation (for the CTA qualification) and the Association of Taxation Technicians (for ATT), and their members follow a shared code called Professional Conduct in Relation to Taxation. Many accountants and solicitors also advise on tax, so it's worth asking about qualifications and experience.
 
-Be cautious if you notice any of the following:
+Tax advisers who charge a fee must be supervised for anti-money-laundering purposes, and HMRC has been tightening standards for paid tax agents. Before you go ahead, it's reasonable to ask about their qualifications, supervision and professional indemnity insurance. This helps you judge whether they are the right fit for your company's needs.
 
-- Advice that relies on keeping information from HMRC
-- Pressure to act quickly without written advice
-- No professional body membership or AML supervision
-- Fees linked to a percentage of tax "saved" without clear terms
+## Before you choose a corporation tax adviser
 
-## Your relationship with the practice
-
-Once introduced, the adviser will carry out identity checks, agree a written engagement and, where needed, get your authority to speak to HMRC. Advice and responsibility for it sit with the adviser, not with iComply.
-
-## Good questions for your first call
-
-Asking a few direct questions early tells you a lot about how a practice works:
-
-- Will I get advice in writing that I can rely on?
-- How long will this take, and what happens next?
-- Are you CTA or ATT qualified, or a member of another body?
-- What are the main risks or uncertainties in my position?
-- Will you deal with HMRC directly on my behalf?
-- Have you dealt with situations like mine before?
-
-## Practical points about a corporation tax adviser
-
-These practical points are worth knowing before you speak to anyone about a corporation tax adviser:
+A few points come up again and again with a corporation tax adviser:
 
 - Plan before year end.
 - R&D claims face HMRC scrutiny; get them right.
 - Group relief can shelter profits.
 
-A good tax adviser will talk you through each of these in plain English.
+Raise any of these with the tax adviser you are introduced to; they should be happy to explain.
 
-## Near me: how local matching works
+![Tax practice ready to take on a new enquiry for corporation tax advisor near me](/assets/images/hero-workshop.jpg)
 
-When you search for a corporation tax adviser near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
+## FAQs: a corporation tax adviser
 
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
+### Do I need a corporation tax advisor if I already have an accountant?
 
-![Tax practice ready to take on a new enquiry for corporation tax advisor near me](/assets/images/finance-desk.jpg)
+Your accountant may already handle corporation tax, but if your affairs are complex or you need specialist help with R&D claims or group relief, a dedicated tax adviser can add value. It's worth asking your accountant about their tax qualifications and experience first.
 
-## Corporation Tax Advisor Near Me: FAQs
+### How can I check if a corporation tax advisor is properly qualified?
 
-### Should I reply to HMRC before speaking to an adviser?
+You can ask whether they are a member of the Chartered Institute of Taxation or the Association of Taxation Technicians, and check their registration with those bodies. Also ask about their anti-money-laundering supervision and professional indemnity insurance.
 
-Note the deadline on the letter, but avoid sending a detailed reply before you have advice if the matter is complex. An adviser can often ask HMRC for more time where it is reasonable.
+### What information should I have ready before speaking to an advisor?
+
+It helps to have your company's recent accounts, corporation tax returns, and any correspondence from HMRC to hand. Also think about your business structure, any group companies, and what you want to achieve from the advice.
+
+### Can a corporation tax advisor help if HMRC is already querying my return?
+
+Yes, a tax adviser can help you respond to HMRC enquiries and represent you in discussions. They can go through your position and advise on the best way forward, but it's important to act promptly if you receive a letter.
 
 ### Is tax planning legal?
 
 Using reliefs and allowances as Parliament intended is normal and legal. Aggressive avoidance schemes are a different matter and can carry serious risks. A qualified adviser will explain the difference clearly.
 
-### How do I find a corporation tax adviser near me?
+### Can you find a corporation tax adviser in my area?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable tax practice with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
-
-### Is it free to use iComply?
-
-Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
 
 ### Can I contact you on WhatsApp?
 
 Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
 
-### Is iComply regulated?
+### Do I have to accept a quote?
 
-iComply is a matching service. We are not a tax adviser and we do not give professional advice. The professionals we introduce are registered with their own bodies, and you can check them.
+No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
 
-## Related searches
+## People also look for
 
-- [Offshore tax advisor near me](/keywords/offshore-tax-advisor-near-me/)
 - [Landlord tax advisor near me](/keywords/landlord-tax-advisor-near-me/)
-- [VAT advisor near me](/keywords/vat-advisor-near-me/)
-- [Best EIS specialist near me](/keywords/best-eis-specialist-near-me/)
-- [Best IR35 specialist near me](/keywords/best-ir35-specialist-near-me/)
+- [Inheritance tax return near me](/keywords/inheritance-tax-return-near-me/)
+- [EIS tax advisor near me](/keywords/eis-tax-advisor-near-me/)
+- [Tax appeal advisor near me](/keywords/tax-appeal-advisor-near-me/)
+- [Best IR35 adviser near me](/keywords/best-ir35-adviser-near-me/)
 - [Browse all tax advisers](/hubs/tax-advisors/)
 
 ## Ready to be matched?

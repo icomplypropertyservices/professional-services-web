@@ -1,0 +1,69 @@
+{
+ "intro": "Searching for a physiotherapist usually means something is affecting how you move or how you feel day to day, whether that is a new injury, recovery after surgery, or a long-term condition. You want to understand what is happening and what can be done about it, without guessing at what might help.",
+ "need_heading": "What people searching for a physiotherapist often need",
+ "need_lead": "A physiotherapist assesses movement and pain, then uses exercise, manual therapy and advice to help you recover.",
+ "needs": [
+  "You have a sports or exercise injury and want to know how to return to activity safely without making things worse.",
+  "You are recovering from surgery, such as a knee or hip operation, and need guidance on exercises and movement as you heal.",
+  "You have a long-term condition, like arthritis or a neurological condition, and want help managing pain and keeping active.",
+  "You have back, neck or shoulder pain that has persisted and you want to understand the cause and what you can do about it.",
+  "You are unsure whether your problem needs a physiotherapist or another professional, and want to speak to someone who can assess your movement and pain."
+ ],
+ "context_heading": "Checking who you are seeing",
+ "context": [
+  "In the UK, \"physiotherapist\" and \"physical therapist\" are protected titles. Anyone using them must be registered with the Health and Care Professions Council (HCPC), and you can check the HCPC register online. Most physiotherapists are also members of the Chartered Society of Physiotherapy (CSP), shown by the letters MCSP.",
+  "Sports therapists, massage therapists and personal trainers can be helpful for some needs, but they are not physiotherapists. For an injury, post-surgery rehabilitation or a neurological condition, check that you are booking an HCPC-registered physiotherapist."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the problem and how it started, such as a specific injury, surgery, or a condition that has developed over time.",
+  "Say how long you have had the problem and whether it is getting better, worse or staying the same.",
+  "Mention any diagnosis or treatment you have already had, including whether you have seen a GP or specialist.",
+  "Explain what you find difficult day to day, such as walking, climbing stairs, lifting, or sleeping.",
+  "Say whether you are looking for help with a new problem, rehabilitation after surgery, or long-term management.",
+  "Mention any preferences you have, such as wanting a clinic near you or someone with experience of your particular condition."
+ ],
+ "questions_heading": "Questions to ask the physiotherapist",
+ "questions": [
+  "Are you registered with the Health and Care Professions Council (HCPC)?",
+  "How will you assess my movement and pain, and what will the first appointment involve?",
+  "What exercises or other treatments are you likely to recommend, and how will progress be measured?",
+  "How often will I need to see you, and what can I do between appointments?",
+  "Do you have experience of helping people with my specific problem or condition?",
+  "What should I do if my symptoms get worse or do not improve?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral from my GP to see a physiotherapist?",
+   "a": "You can often see a physiotherapist without a referral, but some clinics may ask for one. It is worth asking when you enquire whether you need a referral and whether they have any specific requirements."
+  },
+  {
+   "q": "What is the difference between a physiotherapist and a sports therapist?",
+   "a": "Physiotherapists are registered with the Health and Care Professions Council (HCPC) and use protected titles. Sports therapists, massage therapists and personal trainers are not physiotherapists, although they can be helpful for some needs. For an injury or rehabilitation, check that you are seeing an HCPC-registered physiotherapist."
+  },
+  {
+   "q": "How can I check that a physiotherapist is properly registered?",
+   "a": "You can check the HCPC register online to confirm that someone is registered as a physiotherapist. Most physiotherapists are also members of the Chartered Society of Physiotherapy (CSP), which is shown by the letters MCSP after their name."
+  },
+  {
+   "q": "Will I need to do exercises at home?",
+   "a": "Exercise is central to most physiotherapy plans, and you will usually be given exercises to do between appointments. The physiotherapist should explain how to do them and how often, and ask how you are getting on at your next visit."
+  }
+ ],
+ "extra_heading": "What happens at a first physiotherapy appointment",
+ "extra": [
+  "A first appointment usually begins with a conversation about what is troubling you: how the problem started, what makes it better or worse, and how it affects your everyday life. The physiotherapist will then look at how you move, checking strength, flexibility and posture, and may feel the area to understand what is going on. You can ask them to explain what they are doing and why at each stage.",
+  "From that assessment, the physiotherapist should talk you through what they think is happening and what a plan might involve, usually built around exercise alongside hands-on treatment and advice. Ask how progress will be measured, so you know what improvement should look like and when. It is also worth asking how many sessions they expect and what you should do between appointments.",
+  "Wear comfortable clothing you can move in, and bring any relevant information such as a GP letter or scan results if you have them. If you feel unsure about anything discussed, say so before you leave, and ask for the plan in writing if that helps you follow it at home."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Can I see a physiotherapist without seeing my GP first?",
+   "a": "In the UK you can often book directly with a physiotherapist without a GP referral, though some clinics may ask for one. It is worth asking when you enquire, and if your problem is severe or you are unsure what is wrong, your GP can help you decide what kind of support you need."
+  },
+  {
+   "q": "What should I do if the physiotherapist suggests a treatment I do not understand?",
+   "a": "Ask them to explain what it involves, why they are suggesting it and what the alternatives are. You are free to take time to think about it, and a good physiotherapist will welcome your questions rather than rush you."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for osteopaths usually means you are dealing with back pain, neck stiffness or a joint problem that has persisted, and you want to compare practitioners before you book. You may be weighing up a few local osteopaths or wondering what to expect from a first appointment. Here is what to keep in mind, and how iComply can introduce you to a suitable UK osteopath who will quote you directly.",
+ "need_heading": "What people looking for osteopaths often need",
+ "need_lead": "Most people searching for osteopaths are looking for hands-on help with a specific musculoskeletal problem, and want to choose a practitioner with confidence.",
+ "needs": [
+  "You have had lower back pain for a while and want to try a hands-on approach alongside the advice you have already been given.",
+  "You wake up with a stiff neck or shoulder tension that is affecting your work or sleep, and you want to see someone who can assess it properly.",
+  "You have a joint problem, such as a knee or hip that feels tight or painful, and you are unsure whether an osteopath is the right professional to see.",
+  "You have tried self-help and over-the-counter remedies and now want a full assessment from a registered practitioner.",
+  "You are comparing several osteopaths locally and want to understand how they work, what a session involves and how their fees are quoted."
+ ],
+ "context_heading": "What to understand before you book an osteopath",
+ "context": [
+  "Osteopathy is a protected title in the UK, so every osteopath must be registered with the General Osteopathic Council (GOsC). The GOsC sets standards and investigates concerns, and you can check the register online before you book. This is the simplest way to confirm that the person you are considering is properly registered.",
+  "Osteopaths use hands-on techniques such as massage, stretching and joint mobilisation, along with advice on exercise and posture. They will take a full case history first and should refer you to your GP if your symptoms need medical investigation. Expect to discuss your medical history, current symptoms and lifestyle at the first appointment."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the main problem you want help with, such as back pain, neck pain or a specific joint issue, and how long it has been going on.",
+  "Mention any relevant medical history or previous injuries, and whether you have seen your GP about the problem.",
+  "Say where you are based and how far you are willing to travel to see an osteopath.",
+  "Explain whether you have seen an osteopath before, and what you are hoping to get from the appointment.",
+  "Note any preferences that matter to you, such as appointment times or accessibility needs.",
+  "Ask for the osteopath’s fee structure to be explained clearly, as quotes are given on application."
+ ],
+ "questions_heading": "Questions to ask the osteopath",
+ "questions": [
+  "Are you registered with the General Osteopathic Council, and what is your registration number?",
+  "What happens during a first appointment, and how long does it usually take?",
+  "How will you assess my problem, and will you explain what you find?",
+  "What kind of hands-on techniques do you use, and will you show me exercises to do at home?",
+  "When would you refer me to my GP or another healthcare professional?",
+  "How are your fees structured, and what is included in the quoted price?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral from my GP to see an osteopath?",
+   "a": "No, you can usually book an appointment with an osteopath directly without a GP referral. However, if your symptoms need medical investigation, the osteopath should refer you to your GP."
+  },
+  {
+   "q": "What should I expect at my first osteopathy appointment?",
+   "a": "The osteopath will take a full case history, including your medical background and current symptoms, before examining you. Treatment is usually hands-on, and they will explain what they are doing and why."
+  },
+  {
+   "q": "How do I check that an osteopath is properly registered?",
+   "a": "You can check the General Osteopathic Council (GOsC) register online. Every osteopath in the UK must be registered with the GOsC to use the title 'osteopath'."
+  },
+  {
+   "q": "Will an osteopath give me exercises to do at home?",
+   "a": "Osteopaths often provide advice on exercise and posture as part of your treatment. It is worth asking about home exercises during your appointment so you can support your recovery between sessions."
+  }
+ ],
+ "extra_heading": "Comparing osteopaths side by side",
+ "extra": [
+  "When you search for osteopaths in the plural, you are usually weighing up more than one name and want a fair way to choose between them. Rather than looking for a single answer, it helps to compare how each practitioner works, how a first appointment is structured and how their fees are quoted, so the decision rests on what suits your problem and your circumstances.",
+  "A good starting point is to confirm that each osteopath you are considering appears on the General Osteopathic Council register, since osteopath is a protected title in the UK. Beyond registration, ask each one how they assess a problem like yours, whether they combine hands-on treatment with exercise and posture advice, and when they would suggest you see your GP instead. Comparing those answers tells you more than any single description of a clinic.",
+  "It also pays to ask how fees are set out before you commit, because osteopaths quote on application and what is included can differ between practitioners. Ask whether the first appointment is longer than follow-ups, what the quoted price covers, and whether you need to bring anything with you. With those details in hand, you can judge for yourself which osteopath fits your needs, and iComply can introduce you to one who will quote you directly."
+ ],
+ "extra_faqs": [
+  {
+   "q": "How can I choose between several osteopaths?",
+   "a": "Check that each one is on the General Osteopathic Council register, then compare how they assess problems, the techniques they use and how their fees are structured. Asking each the same questions gives you a fair basis for deciding which suits you."
+  },
+  {
+   "q": "Is osteopathy different from physiotherapy or chiropractic?",
+   "a": "They are separate professions with their own regulatory bodies, though all may involve hands-on work. If you are unsure which is right for your problem, your GP can advise, and an osteopath should refer you on if your symptoms need medical investigation."
+  },
+  {
+   "q": "What should I bring to a first osteopathy appointment?",
+   "a": "Bring any relevant information about your medical history, previous injuries and current symptoms, and be ready to describe how long the problem has lasted. The osteopath will take a full case history before examining you, so honesty about your health helps them assess you properly."
+  }
+ ]
+}

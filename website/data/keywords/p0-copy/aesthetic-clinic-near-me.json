@@ -1,0 +1,69 @@
+{
+ "intro": "Searching for an aesthetic clinic near you usually means you want non-surgical treatments such as anti-wrinkle injections, fillers, skin boosters or peels without travelling far from home. You may already have a treatment in mind, or you may simply want somewhere local where you can talk things through first. We can introduce you to a suitable UK aesthetic practitioner who will quote you directly, with prices on application.",
+ "need_heading": "What people searching for a local clinic usually need",
+ "need_lead": "Most people behind this search want a clinic they can reach easily and a clear picture of how treatment would work for them.",
+ "needs": [
+  "You want a clinic close enough to get to comfortably for an initial consultation and any follow-up visits.",
+  "You have a particular treatment in mind, such as anti-wrinkle injections or fillers, and want to discuss it face to face.",
+  "You are unsure who would prescribe and who would carry out the treatment, and want that explained before booking.",
+  "You would like to know what happens at a consultation and what the clinic expects from you beforehand.",
+  "You want to ask about premises standards and the practitioner's professional registration before committing."
+ ],
+ "context_heading": "Who prescribes and who treats",
+ "context": [
+  "Anti-wrinkle injections use a prescription-only medicine, so a prescriber such as a doctor, nurse prescriber, dentist or pharmacist prescriber must assess you, normally face to face. Dermal fillers are devices rather than medicines, and the government has set out plans for a licensing scheme for non-surgical cosmetic procedures in England.",
+  "Until licensing is in force, it is worth choosing a clinic carefully. Practitioners on registers such as Save Face or the JCCP, and doctors and nurses registered with the GMC or NMC, offer extra reassurance, and clinics run by regulated healthcare providers may also be registered with the CQC."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Say which treatment or treatments you are interested in, such as anti-wrinkle injections, fillers, skin boosters or peels.",
+  "Mention the area you would like the clinic to be near, so we can look for a practitioner within reasonable reach.",
+  "Explain whether you have had aesthetic treatment before and how it went, if you are comfortable sharing that.",
+  "Note any relevant health conditions or medicines you take, since a prescriber will need to assess you.",
+  "Say whether you would prefer a particular type of practitioner, such as a doctor, nurse or dentist.",
+  "Tell us whether you have already had a consultation elsewhere or are starting from scratch."
+ ],
+ "questions_heading": "Questions to ask the practitioner",
+ "questions": [
+  "Who will prescribe my treatment, and will that assessment happen face to face?",
+  "Who will actually carry out the treatment on the day?",
+  "Which register are you on, and can you explain what that means for my care?",
+  "What happens during the consultation, and can I decide not to go ahead afterwards?",
+  "What are the premises like, and what arrangements are in place for privacy and hygiene?",
+  "What should I do if I have a concern or something unexpected happens after treatment?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a consultation before having treatment?",
+   "a": "Yes, a consultation should come first. For anti-wrinkle injections, a prescriber such as a doctor, nurse prescriber, dentist or pharmacist prescriber must assess you, normally face to face, before the medicine is used."
+  },
+  {
+   "q": "How do I judge a clinic when searching near me?",
+   "a": "Look at who prescribes and who treats, ask about premises standards, and check whether the practitioner is on a register such as Save Face or the JCCP, or is a doctor or nurse registered with the GMC or NMC. Clinics run by regulated healthcare providers may also be registered with the CQC."
+  },
+  {
+   "q": "Are dermal fillers regulated in the same way as injections?",
+   "a": "No. Dermal fillers are devices rather than medicines, and the rules are tightening, with the government having set out plans for a licensing scheme for non-surgical cosmetic procedures in England. Until licensing is in force, it is worth choosing a clinic carefully."
+  },
+  {
+   "q": "Will I know the price before I commit?",
+   "a": "Prices are on application, so ask the practitioner directly for a quote once you have discussed what you want. A consultation is a good moment to go through costs and what is included before you decide."
+  }
+ ],
+ "extra_heading": "Choosing between local clinics",
+ "extra": [
+  "When you search for an aesthetic clinic near me, you are likely to find several within easy reach, so it helps to compare them on more than distance. Ask each clinic who prescribes and who treats, and whether a face-to-face consultation comes first, as these details tell you how the clinic works. A clinic that is close by but vague about these points may not be the right fit.",
+  "It is also worth asking what happens if something does not go to plan after treatment. A local clinic should be able to explain how you can get in touch and what follow-up they offer, which is easier when they are nearby. Do not be afraid to ask about premises standards and the practitioner's professional registration before you book.",
+  "Finally, remember that prices are on application, so ask for a quote after you have discussed your needs. Comparing quotes is fine, but make sure you are comparing the same treatment and aftercare. The cheapest option is not always the best for your circumstances, so weigh up the answers you receive carefully."
+ ],
+ "extra_faqs": [
+  {
+   "q": "How do I compare aesthetic clinics near me?",
+   "a": "Start by checking who prescribes and who treats, and whether a face-to-face consultation is offered first. Ask about premises standards and the practitioner's professional registration, such as Save Face, the JCCP, the GMC or the NMC. Then compare quotes for the same treatment and aftercare."
+  },
+  {
+   "q": "What should I expect at my first appointment at a local clinic?",
+   "a": "Your first appointment should be a consultation, where you discuss your aims and medical history. The practitioner should explain the treatment, who will prescribe and who will treat, and what aftercare involves. You should be able to decide not to go ahead afterwards."
+  }
+ ]
+}

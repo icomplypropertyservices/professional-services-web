@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a dental hygienist near me usually means you want your teeth cleaned properly, or your gums have been bothering you and you'd rather not wait. You may also be wondering whether you can book a hygienist directly without seeing a dentist first. We can introduce you to a suitable UK professional in your area who will quote you directly, with the price on application.",
+ "need_heading": "What people searching for a dental hygienist near me usually need",
+ "need_lead": "Most people behind this search want a convenient local appointment for cleaning and gum care, either on its own or alongside their general dental check-ups.",
+ "needs": [
+  "You have noticed bleeding when you brush or floss and want your gums looked at before the problem settles in.",
+  "It has been a long time since your last scale and polish and your teeth feel rough or stained.",
+  "Your dentist has suggested more frequent cleaning and you want to arrange it somewhere close to home or work.",
+  "You are new to the area and need to find a hygienist you can reach easily for ongoing gum care.",
+  "You want practical advice on brushing, interdental cleaning and diet that is tailored to your own mouth."
+ ],
+ "context_heading": "Seeing a hygienist directly, and checking who is registered",
+ "context": [
+  "Dental hygienists clean teeth, treat gum disease and give advice on brushing, interdental cleaning and diet, and many can be seen directly without a separate referral. That means you can often book a hygienist appointment on its own, though it is worth asking the practice whether they would like you to have a dental check-up too. Regular cleaning helps prevent gum disease, so it is worth asking about airflow cleaning as well if staining or gum health is on your mind.",
+  "Dentists, dental hygienists, dental therapists and dental nurses must be registered with the General Dental Council (GDC), and you can check the GDC register online. Private clinics providing regulated healthcare in England must register with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA. If something goes wrong with private dental treatment, start with the practice's complaints process, and the Dental Complaints Service can help with private dental complaints that are not resolved."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say that you are looking for a dental hygienist near you, and mention the town or area you would like the appointment in.",
+  "Describe what you want help with, such as bleeding gums, staining, a scale and polish, or advice on cleaning between your teeth.",
+  "Mention whether you would like to see a hygienist directly or are happy to have a dental check-up first.",
+  "Say whether you have seen a dentist or hygienist recently and whether anything has changed with your teeth or gums.",
+  "Note any preferences that matter to you, such as appointment times, accessibility needs or nervousness about dental visits.",
+  "Ask for the quote to be price on application so you know how the practice will set out costs before you book."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Can I book an appointment with the hygienist directly, or would you prefer me to have a dental check-up first?",
+  "What will the appointment involve, and will you show me how to clean between my teeth properly?",
+  "Is airflow cleaning suitable for my teeth and gums, and how does it differ from a usual scale and polish?",
+  "How often do you suggest I come back for cleaning, given the state of my gums?",
+  "How will the cost be worked out, and will I be told the price before treatment begins?",
+  "If I am unhappy with anything afterwards, how does your complaints process work?"
+ ],
+ "faqs": [
+  {
+   "q": "Can I see a dental hygienist without seeing a dentist first?",
+   "a": "Yes, direct access to hygienists is allowed, and many practices will book you in without a separate referral. It is still worth asking the practice whether they would like you to have a dental check-up as well, especially if you have not been seen for a while."
+  },
+  {
+   "q": "How do I check that a dental hygienist is properly registered?",
+   "a": "Dental hygienists must be registered with the General Dental Council (GDC), and you can check the GDC register online. You can also ask the practice which regulators it is registered with, as private clinics providing regulated healthcare must register with the relevant body for their nation."
+  },
+  {
+   "q": "What is airflow cleaning and is it worth asking about?",
+   "a": "Airflow cleaning is a way of cleaning teeth that some practices offer alongside a usual scale and polish. It is worth asking about if you have staining or want your gums looked after, and the hygienist can tell you whether it suits your mouth."
+  },
+  {
+   "q": "What can I do if I am unhappy with private dental treatment?",
+   "a": "Start with the practice's own complaints process, as most concerns are sorted out there. If it is not resolved, the Dental Complaints Service can help with private dental complaints."
+  }
+ ]
+}

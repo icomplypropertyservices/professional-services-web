@@ -1,0 +1,53 @@
+{
+ "intro": "You're buying a new-build home and need a conveyancer who understands the particular demands of buying from a developer. You want someone local to you who can handle the paperwork, deadlines and legal details that come with a newly built property. We can introduce you to a suitable conveyancer near you who will quote you directly for the work.",
+ "need_heading": "What people searching for a new-build conveyancer near me usually need",
+ "need_lead": "Buying a new-build is different from buying an older home, and you need a conveyancer who knows the ropes.",
+ "needs": [
+  "You have reserved a plot with a developer and now need a conveyancer to act for you before the exchange deadline.",
+  "You want someone local you can visit or call easily if there are questions about the contract or plans.",
+  "You are unsure whether the new home warranty is adequate and need it checked before you commit.",
+  "You need to understand any estate management charges that will apply to your new home.",
+  "You want a conveyancer who is on your mortgage lender's panel so your mortgage isn't delayed."
+ ],
+ "context_heading": "Understanding the conveyancing process for a new-build",
+ "context": [
+  "New-build conveyancing involves reviewing the developer's contract, the plans, the new home warranty and any estate management charges. Developers often set strict exchange deadlines, so it's important to instruct a conveyancer promptly. The conveyancer will also check that the property is properly registered and that planning permissions are in place.",
+  "In England and Wales, conveyancing is a reserved legal activity, so your conveyancer must be a solicitor regulated by the Solicitors Regulation Authority or a licensed conveyancer regulated by the Council for Licensed Conveyancers. Many lenders only work with conveyancers on their panel, and the Law Society's Conveyancing Quality Scheme is a common accreditation. Check that your chosen firm is on your lender's panel before you instruct them."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "The name of the developer and the development where your plot is located.",
+  "The plot number or property address if you have it.",
+  "Your expected exchange and completion dates, or any deadlines the developer has given you.",
+  "Whether you have a mortgage and which lender you are using.",
+  "Any particular concerns you have, such as estate management charges or the new home warranty.",
+  "Your preferred location for the conveyancer, so we can introduce you to someone near you."
+ ],
+ "questions_heading": "Questions to ask the conveyancer",
+ "questions": [
+  "What is your experience with new-build conveyancing and with this developer?",
+  "Are you on my mortgage lender's panel?",
+  "What are the estate management charges and how are they reviewed?",
+  "How will you check the new home warranty and what does it cover?",
+  "What are the key deadlines in the contract and how will you help me meet them?",
+  "What are your fees and what do they include?"
+ ],
+ "faqs": [
+  {
+   "q": "Why do I need a conveyancer who specialises in new builds?",
+   "a": "New-build conveyancing involves additional documents such as the new home warranty, estate management charges and developer-specific contracts. A conveyancer with experience in this area can help you understand these and meet the developer's deadlines."
+  },
+  {
+   "q": "Can I use a conveyancer who is not local to the development?",
+   "a": "Yes, you can use a conveyancer anywhere in England or Wales, but many people prefer someone near them for ease of communication. If you search for a new build conveyancer near me, you'll likely find local firms who understand the local area and can meet in person if needed."
+  },
+  {
+   "q": "What is a new home warranty and why does it matter?",
+   "a": "A new home warranty is an insurance-backed product that covers defects in your new home for a set period. Your conveyancer will check the warranty details to ensure it meets your lender's requirements and gives you adequate protection."
+  },
+  {
+   "q": "How does iComply work?",
+   "a": "You tell us what you need, and we introduce you to a suitable conveyancer near you. They will then quote you directly for the work, and you can decide whether to instruct them."
+  }
+ ]
+}

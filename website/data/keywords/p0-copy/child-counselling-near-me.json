@@ -1,0 +1,53 @@
+{
+ "intro": "Looking for child counselling near you usually means someone you care for is struggling and you want to find the right kind of help without travelling far. Perhaps your child is anxious, their behaviour has changed, or something difficult has happened in the family. We can introduce you to a UK counsellor who works with children, and they will discuss their approach and quote you directly.",
+ "need_heading": "What parents searching for child counselling usually need",
+ "need_lead": "Most people who search for child counselling near me are trying to make sense of a change in a child they love and want to find the right support close to home.",
+ "needs": [
+  "Your child has become anxious or withdrawn and you are unsure whether this is a phase or something that needs professional help.",
+  "There has been a family change such as separation, a move or a bereavement, and your child is finding it hard to adjust.",
+  "Your child's behaviour at home or at school has changed and you want to understand what might be behind it.",
+  "You have noticed signs of low mood or worry in your child and want them to have someone outside the family to talk to.",
+  "Your child is struggling with friendships or school life and you would like support from someone experienced in working with young people."
+ ],
+ "context_heading": "Understanding child counselling and how to choose safely",
+ "context": [
+  "Child counsellors use play, art and talk to help children and young people with anxiety, behaviour, family change and loss. Because children often find it easier to express themselves through play or creative activity, the sessions may look different from adult talking therapy.",
+  "The titles counsellor and psychotherapist are not protected in the UK, so it is worth checking that the practitioner is on a register accredited by the Professional Standards Authority, such as BACP, UKCP or NCPS. Accredited registers require training, supervision, a code of ethics and a complaints procedure. A good therapist will explain their approach, confidentiality and its limits in the first session."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "The age of your child, as counsellors who work with younger children may use different approaches from those working with teenagers.",
+  "A short description of what you have noticed, such as anxiety, behaviour changes, low mood or difficulty at school.",
+  "Whether anything has changed recently in the family, such as a separation, bereavement or move.",
+  "Whether your child knows about the idea of counselling and how they feel about it.",
+  "Any preferences about location or whether you would like sessions to happen at school or another setting.",
+  "Whether you would like to be involved in sessions or kept informed, as parents are usually involved appropriately depending on the child's age."
+ ],
+ "questions_heading": "Questions to ask the counsellor",
+ "questions": [
+  "What training and experience do you have in working with children of my child's age?",
+  "Which professional register are you on, and is it accredited by the Professional Standards Authority?",
+  "How do you usually work with children, for example through play, art or talking?",
+  "What will you explain to my child about confidentiality, and what are its limits?",
+  "How will you involve me as a parent, and how will we look at progress together?",
+  "Do you work with schools, and could sessions take place there if that suits my child better?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I know a child counsellor is properly trained?",
+   "a": "The titles counsellor and psychotherapist are not protected in the UK, so check that the practitioner is on a register accredited by the Professional Standards Authority, such as BACP, UKCP or NCPS. Accredited registers require training, supervision, a code of ethics and a complaints procedure, and it is reasonable to ask about child-specific training and safeguarding."
+  },
+  {
+   "q": "Will I be involved in my child's counselling?",
+   "a": "Parents are usually involved appropriately, though the exact arrangement depends on the child's age and what they are working through. It is worth asking the counsellor how they keep you informed while giving your child a safe space to talk."
+  },
+  {
+   "q": "Can my child get counselling support through school?",
+   "a": "Schools may offer support, so it is worth speaking to your child's school about what is available. If school support is not suitable or available, a counsellor working locally may be able to help."
+  },
+  {
+   "q": "What if my child is anxious about the idea of counselling?",
+   "a": "It is common for children to feel uncertain at first, and a counsellor experienced in working with young people will explain what sessions involve in a way your child can understand. You can ask how they help children feel comfortable before the first session."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "intro": "You've searched for an EMDR therapist near you, which usually means you're looking for help with trauma or PTSD and want someone local who can offer this specific therapy. We're iComply, a free UK introduction service. Tell us what you need and we'll introduce you to a suitable counsellor who quotes you directly.",
+ "need_heading": "What people searching for an EMDR therapist near me often need",
+ "need_lead": "Most people looking for EMDR therapy are dealing with the effects of trauma and want a local professional who can help them process it safely.",
+ "needs": [
+  "You may have experienced a traumatic event and are looking for a therapist who can help you reduce distressing memories or flashbacks.",
+  "You might have been told by a GP or another professional that EMDR could help with your PTSD and now need to find a local therapist.",
+  "You may have tried other talking therapies and feel ready to try something different that focuses directly on trauma.",
+  "You could be looking for someone who can offer face-to-face sessions near your home or work, making it easier to attend regularly.",
+  "You might want to understand how EMDR works and what the preparation involves before committing to therapy."
+ ],
+ "context_heading": "Understanding EMDR and how to choose a therapist",
+ "context": [
+  "EMDR (eye movement desensitisation and reprocessing) is a therapy recommended by NICE for PTSD. It involves working through traumatic memories while doing side-to-side eye movements or other bilateral stimulation. A good therapist will explain the process and make sure you feel ready before starting.",
+  "Counsellor and psychotherapist are not protected titles in the UK, so it's wise to check that your therapist is on a register accredited by the Professional Standards Authority, such as BACP, UKCP or NCPS. For EMDR specifically, you can also check whether they are accredited by the EMDR Association UK. Practitioner psychologists, who may also offer EMDR, must be registered with the HCPC."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you are looking for EMDR therapy specifically, so we can introduce you to a counsellor who offers it.",
+  "Let us know your location or how far you are willing to travel for appointments, since you searched for a therapist near you.",
+  "Describe briefly what you hope to work on, such as trauma or PTSD symptoms, so the therapist can understand your needs.",
+  "Say whether you have a preference for face-to-face sessions, online therapy, or a mix of both.",
+  "Mention any previous therapy experience or if a GP has suggested EMDR, as this can help the therapist prepare.",
+  "Include any practical considerations, such as accessibility requirements or preferred appointment times."
+ ],
+ "questions_heading": "Questions to ask an EMDR therapist",
+ "questions": [
+  "Are you accredited by the EMDR Association UK, and what does that accreditation involve?",
+  "How do you decide when someone is ready to start processing traumatic memories with EMDR?",
+  "What does a typical EMDR session with you look like, and how long might the preparation phase take?",
+  "How do you handle it if I become very distressed during or after a session?",
+  "Are you on a register accredited by the Professional Standards Authority, such as BACP, UKCP or NCPS?",
+  "What are your arrangements for confidentiality, and in what circumstances would you need to share information?"
+ ],
+ "faqs": [
+  {
+   "q": "What is EMDR and how does it work?",
+   "a": "EMDR stands for eye movement desensitisation and reprocessing. It is a therapy that helps people process traumatic memories by guiding them through eye movements or other forms of bilateral stimulation while recalling the memory. NICE recommends EMDR for PTSD."
+  },
+  {
+   "q": "Do I need a referral to see an EMDR therapist?",
+   "a": "You do not need a referral to see an EMDR therapist privately. You can contact a therapist directly. However, if you are seeking therapy through the NHS, a referral from your GP or another professional is usually needed."
+  },
+  {
+   "q": "How do I check if an EMDR therapist is properly qualified?",
+   "a": "Check whether the therapist is accredited by the EMDR Association UK, which sets standards for EMDR training and practice. Also check that they are on a register accredited by the Professional Standards Authority, such as BACP, UKCP or NCPS, or if they are a practitioner psychologist, that they are registered with the HCPC."
+  },
+  {
+   "q": "Is EMDR suitable for everyone?",
+   "a": "EMDR is generally considered suitable for adults and children with PTSD, but it may not be right for everyone. A therapist will assess your situation and may recommend preparation sessions first. If you are unsure, you can discuss it with a GP or mental health professional."
+  }
+ ]
+}

@@ -1,40 +1,47 @@
 ---
 slug: office-architect-near-me
 title: Office Architect Near Me | iComply Professional Services
-description: Looking for an office architect near you? Tell iComply what you need and we match you with a suitable UK architect. Free to enquire. Request a quote — POA.
+description: Need an office architect near you? iComply connects you with a suitable UK architecture practice. Free, no-obligation matching. Request a quote — POA.
 family: architect
 group: property-prof
 hub: architects
 profession: architect
 service_label: Office architect
-og_image: /assets/images/finance-desk.jpg
+og_image: /assets/images/insurance-advisory.jpg
 ---
 
 # Office Architect Near Me
 
-Looking for **office architect near me** usually starts with a practical problem that needs a qualified person. Office architects design workplaces and fit-outs that support how teams work, including hybrid working.
+Looking for an office architect near you usually means you have a workplace that no longer fits how your team actually works, or a lease and a floor plan that need rethinking. You want someone local enough to visit the space, understand the building and guide you through design and approvals. iComply is a free introduction service: you tell us what you need, and we introduce you to a suitable UK architecture practice that quotes you directly, with the price on application.
 
-iComply Professional Services is a free matching service. You tell us what you need and where you are; we connect you with a suitable UK architect who can quote for the work. The practice provides the service, and every quote is POA.
+Office architects design workplaces and fit-outs that support how teams work, including hybrid working.
+
+Rather than calling round, you can send one enquiry to iComply. We look at your needs, location and timing, then introduce you to a suitable architecture practice. They quote you directly, POA, and you decide whether to go ahead.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Professional reviewing a client's brief before an introduction for office architect near me](/assets/images/finance-desk.jpg)
+![Professional reviewing a client's brief before an introduction for office architect near me](/assets/images/insurance-advisory.jpg)
 
-## Where architects can help
+## What people searching for an office architect usually need
 
-Every enquiry is different, but these are typical starting points for clients who contact architects:
+Most enquiries come from occupiers and managers trying to make a workplace work better without disrupting the business.
 
-- An energy-efficient renovation or eco build.
-- Alterations to a listed building or a home in a conservation area.
-- A new-build house on a plot.
-- A feasibility study before buying a property.
-- A rear or side extension to add space.
+- You are reworking an office for hybrid working and need the layout, desks and meeting space to match how people actually use the building.
+- You have found a new office and want an architect to test whether your fit-out ideas are realistic before you commit to the lease.
+- Your current space feels noisy, cramped or uncomfortable, and you want acoustics, light and wellbeing designed in rather than patched up later.
+- You need to know whether your lease allows the alterations you have in mind, and how to plan the work in stages so the team can keep working.
+- You want help navigating building regulations approval, planning permission or party wall matters that sit alongside the design work.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of architect fits best.
+## Questions to ask the professional
 
-## Typical timescales
+Asking a few direct questions early tells you a lot about how a practice works:
 
-Design and planning usually take several months before building starts. A householder planning application normally has a statutory determination period of around eight weeks once validated, though decisions can take longer. Listed building consent and complex sites take more time.
+- Are you on the Architects Registration Board register, and can you confirm your professional indemnity insurance?
+- How will you get to know our building and how often will you visit the office?
+- Can you help us understand what our lease allows before we plan any alterations?
+- How would you phase the work so our team can keep working through the fit-out?
+- What will the written appointment cover, including services, fees and responsibilities?
+- Which approvals, such as building regulations or planning permission, are likely to be needed for our plans?
 
 ## Before you choose an office architect
 
@@ -48,46 +55,26 @@ A good architect will talk you through each of these in plain English.
 
 **Need an office architect?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-## Questions to ask an office architect
+## What an office architect is likely to cost (POA)
 
-Once you are introduced, these questions help you decide whether the architect is right for you:
-
-- Who will do the drawings and attend site?
-- Can I see similar projects you have completed?
-- What other consultants might I need, such as a structural engineer?
-- How do you handle planning and building regulations?
-- Are you ARB registered?
-- How will you help keep the build within budget?
-
-## How fees usually work (POA)
-
-Architects commonly charge a fixed fee per stage, a percentage of the build cost, or an hourly rate for smaller pieces of work. The scope, from initial sketches to full contract administration, makes a big difference. iComply does not publish fees; the practice will give you a POA proposal.
+Architects commonly charge a fixed fee per stage, a percentage of the build cost, or an hourly rate for smaller pieces of work. The scope, from initial sketches to full contract administration, makes a big difference. The practice will give you a POA proposal.
 
 Ask for a written fee proposal linked to the RIBA stages, and check what is excluded, such as planning fees, surveys and other consultants.
 
-## How iComply matches you
+## Timing and urgency
 
-1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
-1. **We review your brief.** We check the type of architect you need, your location and your timing.
-1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
-1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
+Design and planning usually take several months before building starts. A householder planning application normally has a statutory determination period of around eight weeks once validated, though decisions can take longer. Listed building consent and complex sites take more time.
+
+![Planning the first appointment after an enquiry for office architect near me](/assets/images/hero-workshop.jpg)
+
+## How our free matching service works
+
+1. **Enquire for free** with your town or postcode and a short description.
+1. **We clarify** anything unclear, so the introduction is useful from the start.
+1. **We connect you** with an office architect who suits your situation.
+1. **The practice takes over**, confirms scope and fees in writing and does the work.
 
 We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
-
-![Planning the first appointment after an enquiry for office architect near me](/assets/images/insurance-advisory.jpg)
-
-## Information that helps us match you
-
-You do not need all of this to enquire, but the more you can share, the better the match:
-
-- Your timing hopes, including when you want to start building
-- A rough brief: what you want, why, and must-haves
-- Photos of the existing building and the space you want to change
-- Any neighbours or boundary issues you already know about
-- The property address and whether it is listed or in a conservation area
-- Any existing drawings, surveys or planning history
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
 ## Qualifications and registration to look for
 
@@ -95,66 +82,74 @@ Please do not send confidential records or full files in your first message. The
 
 Before you appoint anyone, check the ARB register and ask for a written appointment that sets out services, fees and responsibilities. Building regulations approval, planning permission and party wall matters are separate processes that your architect can help you navigate.
 
-iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
+Please note that iComply is a matching service only. We are not regulated as an architect, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
 
-## Finding an office architect near you
+## Knowing who you are hiring
 
-When you search for an office architect near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
+"Architect" is a protected title in the UK. Only people on the Architects Registration Board (ARB) register can call themselves architects, and they must follow the ARB code of conduct and hold professional indemnity insurance. Many practices are also RIBA Chartered Practices.
 
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
+Because your search is for someone near you, it is also sensible to ask how often they will visit the building, since an office fit-out depends on understanding the actual space.
 
-## After the introduction
+## What to tell iComply when you enquire
 
-After the introduction, the practice will usually arrange a site visit or video call, discuss your brief and send a fee proposal. If you appoint them, your contract is with the practice. iComply does not design buildings or manage projects.
+A short, clear brief saves time on both sides. Useful details include:
 
-## Warning signs to watch for
+- Describe the office you have, including roughly how many people work there and whether you own or lease it.
+- Explain what is prompting the work, such as a move, a lease renewal, hybrid working or a fit-out that feels out of date.
+- Say whether you already have floor plans, a survey or a landlord's consent process underway.
+- Mention any constraints you know about, such as lease restrictions on alterations, listed status or shared building services.
+- Set out whether you need full design through to completion or just early advice on what is feasible.
+- Note your preferred location and how far you are willing for the architect to travel to the office.
 
-Most professionals are honest and competent, but it is worth knowing the warning signs:
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
-- Using the title "architect" without ARB registration
-- Unrealistic promises about planning permission
-- No professional indemnity insurance
-- Reluctance to discuss budget early
+![Client explaining what they need before being matched with an office architect](/assets/images/finance-desk.jpg)
 
-![Architecture practice ready to take on a new enquiry for office architect near me](/assets/images/healthcare-consult.jpg)
+## Office Architect Near Me: FAQs
 
-## FAQs about office architect near me
+### Do I need a registered architect for an office fit-out?
+
+Not always, but "architect" is a protected title, so only people on the Architects Registration Board register can use it. Architectural designers and technologists can do excellent work too, so it is worth asking which you are hiring and checking the ARB register before you appoint anyone.
+
+### How local does an office architect need to be?
+
+Close enough to visit the building regularly, since understanding the actual space matters for a fit-out. Ask how often they expect to be on site and whether travel is included in their quote.
+
+### Can an architect help with lease restrictions on alterations?
+
+They can help you understand what your lease may restrict and how to approach your landlord, though lease terms are a separate matter from design. It is worth raising this early, before plans are drawn up.
+
+### What should a written appointment include?
+
+It should set out the services, fees and responsibilities clearly before any work begins.
 
 ### Do I need an architect for an extension?
 
 Not legally, but a registered architect brings design skill, planning experience and accountability. For simple work, an architectural technologist or designer may be enough. We can match you to the right level of help.
 
-### Will an architect guarantee planning permission?
-
-No one can guarantee planning permission. A good architect will explain local policy, the risks and how to give your application the best chance.
-
 ### How do I find an office architect near me?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable architecture practice with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
-
-### Is it free to use iComply?
-
-Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
 
 ### Do I have to accept a quote?
 
 No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
 
-### Is iComply regulated?
+### Is it free to use iComply?
 
-iComply is a matching service. We are not a architect and we do not give professional advice. The professionals we introduce are registered with their own bodies, and you can check them.
+Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
 
-## Related searches
+## Other services you may need
 
-- [Architects](/keywords/architects/)
-- [Contemporary house architect near me](/keywords/contemporary-house-architect-near-me/)
-- [Home extension architect near me](/keywords/home-extension-architect-near-me/)
-- [House architect near me](/keywords/house-architect-near-me/)
 - [Interior architect near me](/keywords/interior-architect-near-me/)
+- [Loft conversion architect near me](/keywords/loft-conversion-architect-near-me/)
+- [Best architect near me](/keywords/best-architect-near-me/)
+- [Kitchen extension architect near me](/keywords/kitchen-extension-architect-near-me/)
+- [Garage conversion architect near me](/keywords/garage-conversion-architect-near-me/)
 - [Browse all architects](/hubs/architects/)
 
-## Ready to be matched?
+## Get a free quote for an office architect
 
-Tell us what you need and where you are. We will match you with a suitable architect, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
+One short enquiry is all it takes. We connect you with an office architect who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
 
 [Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

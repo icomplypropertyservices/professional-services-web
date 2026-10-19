@@ -246,7 +246,7 @@ function ps_service_delivery_html(string $label, string $group = 'general'): str
 
     return '<section class="service-panel" aria-labelledby="services-delivery">'
         . '<h2 id="services-delivery">How iComply connects clients with ' . ps_h($g) . '</h2>'
-        . '<p>iComply Professional Services is the <strong>middleman</strong>: we help end clients find ' . ps_h($need) . ', and we help <strong>' . ps_h($label) . '</strong> receive that demand as qualified introductions. Engagements are scoped and quoted <strong>POA</strong>. This is a referral service for finding professionals — not a marketing agency for firms.</p>'
+        . '<p>iComply Professional Services is the <strong>middleman</strong>: we help end clients find ' . ps_h($need) . ' and introduce them to suitable <strong>' . ps_h($label) . '</strong>. Enquiring is free; the practice quotes you directly, <strong>POA</strong>.</p>'
         . '<div class="service-grid">'
         . '<article class="service-card"><h3>1. Client enquires</h3><p>Someone needs a professional. They tell us the brief, location and urgency.</p></article>'
         . '<article class="service-card"><h3>2. We qualify</h3><p>We clarify intent and geography so the introduction is useful.</p></article>'
@@ -361,10 +361,10 @@ function ps_client_facing_article(string $slug, string $kind = 'hub'): array
         'What a good brief includes' => "A useful enquiry names the profession, the problem in one or two sentences, timing, and how to reach you. Leave confidential files out of the first message; the practice will collect detail securely later.",
         'For practices receiving introductions' => "{$label} practices that want client demand should tell us specialty, locations and weekly capacity. Introductions are scoped for fit — not spray-and-pray marketing lists dressed up as leads.",
         'Boundaries you can trust' => "iComply is the middleman. We do not act as your solicitor, clinician, accountant or authorised adviser. Regulated work stays with the practice you choose to instruct after introduction.",
-        'Pricing honesty — POA' => "There are no fixed sterling catalogue prices on this site. Commercial terms for introductions or related support are price on application after a short discovery conversation.",
+        'Pricing honesty — POA' => "Fees are set by the practice you choose and are price on application (POA), quoted once they understand your matter. Enquiring with iComply is free.",
         'After you are connected' => "Once introduced, the practice owns the relationship. They confirm scope, diaries and fees under their own terms. We may lightly follow up to learn whether the introduction landed well.",
         'When we cannot match yet' => "If specialty or capacity is missing in your area, we say so rather than force a poor fit. You can update the brief or widen location preferences and try again.",
-        'How this differs from directories' => "This page is about finding a professional — not buying marketing services for a firm. It exists so end clients can find {$g}, and so those practices can receive real demand.",
+        'How this differs from directories' => "A directory gives you a long list to work through. iComply takes your brief and introduces {$g} who suit it, so you can compare a quote rather than call round.",
         'Preparing for the first conversation' => "Have dates, reference numbers and basic goals ready for the practice. Clients who prepare a short timeline usually get clearer first replies from busy professionals.",
         'Multi-site and sole desks' => "Large firms and sole practitioners both receive introductions when capacity allows. Matching notes include how you prefer to be contacted and whether evening or remote appointments help.",
         'Privacy and sensitive matters' => "Share enough to match, not your entire file. Employment disputes, health concerns and financial details deserve care — the practice will guide what to send once engaged.",

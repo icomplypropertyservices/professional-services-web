@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for \"egg freezing near me\" usually means you're thinking seriously about preserving your fertility and want to find a local clinic that can talk you through the process. You might be considering it for medical reasons, or because your circumstances mean you'd like to keep your options open for later. We can introduce you to a UK fertility clinic that offers egg freezing, and they will quote you directly.",
+ "need_heading": "What people searching for egg freezing near me usually need",
+ "need_lead": "Most people want a clear, local conversation about what egg freezing involves and whether it's right for them.",
+ "needs": [
+  "You want to understand the steps involved, from ovarian stimulation and egg collection to vitrification and storage.",
+  "You'd like to know how your age at freezing might affect the chances of success later on.",
+  "You need to ask about the likely number of eggs that might be collected and stored.",
+  "You want to find a clinic that is licensed by the Human Fertilisation and Embryology Authority (HFEA) and can explain the storage rules, including renewals over time.",
+  "You'd prefer to speak to someone near you so that appointments and monitoring are practical to attend."
+ ],
+ "context_heading": "One key thing to understand about egg freezing",
+ "context": [
+  "Egg freezing treatment involving eggs is regulated, and clinics that offer it must be licensed by the HFEA. The HFEA's Choose a Fertility Clinic tool shows each licensed clinic's inspection ratings, success rates and patient feedback, so you can compare local options before you enquire. Simple blood hormone checks may be offered outside HFEA licensing, but any treatment involving eggs should always be with a licensed centre.",
+  "The law allows eggs to be stored for up to fifty-five years, but this is subject to renewals, so it's worth asking how storage and renewal work in practice. Your age at the time of freezing is an important factor in the chance of success later, and the clinic can discuss what that means for you. They can also explain the realistic number of eggs that might be collected, based on your individual circumstances."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you are looking for egg freezing near you, and give the town or area you'd like the clinic to be in.",
+  "Explain whether you are considering egg freezing for medical reasons or for social reasons, as this can affect the conversation.",
+  "Say whether you have had any previous fertility tests or treatment, and share anything relevant about your medical history.",
+  "Let us know your age, as it is a key factor in egg freezing and the clinic will want to discuss it with you.",
+  "Tell us if you have a preference for a clinic that is licensed by the HFEA, so we can introduce you to a suitable one.",
+  "Include any questions you already have about storage, renewals or the number of eggs, so the clinic can address them in their quote."
+ ],
+ "questions_heading": "Questions to ask the fertility clinic",
+ "questions": [
+  "Are you licensed by the HFEA for egg freezing treatment?",
+  "What does the egg freezing process involve, from stimulation through to storage?",
+  "Based on my age and circumstances, what number of eggs might realistically be collected?",
+  "How does my age at freezing affect the chance of success if I use the eggs later?",
+  "How long can eggs be stored, and what is involved in renewing storage?",
+  "What are the costs involved, and what does the quote include?"
+ ],
+ "faqs": [
+  {
+   "q": "Is egg freezing regulated in the UK?",
+   "a": "Yes, clinics offering egg freezing must be licensed by the Human Fertilisation and Embryology Authority (HFEA). You can check a clinic's inspection ratings, success rates and patient feedback using the HFEA's Choose a Fertility Clinic tool."
+  },
+  {
+   "q": "How long can I store my eggs for?",
+   "a": "The law allows eggs to be stored for up to fifty-five years, but this is subject to renewals. Your clinic can explain how the renewal process works and what you need to do to keep storage in place."
+  },
+  {
+   "q": "Does my age matter for egg freezing?",
+   "a": "Yes, your age at the time of freezing is an important factor in the chance of success if you use the eggs later. The clinic will discuss this with you and can explain what it means for your individual situation."
+  },
+  {
+   "q": "Will I know how many eggs might be collected?",
+   "a": "The clinic can give you an idea of the likely number of eggs based on your individual circumstances, but this cannot be certain. It's a good question to ask during your consultation so you can understand what to expect."
+  }
+ ]
+}

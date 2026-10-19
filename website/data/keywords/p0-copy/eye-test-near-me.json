@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for an eye test near me, you are likely looking for a local optician who can check your vision and the health of your eyes without travelling far. Whether you have noticed a change in your sight or simply want a routine check, an eye test can give you peace of mind. We can introduce you to a suitable optician in your area who will quote you directly for the test.",
+ "need_heading": "What people searching for an eye test near me usually need",
+ "need_lead": "Most people want a convenient, local appointment with an optometrist who can assess their eyes and advise on any next steps.",
+ "needs": [
+  "You have noticed your vision is not as clear as it used to be and want to find out whether you need glasses or a new prescription.",
+  "You are due a routine eye test because it has been a while since your last one and you want to keep an eye on your eye health.",
+  "You have specific symptoms such as headaches, eye strain, or difficulty seeing at night and want a professional opinion.",
+  "You need a test because you are concerned about a family history of eye conditions and want to be checked.",
+  "You are new to the area and need to find a local optician who can take over your regular eye care."
+ ],
+ "context_heading": "What to understand about finding an eye test near you",
+ "context": [
+  "Optometrists and dispensing opticians must be registered with the General Optical Council (GOC), which you can check online. Optometrists carry out eye examinations, while dispensing opticians fit and supply glasses and, with extra training, contact lenses. In many areas of the UK, community optometrists also provide minor eye condition and urgent eye care services.",
+  "Many people qualify for free NHS eye tests, so it is worth asking about eligibility when you book. When you go for your test, bring your current glasses and tell the optometrist about any symptoms you have been experiencing."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you are looking for an eye test near you, and give your postcode or the area you would like to find an optician in.",
+  "Say whether you have noticed any changes in your vision or have specific symptoms you want checked.",
+  "Let us know if you already wear glasses or contact lenses and whether you need a new prescription.",
+  "Tell us if you have any concerns about your eye health, such as a family history of eye conditions.",
+  "Mention any preferences you have, such as wanting an appointment at a particular time of day or needing accessible facilities.",
+  "Ask about NHS eligibility if you think you might qualify for a free test, so the optician can advise you when they quote."
+ ],
+ "questions_heading": "Questions to ask the optician",
+ "questions": [
+  "What does the eye test include, and will you check the health of my eyes as well as my vision?",
+  "Do I qualify for a free NHS eye test, and what evidence would I need to bring?",
+  "How long will the appointment take, and will I need to do anything beforehand?",
+  "Will you be able to tell me whether I need glasses or a new prescription at the appointment?",
+  "What options do you offer for glasses or contact lenses if I need them?",
+  "Can you tell me about the cost of the test and any additional services before I book?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I find an eye test near me?",
+   "a": "You can search for local opticians or ask iComply to introduce you to a suitable professional in your area. We will pass on your details and the professional will contact you to arrange a convenient appointment and quote you directly."
+  },
+  {
+   "q": "Is an eye test free on the NHS?",
+   "a": "Many people qualify for a free NHS eye test, including some people on certain benefits, those with diabetes or glaucoma, and people over a certain age. The optician will be able to check your eligibility when you enquire."
+  },
+  {
+   "q": "What should I bring to my eye test?",
+   "a": "Bring your current glasses or contact lenses, if you wear them, and any information about your medical history or medications. It also helps to tell the optometrist about any symptoms you have been having."
+  },
+  {
+   "q": "Can I get an urgent eye test if I have a problem?",
+   "a": "If you have sudden changes in your vision, severe eye pain, or other urgent symptoms, you should seek immediate advice from NHS 111 or your GP. For non-urgent concerns, a routine eye test with a local optometrist is appropriate."
+  }
+ ]
+}

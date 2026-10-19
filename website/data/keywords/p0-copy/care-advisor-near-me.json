@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a care advisor near you usually means someone in the family needs support with care decisions, and you want help from someone who knows the local area. You might be wondering how to arrange a needs assessment, how care funding works, or which care homes or home care services to consider. We can introduce you to a care advisor who works locally and can talk through your situation.",
+ "need_heading": "What people searching for a care advisor near me often need",
+ "need_lead": "Most people looking for a care advisor near them are facing a care decision for a parent, partner or themselves and want clear, local guidance.",
+ "needs": [
+  "You have noticed a relative struggling with daily tasks and want to know how to arrange a council needs assessment.",
+  "You are considering care homes in your area and want help understanding what to look for when you visit.",
+  "You are worried about how care will be paid for and want funding advice early, before making a commitment.",
+  "You feel overwhelmed by the different care options and want someone local to explain them in plain terms.",
+  "You need to move a family member closer to you and want advice on local home care services or care homes."
+ ],
+ "context_heading": "Understanding care advice and regulation",
+ "context": [
+  "In England, care homes and home care services are registered with and inspected by the Care Quality Commission (CQC), and Wales, Scotland and Northern Ireland have their own regulators. Local councils assess care needs and finances and must provide information and advice. An independent care advisor can help you understand these options, but you should ask whether their advice is regulated.",
+  "Some care fees advice involves financial products, such as immediate needs annuities, and that part is regulated by the Financial Conduct Authority (FCA). The Society of Later Life Advisers (SOLLA) accredits specialist advisers. Knowing this helps you judge whether the person you speak to is giving regulated financial advice or general guidance."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the person who needs care and what they are finding difficult at the moment.",
+  "Say whether you are looking for help with home care, a care home, or both.",
+  "Mention if a council needs assessment has already taken place or is being arranged.",
+  "Explain whether funding is a concern and if you have had any financial advice already.",
+  "Give your location and how far you are willing to travel to see a care advisor.",
+  "Note any deadlines or urgency, such as a hospital discharge or a change in circumstances."
+ ],
+ "questions_heading": "Questions to ask the care advisor",
+ "questions": [
+  "Are you independent of any care home or home care service you might recommend?",
+  "Do you charge a fee, and how is it structured?",
+  "Will you help us prepare for a council needs assessment?",
+  "Can you explain the difference between regulated financial advice and general care funding guidance?",
+  "How do you keep your knowledge of local care homes and home care services up to date?",
+  "What information should we gather before our first meeting?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a care advisor if I can contact the council myself?",
+   "a": "You can ask your local council for a needs assessment directly, and they must provide information and advice. A care advisor can help you prepare for that assessment and understand the options that follow, which some families find useful."
+  },
+  {
+   "q": "How do I check whether a care advisor is regulated?",
+   "a": "Ask whether any financial advice they give is regulated by the Financial Conduct Authority (FCA). If they are a specialist in later-life care fees, they may be accredited by the Society of Later Life Advisers (SOLLA). General care advice itself is not regulated in the same way."
+  },
+  {
+   "q": "Will a care advisor help me choose a care home near me?",
+   "a": "Care advisors can help you understand what to look for and how to compare local care homes, but you should always visit homes yourself before deciding. In England, you can check a home's registration and inspection reports with the Care Quality Commission (CQC)."
+  },
+  {
+   "q": "What should I have ready for a first conversation with a care advisor?",
+   "a": "It helps to have a clear picture of the person's daily needs, any existing assessments, and whether funding is a worry. Notes about what you have already tried and what matters most to the family will make the conversation more useful."
+  }
+ ]
+}

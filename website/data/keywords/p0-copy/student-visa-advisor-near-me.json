@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a student visa advisor near you usually means you're getting ready to study in the UK and want someone local who can look over your application before it goes in. Perhaps your CAS has arrived, or you're unsure whether your savings will satisfy the financial evidence rules. A qualified immigration adviser can help you work through those details and prepare a stronger application.",
+ "need_heading": "What people searching for a student visa advisor near me usually need",
+ "need_lead": "Most people behind this search are at a specific point in a student visa application and want nearby, regulated help with the paperwork.",
+ "needs": [
+  "You have your CAS from your chosen institution but want someone to check that the details match your passport and course before you apply.",
+  "You are unsure how long your funds need to have been held and in what form, and want advice on presenting your financial evidence correctly.",
+  "You are already in the UK on another visa and want to understand whether you can switch to a student route without leaving the country.",
+  "You are nearing the end of your studies and want to know how the graduate routes work and what you need to do next.",
+  "You have had an application refused or queried and want regulated help understanding the reasons and your options."
+ ],
+ "context_heading": "Why regulation matters for student visa advice",
+ "context": [
+  "It is a criminal offence to give immigration advice in the UK unless you are qualified and regulated. Advisers must be registered with the Immigration Advice Authority (IAA, formerly the OISC) at the right level for your matter, or be a solicitor, barrister or chartered legal executive authorised by their own regulator. Before you share documents or pay anyone, check the IAA's adviser finder or the SRA register.",
+  "Advisers registered with the IAA hold levels that limit what they can do, from basic applications through to appeals and representation. When you contact someone near you, ask what level they hold and whether it covers student visa work and any switching or refusal issues you have."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say where you are studying or hope to study, and whether your CAS has already been issued.",
+  "Explain what stage you are at, such as preparing a first application, switching from another visa, or dealing with a refusal.",
+  "Mention whether you are applying from inside the UK or from abroad, as this affects the advice you need.",
+  "Describe your financial evidence briefly, including who holds the funds and how long they have been in the account.",
+  "Note any dependants who would come with you, since their applications have their own requirements.",
+  "Say what you would like help with most, whether that is checking documents, understanding the rules, or preparing for an interview."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you registered with the Immigration Advice Authority, and at what level?",
+  "Does your registration cover student visa applications and any switching or refusal work I might need?",
+  "How will you assess whether my financial evidence meets the requirements?",
+  "What should I check on my CAS before the application is submitted?",
+  "Can you explain how the graduate routes would apply to me after my course?",
+  "What will you need from me, and how will you keep my documents secure?"
+ ],
+ "faqs": [
+  {
+   "q": "Can anyone near me advertise as a student visa advisor?",
+   "a": "No. Giving immigration advice in the UK is a criminal offence unless the person is qualified and regulated, either through the Immigration Advice Authority or as a solicitor, barrister or chartered legal executive authorised by their own regulator. Always check the IAA's adviser finder or the SRA register before sharing documents or paying."
+  },
+  {
+   "q": "How long do I need to hold my funds for a student visa?",
+   "a": "There is a required holding period for the funds you rely on as financial evidence, and the rules set out exactly how the money must be held and evidenced. Because the details matter and change, ask a regulated adviser to confirm the current requirement for your circumstances rather than relying on what you have heard."
+  },
+  {
+   "q": "Can I switch to a student visa without leaving the UK?",
+   "a": "Switching depends on the visa you currently hold and the rules that apply to it, and not every route allows switching from inside the UK. A regulated adviser can tell you whether switching is possible for you or whether you would need to apply from abroad."
+  },
+  {
+   "q": "What happens after my course ends?",
+   "a": "Graduate routes have their own rules, separate from the student visa, and they set out what you can do once your studies are complete. An adviser can explain how those routes apply to your situation and what you would need to prepare."
+  }
+ ]
+}

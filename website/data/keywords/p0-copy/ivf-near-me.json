@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for IVF near me usually means you're considering fertility treatment and want to find a clinic that feels right for you, close to home. You may be at the start of your journey or looking for a second opinion, and you want to understand your options without pressure. We can introduce you to a UK fertility clinic that can talk you through the process and quote you directly.",
+ "need_heading": "What people searching for IVF near me usually need",
+ "need_lead": "Most people want a clear, local starting point for IVF and a sense of what to expect next.",
+ "needs": [
+  "You have been trying to conceive for a while and your GP has suggested you look into IVF, so you want to find a clinic near you that can explain the next steps.",
+  "You have been referred for NHS fertility treatment but want to understand what a local clinic offers and how the process works.",
+  "You are considering paying for IVF privately and want to compare clinics close to home without feeling pushed into a decision.",
+  "You have questions about success rates, embryo storage or single embryo transfer and want to speak to a clinic that can answer them clearly.",
+  "You are looking for a clinic that is licensed by the Human Fertilisation and Embryology Authority (HFEA) and want to know how to check its inspection ratings and patient feedback."
+ ],
+ "context_heading": "What to understand about IVF and choosing a clinic",
+ "context": [
+  "IVF involves stimulating the ovaries, collecting eggs, fertilising them in the lab and transferring an embryo to the womb. Success rates depend strongly on age, and single embryo transfer is often safer, so it is worth asking how these factors apply to you.",
+  "Clinics offering IVF and most other fertility treatments must be licensed by the Human Fertilisation and Embryology Authority (HFEA). The HFEA's Choose a Fertility Clinic tool shows each licensed clinic's inspection ratings, success rates and patient feedback, which can help you judge for yourself which clinic suits you."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you are looking for IVF near you and share the town or area you would like the clinic to be in.",
+  "Explain whether you are seeking NHS-funded treatment or planning to pay privately, as this can affect which clinics are suitable.",
+  "Let us know if you have already had any fertility tests or a referral from your GP.",
+  "Tell us if you have a preference for a clinic that offers particular treatments, such as egg freezing or donor treatment.",
+  "Share any questions you have about success rates, embryo storage or single embryo transfer so the clinic can prepare.",
+  "Mention if you would like to see a clinic's HFEA inspection ratings and patient feedback before you decide."
+ ],
+ "questions_heading": "Questions to ask the clinic",
+ "questions": [
+  "Are you licensed by the HFEA for IVF treatment?",
+  "What are your success rates for someone of my age, and how do you present them?",
+  "Do you recommend single embryo transfer, and why?",
+  "What are the options and costs for storing spare embryos?",
+  "What does the IVF process involve from start to finish, and how involved will I be in decisions?",
+  "Can you tell me about your inspection ratings and patient feedback on the HFEA's Choose a Fertility Clinic tool?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check if a clinic is licensed for IVF?",
+   "a": "Clinics offering IVF must be licensed by the Human Fertilisation and Embryology Authority (HFEA). You can use the HFEA's Choose a Fertility Clinic tool to see each licensed clinic's inspection ratings, success rates and patient feedback."
+  },
+  {
+   "q": "What does IVF involve?",
+   "a": "IVF involves stimulating the ovaries, collecting eggs, fertilising them in the lab and transferring an embryo to the womb. Your clinic will explain each step and discuss what is right for you."
+  },
+  {
+   "q": "Why does age matter for IVF success?",
+   "a": "Success rates depend strongly on age, so it is important to ask how a clinic's results apply to someone in your situation. The clinic can talk you through this in detail."
+  },
+  {
+   "q": "Should I ask about embryo storage?",
+   "a": "Yes, it is worth asking about storage for spare embryos, including what options are available and any associated costs. Your clinic can explain how storage works and what you need to consider."
+  }
+ ]
+}

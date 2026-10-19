@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for an OISC adviser near you usually means something in your immigration status needs sorting out, and you want someone local who is properly authorised to help. Perhaps a visa application is looming, a refusal has landed, or a family member's case has become complicated. Finding the right adviser starts with knowing who is allowed to give immigration advice and how to check them.",
+ "need_heading": "What people searching for an OISC adviser nearby usually need",
+ "need_lead": "Most people who search this way want a regulated professional close enough to deal with, who can take on their particular immigration matter with confidence.",
+ "needs": [
+  "You have a visa application to prepare and want an adviser who can check your documents and guide you through the form.",
+  "You have received a refusal or a decision you do not understand and need someone authorised to explain your options.",
+  "Your case involves an appeal or a hearing and you need an adviser whose registration covers representation.",
+  "You are applying for a family member to join you in the UK and want help with the evidence and requirements.",
+  "You have a more complex situation, such as a previous overstay or a change in circumstances, and want advice you can rely on."
+ ],
+ "context_heading": "Understanding who can legally give immigration advice",
+ "context": [
+  "It is a criminal offence to give immigration advice in the UK unless the person is qualified and regulated. OISC-registered advisers, now regulated by the Immigration Advice Authority, are authorised at specific levels to give immigration advice, and solicitors, barristers and chartered legal executives are authorised by their own regulators. Before you share documents or pay anyone, check the adviser's registration on the Immigration Advice Authority's adviser finder or the Solicitors Regulation Authority register.",
+  "The OISC became the Immigration Advice Authority in recent years, so you may see either name. Advisers are registered at levels that limit what they can do, ranging from basic applications to appeals and representation. Ask what level an adviser holds and whether it covers your type of case, and remember that registered advisers must display their status."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the type of immigration matter you need help with, such as a visa application, a refusal, an appeal or a family application.",
+  "Say where you are based and how far you are able to travel, since you searched for an adviser near you.",
+  "Mention any deadlines or hearing dates that are coming up, so the right kind of help can be found.",
+  "Explain whether you have already had advice or made an application, and what stage it has reached.",
+  "Note whether your case involves an appeal or representation, as not every level of registration covers this.",
+  "Include any language or accessibility needs you have when speaking with an adviser."
+ ],
+ "questions_heading": "Questions to ask the adviser",
+ "questions": [
+  "Are you registered with the Immigration Advice Authority, and at what level?",
+  "Does your registration cover the type of immigration matter I need help with?",
+  "Will you be the person handling my case, or will someone else in the practice do the work?",
+  "What will you need from me before you can give advice on my situation?",
+  "How will you keep me informed as my case progresses?",
+  "What are your arrangements if my matter involves an appeal or a hearing?"
+ ],
+ "faqs": [
+  {
+   "q": "Is an OISC adviser the same as an immigration lawyer?",
+   "a": "Not quite. OISC-registered advisers are regulated by the Immigration Advice Authority, while solicitors, barristers and chartered legal executives are authorised by their own regulators. Both can give immigration advice, but you should check which one you are dealing with and what they are authorised to do."
+  },
+  {
+   "q": "How do I check that an adviser is properly registered?",
+   "a": "Use the Immigration Advice Authority's adviser finder, or the Solicitors Regulation Authority register if you are dealing with a solicitor. Check before you share documents or pay any money. Registered advisers must display their status."
+  },
+  {
+   "q": "Does the level of registration matter for my case?",
+   "a": "Yes. Advisers are registered at levels that limit what they can do, from basic applications to appeals and representation. Ask what level an adviser holds and whether it covers your type of case before you proceed."
+  },
+  {
+   "q": "Can iComply tell me which adviser to choose?",
+   "a": "No. We introduce you to a suitable UK professional who quotes you directly, and the decision is yours. We do not give immigration advice ourselves and cannot say who is best for your circumstances, so check registration and ask questions before you commit."
+  }
+ ]
+}

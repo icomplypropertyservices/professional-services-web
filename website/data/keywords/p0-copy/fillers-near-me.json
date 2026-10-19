@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for fillers near you usually means you've decided to look into dermal fillers and want to find someone local who can talk it through properly. Perhaps you want to restore a little volume, soften lines or change the shape of your lips, and you'd rather start with a practitioner you can actually visit. We can introduce you to a suitable UK aesthetic practitioner in your area, and they'll quote you directly.",
+ "need_heading": "What people searching for fillers nearby usually need",
+ "need_lead": "Most people typing this search want a local practitioner they can meet in person before deciding anything.",
+ "needs": [
+  "You'd like to find an aesthetic clinic within reasonable travelling distance so you can attend a consultation face to face.",
+  "You want to discuss a specific area, such as your lips, cheeks or the lines around your mouth, with someone who performs dermal fillers regularly.",
+  "You have questions about which filler would be used, what it is made of and how long any effect might last.",
+  "You want to understand the risks before you book anything, including what happens if something goes wrong.",
+  "You'd prefer a practitioner who can see you for a follow-up rather than someone you'd struggle to get back to."
+ ],
+ "context_heading": "Understanding how fillers are regulated in the UK",
+ "context": [
+  "Dermal fillers are usually made of hyaluronic acid and are classed as devices rather than medicines, so the rules differ from those for anti-wrinkle injections. The government has set out plans for a licensing scheme for non-surgical cosmetic procedures in England, but until that is in force it pays to choose your clinic carefully.",
+  "Practitioners listed on registers such as Save Face or the JCCP, and doctors and nurses registered with the GMC or NMC, offer extra reassurance. Clinics run by regulated healthcare providers may also be registered with the CQC. None of this replaces a proper consultation, but it gives you useful things to check."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say which area you're interested in, such as lips, cheeks or another part of the face.",
+  "Mention whether you've had dermal fillers before and, if so, roughly when.",
+  "Explain whether you have any allergies, skin conditions or medical treatment that a practitioner should know about.",
+  "Tell us the town or area you'd like the clinic to be near, so we can introduce you to someone local.",
+  "Say whether you'd prefer to see a doctor or nurse, or are happy with any suitably registered practitioner.",
+  "Mention whether you'd like an initial consultation only, or are hoping to have treatment discussed at the same visit."
+ ],
+ "questions_heading": "Questions worth asking the practitioner",
+ "questions": [
+  "Which filler would you use for my area, and what is it made of?",
+  "What are the risks for the area I want treated, and how would you manage a vascular complication?",
+  "Do you have a protocol for dissolving hyaluronic filler if needed?",
+  "Are you on a register such as Save Face or the JCCP, or registered with the GMC, NMC or another regulator?",
+  "What would a consultation involve, and would treatment happen at the same appointment?",
+  "How should I prepare, and what aftercare will I need to follow?"
+ ],
+ "faqs": [
+  {
+   "q": "Are dermal fillers the same as anti-wrinkle injections?",
+   "a": "No. Anti-wrinkle injections use a prescription-only medicine, so a prescriber such as a doctor, nurse prescriber, dentist or pharmacist prescriber must assess you, normally face to face. Dermal fillers are devices rather than medicines, and the rules around them are tightening."
+  },
+  {
+   "q": "Can fillers be reversed if I don't like the result?",
+   "a": "Hyaluronic acid fillers can be dissolved, which is one reason they are widely used. Ask the practitioner about this before treatment so you know where you stand."
+  },
+  {
+   "q": "What should I check before choosing a clinic near me?",
+   "a": "Look at the practitioner's registration and the clinic's arrangements for emergencies. Practitioners on registers such as Save Face or the JCCP, and doctors and nurses registered with the GMC or NMC, offer extra reassurance."
+  },
+  {
+   "q": "Is there a licensing scheme for these treatments yet?",
+   "a": "The government has set out plans for a licensing scheme for non-surgical cosmetic procedures in England, but it is not yet in force. Until then, choosing a clinic carefully matters all the more."
+  }
+ ]
+}

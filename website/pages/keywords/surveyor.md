@@ -7,30 +7,36 @@ group: property-prof
 hub: surveyors
 profession: surveyor
 service_label: Surveyor
-og_image: /assets/images/healthcare-consult.jpg
+og_image: /assets/images/finance-desk.jpg
 ---
 
 # Surveyor
 
-Before you contact anyone about **surveyor**, it helps to know what to expect. Surveyors inspect, measure and value property and land, report on condition, advise on building work and help resolve disputes.
+Searching for a surveyor usually means you have a property or piece of land you need to understand better, whether you are buying, building, or dealing with a problem that has already surfaced. Surveyors inspect, measure and value property and land, report on condition, advise on building work and help resolve disputes, so the right one depends entirely on what you need to know. Tell us what you are facing and we will introduce you to a suitable UK surveying practice, who will quote you directly.
+
+Surveyors inspect, measure and value property and land, report on condition, advise on building work and help resolve disputes.
 
 We act as the middleman between you and the professional. Share a short brief and we match you with a surveyor who has the right experience and capacity. Enquiring is free, and you are under no obligation to accept a quote.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Next steps after an iComply introduction for a surveyor](/assets/images/healthcare-consult.jpg)
+![Next steps after an iComply introduction for a surveyor](/assets/images/finance-desk.jpg)
 
-## What surveyors commonly help with
+## What people searching for a surveyor usually need
 
-Surveyors help clients in many situations. Some of the most common are:
+Most enquiries come from people who need a clear, independent picture of a property before they commit to something.
 
-- Insurance needing an accurate rebuild valuation.
-- A landlord or developer needing cost or measurement advice.
-- A buyer wanting a survey before exchanging contracts.
-- A neighbour planning work that affects a shared wall.
-- A renovation project that needs a building surveyor to oversee work.
+- You are buying a home and want to know what condition it is really in before you exchange contracts.
+- You have had a building survey done and want advice on what the findings mean and what to do next.
+- You are planning building work and need someone to advise on the site, the structure or the likely cost.
+- You are dealing with a dispute with a neighbour or a builder over a boundary, a party wall or the quality of work.
+- You need a valuation of property or land for a family matter, a lease or another legal reason.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of surveyor fits best.
+## How fees usually work (POA)
+
+Survey fees depend on the type of report, the size and age of the property and how far the surveyor must travel. Specialist and commercial work is usually quoted individually. The surveyor quotes you, POA.
+
+Ask for the scope of the inspection in writing, and check whether follow-up calls or additional investigations are included.
 
 ## How to check you are in safe hands
 
@@ -38,32 +44,13 @@ Many surveyors are members of the Royal Institution of Chartered Surveyors (RICS
 
 Check the RICS directory, ask which report type you are getting and confirm whether the surveyor is independent of the sale. For asbestos work, look for organisations accredited by UKAS for surveying.
 
-iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
-
-## Costs and quotes for a surveyor
-
-Survey fees depend on the type of report, the size and age of the property and how far the surveyor must travel. Specialist and commercial work is usually quoted individually. iComply does not publish fees; the surveyor quotes you, POA.
-
-Ask for the scope of the inspection in writing, and check whether follow-up calls or additional investigations are included.
+Please note that iComply is a matching service only. We are not regulated as a surveyor, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
 
 **Need a surveyor?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-## How our free matching service works
+## Practical points about a surveyor
 
-1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
-1. **We review your brief.** We check the type of surveyor you need, your location and your timing.
-1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
-1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
-
-There is no charge to you for the introduction, and no obligation to accept any quote.
-
-## Timing and urgency
-
-Residential inspections can often be booked within a week or two, with reports following within a few working days. Party wall matters follow statutory notice periods, and specialist investigations may need extra visits.
-
-## Before you choose a surveyor
-
-A few points come up again and again with a surveyor:
+These practical points are worth knowing before you speak to anyone about a surveyor:
 
 - Choose the right type of surveyor for the job.
 - RICS membership gives assurance.
@@ -71,64 +58,92 @@ A few points come up again and again with a surveyor:
 
 A good surveyor will talk you through each of these in plain English.
 
-![Surveying practice ready to take on a new enquiry for surveyor](/assets/images/hero-workshop.jpg)
-
-## After the introduction
-
-Once introduced, the surveyor will confirm terms of engagement before the inspection. The report and professional responsibility for it sit with the surveyor. iComply does not inspect properties.
-
-## Information that helps us match you
-
-You do not need all of this to enquire, but the more you can share, the better the match:
-
-- For party wall matters, a description of the planned works
-- Any particular concerns, such as cracks, damp or extensions
-- The property address and type
-- Access arrangements and who holds the keys
-- Any previous reports or drawings
-- The age of the property, if known
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
-
-## What a surveyor does
-
-If you have not used a surveyor before, it helps to understand what the work involves before you contact anyone. That makes your first conversation more productive and helps you spot good advice.
-
-Once you know what you need, we can match you with a suitable practice. You do not need to know every detail; a short description is enough to start.
-
-## When to think twice
-
-Be cautious if you notice any of the following:
-
-- A report type that does not match the property's age or condition
-- Reluctance to discuss findings after the report
-- No professional indemnity insurance
-- Quotes without a clear description of the inspection
-
-## Good questions for your first call
+## Questions to ask the surveyor
 
 Once you are introduced, these questions help you decide whether the surveyor is right for you:
 
-- When can you inspect, and when will I receive the report?
-- Do you hold professional indemnity insurance?
-- Are you RICS regulated or a member of another relevant body?
-- Which type of survey or report do you recommend, and why?
-- What will the report cover, and what is excluded?
-- Are you independent of the agent or seller?
+- Which type of survey or report are you recommending for this property, and what does it include?
+- Are you independent of the sale, and do you have any connection to the seller or the estate agent?
+- Are you a member of RICS, and what do the letters after your name mean?
+- What will the report cover, and what will it leave out?
+- How will you handle anything urgent you find during the inspection?
+- What is your complaints process if I am unhappy with the work?
 
-![Professional reviewing a client's brief before an introduction for surveyor](/assets/images/finance-desk.jpg)
+## Getting the right kind of surveyor matters
+
+Surveying covers a wide range of work, and the person who values a house may not be the one who inspects a roof or handles a party wall. Before you enquire, think about which of those jobs you actually need, because it will shape who we introduce you to and what you should ask them.
+
+Chartered surveyors use the letters MRICS or FRICS, and some specialist roles have their own bodies, such as the Faculty of Party Wall Surveyors or the Property Care Association for damp and timber specialists.
+
+![Surveying practice ready to take on a new enquiry for surveyor](/assets/images/insurance-advisory.jpg)
+
+## From enquiry to quote in four steps
+
+1. **Enquire for free** with your town or postcode and a short description.
+1. **We clarify** anything unclear, so the introduction is useful from the start.
+1. **We connect you** with a surveyor who suits your situation.
+1. **The practice takes over**, confirms scope and fees in writing and does the work.
+
+There is no charge to you for the introduction, and no obligation to accept any quote.
+
+## What to tell us when you enquire
+
+A short, clear brief saves time on both sides. Useful details include:
+
+- Describe the property or land, including its age, type and general condition, so we can match the right kind of surveyor.
+- Say what you need the surveyor for, whether that is a condition report, a valuation, building advice or a dispute.
+- Explain where the property is, since surveyors work locally and this affects who can help.
+- Mention any deadline you are working to, such as an exchange date or a court date.
+- Tell us whether you already have a report or documents that the surveyor should see.
+- Say whether you are the owner, a buyer or acting for someone else, as this shapes the advice you need.
+
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+
+## What a surveyor actually does on a first visit
+
+When you search for a surveyor, you may be picturing a brief walk around the property, but a proper inspection is usually more thorough. The surveyor will examine the structure, the roof, the walls, the floors and the services where visible, and will note any defects, signs of movement or damp. They may use a ladder, a torch or a moisture meter, and they will take photographs as they go.
+
+After the inspection, the surveyor writes a report setting out what they found and what it means for you. The report should be clear about what was inspected and what was not, and it should flag anything that needs further investigation by a specialist. Ask the surveyor to talk you through the findings if anything is unclear, because the report is there to help you make a decision, not to sit unread.
+
+The first visit is also your chance to ask questions about the property and about the surveyor's own qualifications and experience. A good surveyor will be happy to explain their approach and to tell you what they can and cannot cover. This helps you judge whether their report will give you the confidence you need.
+
+## What happens after you are introduced
+
+Once introduced, the surveyor will confirm terms of engagement before the inspection. The report and professional responsibility for it sit with the surveyor. iComply does not inspect properties.
+
+![Professional reviewing a client's brief before an introduction for surveyor](/assets/images/hero-workshop.jpg)
 
 ## FAQs: a surveyor
 
+### Do I need a surveyor if I am buying a home?
+
+A surveyor can give you an independent view of the property's condition before you commit, which is different from a mortgage valuation arranged by your lender. What you need depends on the age and type of the property, so it is worth asking what report suits it.
+
+### What is the difference between a valuation and a building survey?
+
+A valuation is an assessment of what the property is worth, often for a lender, while a building survey looks in detail at the condition and structure. Tell the surveyor which one you need so the report matches your purpose.
+
+### How do I check a surveyor's credentials?
+
+Many surveyors are members of the Royal Institution of Chartered Surveyors, and you can check the RICS directory. Chartered surveyors use the letters MRICS or FRICS, and specialist roles may have their own bodies.
+
+### Can a surveyor help with a party wall or a boundary dispute?
+
+Yes, surveyors advise on party wall matters and boundary disputes, and some specialise in this work through bodies such as the Faculty of Party Wall Surveyors. Explain the dispute when you enquire so we can introduce someone suited to it.
+
+### Will the surveyor go into the loft or under the floor?
+
+Most surveyors will inspect the loft if it is safely accessible, but they will not move stored items or lift floorboards unless it is part of the agreed scope. Ask beforehand what access they will need and what they will inspect.
+
+### Can I be present during the survey?
+
+Some surveyors are happy for you to attend, but others prefer to work alone so they can concentrate. If you do attend, you can ask questions as you go, but remember the written report is the formal record.
+
 ### Which survey do I need when buying a home?
 
-For a conventional property in reasonable condition, a RICS Level 2 survey is often enough. Older, larger or altered properties often justify a Level 3 building survey. A surveyor can recommend the right level.
+For a conventional property in reasonable condition, an RICS Level 2 survey is often enough. Older, larger or altered properties often justify a Level 3 building survey. A surveyor can recommend the right level.
 
-### Is a mortgage valuation the same as a survey?
-
-No. A mortgage valuation is carried out for the lender. A survey is carried out for you and looks at the property's condition.
-
-### How do I find a surveyor near me?
+### Can you find a surveyor in my area?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable surveying practice with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
 
@@ -136,25 +151,21 @@ Send us your town or postcode with a short description of what you need. We look
 
 Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
 
-### Do I have to accept a quote?
+### Is iComply regulated?
 
-No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
-
-### How quickly will I hear back?
-
-Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
+iComply is a matching service. We are not a surveyor and we do not give professional advice. The professionals we introduce are registered with their own bodies, and you can check them.
 
 ## Related searches
 
-- [Leasehold surveyor near me](/keywords/leasehold-surveyor-near-me/)
+- [Surveyor near me](/keywords/surveyor-near-me/)
+- [Dilapidations surveyor near me](/keywords/dilapidations-surveyor-near-me/)
+- [Property surveyor near me](/keywords/property-surveyor-near-me/)
+- [Damp surveyor near me](/keywords/damp-surveyor-near-me/)
 - [Measured surveyor near me](/keywords/measured-surveyor-near-me/)
-- [Land surveyor near me](/keywords/land-surveyor-near-me/)
-- [Local surveyor near me](/keywords/local-surveyor-near-me/)
-- [Insurance valuation surveyor near me](/keywords/insurance-valuation-surveyor-near-me/)
 - [Browse all surveyors](/hubs/surveyors/)
 
-## Ready to be matched?
+## Get a free quote for a surveyor
 
-One short enquiry is all it takes. We connect you with a surveyor who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
+Tell us what you need and where you are. We will match you with a suitable surveyor, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
 
 [Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

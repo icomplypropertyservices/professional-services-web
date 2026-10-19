@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for cyber insurance near me, you are likely looking for a local insurance broker who understands the cyber risks your business faces and can help you find suitable cover. Cyber insurance can protect against losses from data breaches, ransomware and other cyber attacks, but the policies vary. We introduce you to UK insurance brokers who can discuss your needs and provide a quote.",
+ "need_heading": "What people searching for cyber insurance near me usually need",
+ "need_lead": "Most people searching for cyber insurance near me want to speak to a broker who can explain the cover and find a policy that fits their business.",
+ "needs": [
+  "You run a small business and worry that a cyber attack could disrupt your operations or cost you money.",
+  "You have been asked to provide evidence of cyber insurance by a client or supplier and need to arrange cover quickly.",
+  "You want to understand what cyber insurance covers and whether it includes support for incident response and business interruption.",
+  "You are unsure whether your existing insurance already includes cyber cover and want to check before buying a separate policy.",
+  "You want to speak to a local broker who can explain the security controls insurers expect and help you present your business in the best light."
+ ],
+ "context_heading": "What to understand about cyber insurance and brokers",
+ "context": [
+  "Cyber insurance policies can vary in what they cover, so it is important to check the details. Insurers often expect basic security controls to be in place, such as regular backups and staff training, before they will offer cover. A broker can explain what is typically required and help you understand the exclusions.",
+  "Insurance brokers in the UK must be authorised by the Financial Conduct Authority (FCA) or be appointed representatives of an authorised firm. You can check a broker on the FCA register. Many brokers also belong to the British Insurance Brokers' Association (BIBA), and some hold Chartered status from the Chartered Insurance Institute. Brokers must understand your demands and needs, explain key policy features and exclusions, and tell you how they are paid."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Describe the nature of your business and the size of your team, as this helps the broker understand your risk profile.",
+  "Explain what kind of data you hold, such as customer details or payment information, and how you store it.",
+  "Mention any security measures you already have in place, like firewalls, antivirus software or staff training.",
+  "Say whether you have any specific concerns, such as ransomware or social engineering, that you want the policy to cover.",
+  "Let us know if you need cover for incident response support or business interruption, as these can be important features.",
+  "Tell us if you have a deadline or need to provide evidence of cover to a client or supplier."
+ ],
+ "questions_heading": "Questions to ask the broker",
+ "questions": [
+  "What does the policy cover for data breaches, ransomware and cyber attacks?",
+  "Does the policy include incident response support, and how does that work?",
+  "Is social engineering fraud covered, and what are the limits?",
+  "What security controls do I need to have in place to be eligible for cover?",
+  "What are the key exclusions I should be aware of?",
+  "How are you paid for arranging this policy, and what fees should I expect?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need cyber insurance if I already have business insurance?",
+   "a": "Many standard business insurance policies do not include cyber cover, or they may only offer limited protection. It is worth checking your existing policy and discussing your needs with a broker to see if you need separate cyber insurance."
+  },
+  {
+   "q": "What is typically covered by cyber insurance?",
+   "a": "Cyber insurance can cover losses from data breaches, ransomware and cyber attacks, including incident response and business interruption. Policies vary, so it is important to check the details and exclusions with your broker."
+  },
+  {
+   "q": "How can I check that a broker is authorised?",
+   "a": "You can check whether a broker is authorised by the Financial Conduct Authority (FCA) on the FCA register. Many brokers also belong to the British Insurance Brokers' Association (BIBA), and some hold Chartered status from the Chartered Insurance Institute."
+  },
+  {
+   "q": "What should I do if I have a complaint about a broker?",
+   "a": "If you have a complaint that is not resolved, you can take it to the Financial Ombudsman Service. Brokers must tell you how they are paid and explain key policy features and exclusions."
+  }
+ ],
+ "extra_heading": "Choosing between local brokers for cyber cover",
+ "extra": [
+  "Searching for cyber insurance near me suggests you would rather deal with someone you could meet or call locally, perhaps because your business is rooted in a particular town or you want a broker who knows the sorts of cyber risks that come up in your sector. Distance matters less than it used to, but a nearby broker can still be easier to reach when an incident happens and you need to talk things through quickly.",
+  "When you compare brokers, ask each one how they approach cyber specifically rather than insurance in general. A good sign is a broker who asks about your backups, your staff training and how you would respond to a ransomware demand before talking about price, because insurers expect basic security controls to be in place. Ask too whether incident response support is built into the policies they suggest, and whether social engineering fraud is covered, since these are the features that often make the difference when a claim arises.",
+  "Remember that quotes are price on application, so you will not see a figure until a broker has discussed your circumstances with you. Brokers must understand your demands and needs, explain key features and exclusions, and tell you how they are paid, so use that first conversation to check the cover fits rather than simply taking the first quote. If a complaint is not resolved, you can take it to the Financial Ombudsman Service."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Does a local broker have access to different cyber insurers than a national one?",
+   "a": "Brokers vary in which insurers they approach, and this is not determined by how near they are to you. It is worth asking each broker which insurers they would consider for your business and why, so you can judge the fit for yourself."
+  },
+  {
+   "q": "What happens at a first meeting with a cyber insurance broker?",
+   "a": "Expect questions about the data you hold, your security controls such as backups and staff training, and how you would handle an incident. The broker should then explain the cover available, the key exclusions, and how they are paid, before arranging a quote."
+  },
+  {
+   "q": "Can I arrange cyber cover if my business is small?",
+   "a": "Cyber insurance is available to businesses of different sizes, though insurers will still expect basic security controls to be in place. A broker can explain what is typically required and help you understand whether a policy suits your circumstances."
+  }
+ ]
+}

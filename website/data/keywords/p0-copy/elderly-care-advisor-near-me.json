@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for an elderly care advisor near me usually means you're trying to make sense of care options for an older relative or friend, and you want someone local who can explain what's available and how to pay for it. You might be facing a sudden hospital discharge, noticing that daily tasks have become harder, or planning ahead for the future. A care advisor can help you understand the choices and the support that exists.",
+ "need_heading": "What people searching for an elderly care advisor near me often need",
+ "need_lead": "Every family's situation is different, but these are the kinds of practical questions that prompt this search.",
+ "needs": [
+  "You are wondering whether your parent can stay safely at home with some help, and what kind of home care might be arranged.",
+  "You need to understand how care is paid for, including what the local council might cover and what Attendance Allowance could provide.",
+  "You are considering a move to a residential home and want to know how to compare places and what questions to ask.",
+  "You are thinking about powers of attorney and want to put arrangements in place while your relative can still make their own decisions.",
+  "You have been told that home adaptations could make daily life easier and want to know what might be possible and who to approach."
+ ],
+ "context_heading": "Understanding care advice and regulation",
+ "context": [
+  "Care homes and home care agencies in England are registered with the Care Quality Commission (CQC), which publishes inspection findings; Wales, Scotland and Northern Ireland have their own regulators. If advice involves financial products, such as immediate needs annuities, that part must be regulated by the Financial Conduct Authority (FCA), and the Society of Later Life Advisers (SOLLA) accredits specialist advisers. It is important to check whether the advice you receive is regulated.",
+  "Local councils assess care needs and finances, and they must provide information and advice. An independent care advisor can help you understand the options and how they fit together, but they should be clear about whether their advice is regulated and what it covers."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the person needing care, including their age and any health conditions that affect daily life.",
+  "Explain what has changed recently, such as a hospital stay, a fall, or increasing difficulty with tasks like washing or cooking.",
+  "Say whether you are interested in care at home, residential care, or both.",
+  "Mention any financial questions you have, such as funding, benefits, or paying for care.",
+  "Let us know if you need help with legal matters like powers of attorney or home adaptations.",
+  "Tell us your rough location so we can introduce you to a professional who covers your area."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you regulated by the Financial Conduct Authority for any financial advice you give?",
+  "What experience do you have with situations like ours?",
+  "How do you charge for your services, and what will I receive for that?",
+  "Will you help us understand what the local council can provide and how to access it?",
+  "Can you explain the difference between care at home and residential care in our area?",
+  "What should we bring to our first meeting to make it as useful as possible?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a care advisor if I can contact the council directly?",
+   "a": "The council must assess care needs and finances, and it can provide information and advice. An independent advisor can help you understand the options and prepare for that assessment, but you can approach the council yourself."
+  },
+  {
+   "q": "What is the difference between a care advisor and a financial advisor?",
+   "a": "A care advisor helps you navigate care options and practical arrangements. A financial advisor who is regulated by the Financial Conduct Authority can advise on financial products, such as annuities to pay for care."
+  },
+  {
+   "q": "Can a care advisor help with Attendance Allowance?",
+   "a": "Yes, many care advisors can explain Attendance Allowance and other benefits you may be entitled to. They can help you understand the application process, though they cannot make a claim for you."
+  },
+  {
+   "q": "How do I find a care advisor near me?",
+   "a": "You can search for local advisors through directories or ask organisations such as Citizens Advice for recommendations. iComply can introduce you to a professional who covers your area, and you can then check their credentials and ask about regulation."
+  }
+ ]
+}

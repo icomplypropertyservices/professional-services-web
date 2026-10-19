@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a retirement adviser near you usually means a retirement date is coming into view and you want to know whether the numbers will actually work. You may have several pensions built up over the years and no clear picture of how they turn into an income. We can introduce you to a UK pension adviser who will look at your situation and quote you directly.",
+ "need_heading": "What people searching for a retirement adviser nearby usually need",
+ "need_lead": "Most people at this stage want a clear plan for turning savings into a reliable income, and someone local they can talk it through with.",
+ "needs": [
+  "You are approaching retirement and want to know whether you can afford to stop working when you hope to.",
+  "You have pensions from several employers and want help understanding what you hold and how it fits together.",
+  "You are unsure whether to buy an annuity, draw down income, or take a different route, and want the trade-offs explained.",
+  "You have a defined benefit or final salary pension and need to understand the special rules before making any decision about it.",
+  "You want to think through how care costs later in life might affect your plans, so your money lasts as long as you do."
+ ],
+ "context_heading": "Why local matters less than authorisation here",
+ "context": [
+  "Retirement advice is regulated by the Financial Conduct Authority (FCA), so whoever you speak to should be authorised, or an appointed representative of an authorised firm, on the FCA register. Plenty of advisers work with clients by phone or video, so someone nearby is convenient but not essential. If something goes wrong you can complain to the firm, then to the Financial Ombudsman Service, and the Financial Services Compensation Scheme may protect you if an authorised firm fails.",
+  "Pension decisions carry special rules. Advice on transferring out of a defined benefit scheme above a set value must come from an adviser with pension transfer specialist permissions, and safeguarded benefits deserve particular care. If you have a defined contribution pension and are over the age Pension Wise serves, free and impartial guidance is available from Pension Wise."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Describe the pensions and savings you hold, including any workplace schemes and whether any are final salary or defined benefit.",
+  "Say roughly when you hope to retire and whether that date is fixed or flexible.",
+  "Explain what income you would like in retirement and what essential costs you need to cover.",
+  "Mention any safeguarded benefits or protections attached to your pensions, if you know of them.",
+  "Note whether you have a spouse, partner or dependants whose needs should be considered.",
+  "Say whether you would prefer to meet in person locally or are happy to speak by phone or video."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you authorised by the FCA, and can you point me to your entry on the FCA register?",
+  "Do you hold pension transfer specialist permissions if my defined benefit scheme is involved?",
+  "How will you work out whether my savings can support the income I want?",
+  "Will you show me how care costs later in life could affect my plan?",
+  "How do you charge for your work, and will I get that in writing before anything begins?",
+  "What happens if I change my mind or want to complain further down the line?"
+ ],
+ "faqs": [
+  {
+   "q": "Can I get retirement advice without visiting an office?",
+   "a": "Yes. Many pension advisers work with clients by phone or video, and that can widen your choice beyond firms close to home. What matters most is that the adviser or firm is authorised on the FCA register."
+  },
+  {
+   "q": "I have a final salary pension — can any adviser help?",
+   "a": "Not necessarily. Advice on transferring out of a defined benefit scheme above a set value must come from an adviser with pension transfer specialist permissions. Tell us about the scheme when you enquire so we can introduce you appropriately."
+  },
+  {
+   "q": "Where can I get free guidance before I pay for advice?",
+   "a": "Pension Wise offers free, impartial guidance for people with defined contribution pensions who are over the age it serves. It can help you understand your options before you speak to an adviser."
+  },
+  {
+   "q": "How do I judge whether an adviser is right for me?",
+   "a": "Check their entry on the FCA register, ask how they charge and get it in writing, and make sure you understand their explanation of your options. If anything feels unclear, ask again before committing."
+  }
+ ]
+}

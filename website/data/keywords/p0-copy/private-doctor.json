@@ -1,0 +1,69 @@
+{
+ "intro": "You've searched for a private doctor, which usually means you want to see a GP or specialist without the wait you're experiencing on the NHS. Perhaps a symptom is worrying you, a prescription needs sorting, or you need a medical opinion for work, travel or insurance. We introduce you to a suitable UK private doctor who can quote you directly.",
+ "need_heading": "What people searching for a private doctor usually need",
+ "need_lead": "Most people get in touch because they want a medical appointment sooner than the NHS can offer, or because they need a specific service that isn't easily available locally.",
+ "needs": [
+  "You have a health concern that isn't an emergency but you don't want to wait weeks for an NHS appointment.",
+  "You need a private prescription or a medication check and your NHS GP surgery can't see you quickly.",
+  "You're travelling abroad and need a health check or vaccination advice before you go.",
+  "You need a medical report or opinion for an employer, insurer or university and the timescale is tight.",
+  "You want a second opinion on a diagnosis or treatment plan and would like to speak to a doctor privately."
+ ],
+ "context_heading": "What to understand before you book a private doctor",
+ "context": [
+  "A private doctor works alongside the NHS, not instead of it. Your NHS GP should stay informed about any private treatment you receive, so good private clinics will ask for your consent to share notes with your NHS practice. This keeps your records complete and helps ensure any medication is prescribed safely.",
+  "Before you book, check that the doctor is registered with the General Medical Council (GMC) and, if they are a GP, that they appear on the GMC's GP register. You can search the GMC's online register by name. In England, private clinics providing regulated healthcare must be registered with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales it's Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the health concern or service you need, including any symptoms and how long you've had them.",
+  "Say whether you need a one-off consultation or ongoing care, and whether you have private medical insurance.",
+  "Mention any preference for a particular location or a consultation by phone or video.",
+  "Explain any time pressure, such as a travel date or an employer's deadline, without giving exact numbers.",
+  "List any medication you take, allergies you have, and relevant past medical history.",
+  "Confirm that you have an NHS GP and are willing for the private doctor to share notes with them."
+ ],
+ "questions_heading": "Questions to ask the private doctor",
+ "questions": [
+  "What is included in the fee, and are there any additional costs for tests, prescriptions or follow-up?",
+  "Will you share your consultation notes with my NHS GP, and how do you handle consent?",
+  "Are you registered with the General Medical Council, and do you appear on the GP register if you're a GP?",
+  "Is the clinic registered with the relevant regulator, such as the Care Quality Commission in England?",
+  "What happens if I need a referral to a specialist or further tests?",
+  "How do you handle urgent problems outside appointment times?"
+ ],
+ "faqs": [
+  {
+   "q": "Will a private doctor replace my NHS GP?",
+   "a": "No, a private GP works alongside your NHS GP. Good private clinics will ask for your consent to share notes with your NHS practice so your records stay complete and medication is prescribed safely."
+  },
+  {
+   "q": "How do I check that a private doctor is properly registered?",
+   "a": "Every doctor practising in the UK must be registered and hold a licence to practise with the General Medical Council (GMC). You can search the GMC's online register by name to confirm registration and, for GPs, that they appear on the GP register."
+  },
+  {
+   "q": "Are private clinics regulated?",
+   "a": "In England, private clinics providing regulated healthcare must register with the Care Quality Commission (CQC), which inspects and publishes ratings. In Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA."
+  },
+  {
+   "q": "What should I ask about fees before I book?",
+   "a": "Ask what is included in the fee and whether there are extra costs for tests, prescriptions or follow-up appointments. Quotes are price on application, so it's worth getting clarity on the total cost before you commit."
+  }
+ ],
+ "extra_heading": "What a private doctor appointment is actually like",
+ "extra": [
+  "A private GP appointment is much like an NHS consultation in how it feels: you talk through your concern, the doctor examines you if needed, and you agree a plan together. The difference is usually the setting and the pace, with longer appointment slots and more choice about when you are seen. If you are seeing a specialist privately, expect a focused assessment of that particular problem rather than a general check of everything.",
+  "It helps to arrive prepared. Bring a list of any medication you take, including doses, and note down when your symptoms started and what makes them better or worse. If you have had recent tests or hospital letters about the same issue, take copies along, as this saves repeating investigations and helps the doctor build a clear picture.",
+  "Afterwards, you will usually be sent a letter summarising what was discussed and agreed. Ask for a copy to be shared with your NHS GP so your records stay joined up, and keep the letter yourself in case you need it for insurance, work or a later appointment. If the doctor recommends tests or a referral, ask how those are arranged and what they will cost before you go ahead."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Can a private doctor prescribe medication?",
+   "a": "Yes, a private doctor can prescribe medication where it is clinically appropriate. Private prescriptions are usually dispensed by a pharmacy and paid for separately from the consultation, so ask about this before your appointment."
+  },
+  {
+   "q": "What if I need to be seen urgently?",
+   "a": "A private doctor is not an emergency service. If you feel seriously unwell, call 999 or use NHS 111 for urgent advice, and contact your NHS GP surgery for problems that cannot wait for a routine private appointment."
+  }
+ ]
+}

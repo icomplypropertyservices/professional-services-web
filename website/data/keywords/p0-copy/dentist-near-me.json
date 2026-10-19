@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for a dentist near me, you're usually looking for a local practice that can see you without a long journey. You might need a routine check-up, help with a specific problem, or a dentist who understands your anxiety. iComply introduces you to a private dentist who can quote you directly for the care you need.",
+ "need_heading": "What people searching for a dentist near me usually need",
+ "need_lead": "Most people want a convenient, local dental practice that can address their immediate or ongoing dental needs.",
+ "needs": [
+  "You've moved to a new area and need to register with a dentist close to home for routine check-ups and preventive care.",
+  "You're experiencing tooth pain or a broken tooth and want to find a nearby dentist who can see you promptly.",
+  "You feel anxious about dental visits and want a local practice that will take your concerns seriously and help you feel at ease.",
+  "You need a specific treatment, such as a crown or extraction, and want a dentist nearby who can provide it.",
+  "You're looking for a private dentist because you prefer more flexible appointment times or treatments not available on the NHS."
+ ],
+ "context_heading": "What to understand when choosing a dentist near you",
+ "context": [
+  "All dentists in the UK must be registered with the General Dental Council (GDC), and you can check the register online. If you're in England and considering a private clinic that provides regulated healthcare, you can also check whether it is registered with the Care Quality Commission (CQC), which inspects and publishes ratings. In Wales, Scotland and Northern Ireland, different regulators apply.",
+  "Private dental treatment is not covered by the NHS, so you'll pay for your care. It's important to ask for a written treatment plan before you start, so you know what will be done and what it will cost. If something goes wrong, the practice's complaints process is the first step, and the Dental Complaints Service can help with unresolved private dental complaints."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you're looking for a dentist near you and give your location or postcode area so we can introduce you to a local professional.",
+  "Describe any current dental problems, such as pain, sensitivity, or a broken tooth, and how urgent you feel they are.",
+  "Say whether you're looking for routine care, a specific treatment, or a general check-up.",
+  "Let us know if you feel anxious about dental visits so we can introduce you to a dentist who can help you feel comfortable.",
+  "Mention any preferences you have, such as appointment times or accessibility needs.",
+  "Confirm that you understand you'll be quoted directly by the dentist and that prices are on application."
+ ],
+ "questions_heading": "Questions to ask the dentist",
+ "questions": [
+  "Are you registered with the General Dental Council?",
+  "What is your approach to helping anxious patients feel at ease?",
+  "Can you provide a written treatment plan with costs before we begin?",
+  "How do you handle urgent dental problems, and how soon can I be seen?",
+  "What treatments do you offer, and do you refer to specialists for certain procedures?",
+  "What is your complaints procedure if I'm unhappy with my treatment?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check if a dentist is properly qualified?",
+   "a": "You can check the General Dental Council (GDC) register online to confirm that a dentist is registered. If you're considering a private clinic in England, you can also check whether it is registered with the Care Quality Commission (CQC)."
+  },
+  {
+   "q": "What should I do if I have a dental emergency?",
+   "a": "If you have severe pain, bleeding, or swelling, contact a dentist as soon as possible. For urgent medical advice, you can call NHS 111, and in a life-threatening emergency, call 999."
+  },
+  {
+   "q": "Will I know the cost before treatment starts?",
+   "a": "A private dentist should provide a written treatment plan with costs before you agree to treatment. Prices are on application, so ask for a clear quote."
+  },
+  {
+   "q": "What can I do if I'm unhappy with private dental treatment?",
+   "a": "Start by raising your concerns with the practice's complaints process. If the issue isn't resolved, the Dental Complaints Service can help with private dental complaints."
+  }
+ ]
+}

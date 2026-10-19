@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a cat vet near me usually means you want someone close by who understands how differently cats cope with a trip to the vet. Perhaps your cat is due a check-up, seems off colour, or you have just moved and need a practice you can get to easily. We can introduce you to a UK veterinary practice that suits what you have described, and they will quote you directly.",
+ "need_heading": "What people searching for a cat vet near me usually need",
+ "need_lead": "Most people behind this search want a local practice that handles cats calmly and can see them without a long journey.",
+ "needs": [
+  "You have a cat that becomes distressed in the car or the waiting room and you want a practice that keeps cats away from dogs and other animals.",
+  "Your cat is due its regular check-up or vaccinations and you want a practice you can reach easily from home.",
+  "You have noticed a change in your cat's eating, drinking, grooming or behaviour and want it looked at promptly.",
+  "You have recently moved to the area and need to register your cat with a local practice before anything goes wrong.",
+  "Your cat is getting older and you want a vet who will keep an eye on the conditions that become more common with age."
+ ],
+ "context_heading": "Why cat-friendly matters",
+ "context": [
+  "Cats often find vet visits stressful, and practices accredited as cat-friendly use separate waiting areas, gentle handling and quieter consulting rooms to reduce that stress. When you ring a practice, it is worth asking directly whether it holds Cat Friendly Clinic accreditation, as this tells you something concrete about how it approaches feline patients.",
+  "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS), and you can search the RCVS register by name before you book. Many practices also join the voluntary RCVS Practice Standards Scheme, which inspects premises, equipment and clinical processes, so you can ask whether a practice takes part."
+ ],
+ "tell_heading": "What to tell iComply about your cat",
+ "tell": [
+  "Say roughly where you are so we can look for a practice within a sensible distance.",
+  "Describe your cat's age and whether it is male or female, as this affects what a vet will want to discuss.",
+  "Mention whether your cat is insured, as this can shape the options a practice talks through with you.",
+  "Explain how your cat behaves at the vet, including whether it hides, panics in the carrier or dislikes other animals.",
+  "Say whether this is a routine visit, a new symptom or an ongoing condition that another practice has already seen.",
+  "Note any preference for a practice that holds Cat Friendly Clinic accreditation or takes part in the RCVS Practice Standards Scheme."
+ ],
+ "questions_heading": "Questions to ask the vet practice",
+ "questions": [
+  "Does the practice hold Cat Friendly Clinic accreditation, and how are cats kept separate from dogs in the waiting area?",
+  "Can appointments be arranged at quieter times of day for a cat that finds the waiting room difficult?",
+  "Which vet would normally see my cat, and are they registered with the RCVS?",
+  "Does the practice take part in the RCVS Practice Standards Scheme?",
+  "If my cat needs something beyond general practice, does the practice refer to someone with further qualifications in that area?",
+  "How does the practice handle a cat that becomes very stressed during an examination?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check that a vet is properly registered?",
+   "a": "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons, and you can search the RCVS register by name before you book. Veterinary nurses have their own RCVS register too, so you can check them in the same way."
+  },
+  {
+   "q": "What does Cat Friendly Clinic accreditation mean?",
+   "a": "It is a recognition that a practice has taken steps to reduce stress for cats, such as separate waiting areas, gentle handling and quieter consulting rooms. It is worth asking a practice directly whether it holds this accreditation."
+  },
+  {
+   "q": "My cat hates the carrier. What can help?",
+   "a": "A covered carrier and a familiar blanket help reduce stress, and it is worth asking the practice whether it can offer a quieter appointment time. Cats hide illness well, so regular checks matter as they age, even when your cat seems fine."
+  },
+  {
+   "q": "What should I tell iComply when I enquire?",
+   "a": "Tell us your area, your cat's age and sex, how it behaves at the vet, and whether the visit is routine or for a specific concern. The more you describe, the easier it is for us to introduce you to a suitable practice, which will then quote you directly."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "intro": "You've searched for a cognitive behavioural therapist near you, which usually means you're looking for practical, structured help with something like anxiety, low mood, OCD or PTSD. You want someone local you can see in person, or at least someone you can reach without travelling far. We introduce you to a UK professional who works with CBT, and they quote you directly.",
+ "need_heading": "What people searching for a CBT therapist nearby usually need",
+ "need_lead": "Most people searching for a cognitive behavioural therapist near them want focused, evidence-based help with a specific difficulty, and they want it to be convenient to attend.",
+ "needs": [
+  "You've been struggling with anxious thoughts or low mood and want a structured approach you can attend locally.",
+  "You have obsessive or intrusive thoughts and are looking for a therapist who works with OCD using CBT.",
+  "You've experienced a traumatic event and want help from someone who offers CBT for PTSD.",
+  "You've tried other kinds of counselling and feel that a more practical, goal-focused therapy might suit you better.",
+  "You want to see someone face to face rather than online, so finding a therapist near you matters."
+ ],
+ "context_heading": "Understanding CBT and checking accreditation",
+ "context": [
+  "Cognitive behavioural therapy is a structured, evidence-based approach that focuses on the link between thoughts, feelings and behaviour. Courses are often time-limited, so it helps to ask upfront how many sessions are typical and how progress will be checked along the way. A good therapist will explain their approach and confidentiality, including its limits, in the first session.",
+  "In the UK, \"counsellor\" and \"psychotherapist\" are not protected titles, so it is worth checking that your therapist is on a register accredited by the Professional Standards Authority, such as BACP, UKCP or NCPS. For CBT specifically, you can also ask whether they are accredited with the British Association for Behavioural and Cognitive Psychotherapies (BABCP). Practitioner psychologists, who may use titles such as clinical or counselling psychologist, must be registered with the HCPC."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the main difficulty you want help with, such as anxiety, depression, OCD or PTSD, so we can introduce you to a suitable professional.",
+  "Mention that you are looking for a cognitive behavioural therapist near you, and say how far you are willing to travel.",
+  "Say whether you would prefer in-person sessions, online sessions, or a mix of both.",
+  "Let us know if you have a preference for a therapist who is BABCP accredited or on a particular accredited register.",
+  "Share any practical considerations, such as whether you need evening or weekend appointments.",
+  "Explain whether you have had therapy before and what you are hoping to get from CBT this time."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you accredited with the British Association for Behavioural and Cognitive Psychotherapies (BABCP)?",
+  "How many sessions do you typically offer for the difficulty I've described, and how will we check progress?",
+  "Do you use outcome measures to track how I'm doing, and how do you share those with me?",
+  "What is your approach to confidentiality, and in what circumstances would you need to share information?",
+  "Do you offer appointments near me, and are there times outside standard working hours?",
+  "What happens if we don't feel the therapy is working after a few sessions?"
+ ],
+ "faqs": [
+  {
+   "q": "What is cognitive behavioural therapy and what can it help with?",
+   "a": "CBT is a talking therapy that focuses on how your thoughts, feelings and actions affect each other. It is commonly used for anxiety, depression, OCD and PTSD, among other difficulties. A therapist will usually explain the approach and what a course of sessions involves."
+  },
+  {
+   "q": "Do I need a referral from my GP to see a CBT therapist?",
+   "a": "No, you can approach a private cognitive behavioural therapist directly without a referral. Some people choose to speak to their GP first, especially if they want to explore NHS options as well. We introduce you to a professional who will quote you directly."
+  },
+  {
+   "q": "How do I check that a CBT therapist is properly qualified?",
+   "a": "Look for accreditation with the British Association for Behavioural and Cognitive Psychotherapies (BABCP), and check that the therapist is on a register accredited by the Professional Standards Authority, such as BACP, UKCP or NCPS. You can also ask about their training and supervision arrangements."
+  },
+  {
+   "q": "How many sessions of CBT will I need?",
+   "a": "CBT courses are often time-limited, but the number of sessions varies depending on the difficulty and your goals. It is best to ask the therapist directly, as they can explain their typical approach and how progress is checked. They will quote you for their service."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for \"barristers near me\", you're likely looking for specialist legal representation or advice from someone who can appear in court or provide an expert opinion. Barristers are independent advocates and advisers, and finding the right one for your situation means matching their expertise to your legal issue. iComply can introduce you to a suitable UK barrister who will quote you directly, with fees on application.",
+ "need_heading": "What people searching for barristers near me usually need",
+ "need_lead": "People search for barristers near me when they need specialist advocacy or legal advice, often at a critical point in a legal matter.",
+ "needs": [
+  "You have a court hearing coming up and need a barrister to represent you, either through a solicitor or directly under the Public Access scheme.",
+  "You need a specialist opinion on the merits of your case before deciding whether to proceed with litigation.",
+  "You are involved in a tribunal or arbitration and require an advocate with expertise in that particular forum.",
+  "You want help drafting or settling complex legal documents, such as statements of case or witness statements.",
+  "You are looking for a barrister near you for convenience, but you are unsure how to compare specialisms and fees."
+ ],
+ "context_heading": "Understanding how barristers work and how to choose one",
+ "context": [
+  "Barristers usually work from chambers and are regulated by the Bar Standards Board in England and Wales; in Scotland, the equivalent professionals are advocates regulated through the Faculty of Advocates. You can check the Barristers' Register to confirm whether someone holds a current practising certificate and whether they are authorised to accept instructions directly from the public. Many barristers can be instructed through a solicitor in the traditional way, while those registered under the Public Access scheme can be instructed directly for suitable matters.",
+  "Fees are usually agreed for a defined piece of work, so it's important to clarify what is included. When searching for barristers near you, consider the barrister's specialism and experience in your area of law rather than just location, as the right expertise matters most."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Describe the type of legal issue you need help with, such as a court hearing, tribunal, or advice on a contract.",
+  "Mention the stage your matter is at, for example whether proceedings have been issued or a hearing date is set.",
+  "Explain whether you already have a solicitor or intend to instruct a barrister directly under the Public Access scheme.",
+  "State any particular court, tribunal, or location that is relevant to your case.",
+  "Indicate whether you need representation at a hearing, written advice, or help with drafting documents.",
+  "Specify any deadline or urgency, such as an upcoming hearing date, so the barrister can assess availability."
+ ],
+ "questions_heading": "Questions to ask the barrister",
+ "questions": [
+  "What is your experience in cases like mine, and have you appeared in the relevant court or tribunal?",
+  "Are you authorised to accept instructions directly from the public under the Public Access scheme?",
+  "How will your fees be structured, and what exactly is included in your quoted fee?",
+  "What information or documents do you need from me to provide a quote or begin work?",
+  "How will you keep me informed about the progress of my case?",
+  "Will you be the person handling my case, or will any work be delegated to someone else?"
+ ],
+ "faqs": [
+  {
+   "q": "Can I instruct a barrister directly without going through a solicitor?",
+   "a": "Yes, if the barrister is authorised under the Public Access scheme, you can instruct them directly for suitable matters. You should check the Barristers' Register to confirm their authorisation, and the barrister will assess whether your case is appropriate for direct instruction."
+  },
+  {
+   "q": "How do I check if a barrister is regulated?",
+   "a": "Barristers in England and Wales are regulated by the Bar Standards Board. You can check the Barristers' Register to see whether someone holds a current practising certificate and whether they are authorised to accept instructions directly from the public."
+  },
+  {
+   "q": "What does 'price on application' mean for barrister fees?",
+   "a": "It means the barrister will provide a quote based on the specifics of your case, as fees vary depending on complexity and the work involved. You should ask for a clear breakdown of what the fee covers before instructing them."
+  },
+  {
+   "q": "How do I choose the right barrister for my case?",
+   "a": "Look for a barrister with expertise in your area of law and experience in the relevant court or tribunal. You can ask about their case history and check their details on the Barristers' Register, and iComply can introduce you to a suitable professional based on your needs."
+  }
+ ],
+ "extra_heading": "Comparing several barristers near you",
+ "extra": [
+  "Searching for barristers near me in the plural suggests you are weighing up more than one option rather than settling on the first name you find. That is sensible, because barristers specialise in different areas of law, and two chambers on the same street may have very different strengths. Location tells you who is practically reachable, but it says little about whether someone handles the kind of matter you are facing.",
+  "A useful way to compare is to ask each barrister the same set of questions and note the answers side by side. Ask what proportion of their work is in your area of law, whether they have appeared in the court or tribunal your case involves, and whether they accept direct instructions under the Public Access scheme. You can then check each name on the Barristers' Register to confirm their practising certificate and direct access authorisation before deciding.",
+  "Fees are quoted on application, so compare what each quote actually covers rather than the headline figure alone. One barrister may quote for a hearing only, while another includes preparation and a written advice, so ask for the scope in writing. Availability matters too, especially if a hearing date is fixed, and the clerk at each chambers can tell you who could take the work in time."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I contact several barristers near me at once?",
+   "a": "It is reasonable to approach more than one so you can compare specialism, approach and quoted fees. Be clear with each about your timescales, and once you have instructed someone, let the others know so they are not holding time for you."
+  },
+  {
+   "q": "Does a barrister near me cost more or less than one further away?",
+   "a": "Distance alone does not determine fees, which are quoted on application and depend on the work involved. A barrister closer to your court may be more convenient for hearings, but the right specialism for your matter matters more than the postcode."
+  },
+  {
+   "q": "How do clerks fit into choosing between barristers?",
+   "a": "Clerks manage barristers' diaries and fees, and they are usually your first point of contact at chambers. They can tell you who is available, what a quote covers and how to send papers, so it is worth speaking to them directly."
+  }
+ ]
+}

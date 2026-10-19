@@ -1,0 +1,53 @@
+{
+ "intro": "You have searched for an SEIS advisor near you, which suggests you are involved with a very early-stage company and want help with Seed Enterprise Investment Scheme relief. Perhaps you are preparing to apply for advance assurance or planning to issue shares that you hope will qualify. A local tax adviser who understands SEIS can guide you through the specific rules and timing involved.",
+ "need_heading": "What people searching for an SEIS advisor near me usually need",
+ "need_lead": "Most people looking for an SEIS advisor near me need practical help with the SEIS process, from advance assurance to issuing qualifying shares.",
+ "needs": [
+  "You are setting up a new company and want to understand whether it can qualify for SEIS before you issue any shares.",
+  "You have already applied for advance assurance and need help responding to HMRC's questions or preparing the supporting documents.",
+  "You are unsure about the timing of share issues and how that affects SEIS relief for your investors.",
+  "You want to combine SEIS with EIS later and need advice on how to structure the share issues carefully.",
+  "You are an investor or founder who wants to check that the shares being issued will actually qualify for SEIS relief."
+ ],
+ "context_heading": "One key thing to understand about SEIS",
+ "context": [
+  "SEIS has lower investment limits than the Enterprise Investment Scheme, so it is important to get the details right from the start. The timing of share issues matters because relief depends on when shares are issued and when the company meets the qualifying conditions.",
+  "If you plan to use both SEIS and EIS, the two schemes need to be combined carefully to avoid problems. A tax adviser can help you understand how the rules apply to your company's specific circumstances."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Mention that you are looking for an SEIS advisor near you and whether you need help with advance assurance or issuing shares.",
+  "Explain the stage your company is at, such as whether it is newly incorporated or already trading.",
+  "Say whether you have already applied for advance assurance and whether you have had any response from HMRC.",
+  "Describe any plans to raise further investment through EIS so the adviser can consider how the schemes might interact.",
+  "Let us know if you are a founder, director or investor, as this affects the advice you need.",
+  "Include your location so we can introduce you to a suitable professional nearby."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "What qualifications and experience do you have in advising on SEIS?",
+  "How do you help companies prepare an advance assurance application?",
+  "What are the key timing considerations for issuing SEIS shares?",
+  "How can SEIS and EIS be combined without causing problems?",
+  "What information will you need from us to assess whether our shares qualify?",
+  "What are your fees and how are they structured?"
+ ],
+ "faqs": [
+  {
+   "q": "What is SEIS and who can use it?",
+   "a": "SEIS is a UK government scheme that offers tax relief to investors who buy shares in very early-stage companies. It is aimed at helping small companies raise finance, but there are strict conditions that the company and the shares must meet."
+  },
+  {
+   "q": "Why is advance assurance important for SEIS?",
+   "a": "Advance assurance is a way to get HMRC's view on whether a proposed share issue is likely to qualify for SEIS relief before you go ahead. It can give confidence to investors, but it is not a promise of relief."
+  },
+  {
+   "q": "Can I combine SEIS with EIS?",
+   "a": "Yes, but the rules are different and need to be applied carefully. For example, there are limits on how much a company can raise through SEIS and EIS, and the timing of share issues can affect relief."
+  },
+  {
+   "q": "How do I find a good SEIS advisor near me?",
+   "a": "Look for a tax adviser with relevant experience and check their qualifications, such as membership of the Chartered Institute of Taxation or the Association of Taxation Technicians. Ask about their approach and fees before you commit."
+  }
+ ]
+}

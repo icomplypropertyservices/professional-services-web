@@ -1,0 +1,69 @@
+{
+ "intro": "Looking for a vet usually means an animal in your life needs care, whether that is a routine check, a vaccination or something that has worried you. You want to know who can see your pet, how the practice works and what happens if something goes wrong at an awkward hour. We introduce you to a suitable UK veterinary practice, which quotes you directly, with prices on application.",
+ "need_heading": "What people searching for a vet usually need",
+ "need_lead": "Most people who search for a vet are trying to sort out care for a pet, a farm animal or a horse, often at short notice.",
+ "needs": [
+  "You have a new puppy, kitten or rescue animal and want to register with a practice before anything goes wrong.",
+  "Your pet has a symptom you are unsure about, such as limping, scratching, drinking more or going off food, and you want it looked at.",
+  "You need routine preventive care such as vaccinations, parasite control or neutering and want to know what a practice offers.",
+  "Your animal has a complex or unusual condition and you want to ask whether the vet has further qualifications or would refer you on.",
+  "You are moving house, or your usual practice has changed, and you want a local vet that covers evenings and weekends sensibly."
+ ],
+ "context_heading": "Checking who is qualified to treat your animal",
+ "context": [
+  "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons, and you can search the RCVS register by name before you book. Veterinary nurses have their own RCVS register too. Many practices also join the voluntary RCVS Practice Standards Scheme, which inspects premises, equipment and clinical processes.",
+  "Some vets hold further qualifications such as an RCVS certificate, advanced practitioner status or specialist status in a particular species or discipline. If your animal has a complex or unusual condition, it is reasonable to ask whether the vet treating it holds one of these, or whether they refer to someone who does."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Say what kind of animal you have, including the species, breed and age, since this affects which practice suits you.",
+  "Describe what has prompted the search, whether it is a symptom, a routine check or a preventive treatment.",
+  "Mention whether the animal is registered with a vet already and whether you are looking to change practices.",
+  "Explain how far you are willing to travel and whether you need a practice near home, work or somewhere in between.",
+  "Say whether evening, weekend or out-of-hours cover matters to you and how you would like it handled.",
+  "Include anything relevant about the animal's temperament, existing conditions or medication so the practice can prepare."
+ ],
+ "questions_heading": "Questions worth asking the vet",
+ "questions": [
+  "Are you registered with the Royal College of Veterinary Surgeons, and can I check your registration?",
+  "How does the practice cover nights, weekends and bank holidays if my animal needs urgent care?",
+  "Do you offer a preventive health plan, and what exactly does it include?",
+  "If my animal's condition turns out to be complex, would you refer us to someone with further qualifications?",
+  "What are your usual arrangements for repeat prescriptions and for seeing the same vet where possible?",
+  "How would you like me to contact the practice out of hours, and is there a separate provider?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check that a vet is properly registered?",
+   "a": "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons, and you can search the RCVS register by name before you book. Veterinary nurses have their own RCVS register too, so you can check them in the same way."
+  },
+  {
+   "q": "What should I do if my animal needs urgent help and my practice is closed?",
+   "a": "Ask your practice in advance how it covers nights and weekends, because many use a dedicated out-of-hours provider. If you are unsure what to do, NHS 111 can advise on human health only, so for an animal contact your practice's out-of-hours arrangement or, in an emergency, a local veterinary service."
+  },
+  {
+   "q": "Should I register before my pet is unwell?",
+   "a": "Registering before your pet is unwell saves time when something goes wrong, and it gives you the chance to ask about out-of-hours cover and preventive care. It also means the practice already holds your animal's details if you need to call at short notice."
+  },
+  {
+   "q": "What is a preventive health plan and is it worth it?",
+   "a": "Preventive health plans can spread the cost of routine care, but check what they include, since plans vary between practices. Ask which vaccinations, parasite treatments and checks are covered and whether there are any exclusions before you decide."
+  }
+ ],
+ "extra_heading": "What to expect at your first appointment",
+ "extra": [
+  "A first visit to a vet is usually a chance for the practice to get to know your animal as well as to deal with whatever prompted the search. The vet will ask about the animal's history, any previous treatment and how it has been behaving at home, so it helps to bring any records or medication you already have. If you are registering a healthy pet, the appointment is often a general check rather than a treatment session.",
+  "For a specific worry, such as limping or a change in appetite, the vet may examine the animal and suggest tests or a follow-up visit before deciding on treatment. You can ask what each step involves and whether it can wait, and it is reasonable to ask for an estimate before anything goes ahead. Prices are on application, so the practice will quote you directly rather than us.",
+  "It is also worth using the first appointment to ask how the practice handles repeat prescriptions, whether you will usually see the same vet, and how records are shared if you move. These practical details often matter as much as the clinical care, especially for an older animal or one with an ongoing condition."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I bring anything to a first vet appointment?",
+   "a": "Bring any vaccination records, medication or paperwork from a previous practice, and note down anything about your animal's behaviour or symptoms that you want to mention. If your animal is insured, it can help to have the policy details to hand, though the practice will quote you directly for its own charges."
+  },
+  {
+   "q": "Can I ask for an estimate before treatment?",
+   "a": "Yes, it is reasonable to ask what a consultation, test or procedure is likely to involve and to request an estimate before deciding. The vet quotes you directly, and prices are on application, so the practice is the right place to ask about cost."
+  }
+ ]
+}

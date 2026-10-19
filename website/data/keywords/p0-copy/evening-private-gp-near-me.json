@@ -1,0 +1,53 @@
+{
+ "intro": "Finding an evening private GP near you is about getting medical attention at a time that fits around work, caring responsibilities or a busy day. You need a doctor who is available when you are, and who can see you close to home or work without disrupting your schedule. Here is help thinking through what to look for and what to tell us so we can introduce you to a suitable professional.",
+ "need_heading": "What people searching for an evening private GP usually need",
+ "need_lead": "The need is usually about access to a doctor outside standard hours, when your NHS GP surgery is closed and you want a convenient, local appointment.",
+ "needs": [
+  "You finish work after your NHS GP surgery has closed and cannot easily take time off during the day.",
+  "You have caring duties during the day and can only step away in the evening.",
+  "You need a doctor’s opinion soon but do not feel your situation is an emergency for A&E.",
+  "You want to see someone face to face near your home or workplace rather than wait for a routine appointment.",
+  "You have a concern that is not urgent but is worrying you, and you would like to speak to a GP privately at a time that suits you."
+ ],
+ "context_heading": "What to understand about evening private GP appointments",
+ "context": [
+  "Many private GP clinics open late on weekdays, and some offer video appointments that extend hours further. However, not every clinic runs an evening service, so it is worth checking opening times when you enquire. Also, pharmacies may be closed late at night, so if you need a prescription, ask how that will be handled.",
+  "A private GP does not replace your NHS GP. Good private clinics will ask for your consent to share consultation notes with your NHS practice, so your records stay complete and medication is prescribed safely. You can check that a doctor is registered with the General Medical Council (GMC) and, in England, that the clinic is registered with the Care Quality Commission (CQC)."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you are looking for an evening appointment and give the days and times that usually work for you.",
+  "Say whether you would prefer a face-to-face appointment or are happy with a video consultation.",
+  "Give your location and how far you are willing to travel for an evening appointment.",
+  "Describe briefly what you need help with, so we can introduce you to a professional with relevant experience.",
+  "Mention if you need a prescription and whether you will need a pharmacy open late.",
+  "Let us know if you have any accessibility needs or preferences, such as a clinic with step-free access or an interpreter."
+ ],
+ "questions_heading": "Questions to ask the private GP",
+ "questions": [
+  "What evening appointments do you have available in the next few days?",
+  "Do you offer video consultations as an alternative to coming into the clinic?",
+  "If I need medication, how will you arrange a prescription and where can I collect it at that hour?",
+  "Will you share details of my consultation with my NHS GP, and how do you handle consent?",
+  "Are you registered with the General Medical Council and on the GP register?",
+  "Is the clinic registered with the relevant regulator, such as the Care Quality Commission in England?"
+ ],
+ "faqs": [
+  {
+   "q": "Can I see a private GP in the evening without disrupting my work?",
+   "a": "Yes, many private clinics offer evening appointments specifically for people who cannot attend during the day. You can ask about appointment times when you enquire. Video consultations may also be available if you prefer not to travel."
+  },
+  {
+   "q": "What if I need a prescription after an evening appointment?",
+   "a": "Pharmacies may be closed late at night, so it is worth asking the GP how they will handle any prescription. Some clinics may provide a private prescription that you can take to a pharmacy the next day. Always check the arrangements before your appointment."
+  },
+  {
+   "q": "Will my NHS GP know about my private evening appointment?",
+   "a": "A good private clinic will ask for your consent to share notes with your NHS GP, so your records stay complete. This helps ensure safe prescribing and continuity of care. You can discuss this with the GP during your consultation."
+  },
+  {
+   "q": "How do I know the private GP is properly qualified?",
+   "a": "Every doctor practising in the UK must be registered with the General Medical Council (GMC) and hold a licence to practise. GPs also appear on the GMC's GP register. You can search the GMC's online register by the doctor's name to check their registration."
+  }
+ ]
+}

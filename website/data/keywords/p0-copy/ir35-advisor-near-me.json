@@ -1,0 +1,69 @@
+{
+ "intro": "You're searching for an IR35 advisor near you, which usually means you're a contractor or a client facing a status question and want someone local who can look at your contract and working practices. You might have received a status determination you're unsure about, or you're about to start a new engagement and want to get it right from the start. iComply introduces you to a suitable UK tax adviser who can assess your situation and quote you directly.",
+ "need_heading": "What people searching for an IR35 advisor near me usually need",
+ "need_lead": "Most people want clarity on whether their working arrangements fall inside or outside IR35, and practical help with the next step.",
+ "needs": [
+  "You've been offered a contract and want an adviser to go through the terms and your working practices before you sign.",
+  "You've received a status determination from a client and want to understand what it means and whether to challenge it.",
+  "You're a client engaging a contractor and need advice on making a status decision and documenting it properly.",
+  "You're worried that an existing arrangement might be caught by IR35 and want an adviser to look at how you actually work day to day.",
+  "You've had a compliance check or enquiry from HMRC and need help responding with the right information."
+ ],
+ "context_heading": "Why working practices matter as much as the contract",
+ "context": [
+  "For IR35, HMRC looks at the reality of how you work, not just what the contract says. Things like who controls your work, whether you can send a substitute, and how you're integrated into the client's business all matter. An adviser will want to understand your day-to-day arrangements to give you a realistic view.",
+  "For medium and large clients, the client makes the status decision and should provide a Status Determination Statement. If you disagree, you can raise a dispute with the client. An adviser can help you frame that challenge and explain your options."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Whether you're a contractor or the client engaging one, so we can introduce the right kind of adviser.",
+  "The type of work you do and the sector you work in, as IR35 applies differently across industries.",
+  "Whether you already have a contract or are about to sign one, and whether you've received a status determination.",
+  "A brief description of how you work in practice, such as who sets your hours and whether you can send someone else.",
+  "Whether HMRC has already been in touch about IR35, and if so, what stage the enquiry is at.",
+  "Your location and whether you'd prefer to meet in person or work remotely, so we can find someone near you."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "What qualifications and specialist experience do you have in IR35 matters?",
+  "How will you assess my working practices as well as my contract?",
+  "What information will you need from me and my client to give a view?",
+  "If I disagree with a status determination, how would you help me raise a dispute?",
+  "Are you supervised for anti-money-laundering purposes and do you hold professional indemnity insurance?",
+  "How will you keep me informed about progress and what are your fees?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need an IR35 advisor if I'm a contractor?",
+   "a": "If you work through your own limited company and provide services to clients, IR35 may apply. An adviser can go through your contracts and working practices to help you understand your position and what to do next."
+  },
+  {
+   "q": "What is a Status Determination Statement?",
+   "a": "For medium and large clients, the client must give you a Status Determination Statement setting out its decision and the reasons. If you disagree, you can raise a dispute with the client. An adviser can help you understand the statement and challenge it if needed."
+  },
+  {
+   "q": "Can iComply tell me if I'm inside or outside IR35?",
+   "a": "No, iComply is an introduction service and does not give professional advice. We introduce you to a tax adviser who can assess your situation and advise you directly."
+  },
+  {
+   "q": "How do I choose an IR35 advisor near me?",
+   "a": "Look for a tax adviser with relevant experience and qualifications, and ask about their approach to looking at working practices. It's reasonable to ask about their supervision for anti-money-laundering purposes and professional indemnity insurance before you go ahead."
+  }
+ ],
+ "extra_heading": "What happens at a first IR35 appointment",
+ "extra": [
+  "A first meeting with an IR35 adviser is mostly about gathering facts rather than giving a verdict on the spot. Expect them to read your contract closely, then ask how the engagement actually runs: who decides what you do and when, whether you can send someone else, how you're treated alongside the client's own staff, and whether you take on financial risk. Bring the contract, any Status Determination Statement and a plain description of your working week.",
+  "The adviser will also want to know who the client is, because for medium and large clients the status decision sits with them and should come with reasons you can examine. If you're the client rather than the contractor, the conversation shifts to how you reached your determination and whether your records would stand up if HMRC asked. Either way, the adviser should explain the reasoning behind their view, not just hand you an answer.",
+  "You may not leave with a final conclusion at that first appointment, especially if the adviser needs to see more paperwork or speak to the end client. Ask what happens next, what further information they need and how their charges work, so there are no surprises. It's also fine to say if you'd rather meet in person locally or work through things remotely."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Is an IR35 adviser the same as an accountant?",
+   "a": "Not necessarily. Many accountants advise on IR35, and so do solicitors and specialist tax advisers, but \"tax adviser\" isn't a protected title in the UK. Ask what qualifications and IR35 experience they hold, and whether they're supervised for anti-money-laundering purposes, before you go ahead."
+  },
+  {
+   "q": "Can I just rely on an online check instead of an adviser?",
+   "a": "An online tool can only work with what you type in, and IR35 turns on the reality of your working practices as well as the contract wording. An adviser can ask about the details a checklist won't capture, such as control, substitution and how you're integrated into the client's business. That said, iComply doesn't give advice itself — we introduce you to a tax adviser who can."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "intro": "You've searched for an architect, so you're likely planning a building project, an extension or a significant alteration and want professional design help. An architect can guide you through planning, building regulations and construction, but finding the right one starts with knowing what you need and how to check they're properly registered.",
+ "need_heading": "What people searching for an architect usually need",
+ "need_lead": "Most people looking for an architect are at the start of a project and need clear, practical help to move forward.",
+ "needs": [
+  "You're extending your home and need drawings for planning permission and building regulations.",
+  "You're planning a loft conversion or a rear extension and want to know whether you need planning permission.",
+  "You've bought a property and want to remodel the interior layout, perhaps removing walls or adding a bathroom.",
+  "You're building a new house on a plot and need an architect to design it and oversee the build.",
+  "You're dealing with a party wall matter or a listed building and need expert guidance on the process."
+ ],
+ "context_heading": "The protected title of architect",
+ "context": [
+  "In the UK, the title \"architect\" is protected by law. Only people on the Architects Registration Board (ARB) register can call themselves architects, and they must follow the ARB code of conduct and hold professional indemnity insurance.",
+  "Many practices are also RIBA Chartered Practices, which means they meet certain standards. Architectural designers and technologists can do excellent work too, but they are not registered architects, so it's worth knowing which you are hiring."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the type of project you're planning, such as a house extension, loft conversion, new build or renovation.",
+  "Mention the property type and whether it's listed or in a conservation area.",
+  "Explain what stage you're at: have you had plans drawn, applied for planning permission, or are you starting from scratch?",
+  "Say whether you already own the property or are still in the process of buying.",
+  "Outline your budget range so the architect can tailor their service to suit you.",
+  "Mention any particular constraints, such as a tight timeline or a need for specialist knowledge like party wall matters."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you registered with the Architects Registration Board (ARB)?",
+  "What experience do you have with projects like mine, such as extensions or listed buildings?",
+  "How will you charge for your work, and what does your fee cover?",
+  "Will you handle planning permission and building regulations applications on my behalf?",
+  "What is your estimated timeline for the design and planning stages?",
+  "Can you provide a written appointment setting out the scope of services and responsibilities?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need an architect for a small extension?",
+   "a": "Not always. Some small projects can be handled by an architectural designer or technologist, but if you want the assurance of a regulated professional, an architect is a good choice. They can also help navigate planning and building regulations."
+  },
+  {
+   "q": "What is the difference between an architect and an architectural designer?",
+   "a": "An architect is registered with the Architects Registration Board (ARB) and has completed rigorous training and is bound by a code of conduct. Architectural designers may have relevant qualifications and experience but are not registered architects, so they cannot call themselves architects."
+  },
+  {
+   "q": "How do architects charge for their services?",
+   "a": "Architects typically charge a percentage of the construction cost, a fixed fee, or an hourly rate. The fee should be agreed in writing before work starts, and it's important to clarify what is included."
+  },
+  {
+   "q": "Can an architect help with planning permission?",
+   "a": "Yes, architects can prepare and submit planning applications and building regulations drawings on your behalf. They can also liaise with the local authority and other professionals as needed."
+  }
+ ],
+ "extra_heading": "What the first appointment with an architect involves",
+ "extra": [
+  "When you first sit down with an architect, expect a conversation about your site, your ideas and how you want to use the building rather than a sales pitch. They will usually ask about your budget and any constraints such as a listed building, a conservation area or a party wall, and they may want to visit the property before putting anything in writing. It helps to bring any plans, deeds or correspondence from the council you already have.",
+  "The appointment should then be set out in writing, and this is where the RIBA stages are useful as a shared language. The stages run from early feasibility and concept design through to technical drawings for building regulations and on to construction and handover, and a clear appointment says which of these the architect is responsible for and what each part covers. Some people only need help getting through planning permission; others want the practice to stay involved on site.",
+  "Fees are normally quoted on application once the scope is known, because the work varies so much between a small domestic alteration and a full new build. Ask how the fee is built up, what is excluded, and whether planning application fees and building regulations fees are separate from the architect's own charge. Getting the appointment in writing before work begins protects you and gives you a clear basis for comparison."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Do I need an architect or will a structural engineer do?",
+   "a": "They do different jobs. An architect designs the building and prepares drawings for planning and building regulations, while a structural engineer works out how loads are carried, which matters if you are removing walls or altering a structure. Many projects need both, and your architect can usually advise when a structural engineer should be brought in."
+  },
+  {
+   "q": "Can an architect help if my plans have already been refused planning permission?",
+   "a": "Yes. An architect can review the refusal and the officer's reasons, then advise on whether to revise the scheme, submit a fresh application or appeal. Bringing one in early, before you resubmit, is often more useful than waiting until a second refusal."
+  },
+  {
+   "q": "Is an architect the same as a building surveyor?",
+   "a": "No. A building surveyor inspects a property and reports on its condition, which is what you would commission before buying. An architect designs and prepares drawings for your project, so the two roles can sit side by side but are not interchangeable."
+  }
+ ]
+}

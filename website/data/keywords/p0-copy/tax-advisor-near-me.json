@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for a tax advisor near me, you're likely looking for someone local who can help you with a tax issue or plan ahead. You want a clear, trustworthy introduction to a professional who can explain your options and quote you directly. We at iComply introduce you to a suitable UK tax adviser based on what you tell us.",
+ "need_heading": "What people searching for a local tax adviser usually need",
+ "need_lead": "Most people want straightforward help with a specific tax concern, often from someone they can meet or speak to locally.",
+ "needs": [
+  "You're self-employed or renting out a property and need help filing your Self Assessment tax return correctly.",
+  "You're thinking about selling a property or shares and want to understand the tax implications before you go ahead.",
+  "You run a small business and need advice on how to structure it tax-efficiently as it grows.",
+  "You've received a letter from HMRC about a tax enquiry or dispute and want professional support to respond.",
+  "You're planning for retirement or an inheritance and want to make sure your tax position is in order."
+ ],
+ "context_heading": "What to understand about finding a tax adviser near you",
+ "context": [
+  "Tax adviser is not a protected title in the UK, so anyone can call themselves one. The main specialist bodies are the Chartered Institute of Taxation (for the CTA qualification) and the Association of Taxation Technicians (for the ATT qualification). Many accountants and solicitors also advise on tax, and members of these bodies follow a shared code called Professional Conduct in Relation to Taxation.",
+  "Tax advisers who charge a fee must be supervised for anti-money-laundering purposes, and HMRC has been tightening standards for paid tax agents. It is reasonable to ask about qualifications, supervision and professional indemnity insurance before you go ahead. Getting advice before a transaction is usually more valuable than after, and it is wise to ask for advice in writing."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the tax issue or decision you need help with, such as a tax return, a property sale or an HMRC letter.",
+  "Mention whether you are an individual, self-employed, a landlord or a business owner, as this affects the type of adviser you need.",
+  "Say whether you prefer to meet in person locally or are happy to work with someone remotely.",
+  "Give an idea of your timescale, for example whether you need advice before a deadline or are planning ahead.",
+  "Mention any qualifications or professional bodies you would like your adviser to belong to, such as ATT or CTA.",
+  "Explain whether you have already received advice or correspondence from HMRC that the adviser should see."
+ ],
+ "questions_heading": "Questions to ask the tax adviser",
+ "questions": [
+  "What qualifications and professional body memberships do you hold?",
+  "How will you charge for your work, and will you provide a written quote?",
+  "What experience do you have with situations like mine?",
+  "Will you explain the advice in writing so I have a record?",
+  "How will you keep my information confidential and secure?",
+  "Are you supervised for anti-money-laundering purposes and do you have professional indemnity insurance?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a tax adviser who is local to me?",
+   "a": "Not necessarily. Many tax advisers work remotely and can help you by phone, email or video call. However, if you prefer face-to-face meetings, searching for a tax advisor near me can help you find someone in your area."
+  },
+  {
+   "q": "What is the difference between a tax adviser and an accountant?",
+   "a": "A tax adviser focuses specifically on tax matters, while an accountant may offer a broader range of services including bookkeeping and financial reporting. Many accountants also advise on tax, and some tax advisers are qualified accountants or solicitors."
+  },
+  {
+   "q": "How do I check a tax adviser's credentials?",
+   "a": "You can ask whether they hold qualifications such as ATT or CTA, or are a member of a professional body like the Chartered Institute of Taxation. You can also ask about their supervision for anti-money-laundering purposes and whether they have professional indemnity insurance."
+  },
+  {
+   "q": "Can iComply recommend a specific tax adviser?",
+   "a": "We introduce you to a suitable UK tax adviser based on your needs, but we do not recommend or endorse any particular professional. You should satisfy yourself that the adviser is right for you before proceeding."
+  }
+ ],
+ "extra_heading": "Choosing between local tax advisers",
+ "extra": [
+  "When you search for a tax advisor near me, you may be imagining a high street office you can walk into. But many tax advisers now work remotely, and a local firm might still serve you by phone, email or video call. It's worth asking upfront how they prefer to work, so you're not surprised later.",
+  "To compare local advisers fairly, ask each one the same set of questions: their qualifications, how they charge, and what experience they have with situations like yours. Because fees are often quoted on application, ask for a written quote that sets out what's included. That way you can weigh up the options on the same basis.",
+  "A common misunderstanding is that a tax adviser near you will automatically be cheaper or better than one further away. In reality, what matters most is that they understand your specific issue and that you feel comfortable asking them questions. Take time to speak to more than one before deciding."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I choose a tax adviser who is close to where I live?",
+   "a": "Proximity can be convenient if you prefer face-to-face meetings, but it isn't essential. Many advisers work remotely and can serve you just as well by phone or video call, so weigh up what matters most to you."
+  },
+  {
+   "q": "How can I compare tax advisers when fees are price on application?",
+   "a": "Ask each adviser to explain their charging structure and provide a written quote for the work you need. That lets you compare like for like, rather than guessing from a headline figure."
+  },
+  {
+   "q": "What should I bring to a first meeting with a tax adviser?",
+   "a": "Bring any relevant paperwork, such as correspondence from HMRC, details of your income or business, and a list of questions. It also helps to have a clear idea of what you want to achieve, so the adviser can focus their advice."
+  }
+ ]
+}

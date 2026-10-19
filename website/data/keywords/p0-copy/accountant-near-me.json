@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for an accountant near me usually means you want someone you can sit down with, or at least call locally, rather than deal with a distant firm. You may be self-employed, running a small business, or simply facing a tax return you would rather not handle alone. We can introduce you to a UK accountancy practice that suits what you have described, and they will quote you directly.",
+ "need_heading": "What people searching for an accountant near me usually need",
+ "need_lead": "Most people typing this are looking for practical help with tax and accounts from someone they can reach easily.",
+ "needs": [
+  "You have started working for yourself and need to know what to register with HMRC and what records to keep.",
+  "Your business has grown enough that spreadsheets and guesswork no longer feel safe for your accounts and tax returns.",
+  "You have a letter or deadline from HMRC or Companies House and want someone local to help you deal with it.",
+  "You want someone to explain your tax position in plain terms, face to face if possible, rather than through a call centre.",
+  "You are moving from an existing accountant and want a nearby practice that can take over your accounts smoothly."
+ ],
+ "context_heading": "What to understand about finding an accountant near you",
+ "context": [
+  "In the UK, the word accountant on its own is not a protected title, so anyone can call themselves one. Protected titles such as Chartered Accountant, Chartered Certified Accountant and Chartered Management Accountant show that the person is bound by their professional body's ethics, training and complaints rules, so it is worth checking which qualifications a local practice actually holds.",
+  "Every practice offering accountancy services must also be supervised for anti-money-laundering purposes, either by a professional body or by HMRC. It is reasonable to ask which body supervises a firm, whether they hold professional indemnity insurance, and how complaints are handled before you commit to working with them."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say where you are based and how far you are willing to travel, since you are looking for someone near you.",
+  "Explain whether you are self-employed, running a limited company, a landlord or something else, as this shapes what the accountant will need to do.",
+  "Describe what you need help with, such as annual accounts, a tax return, bookkeeping, payroll or advice on a business decision.",
+  "Mention whether you already have an accountant and whether you are looking to switch.",
+  "Say whether you keep records digitally or on paper, as Making Tax Digital may affect how the practice works with you.",
+  "Include any deadlines you are working towards, such as a filing date or a letter from HMRC, so the practice knows how urgent it is."
+ ],
+ "questions_heading": "Questions to ask the accountant",
+ "questions": [
+  "Which professional body are you a member of, and what qualifications do you hold?",
+  "Which body supervises your practice for anti-money-laundering purposes?",
+  "Do you hold professional indemnity insurance, and how are complaints handled?",
+  "Exactly which returns and filings are covered by your quote, and which are charged separately?",
+  "How do you handle Making Tax Digital, and what records will you need from me?",
+  "Will you help me plan ahead for tax and cash flow, or only prepare and file the returns?"
+ ],
+ "faqs": [
+  {
+   "q": "Is an accountant near me better than one further away?",
+   "a": "A local accountant can be easier to meet in person and may know your area's business landscape, but distance matters less if you are comfortable working remotely. What counts most is that they understand your situation and explain things clearly."
+  },
+  {
+   "q": "Do I need a qualified accountant?",
+   "a": "Anyone can call themselves an accountant in the UK, so checking for a protected title such as Chartered Accountant or Chartered Certified Accountant tells you they are bound by a professional body's rules. It is also reasonable to ask which body supervises the firm for anti-money-laundering purposes."
+  },
+  {
+   "q": "Can an accountant help if I am just starting out?",
+   "a": "Yes, an accountant can explain what you need to register with HMRC, what records to keep and how tax works for your situation. Getting that guidance early can save confusion later."
+  },
+  {
+   "q": "How do I know what the accountant will charge?",
+   "a": "Quotes are price on application, so ask the practice directly and agree exactly which returns and filings the fee covers. It is worth asking what is included and what would be charged separately before you go ahead."
+  }
+ ],
+ "extra_heading": "Getting ready for the first meeting with a local accountant",
+ "extra": [
+  "Once you have chosen a practice near you, the first meeting is usually about the accountant understanding your situation rather than doing any filing on the spot. It helps to bring whatever you already have: bank statements, invoices, receipts, previous accounts if you have them, and any letters from HMRC or Companies House. You do not need everything perfectly organised, but the more you can show, the clearer the picture they can build.",
+  "Expect them to ask how your income and business are structured, whether you are a sole trader, a limited company director or a landlord, and how you currently keep records. This is also your chance to ask how they would work with you day to day, who you would speak to, and how quickly they tend to respond outside filing season. A good accountant should help you plan, not only file, so listen for whether they talk about the year ahead as well as the return in front of you.",
+  "After that first conversation, ask for the quote in writing and check exactly which returns and filings it covers. Quotes are price on application, so it is fair to ask what would be charged separately, such as payroll, bookkeeping or advice on a specific decision. Comparing a couple of local practices on that basis tells you far more than any claim about being the best or cheapest."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I meet an accountant near me before deciding?",
+   "a": "It is worth meeting or at least speaking to them first, because you need to feel you can ask questions and understand the answers. A local practice is often easier to visit in person, which can make that first conversation simpler."
+  },
+  {
+   "q": "What if I have not kept proper records yet?",
+   "a": "That is common, and an accountant can help you work out what needs sorting and what records to keep going forward. Bring whatever you have to the first meeting so they can see the full picture rather than guess at it."
+  },
+  {
+   "q": "Can a local accountant deal with HMRC letters for me?",
+   "a": "Many accountants will help you understand a letter from HMRC or Companies House and respond on your behalf, but agree this with them first. Ask at the initial meeting whether that kind of help is included in their quote or charged separately."
+  }
+ ]
+}

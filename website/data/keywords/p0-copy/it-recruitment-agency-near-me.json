@@ -1,0 +1,53 @@
+{
+ "intro": "You're looking for an IT recruitment agency near you, probably because you need to hire a developer, engineer, analyst or security specialist, or you're hoping to find your next IT role. A local agency can talk through what you need and introduce you to a professional who quotes you directly. iComply is a free introduction service that connects you with a suitable UK professional.",
+ "need_heading": "What people searching for an IT recruitment agency near me usually need",
+ "need_lead": "Whether you're hiring or job-hunting, you want an agency that understands technical roles and can match the right people quickly.",
+ "needs": [
+  "You're an employer who needs a developer or engineer with specific skills and want an agency that can screen candidates technically, not just match keywords.",
+  "You're a contractor looking for short-term IT roles and need an agency that understands the off-payroll working rules and contract terms.",
+  "You're a permanent job-seeker who wants to know what salary your skills command in today's market.",
+  "You're scaling a team and need several IT specialists at once, and you want an agency that can handle volume without sacrificing quality.",
+  "You're new to the area and want to work with a local agency that knows the regional IT job market and can meet you face to face."
+ ],
+ "context_heading": "One key thing to understand about IT recruitment agencies",
+ "context": [
+  "IT recruitment agencies in the UK must follow the Conduct of Employment Agencies and Employment Businesses Regulations, which are enforced by the Employment Agency Standards Inspectorate. Agencies cannot usually charge work-seekers for finding them work, so if you're looking for a job, you shouldn't be asked to pay a fee. Membership of the Recruitment and Employment Confederation (REC) or APSCo shows a commitment to an industry code, which you can ask about.",
+  "For employers, clear terms of business are essential, and for temporary or contract workers, agencies have obligations on pay, holiday and right-to-work checks. Technical screening matters because IT roles often require specific skills that are hard to judge from a CV alone. Salary expectations move quickly in IT, so it's worth discussing rates and pay openly from the start."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say whether you're hiring for an IT role or looking for a job yourself, as this changes the kind of agency that suits you.",
+  "Describe the specific technical skills or role you need, such as a particular programming language, system or security specialism.",
+  "Mention whether the role is permanent or contract, and if contract, whether the off-payroll working rules have been considered.",
+  "Give an idea of your location or the area you want the agency to cover, since you searched for one near you.",
+  "Indicate your timescale and any budget or salary range you have in mind, even if it's approximate.",
+  "Note any preferences, such as whether you want an agency that is a member of REC or APSCo, or one with experience in your sector."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "How do you screen candidates technically for IT roles?",
+  "What is your experience with contract roles and the off-payroll working rules?",
+  "Can you tell me about your terms of business and any fees for employers?",
+  "How do you keep up with salary expectations in the IT market?",
+  "Are you a member of REC or APSCo, and what does that mean for me?",
+  "How do you handle right-to-work checks for temporary or contract workers?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I have to pay an IT recruitment agency to find me a job?",
+   "a": "Agencies in the UK cannot usually charge work-seekers for finding them work, under the Conduct of Employment Agencies and Employment Businesses Regulations. If you're looking for a job, you shouldn't be asked to pay a fee. Employers may be charged by agencies for their services."
+  },
+  {
+   "q": "What do the off-payroll working rules mean for IT contractors?",
+   "a": "The off-payroll working rules determine whether a contractor should be taxed like an employee. They can affect how much you take home and who is responsible for paying tax. An IT recruitment agency should be able to explain how they apply to your contract."
+  },
+  {
+   "q": "How can I check if an IT recruitment agency is reputable?",
+   "a": "You can ask whether the agency is a member of the Recruitment and Employment Confederation (REC) or APSCo, which shows a commitment to an industry code. You can also ask about their terms of business and how they handle pay and contracts. The Employment Agency Standards Inspectorate enforces the regulations for agencies."
+  },
+  {
+   "q": "What should I look for in an IT recruitment agency near me?",
+   "a": "Look for an agency that understands your technical specialism and can screen candidates properly, not just match keywords. If you're a contractor, check their knowledge of the off-payroll working rules and contract terms. Local knowledge of the job market in your area can also be helpful."
+  }
+ ]
+}
