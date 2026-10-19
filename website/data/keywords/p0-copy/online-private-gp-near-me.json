@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for an online private GP near you usually means you want to be seen soon, without waiting, and from somewhere convenient. Perhaps you're away from home, struggling to get an NHS appointment, or simply want longer to talk through a problem. We can introduce you to a suitable UK private GP who offers online consultations and will quote you directly.",
+ "need_heading": "What people searching for an online private GP usually need",
+ "need_lead": "Most people behind this search want a real doctor, seen quickly, without the travel.",
+ "needs": [
+  "You have a problem you'd like looked at soon and an NHS appointment feels a long way off.",
+  "You want a longer conversation than a rushed appointment allows, with time to ask questions.",
+  "You're travelling, working away or housebound and can't easily get to a clinic in person.",
+  "You need a referral, a test arranged or a certificate and want to get moving on it.",
+  "You'd like the convenience of a video consultation but still want to see a UK-registered doctor."
+ ],
+ "context_heading": "What to understand about online private GP appointments",
+ "context": [
+  "Every doctor practising in the UK must be registered and hold a licence to practise with the General Medical Council (GMC), and GPs also appear on the GMC's GP register. You can search the register by name to check anyone you're considering. Private clinics providing regulated healthcare in England must register with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales it's Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland and in Northern Ireland the RQIA.",
+  "A private GP doesn't replace your NHS GP. Good clinics will ask for your consent to share consultation notes with your NHS practice, so your records stay complete and any medication is prescribed safely. Video consultations suit many everyday problems, though some things will still need to be seen in person."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Describe the problem or symptoms you'd like the online GP to look at, in your own words.",
+  "Say roughly how long it's been going on and whether it's getting better or worse.",
+  "Mention any medication you take and any ongoing conditions the doctor should know about.",
+  "Tell us where you are, so we can introduce you to a GP set up to see patients in your area.",
+  "Say whether you'd prefer a video consultation or would rather be seen in person if needed.",
+  "Explain what you're hoping to get from the appointment, such as advice, a referral, a test or a certificate."
+ ],
+ "questions_heading": "Questions to ask the private GP",
+ "questions": [
+  "Are you registered on the GMC's GP register, and what is your GMC number?",
+  "Is the clinic registered with the relevant regulator, such as the CQC in England?",
+  "Will you share notes from our consultation with my NHS GP, with my consent?",
+  "What happens if my problem can't be dealt with over video and I need to be seen in person?",
+  "Can you arrange any tests or referrals I might need, and how does that work?",
+  "How do I get a prescription if one is needed after our consultation?"
+ ],
+ "faqs": [
+  {
+   "q": "Can an online private GP prescribe medication?",
+   "a": "A private GP can prescribe where it's clinically appropriate, and good clinics will share notes with your NHS practice so prescribing stays safe. Some medicines, and some situations, will still need a face-to-face appointment."
+  },
+  {
+   "q": "How do I check that an online private GP is properly registered?",
+   "a": "Every doctor practising in the UK must be registered and hold a licence to practise with the General Medical Council. You can search the GMC's online register by name, and check the clinic's registration with the relevant regulator for its nation."
+  },
+  {
+   "q": "Will using a private GP affect my NHS care?",
+   "a": "A private GP doesn't replace your NHS GP, and you can still use NHS services. Sharing consultation notes with your NHS practice, with your consent, helps keep your records complete."
+  },
+  {
+   "q": "What kinds of problems suit an online GP appointment?",
+   "a": "Video consultations suit many everyday problems, and appointments of fifteen to thirty minutes are common, giving you more time to talk. Anything that needs a physical examination may need to be seen in person instead."
+  }
+ ],
+ "extra_heading": "Getting the most from a video appointment with a private GP",
+ "extra": [
+  "An online appointment works differently from sitting in a consulting room, and a little preparation makes the time count. Find a quiet, private spot with a steady connection, and have a list of your symptoms, when they started and what you've already tried to hand. If you can, take your temperature or blood pressure beforehand and note any readings, since the doctor can't examine you over video.",
+  "Think about what you can show on camera. A rash, a swollen joint or the colour of your skin can often be assessed if you have good light and can hold the camera steady, so have a lamp nearby and be ready to move closer. Some problems, such as chest pain, severe breathlessness or a suspected fracture, need urgent in-person care rather than a video call, so don't wait for an online slot if something feels serious.",
+  "Before you book, ask how the clinic handles anything that can't be sorted remotely. A good private GP will tell you whether they can see you in person at a clinic, refer you on, or advise you to contact NHS 111 or, in an emergency, 999. It's also worth confirming how any prescription would reach you, since online clinics vary in whether they send it electronically to a pharmacy or post it."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Can an online private GP examine me?",
+   "a": "A private GP can't carry out a physical examination over video, so some problems will need to be seen in person. Many everyday concerns can still be assessed by talking things through and looking at what you can show on camera, and the GP should tell you if you need to be seen face to face."
+  },
+  {
+   "q": "What should I do if my symptoms feel urgent before my appointment?",
+   "a": "If you have chest pain, severe difficulty breathing, heavy bleeding or another symptom that feels like an emergency, call 999 rather than waiting for an online appointment. For urgent advice that isn't an emergency, NHS 111 can help you work out what to do next."
+  },
+  {
+   "q": "How do I know the online GP is seeing patients in my area?",
+   "a": "Rules about where a private GP can see you vary, so it's worth asking the clinic directly whether they take patients where you live. Telling us your location when you enquire means we can introduce you to a GP set up to see patients in your area."
+  }
+ ]
+}

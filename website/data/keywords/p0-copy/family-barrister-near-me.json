@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a family barrister near you usually means something in your family life has reached the point where you need specialist representation in court or clear advice about your position. You may be facing divorce finances, a dispute over where the children live, care proceedings, or a situation involving domestic abuse. We can introduce you to a suitable UK family barrister who will quote you directly, with fees on application.",
+ "need_heading": "What people searching for a family barrister usually need",
+ "need_lead": "Most people typing this search are dealing with a family matter that feels urgent and personal, and they want someone local who understands the court process.",
+ "needs": [
+  "You are going through a divorce and need help understanding how finances and property might be divided.",
+  "You are in a disagreement about child arrangements and want someone to represent you at a hearing.",
+  "You have been contacted by social services about care proceedings and feel out of your depth.",
+  "You are dealing with domestic abuse and need representation and advice about protective orders.",
+  "You have a court date approaching and want a barrister who can prepare your case and speak for you."
+ ],
+ "context_heading": "Understanding how family barristers work",
+ "context": [
+  "Family barristers in England and Wales are regulated by the Bar Standards Board. You can check the Barristers' Register to see whether someone holds a current practising certificate and whether they are authorised to accept instructions directly from the public. In Scotland the equivalent professionals are advocates, regulated through the Faculty of Advocates.",
+  "Barristers usually work from chambers, with clerks who manage diaries and fees. Many are instructed through a solicitor in the traditional way, while those registered under the Public Access scheme can be instructed directly by members of the public for suitable matters. Courts also encourage settlement, so a barrister may advise on negotiation as well as representation."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the family matter briefly, such as divorce finances, child arrangements, care proceedings or domestic abuse.",
+  "Say where you are based and how far you are able to travel for hearings or meetings.",
+  "Mention whether you already have a solicitor or are looking to instruct a barrister directly.",
+  "Give any upcoming court dates or deadlines so the introduction can be timely.",
+  "Explain whether you need advice, preparation, representation at a hearing, or a mix.",
+  "Note any particular needs, such as accessibility requirements or a preference to speak with someone local."
+ ],
+ "questions_heading": "Questions to ask the family barrister",
+ "questions": [
+  "Are you authorised to accept instructions directly from the public under the Public Access scheme?",
+  "What is your experience with the type of family matter I am facing?",
+  "How do you charge for advice, preparation and representation, and what will I need to pay upfront?",
+  "Will you be the person representing me at the hearing, or might another barrister be instructed?",
+  "How should we communicate between now and the hearing, and how quickly can you respond?",
+  "Can you explain what the court process will involve and what I should prepare?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a solicitor to instruct a family barrister?",
+   "a": "Not always. Many barristers are instructed through a solicitor in the traditional way, but those registered under the Public Access scheme can be instructed directly by members of the public for suitable matters. You can check the Barristers' Register to see whether a barrister is authorised for direct access."
+  },
+  {
+   "q": "How do I check that a family barrister is regulated?",
+   "a": "Barristers in England and Wales are regulated by the Bar Standards Board. The Barristers' Register shows whether someone holds a current practising certificate and whether they are authorised to accept instructions directly from the public. In Scotland, advocates are regulated through the Faculty of Advocates."
+  },
+  {
+   "q": "Will a family barrister near me charge for an initial conversation?",
+   "a": "This varies between chambers, and fees are usually quoted on application. Ask the clerk or the barrister directly about any charge for an initial discussion and how fees are structured before you proceed."
+  },
+  {
+   "q": "Can a family barrister help me avoid going to court?",
+   "a": "Courts encourage settlement, and a barrister can advise on negotiation and help you understand your position before a hearing. They can also represent you if the matter does proceed to court."
+  }
+ ]
+}

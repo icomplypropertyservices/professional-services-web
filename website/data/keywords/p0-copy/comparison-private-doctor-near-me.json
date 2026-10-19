@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for a comparison private doctor near me usually means you want to weigh up your local private GP options before committing to an appointment. You might be facing a wait for an NHS appointment, or you simply want to see a doctor quickly and compare what each clinic offers. We can introduce you to a suitable UK private GP who will quote you directly, so you can judge the options for yourself.",
+ "need_heading": "What people comparing private doctors nearby usually need",
+ "need_lead": "Most people searching this way want a clear picture of what is available locally before they choose.",
+ "needs": [
+  "You have a health concern that your NHS GP cannot see you about soon enough, and you want to compare nearby private doctors who can offer an earlier appointment.",
+  "You want to understand what a private GP consultation includes and how the fees are structured before you book with anyone.",
+  "You are considering a private doctor for a one-off issue but want to know whether they will share notes with your NHS GP afterwards.",
+  "You have private medical insurance and need to check which local doctors work with your insurer and what your policy covers.",
+  "You want to compare the practicalities of nearby clinics, such as location, opening hours and how to book, rather than relying on a single recommendation."
+ ],
+ "context_heading": "Checking who you are comparing",
+ "context": [
+  "Every doctor practising in the UK must be registered and hold a licence to practise with the General Medical Council (GMC), and GPs also appear on the GMC's GP register. You can search the GMC's online register by name to check any doctor you are considering. In England, private clinics providing regulated healthcare must register with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA.",
+  "A private GP does not replace your NHS GP. Good private clinics will ask for your consent to share consultation notes with your NHS practice, so your records stay complete and medication is prescribed safely. When comparing, ask each clinic how they handle this."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the health concern you want to see a private doctor about, so we can introduce you to a suitable professional.",
+  "Say where you are located and how far you are willing to travel to see a private GP near you.",
+  "Mention whether you plan to pay for yourself or use private medical insurance, as this affects which doctors are suitable.",
+  "Explain any timing preferences you have, such as needing an appointment soon or wanting a particular day of the week.",
+  "Note if you have a long-term condition or take regular medication, so the private doctor can coordinate with your NHS GP.",
+  "Include any preferences about the type of clinic or consultation, such as an in-person visit or a telephone or video appointment."
+ ],
+ "questions_heading": "Questions to ask a private doctor you are comparing",
+ "questions": [
+  "What is included in the fee for a private GP consultation, and are there any extra charges for tests or follow-up?",
+  "Will you share the notes from my consultation with my NHS GP, and how do you handle my consent?",
+  "Are you registered on the GMC's GP register, and what is your GMC reference number?",
+  "How do you handle prescriptions, and can you issue them if I need medication?",
+  "What is your approach to referring patients on to a specialist if further investigation is needed?",
+  "If I have private medical insurance, do you work with my insurer and how does billing work?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I compare private doctors near me?",
+   "a": "Start by checking each doctor's GMC registration and, for clinics in England, whether they are registered with the CQC. Then compare what is included in the fee, how notes are shared with your NHS GP, and practical details such as location and opening hours. You can ask each clinic directly about these points before booking."
+  },
+  {
+   "q": "Will a private doctor replace my NHS GP?",
+   "a": "No, a private GP does not replace your NHS GP. Good private clinics will ask for your consent to share consultation notes with your NHS practice, so your records stay complete and medication is prescribed safely. You should keep your NHS GP informed of any private treatment."
+  },
+  {
+   "q": "What should I check before choosing a private GP?",
+   "a": "Check that the doctor is registered and licensed with the GMC and appears on the GP register. Ask what the fee covers and whether there are extra costs for tests or follow-up. Also ask how the clinic shares information with your NHS GP."
+  },
+  {
+   "q": "Can I use private medical insurance for a private GP appointment?",
+   "a": "Some private doctors work with insurers, but cover varies. Check with your insurer whether private GP consultations are included and whether you need a referral. When you enquire through iComply, mention if you plan to use insurance so we can introduce you to a suitable professional."
+  }
+ ],
+ "extra_heading": "How to compare private doctors fairly",
+ "extra": [
+  "A comparison search suggests you are not yet committed to anyone and want to weigh up more than one option side by side before you pick up the phone. That is a sensible position to be in, because private GP clinics differ in how they structure their fees, how long they allow for a consultation and how they handle follow-ups. The trick is to compare like with like rather than being swayed by the first clinic that answers.",
+  "Ask each clinic the same set of questions so the answers sit alongside each other: what the consultation fee covers, whether tests or a follow-up appointment cost extra, how long the appointment lasts, and how notes are shared with your NHS GP. Because quotes are price on application, you will need to ask directly rather than rely on anything published. If a word like cheap or affordable brought you here, remember that a lower headline fee can work out dearer once extras are added, so compare the total picture.",
+  "It also helps to think about what matters most to you personally, such as how soon you can be seen, whether you want an in-person or remote appointment, and whether the clinic works with your insurer if you have one. Jot down your priorities before you start so the comparison stays on your terms. Once you have a shortlist, you can check each doctor's GMC registration and the clinic's regulator before deciding."
+ ],
+ "extra_faqs": [
+  {
+   "q": "How can I compare private doctors if prices are on application?",
+   "a": "Ask each clinic the same questions about what the fee includes, whether tests and follow-ups cost extra, and how long the appointment lasts. With those answers side by side, you can compare the real cost rather than a headline figure. You can also ask about any charges for letters or prescriptions."
+  },
+  {
+   "q": "Should I compare doctors or clinics?",
+   "a": "Both matter. The doctor's GMC registration and experience are central, while the clinic's facilities, opening hours and how it shares notes with your NHS GP affect your day-to-day experience. Comparing on both counts gives you a fuller picture before you book."
+  },
+  {
+   "q": "Does comparing private doctors mean I have to choose the cheapest?",
+   "a": "No. Cost is only one factor, and a lower fee is not automatically better value once extras are counted. Weigh the fee against what is included, how soon you can be seen and how the clinic handles your records, then decide what suits your situation."
+  }
+ ]
+}

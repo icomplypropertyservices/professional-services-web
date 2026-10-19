@@ -1,0 +1,53 @@
+{
+ "intro": "You've searched for a recruitment agency near me, so you're probably looking for work locally or need help filling a role in your area. A good agency can save you time by matching people to jobs and employers to candidates. Here's what to think about before you get in touch with one.",
+ "need_heading": "What people searching for a local recruitment agency usually need",
+ "need_lead": "Most people searching for a recruitment agency near me want a straightforward way to find work or staff without endless searching.",
+ "needs": [
+  "You're looking for a permanent job in your area and want an agency that knows local employers.",
+  "You need temporary or contract work to fit around other commitments and want an agency that handles the paperwork.",
+  "You're an employer who needs to fill a vacancy quickly and wants an agency that understands your industry.",
+  "You're changing careers and need an agency that can advise on transferable skills and local opportunities.",
+  "You want to compare a few agencies nearby to see which one specialises in your field."
+ ],
+ "context_heading": "What to understand about using a recruitment agency",
+ "context": [
+  "Recruitment agencies find, screen and introduce candidates for permanent, temporary and contract roles. In the UK, they must follow the Conduct of Employment Agencies and Employment Businesses Regulations, which are enforced by the Employment Agency Standards Inspectorate. Agencies cannot usually charge work-seekers for finding them work, so be wary if one asks you to pay.",
+  "Agencies that supply temporary workers have specific obligations on pay, holiday and right-to-work checks. Clear terms of business for employers and clear contracts for workers are essential. Membership of the Recruitment and Employment Confederation (REC) or APSCo shows a commitment to an industry code, which you can ask about."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say whether you're looking for work or looking to hire, so we can introduce you to the right kind of agency.",
+  "Tell us the type of role or the position you need to fill, including the industry and level.",
+  "Let us know if you want permanent, temporary or contract work, as agencies vary in what they handle.",
+  "Mention your location and how far you're willing to travel, since you searched for a local agency.",
+  "Share any specific requirements, such as hours, salary expectations or start date, so the agency can assess fit.",
+  "If you're an employer, outline your company and the skills you need, so the agency can brief candidates properly."
+ ],
+ "questions_heading": "Questions to ask a recruitment agency",
+ "questions": [
+  "Which industries and job types do you specialise in?",
+  "How do you charge for your services, and who pays?",
+  "What is your process for screening and shortlisting candidates?",
+  "How often will you update me on progress?",
+  "Do you handle temporary and contract roles as well as permanent ones?",
+  "Are you a member of the Recruitment and Employment Confederation or APSCo?"
+ ],
+ "faqs": [
+  {
+   "q": "Will a recruitment agency charge me to find work?",
+   "a": "Agencies cannot usually charge work-seekers for finding them work under UK regulations. If an agency asks you to pay upfront, ask for clarification and consider walking away."
+  },
+  {
+   "q": "How do I choose a good recruitment agency near me?",
+   "a": "Look for agencies that specialise in your industry or role type and check whether they belong to a professional body like the REC or APSCo. Ask about their terms and how they communicate before you commit."
+  },
+  {
+   "q": "What should I have ready before contacting an agency?",
+   "a": "Have an up-to-date CV and a clear idea of the type of work you want, your availability and your salary expectations. For employers, prepare a job description and details of the role."
+  },
+  {
+   "q": "Can I use more than one agency at a time?",
+   "a": "Yes, you can register with several agencies, but be clear with each about your other applications to avoid duplicate submissions. For employers, check terms to avoid conflicts if two agencies put forward the same candidate."
+  }
+ ]
+}

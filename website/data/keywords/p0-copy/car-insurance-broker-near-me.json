@@ -1,0 +1,69 @@
+{
+ "intro": "When you search for a car insurance broker near me, you're likely looking for someone local who can help you find the right cover without the hassle of comparing policies yourself. A broker can explain your options, from third party to comprehensive, and make sure you understand what's included and what isn't. They can also be a useful point of contact if you need to make a claim.",
+ "need_heading": "What people searching for a local car insurance broker usually need",
+ "need_lead": "Most people want straightforward help finding cover that fits their car, their driving and their budget.",
+ "needs": [
+  "You want to compare insurers but don't have the time or confidence to do it all yourself online.",
+  "Your circumstances are a bit unusual, such as a modified car or a non-standard parking situation, and you need cover that reflects that.",
+  "You're unsure how much mileage you do or which named drivers to include, and you want to get the details right.",
+  "You've had a claim or a change in circumstances and want to understand how it affects your premium.",
+  "You'd rather speak to someone local who can explain things clearly and be there if you need to claim."
+ ],
+ "context_heading": "Why 'near me' matters for car insurance",
+ "context": [
+  "Car insurance is a legal requirement in the UK, and the level of cover you choose – third party, third party fire and theft, or comprehensive – makes a big difference to what you pay and what you're covered for. A local broker can talk you through these options in plain language and help you weigh up the trade-offs.",
+  "Insurance brokers in the UK must be authorised by the Financial Conduct Authority (FCA) or be appointed representatives of an authorised firm. You can check this on the FCA register. Many brokers also belong to the British Insurance Brokers' Association (BIBA), and some hold Chartered status from the Chartered Insurance Institute. Brokers must understand your demands and needs, explain key policy features and exclusions, and tell you how they are paid. If you have a complaint that isn't resolved, you can take it to the Financial Ombudsman Service."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "The make and model of your car, and whether it has any modifications.",
+  "How you use the car – for example, commuting, business use or just occasional trips.",
+  "Your approximate annual mileage and where the car is parked overnight.",
+  "Who else drives the car and whether you want them named on the policy.",
+  "Any claims or convictions in the last few years, as these can affect your premium.",
+  "Whether you have a preferred level of cover, such as comprehensive or third party, fire and theft."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Which insurers do you work with, and can you explain why you've chosen them for my situation?",
+  "What exclusions should I be aware of in the policies you're recommending?",
+  "How do you get paid, and will that affect the price I pay?",
+  "What information do you need from me to make sure my policy is accurate?",
+  "How do I make a claim if I need to, and what support will you provide?",
+  "What should I do if my circumstances change during the policy?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need to use a broker to buy car insurance?",
+   "a": "No, you can buy directly from insurers, but a broker can compare policies and explain the details, which some people find helpful. They must understand your needs and tell you how they are paid."
+  },
+  {
+   "q": "How do I check that a broker is authorised?",
+   "a": "You can check on the FCA register. Brokers must be authorised by the FCA or be appointed representatives of an authorised firm."
+  },
+  {
+   "q": "What if I need to make a claim?",
+   "a": "Your broker can guide you through the claims process and help you understand what's covered. They should explain key policy features and exclusions before you buy."
+  },
+  {
+   "q": "Can a broker help if I have a modified car?",
+   "a": "Yes, brokers can find insurers who specialise in modified cars, but you must declare all modifications. This helps ensure your policy is valid."
+  }
+ ],
+ "extra_heading": "What a local car insurance broker actually does for you",
+ "extra": [
+  "When you search for a car insurance broker near me, you're probably hoping for someone who can take the legwork out of comparing cover. A broker will ask about your car, how you use it, where it's parked and who drives it, then approach insurers on your behalf. They must understand your demands and needs and explain the key features and exclusions of any policy they recommend, so you know what you're buying.",
+  "Many people assume a broker will automatically find the cheapest price, but that's not their role. Instead, they help you judge which policy is right for your circumstances, which can matter if you have modifications, a non-standard parking situation or a claims history. They should also tell you how they are paid, so you can see the full picture.",
+  "If you go ahead, the broker will usually handle the paperwork and be your point of contact if you need to claim. They can also remind you to update your details if your circumstances change, such as a change of address or a new named driver. This ongoing support is often what people value most about using a local broker."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Will a broker definitely save me money on my car insurance?",
+   "a": "Not necessarily. A broker's value is in helping you find suitable cover and explaining the details, not in guaranteeing a lower price. You should still compare quotes and check that the cover meets your needs."
+  },
+  {
+   "q": "What information should I have ready for my first appointment?",
+   "a": "It helps to have your car's make and model, your approximate annual mileage, where it's parked overnight, details of any modifications, and information about other drivers and any claims or convictions. This allows the broker to give you accurate options."
+  }
+ ]
+}

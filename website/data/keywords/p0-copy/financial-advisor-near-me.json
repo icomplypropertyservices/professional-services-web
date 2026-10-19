@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for a financial advisor near me usually means you want someone local you can sit down with to talk through your savings, investments, or retirement plans. You might be unsure where to start or what to ask, and you want to find an adviser who can look at your whole situation and give you clear, regulated advice. We can introduce you to a financial adviser in your area who will quote you directly for the work you need.",
+ "need_heading": "What people searching for a financial advisor near me often need",
+ "need_lead": "Most people looking for a financial adviser near them want help turning vague worries about money into a clear plan.",
+ "needs": [
+  "You have some savings or investments and want to know whether they are working hard enough for your goals.",
+  "You are approaching retirement and need to understand your options for taking an income from your pension.",
+  "You have received an inheritance or a lump sum and want guidance on what to do with it.",
+  "You want to make sure your family is protected if something happens to you, and need advice on life cover or writing a will.",
+  "You have a mortgage, debts, or changing circumstances and want to review your overall financial position."
+ ],
+ "context_heading": "What to understand when searching for a financial advisor near me",
+ "context": [
+  "Financial advice in the UK is regulated by the Financial Conduct Authority (FCA). Before you share any details, check that the adviser or firm is authorised, or is an appointed representative of an authorised firm, on the FCA register. This matters because if something goes wrong you can complain to the firm, then to the Financial Ombudsman Service, and the Financial Services Compensation Scheme may protect you if an authorised firm fails.",
+  "Advisers must tell you whether their advice is independent (considering the whole market) or restricted (limited to certain products or providers), and how they charge. Some advisers also hold advanced qualifications such as Chartered status from the Chartered Insurance Institute or the Personal Finance Society, or certifications like CFP, which show a higher level of expertise. When you search for a financial advisor near me, it is worth asking about these details early on so you can judge who is right for you."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say what you want help with, such as retirement planning, investing a lump sum, or protecting your family.",
+  "Mention your approximate age and whether you are still working, as this affects the advice you need.",
+  "Explain whether you already have savings, investments, or a pension, and roughly how much you are looking to invest or review.",
+  "Say whether you prefer to meet an adviser face to face locally, or are happy to speak by phone or video.",
+  "Mention any particular concerns, such as wanting to reduce risk, plan for care costs, or leave money to family.",
+  "Confirm whether you have used a financial adviser before and what you liked or disliked about the experience."
+ ],
+ "questions_heading": "Questions to ask the financial adviser",
+ "questions": [
+  "Are you authorised by the FCA, and can you show me your entry on the FCA register?",
+  "Is your advice independent or restricted, and what does that mean for the products you can recommend?",
+  "How do you charge for your advice, and will you set out all costs in writing before I commit?",
+  "What ongoing service do you provide after the initial advice, and what will that cost?",
+  "What qualifications and experience do you have in the areas I need help with?",
+  "How often will we review my plan, and what happens if my circumstances change?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check that a financial adviser is properly authorised?",
+   "a": "You can check the FCA register online or by contacting the Financial Conduct Authority. The adviser or firm should be listed as authorised, or as an appointed representative of an authorised firm. This gives you access to the Financial Ombudsman Service and the Financial Services Compensation Scheme if things go wrong."
+  },
+  {
+   "q": "What is the difference between independent and restricted advice?",
+   "a": "Independent advisers consider the whole market when making recommendations, while restricted advisers are limited to certain products or providers. Advisers must tell you which type of advice they offer before you engage them. Neither is necessarily better, but it helps to know so you can judge whether their offering suits your needs."
+  },
+  {
+   "q": "Will I have to pay for the first meeting?",
+   "a": "Many financial advisers offer an initial consultation at no cost, but this varies. You should ask upfront whether there is a charge for the first meeting and how any fees will be calculated. Any costs should be confirmed in writing before you proceed."
+  },
+  {
+   "q": "Can I get financial advice if I don't have a lot to invest?",
+   "a": "Some advisers specialise in helping people with modest savings or who are just starting to plan. It is worth being upfront about your situation when you enquire, so you can be introduced to an adviser who works with clients like you. Advice can still be valuable even if your pot is small, as it can set you on the right path."
+  }
+ ],
+ "extra_heading": "What a first meeting with a local financial adviser usually covers",
+ "extra": [
+  "Searching for a financial advisor near me often means you would rather meet in person than work entirely by phone or post, so it helps to know what that first appointment tends to involve. Most advisers use it to get a picture of your income, savings, pensions and any debts, and to understand what you want your money to do. Nothing should be recommended at that stage, and you should feel free to take your time before deciding whether to go ahead.",
+  "You will normally be asked to bring documents such as recent pension statements, savings and investment statements, and details of any existing policies, so the adviser can see your position clearly rather than rely on memory. This is also your chance to ask how they charge and whether their advice is independent or restricted, as they are required to explain both. If you would rather not share documents until you have checked their entry on the FCA register, that is a sensible first step.",
+  "A local adviser may also be able to visit you at home if travelling is difficult, though this varies and is worth asking about when you enquire. If you would prefer a mix of face-to-face and remote reviews, say so early, as it affects who we introduce you to. Bear in mind that quotes are on application, so the cost will be confirmed by the adviser directly rather than by us."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Do I need to bring anything to a first meeting with a financial adviser?",
+   "a": "It helps to bring recent statements for your savings, investments and pensions, plus details of any protection policies or debts you hold. Having these to hand means the adviser can understand your situation properly and you get more out of the conversation. If you do not have everything together, you can still meet and send documents later."
+  },
+  {
+   "q": "Can a local adviser come to my home?",
+   "a": "Some advisers offer home visits, particularly for people who find it hard to travel, but this varies between firms. Ask when you enquire whether home appointments are possible, and say if you would prefer them. Otherwise, a nearby office is often the simplest way to meet face to face."
+  },
+  {
+   "q": "Is a local adviser better than one you speak to only by phone?",
+   "a": "Neither is automatically better; it depends on how you prefer to work and what you need help with. Meeting locally can make it easier to build a relationship and go through paperwork together, while remote advice may suit you if you travel or have limited time. Ask how reviews would work before you decide."
+  }
+ ]
+}

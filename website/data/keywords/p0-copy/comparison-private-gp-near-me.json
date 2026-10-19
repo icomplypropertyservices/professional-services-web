@@ -1,0 +1,69 @@
+{
+ "intro": "When you search for a \"comparison private GP near me\", you're likely weighing up local private GP options and want to understand how they differ before choosing. You might be after a longer appointment, a faster consultation, or care that fits around your schedule. We can introduce you to a suitable UK private GP who will quote you directly, so you can compare quotes and services.",
+ "need_heading": "What people comparing private GPs usually need",
+ "need_lead": "Most people comparing private GPs are looking for convenient, personalised care that fits their life.",
+ "needs": [
+  "You want an appointment that lasts longer than the standard NHS slot, so you have time to discuss several concerns.",
+  "You need to be seen quickly, perhaps for a problem that can't wait for the next available NHS appointment.",
+  "You're considering a video consultation for a routine issue and want to know which local clinics offer that option.",
+  "You need a private GP to provide a certificate or report for work, travel or insurance purposes.",
+  "You'd like a referral to a specialist and want to compare how different private GPs handle referrals and share notes with your NHS GP."
+ ],
+ "context_heading": "What to understand when comparing private GPs",
+ "context": [
+  "Private GPs in the UK must be registered with the General Medical Council (GMC) and hold a licence to practise. Clinics providing regulated healthcare in England must also be registered with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales, Scotland and Northern Ireland different regulators apply. You can check a doctor's registration on the GMC's online register.",
+  "A private GP does not replace your NHS GP. Good private clinics will ask for your consent to share consultation notes with your NHS practice, so your records stay complete and any medication is prescribed safely. When comparing, ask how each clinic handles this sharing."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Describe the medical issue you want to discuss and whether it's urgent or routine.",
+  "Say whether you'd prefer a face-to-face appointment or a video consultation.",
+  "Mention any preference for appointment length or timing that matters to you.",
+  "Explain if you need a certificate, report or referral letter as part of the consultation.",
+  "Let us know if you have a particular location in mind or how far you're willing to travel.",
+  "Include any other details that would help us introduce you to a suitable private GP."
+ ],
+ "questions_heading": "Questions to ask a private GP",
+ "questions": [
+  "What is the typical length of an appointment, and can I book a longer slot if needed?",
+  "Do you offer video consultations, and for which types of problems are they suitable?",
+  "Will you share consultation notes with my NHS GP, and how do you handle consent?",
+  "What is the process if I need a referral to a specialist or further tests?",
+  "Are there any additional costs for certificates, reports or referrals?",
+  "How do you handle prescriptions, and can they be sent to a pharmacy of my choice?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I compare private GPs near me?",
+   "a": "Start by checking that the doctor is registered with the GMC and, in England, that the clinic is registered with the CQC. Then compare appointment lengths, availability, consultation types and how they share notes with your NHS GP. You can ask each clinic directly about fees and services."
+  },
+  {
+   "q": "Is a private GP consultation covered by the NHS?",
+   "a": "No, private GP care is paid for by you or your insurance, not by the NHS. A private GP does not replace your NHS GP, but good clinics will share notes with your NHS practice so your records stay complete."
+  },
+  {
+   "q": "Can I see a private GP for a second opinion?",
+   "a": "Yes, many people see a private GP for a second opinion or to discuss a problem in more depth. You can ask the GP how they will communicate with your NHS GP about the outcome."
+  },
+  {
+   "q": "What should I have ready for my private GP appointment?",
+   "a": "It helps to have a list of your current medications, any relevant medical history, and a clear idea of what you want to discuss. If you have a preferred pharmacy, have those details ready too."
+  }
+ ],
+ "extra_heading": "How to compare private GPs near you",
+ "extra": [
+  "The word \"comparison\" in your search suggests you're not just looking for any private GP, but weighing up several local options to find the one that suits you best. You might be comparing appointment lengths, availability, consultation types, or how each clinic handles referrals and notes. A good starting point is to list the questions that matter most to you, then ask each clinic directly.",
+  "When comparing, check that the doctor is registered with the General Medical Council (GMC) and, in England, that the clinic is registered with the Care Quality Commission (CQC). You can search the GMC's online register by name, and the CQC publishes inspection reports and ratings. These checks give you an independent picture of the standards you can expect.",
+  "It's also worth asking how each clinic shares information with your NHS GP. Good private clinics will ask for your consent to share consultation notes with your NHS practice, so your records stay complete and any medication is prescribed safely. Comparing how clinics handle this can help you choose one that fits your needs."
+ ],
+ "extra_faqs": [
+  {
+   "q": "How can I compare private GPs near me if I don't know where to start?",
+   "a": "Begin by making a list of what matters to you, such as appointment length, availability, or whether video consultations are offered. Then contact a few local clinics and ask the same questions so you can compare their answers directly. You can also check the GMC register and, in England, the CQC to confirm registration."
+  },
+  {
+   "q": "What should I compare when looking at private GP clinics?",
+   "a": "Look at appointment length, how soon you can be seen, whether face-to-face or video consultations are available, and how the clinic shares notes with your NHS GP. Also ask about any additional costs for certificates, reports or referrals. Comparing these details helps you find a clinic that suits your needs."
+  }
+ ]
+}

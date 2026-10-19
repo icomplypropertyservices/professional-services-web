@@ -1,0 +1,53 @@
+{
+ "intro": "You are looking for business interruption insurance near you because you want to protect your income if something happens to your premises. A local insurance broker can help you arrange cover that fits your business, and they will quote you directly.",
+ "need_heading": "What people searching for business interruption insurance near me usually need",
+ "need_lead": "Most people want a broker who understands their business and can explain the cover clearly.",
+ "needs": [
+  "You run a small business and want to make sure you can still pay bills and staff if you have to close temporarily due to damage.",
+  "You have been asked by a landlord or client to provide proof of business interruption cover and need to arrange it quickly.",
+  "You are reviewing your existing policy and want to check that your sum insured and indemnity period are realistic.",
+  "You want to understand what is covered if a supplier or customer stops your business, not just damage at your own premises.",
+  "You are opening a new business and need to arrange insurance before you start trading."
+ ],
+ "context_heading": "Understanding business interruption cover",
+ "context": [
+  "Business interruption insurance is usually added to a commercial property policy and replaces lost profit if insured damage stops you trading. It can also cover extra costs like moving to temporary premises or paying overtime to catch up. The indemnity period you choose is critical: it sets how long the cover lasts after the damage, and it should reflect how long it would realistically take to get back to normal trading. Your sums insured must reflect gross profit, not just turnover, or you may be underinsured.",
+  "When you search for business interruption insurance near me, you are likely looking for a local broker who can meet you or understand your area. Insurance brokers in the UK must be authorised by the Financial Conduct Authority (FCA) or be appointed representatives of an authorised firm. You can check them on the FCA register. Many brokers belong to the British Insurance Brokers' Association (BIBA), and some hold Chartered status from the Chartered Insurance Institute. Brokers must understand your demands and needs, explain key policy features and exclusions, and tell you how they are paid. If you have a complaint that is not resolved, you can take it to the Financial Ombudsman Service."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Your type of business and what you do, so the broker can understand your risks.",
+  "Your business address or the area you want the broker to cover, since you searched for near me.",
+  "Whether you already have business interruption cover and when it is due for renewal.",
+  "The sum insured you have in mind for gross profit, or ask the broker to help you work it out.",
+  "The indemnity period you think you need, for example how long it would take to recover after a fire or flood.",
+  "Any specific concerns, such as cover for supplier failure or denial of access, so the broker can check non-damage extensions."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you authorised by the FCA, and can you provide your firm reference number?",
+  "How do you calculate the sum insured for business interruption, and what figure should I use for gross profit?",
+  "What indemnity period would you recommend for my business, and why?",
+  "Does the policy include non-damage extensions such as denial of access or supplier failure?",
+  "How are you paid for arranging this cover, and will you disclose any commission?",
+  "What is the claims process, and who would I contact if I need to make a claim?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need business interruption insurance if I already have buildings and contents cover?",
+   "a": "Business interruption is usually a separate section or add-on to a commercial property policy. It covers lost profit and extra costs if insured damage stops you trading, which buildings and contents cover alone does not do."
+  },
+  {
+   "q": "How do I choose a local insurance broker for business interruption cover?",
+   "a": "Look for a broker authorised by the FCA and check them on the FCA register. You may also want to ask if they are a member of BIBA or hold Chartered status, and whether they have experience in your sector."
+  },
+  {
+   "q": "What is an indemnity period and why does it matter?",
+   "a": "The indemnity period is the maximum length of time after insured damage during which you can claim for lost profit. It should be long enough to cover the time it would realistically take your business to recover to its pre-loss level."
+  },
+  {
+   "q": "Can business interruption cover protect me if a supplier fails?",
+   "a": "Some policies include non-damage extensions that cover supplier failure or denial of access, but these are not always included as standard. You should ask your broker to check the policy wording and explain any extensions."
+  }
+ ]
+}

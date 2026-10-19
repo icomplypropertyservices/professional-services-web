@@ -12,27 +12,27 @@ og_image: /assets/images/insurance-advisory.jpg
 
 # Dilapidations Surveyor Near Me
 
-If you have typed **dilapidations surveyor near me** into a search bar, you are likely looking for help soon and not too far away. Dilapidations surveyors advise landlords and tenants on repair obligations at the end of a lease and negotiate claims.
+Searching for a dilapidations surveyor near me usually means you're facing the end of a commercial lease and need to understand your repair obligations or challenge a claim. Whether you're a tenant worried about a large schedule of dilapidations or a landlord wanting to enforce lease terms, you need someone who knows this specialist area. iComply introduces you to a suitable UK surveyor who can assess your situation and quote you directly.
+
+Dilapidations surveyors advise landlords and tenants on repair obligations at the end of a lease and negotiate claims.
 
 iComply Professional Services is a free matching service. You tell us what you need and where you are; we connect you with a suitable UK surveyor who can quote for the work. The practice provides the service, and every quote is POA.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Surveying practice ready to take on a new enquiry for dilapidations surveyor near me](/assets/images/insurance-advisory.jpg)
+![Client explaining what they need before being matched with a dilapidations surveyor](/assets/images/insurance-advisory.jpg)
 
-## Where surveyors can help
+## What people searching for a dilapidations surveyor usually need
 
-You do not need to have everything worked out. Clients often come to us with situations like these:
+Most people looking for a dilapidations surveyor are dealing with a commercial lease ending and need expert help to navigate repair obligations and negotiations.
 
-- A neighbour planning work that affects a shared wall.
-- A dispute over where a boundary lies.
-- A landlord or developer needing cost or measurement advice.
-- An owner worried about cracks, damp or roof problems.
-- A commercial tenant at the end of a lease.
+- You're a tenant who has received a schedule of dilapidations from your landlord and need to check whether the claimed works are actually required under the lease.
+- You're a landlord wanting to prepare a proper claim for dilapidations at the end of a tenancy and need a surveyor to assess the property and quantify the loss.
+- You're unsure whether a schedule of condition from the start of the lease protects you from certain repairs now, and you need advice on how it affects your position.
+- You want to negotiate a settlement with the other side but need a professional to go through the claim and advise on a fair figure before you respond.
+- You're facing a dilapidations claim and want to understand the pre-action protocol so you can respond correctly and avoid unnecessary escalation.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of surveyor fits best.
-
-## From enquiry to quote in four steps
+## How iComply matches you
 
 1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
 1. **We review your brief.** We check the type of surveyor you need, your location and your timing.
@@ -41,116 +41,116 @@ If your situation is not listed, that is fine. Describe it in your own words and
 
 We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
 
-## Information that helps us match you
+## Understanding dilapidations claims
 
-A short, clear brief saves time on both sides. Useful details include:
+Dilapidations claims in the UK often follow a pre-action protocol, which sets out steps the parties should take before going to court. This can include exchanging information and considering negotiation or mediation. A surveyor can help you navigate these steps and assess the merits of the claim.
 
-- Why you need the survey and any deadline
-- The age of the property, if known
-- Access arrangements and who holds the keys
-- Your lender's requirements, if a mortgage is involved
-- For party wall matters, a description of the planned works
-- Any particular concerns, such as cracks, damp or extensions
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+Many surveyors are members of the Royal Institution of Chartered Surveyors (RICS), and RICS-regulated firms must follow professional standards, hold insurance and offer a complaints process. Chartered surveyors use the letters MRICS or FRICS. When choosing a surveyor, check the RICS directory and ask about their experience with dilapidations.
 
 **Need a dilapidations surveyor?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-## Red flags when choosing a dilapidations surveyor
+## Key things to know about a dilapidations surveyor
 
-Be cautious if you notice any of the following:
-
-- Links to the selling agent that are not disclosed
-- Quotes without a clear description of the inspection
-- No professional indemnity insurance
-- A report type that does not match the property's age or condition
-
-## What to ask before you instruct anyone
-
-Once you are introduced, these questions help you decide whether the surveyor is right for you:
-
-- Can I call you to talk through the findings?
-- Which type of survey or report do you recommend, and why?
-- Are you independent of the agent or seller?
-- Do you hold professional indemnity insurance?
-- What happens if you find something that needs further investigation?
-- Are you RICS regulated or a member of another relevant body?
-
-## Timing and urgency
-
-Residential inspections can often be booked within a week or two, with reports following within a few working days. Party wall matters follow statutory notice periods, and specialist investigations may need extra visits.
-
-![Planning the first appointment after an enquiry for dilapidations surveyor near me](/assets/images/healthcare-consult.jpg)
-
-## After the introduction
-
-Once introduced, the surveyor will confirm terms of engagement before the inspection. The report and professional responsibility for it sit with the surveyor. iComply does not inspect properties.
-
-## Near me: how local matching works
-
-When you search for a dilapidations surveyor near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
-
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
-
-## Checking surveyors are qualified and regulated
-
-Many surveyors are members of the Royal Institution of Chartered Surveyors (RICS), and RICS-regulated firms must follow professional standards, hold insurance and offer a complaints process. Chartered surveyors use the letters MRICS or FRICS. Some specialist roles have their own bodies, such as the Faculty of Party Wall Surveyors or the Property Care Association for damp and timber specialists.
-
-Check the RICS directory, ask which report type you are getting and confirm whether the surveyor is independent of the sale. For asbestos work, look for organisations accredited by UKAS for surveying.
-
-iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
-
-## Practical points about a dilapidations surveyor
-
-A few points come up again and again with a dilapidations surveyor:
+These practical points are worth knowing before you speak to anyone about a dilapidations surveyor:
 
 - Schedules of condition at the start help tenants.
 - Claims follow a pre-action protocol.
 - Negotiation often settles claims.
 
-Raise any of these with the surveyor you are introduced to; they should be happy to explain.
+A good surveyor will talk you through each of these in plain English.
 
-## How fees usually work (POA)
+## What to tell iComply when enquiring
 
-Survey fees depend on the type of report, the size and age of the property and how far the surveyor must travel. Specialist and commercial work is usually quoted individually. iComply does not publish fees; the surveyor quotes you, POA.
+You do not need all of this to enquire, but the more you can share, the better the match:
+
+- Whether you are the landlord or the tenant, as this affects the type of advice you need.
+- The type of property and its approximate size, such as office, retail or industrial, to help match you with a surveyor experienced in that sector.
+- Whether a schedule of condition exists from the start of the lease, as this can limit your repair liabilities.
+- The stage you are at: whether you have received a schedule of dilapidations, are preparing one, or are already in negotiation.
+- Any deadlines you are aware of, such as the lease end date or a date by which you need to respond to a claim.
+- Your location, so iComply can introduce you to a surveyor who covers your area.
+
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+
+![Surveying practice ready to take on a new enquiry for dilapidations surveyor near me](/assets/images/hero-workshop.jpg)
+
+## When to think twice
+
+Be cautious if you notice any of the following:
+
+- Quotes without a clear description of the inspection
+- Links to the selling agent that are not disclosed
+- Reluctance to discuss findings after the report
+- No professional indemnity insurance
+
+## What a dilapidations surveyor is likely to cost (POA)
+
+Survey fees depend on the type of report, the size and age of the property and how far the surveyor must travel. Specialist and commercial work is usually quoted individually. The surveyor quotes you, POA.
 
 Ask for the scope of the inspection in writing, and check whether follow-up calls or additional investigations are included.
 
-![Client explaining what they need before being matched with a dilapidations surveyor](/assets/images/hero-workshop.jpg)
+## How to check you are in safe hands
 
-## Dilapidations Surveyor Near Me: FAQs
+Some specialist roles have their own bodies, such as the Faculty of Party Wall Surveyors or the Property Care Association for damp and timber specialists.
+
+Check the RICS directory, ask which report type you are getting and confirm whether the surveyor is independent of the sale. For asbestos work, look for organisations accredited by UKAS for surveying.
+
+iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
+
+## Questions to ask the professional
+
+Asking a few direct questions early tells you a lot about how a practice works:
+
+- Are you a member of RICS, and is your firm regulated by RICS?
+- What experience do you have with dilapidations claims for properties like mine?
+- What report or advice will you provide, and will it cover both liability and likely costs?
+- How do you approach negotiation with the other side, and do you offer representation if needed?
+- What information do you need from me to get started, and what are your fees?
+- Can you explain how the pre-action protocol applies to my situation?
+
+![Planning the first appointment after an enquiry for dilapidations surveyor near me](/assets/images/finance-desk.jpg)
+
+## FAQs about dilapidations surveyor near me
+
+### What is a dilapidations surveyor?
+
+A dilapidations surveyor is a surveyor who specialises in advising landlords and tenants on repair obligations at the end of a lease and negotiating claims. They can assess the property, interpret the lease terms and help you understand your position.
+
+### Do I need a dilapidations surveyor if I'm a tenant?
+
+If you've received a schedule of dilapidations or are approaching the end of your lease, a surveyor can help you check whether the claimed works are reasonable and negotiate a settlement. They can also advise on the effect of any schedule of condition.
+
+### How does iComply work?
+
+You tell iComply what you need, and we introduce you to a suitable UK professional who quotes you directly. We don't provide the service ourselves or give advice.
+
+### What should I do if I disagree with a dilapidations claim?
+
+You should seek professional advice from a dilapidations surveyor who can assess the claim and advise on your options. They can help you negotiate or respond within the pre-action protocol.
 
 ### Which survey do I need when buying a home?
 
-For a conventional property in reasonable condition, a RICS Level 2 survey is often enough. Older, larger or altered properties often justify a Level 3 building survey. A surveyor can recommend the right level.
-
-### Is a mortgage valuation the same as a survey?
-
-No. A mortgage valuation is carried out for the lender. A survey is carried out for you and looks at the property's condition.
+For a conventional property in reasonable condition, an RICS Level 2 survey is often enough. Older, larger or altered properties often justify a Level 3 building survey. A surveyor can recommend the right level.
 
 ### How do I find a dilapidations surveyor near me?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable surveying practice with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
 
-### Can I contact you on WhatsApp?
+### Do I have to accept a quote?
 
-Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
-
-### How quickly will I hear back?
-
-Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
+No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
 
 ### Is it free to use iComply?
 
 Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
 
-## People also look for
+## Related searches
 
 - [Surveyors near me](/keywords/surveyors-near-me/)
+- [Building surveyor near me](/keywords/building-surveyor-near-me/)
 - [Local surveyor near me](/keywords/local-surveyor-near-me/)
-- [Commercial surveyor near me](/keywords/commercial-surveyor-near-me/)
-- [Commercial building surveyor near me](/keywords/commercial-building-surveyor-near-me/)
-- [Asbestos surveyor near me](/keywords/asbestos-surveyor-near-me/)
+- [Surveyor near me](/keywords/surveyor-near-me/)
+- [Surveyors](/keywords/surveyors/)
 - [Browse all surveyors](/hubs/surveyors/)
 
 ## Ready to be matched?

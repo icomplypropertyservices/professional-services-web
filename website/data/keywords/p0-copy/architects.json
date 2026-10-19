@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for architects usually means a building project is taking shape in your mind — a new home, an extension, a conversion or a refurbishment — and you want to compare a few practices before deciding who to work with. It is a big appointment, so it helps to know what architects actually do, how they are regulated and what to have ready when you start talking to them. We can introduce you to a suitable UK architecture practice, who will quote you directly.",
+ "need_heading": "What people searching for architects usually need",
+ "need_lead": "Most people looking for architects are at the start of a project and want help turning an idea into something buildable.",
+ "needs": [
+  "You have a plot or an existing building and need drawings that will support a planning application.",
+  "You want to extend or alter your home and need to know whether what you have in mind is feasible and how it might be approved under building regulations.",
+  "You are converting a barn, loft or commercial space and need someone who can design around the constraints of the existing structure.",
+  "You need help preparing a specification and overseeing the build so the work matches what was designed.",
+  "You are comparing several practices and want written fee proposals that set out the same scope so you can judge them fairly."
+ ],
+ "context_heading": "Knowing who you are actually hiring",
+ "context": [
+  "\"Architect\" is a protected title in the UK. Only people on the Architects Registration Board (ARB) register can call themselves architects, and they must follow the ARB code of conduct and hold professional indemnity insurance. Many practices are also RIBA Chartered Practices. Architectural designers and technologists can do excellent work too, but they are not registered architects, so it is worth knowing which you are hiring.",
+  "Before you appoint anyone, check the ARB register and ask for a written appointment that sets out services, fees and responsibilities. Building regulations approval, planning permission and party wall matters are separate processes that your architect can help you navigate."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Describe the property or site, including its type, age and anything unusual about it.",
+  "Explain what you want to achieve, whether that is a new build, an extension, a conversion or a refurbishment.",
+  "Say where the project is, since planning rules and local authorities vary by area.",
+  "Mention whether you already have planning permission, listed building consent or any drawings prepared.",
+  "Set out your budget range and any fixed limit you are working within.",
+  "Say what stage you need help with, from early design through to overseeing construction."
+ ],
+ "questions_heading": "Questions worth asking an architect",
+ "questions": [
+  "Are you on the ARB register, and can you confirm your professional indemnity insurance is in place?",
+  "Which RIBA stages would your appointment cover, and what is included at each one?",
+  "How will you handle planning permission and building regulations approval, and are those included in your fee?",
+  "What do you need from me at each stage, and how often will we go through the design together?",
+  "How do you manage costs during the project, and what happens if the tender comes in above budget?",
+  "Who will actually be doing the work day to day, and will you be overseeing the construction on site?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need an architect or would an architectural designer do?",
+   "a": "It depends on the project and on what you want from the appointment. Only people on the ARB register can call themselves architects, but architectural designers and technologists can do excellent work too. It is worth knowing which you are hiring and checking the ARB register before you appoint anyone."
+  },
+  {
+   "q": "Can an architect help with planning permission?",
+   "a": "Yes, architects commonly prepare drawings and supporting information for planning applications and can guide you through the process. Planning permission and building regulations approval are separate processes, so ask what is included in the appointment and what is not."
+  },
+  {
+   "q": "How do architects charge for their work?",
+   "a": "Fees vary between practices and depend on the scope of the project. Some charge a percentage of the construction cost, some a fixed fee and some an hourly rate, so ask for a written appointment that sets out services, fees and responsibilities before you commit."
+  },
+  {
+   "q": "What should I have ready before I speak to a practice?",
+   "a": "It helps to have a clear idea of what you want to achieve, the address and type of property, any drawings or permissions you already hold, and a realistic budget range. The more you can share at the start, the more useful the first conversation will be."
+  }
+ ],
+ "extra_heading": "Comparing several architects side by side",
+ "extra": [
+  "Searching for architects in the plural suggests you are weighing up more than one practice rather than looking for a single name, so the useful work is in making those comparisons fair to each other. Ask each practice to set out its proposal against the same RIBA stages, so that one quote covering early design only is not mistaken for another covering the whole project through to construction.",
+  "A shortlist of architects can look alike on paper, so it helps to ask each one the same questions and note the answers in the same order. Ask how they would approach your particular building, what they see as the main risks, and how they would keep you informed as the work develops. Comparing their thinking, not just their fees, tells you more about what working together would be like.",
+  "It is also worth asking each practice who would actually handle your project day to day, since the person you meet first is not always the person doing the drawings. Ask whether they will oversee construction on site or hand over at the drawings stage, and whether structural engineers or other specialists would be brought in. That way the proposals you compare reflect the whole job, not just the first meeting."
+ ],
+ "extra_faqs": [
+  {
+   "q": "How do I compare quotes from several architects fairly?",
+   "a": "Ask each practice to price the same scope, described by RIBA stage, so you are comparing like with like. Check what is included at each stage, such as planning drawings, building regulations information and site oversight, and whether other consultants are included or extra."
+  },
+  {
+   "q": "Is it normal to speak to more than one architect before choosing?",
+   "a": "Yes, it is common to approach a few practices so you can compare how they respond to your project and how they would work with you. You are not obliged to appoint anyone after an initial conversation, and a written appointment should only follow once you are satisfied with the scope and terms."
+  },
+  {
+   "q": "What should I ask about the practice itself, not just the design?",
+   "a": "Ask who will be your main contact, how the practice handles changes during the project, and what happens if costs rise above your budget. It is also reasonable to ask how they keep you updated and how they prefer to communicate as the work progresses."
+  }
+ ]
+}

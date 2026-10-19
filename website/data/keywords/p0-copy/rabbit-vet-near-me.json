@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for a rabbit vet near me, you're likely looking for a practice that truly understands rabbits — their delicate digestion, their teeth that never stop growing, and the specific risks they face under anaesthetic. You want someone close by who can handle both routine care and the emergencies that can come on fast.",
+ "need_heading": "What people searching for a rabbit vet usually need",
+ "need_lead": "Rabbit owners are often looking for a local practice that can provide knowledgeable, species-appropriate care without a long journey.",
+ "needs": [
+  "You need a vet who is confident handling rabbits and understands that they are not just small cats or dogs — their physiology and drug sensitivities are different.",
+  "You want a practice that can see your rabbit quickly if they stop eating or producing droppings, as gut stasis can become life-threatening within hours.",
+  "You're looking for someone experienced in rabbit dentistry, because dental disease is common and can be painful and complex to manage.",
+  "You need a vet who can advise on and administer vaccinations against myxomatosis and rabbit haemorrhagic disease (RHD) strains, and who knows the local risk patterns.",
+  "You want a practice that can guide you on neutering, bonding, and general husbandry to keep your rabbit healthy long-term."
+ ],
+ "context_heading": "What to understand when choosing a rabbit vet",
+ "context": [
+  "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS), and you can search the RCVS register by name before you book. Veterinary nurses also have their own RCVS register. Many practices join the voluntary RCVS Practice Standards Scheme, which inspects premises, equipment and clinical processes — so you can ask whether a practice is part of it.",
+  "Some vets hold further qualifications such as an RCVS certificate, advanced practitioner status or specialist status in a particular species or discipline. If your rabbit has a complex or unusual condition, it is reasonable to ask whether the vet treating it holds one of these, or whether they refer to someone who does. For rabbits specifically, ask how many rabbits the practice sees and whether any vet has a particular interest in them."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you're looking for a rabbit vet near you, and give your town or postcode so we can introduce you to a suitable practice in your area.",
+  "Tell us whether your rabbit is currently unwell or whether this is for routine care, as that may affect how quickly you need an appointment.",
+  "Include the age of your rabbit and whether they have any known health issues, especially dental problems or previous episodes of gut stasis.",
+  "Let us know if you need help with vaccinations, neutering, or a specific concern such as bonding or behaviour.",
+  "Say whether you have other pets and whether you'd prefer a practice that treats a wide range of animals or one that focuses on small mammals.",
+  "Mention any preferences you have, such as accessibility, opening hours, or whether you need home visits, so we can introduce you to a practice that suits you."
+ ],
+ "questions_heading": "Questions to ask the vet or practice",
+ "questions": [
+  "How many rabbits does the practice see, and does any vet have a particular interest in rabbit medicine?",
+  "What is your approach to anaesthesia for rabbits, and what monitoring do you use?",
+  "How do you handle dental problems in rabbits, and do you have equipment for examining rabbit teeth properly?",
+  "What would you advise if my rabbit stops eating or producing droppings — who should I call and when?",
+  "Which vaccinations do you recommend for rabbits in this area, and how often are they needed?",
+  "Are you part of the RCVS Practice Standards Scheme, and can you tell me about the standards you meet?"
+ ],
+ "faqs": [
+  {
+   "q": "How can I check that a vet is qualified to treat rabbits?",
+   "a": "All vets in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS), and you can search the RCVS register by name. You can also ask the practice whether any vet holds further qualifications in rabbit medicine or surgery."
+  },
+  {
+   "q": "What should I do if my rabbit seems unwell and I haven't registered with a vet yet?",
+   "a": "If your rabbit is showing signs of illness such as not eating, lethargy, or changes in droppings, contact a vet as soon as possible — gut stasis can become an emergency quickly. If you don't have a practice yet, you can use iComply to be introduced to one near you, but for urgent problems call the practice directly."
+  },
+  {
+   "q": "Are rabbit vaccinations really necessary?",
+   "a": "Vaccinations against myxomatosis and rabbit haemorrhagic disease (RHD) are strongly recommended because these diseases are often fatal and can be spread by insects or contact with infected rabbits. Your vet can advise on the appropriate schedule for your rabbit based on local risks."
+  },
+  {
+   "q": "What should I look for in a rabbit-friendly practice?",
+   "a": "Look for a practice that sees a good number of rabbits, has vets with an interest in rabbit medicine, and can handle dental and emergency care confidently. It's also reasonable to ask about their anaesthetic protocols and whether they are part of the RCVS Practice Standards Scheme."
+  }
+ ]
+}

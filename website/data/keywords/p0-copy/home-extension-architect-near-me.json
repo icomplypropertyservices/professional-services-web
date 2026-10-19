@@ -1,0 +1,53 @@
+{
+ "intro": "You're planning a home extension and want an architect near you who understands how to make the design work with your existing house and the local planning rules. You might be wondering whether your idea needs planning permission or could fall under permitted development, and how to find the right professional for your project. iComply introduces you to a UK architect who can look at your specific situation and quote you directly.",
+ "need_heading": "What people planning a home extension usually need",
+ "need_lead": "An extension architect designs rear, side and wraparound extensions that sit comfortably with your home and the rules that apply to it.",
+ "needs": [
+  "You want to add space at the back of your house but aren't sure whether it would be allowed under permitted development or need a full planning application.",
+  "You're considering a side return or wraparound extension and need help working out how it would affect light and flow through the existing rooms.",
+  "You've heard about party wall matters and want an architect who can flag when they might arise with neighbours.",
+  "You have a rough idea and a budget in mind, and you'd like a professional to turn it into workable drawings you can use for planning and building regulations.",
+  "You want to speak to someone local who knows the area and can advise on what's likely to be acceptable before you commit to a design."
+ ],
+ "context_heading": "Understanding the architect title and the process",
+ "context": [
+  "\"Architect\" is a protected title in the UK. Only people on the Architects Registration Board (ARB) register can call themselves architects, and they must follow the ARB code of conduct and hold professional indemnity insurance. Many practices are also RIBA Chartered Practices, but architectural designers and technologists can do excellent work too, even though they are not registered architects. It is worth knowing which you are hiring so you can ask the right questions.",
+  "Before you appoint anyone, check the ARB register and ask for a written appointment that sets out services, fees and responsibilities. Building regulations approval, planning permission and party wall matters are separate processes that your architect can help you navigate, so make sure the appointment is clear about what is included."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the type of extension you have in mind, such as rear, side or wraparound, and roughly how large it might be.",
+  "Mention the age and style of your house, as this can affect what is possible and what permissions may be needed.",
+  "Say whether you have already checked if your project might be permitted development or if you expect to need planning permission.",
+  "Let us know if you are aware of any party wall issues with neighbours that might need addressing.",
+  "Share any ideas or sketches you have, and whether you have a particular budget range in mind.",
+  "Tell us your location so we can introduce you to an architect familiar with your area."
+ ],
+ "questions_heading": "Questions to ask the architect",
+ "questions": [
+  "Are you a registered architect with the Architects Registration Board, and can you provide your registration number?",
+  "What is your experience with home extensions similar to mine, and can you talk me through how you approach design and planning?",
+  "Will you handle the planning application and building regulations submission, or are those separate services?",
+  "How do you charge for your work, and what will the written appointment cover?",
+  "Can you advise on whether my extension might be permitted development, and what that would mean for the design?",
+  "How will you help me identify and deal with any party wall matters that come up?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need planning permission for my home extension?",
+   "a": "Some extensions are permitted development, which means you may not need a planning application. However, it depends on the size, location and type of extension, so it's best to check with your local planning authority or ask an architect to advise on your specific plans."
+  },
+  {
+   "q": "What is the difference between an architect and an architectural designer?",
+   "a": "Only people on the Architects Registration Board (ARB) register can call themselves architects, and they must follow the ARB code of conduct and hold professional indemnity insurance. Architectural designers and technologists can also do excellent work, but they are not registered architects, so it's worth knowing which you are hiring."
+  },
+  {
+   "q": "How can I check if someone is a registered architect?",
+   "a": "You can check the ARB register online to confirm whether someone is a registered architect. It's also a good idea to ask for a written appointment that sets out the services, fees and responsibilities before you appoint anyone."
+  },
+  {
+   "q": "What are party wall matters and when do they apply?",
+   "a": "Party wall matters can arise when you plan to build on or near a boundary with a neighbour, or when work affects a shared wall. Your architect can help you identify when the Party Wall etc. Act may apply and what steps to take, though it's a separate process from planning permission."
+  }
+ ]
+}

@@ -12,31 +12,60 @@ og_image: /assets/images/insurance-advisory.jpg
 
 # Farm Vet Near Me
 
-Looking for **farm vet near me** usually starts with a practical problem that needs a qualified person. Farm vets work with cattle, sheep, pigs and other livestock on herd health, fertility, disease control, TB testing and welfare.
+When you search for a farm vet near me, you're likely looking for a vet who understands the practicalities of livestock work and can get to your animals without a long delay. Whether you keep a few sheep or run a larger herd, finding a local practice that covers your area is the first step. We can introduce you to a suitable UK farm vet who will quote you directly for the work you need.
 
-We act as the middleman between you and the professional. Share a short brief and we match you with a farm vet who has the right experience and capacity. Enquiring is free, and you are under no obligation to accept a quote.
+Farm vets work with cattle, sheep, pigs and other livestock on herd health, fertility, disease control, TB testing and welfare.
+
+Rather than calling round, you can send one enquiry to iComply. We look at your needs, location and timing, then introduce you to a suitable veterinary practice. They quote you directly, POA, and you decide whether to go ahead.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
 ![Professional reviewing a client's brief before an introduction for farm vet near me](/assets/images/insurance-advisory.jpg)
 
-## What vets commonly help with
+## What farmers and smallholders usually need from a farm vet
 
-Every enquiry is different, but these are typical starting points for clients who contact vets:
+Most people searching for a farm vet near me want a local professional who can handle both routine and urgent livestock care.
 
-- Ongoing management of a condition like diabetes, arthritis or skin allergies.
-- Neutering, minor surgery or a second opinion before major surgery.
-- A pet that has eaten something toxic or unusual.
-- A new puppy or kitten needing vaccinations, microchipping and a first health check.
-- Travel paperwork or end-of-life care planning.
+- You need a vet who can come out to your holding for routine herd health checks and help you put together a herd health plan.
+- You have a cow or sheep that needs official TB testing and you want to know whether the practice is approved for that work in your area.
+- You are facing an emergency calving or lambing and need a vet who can attend quickly and knows your animals.
+- You keep pigs or a small flock and want advice on fertility, disease control or welfare that fits your setup.
+- You are new to keeping livestock and want a local vet who can guide you on practical health planning and record keeping.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of vet fits best.
+## How our free matching service works
 
-## Costs and quotes for a farm vet
+1. **Enquire for free** with your town or postcode and a short description.
+1. **We clarify** anything unclear, so the introduction is useful from the start.
+1. **We connect you** with a farm vet who suits your situation.
+1. **The practice takes over**, confirms scope and fees in writing and does the work.
 
-Veterinary fees vary a great deal between practices, regions and ownership groups, and the CMA has looked closely at transparency in this market. A good practice will explain the consultation charge, any likely tests and the range of treatment options before you commit. Because every case is different, iComply does not publish prices: quotes come from the practice and are POA.
+There is no charge to you for the introduction, and no obligation to accept any quote.
 
-Ask for an itemised estimate for anything beyond a routine consultation, and ask whether written prescriptions are available if you would prefer to buy medication elsewhere. Insurers often require you to pay first and claim later, so check your policy's excess and limits.
+## What to tell iComply when you enquire
+
+A short, clear brief saves time on both sides. Useful details include:
+
+- Tell us the type and number of livestock you keep, such as cattle, sheep or pigs, so we can introduce you to a vet used to working with them.
+- Let us know your location and how far you are willing to travel or how far you need the vet to come to you.
+- Mention whether you need routine herd health work, TB testing, fertility checks or emergency cover, as this helps match you with the right practice.
+- Explain if you are looking for a vet who can help with a herd health plan for farm assurance schemes.
+- Include any specific concerns you have, such as disease control, welfare issues or recent calving problems.
+- Tell us if you have a preference for a practice that is approved for official TB testing in your area, if that matters to you.
+
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+
+**Need a farm vet?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
+
+## Questions to ask the farm vet
+
+Once you are introduced, these questions help you decide whether the vet is right for you:
+
+- Are you approved for official TB testing in my area?
+- How do you cover emergency calvings and lambings out of hours?
+- Do you offer herd health plans and can you help with farm assurance requirements?
+- What are your charges for a visit, and how do you quote for routine work?
+- Do you have experience with the type of livestock I keep?
+- Can you provide references from other farms you work with locally?
 
 ## Checking vets are qualified and regulated
 
@@ -46,63 +75,24 @@ Some vets hold further qualifications such as an RCVS certificate, advanced prac
 
 iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
 
-**Need a farm vet?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
-
-## Finding a farm vet near you
-
-When you search for a farm vet near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
-
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
-
-## Information that helps us match you
-
-You do not need all of this to enquire, but the more you can share, the better the match:
-
-- Your pet insurance policy details, if you have cover
-- Photos or short videos of the behaviour or symptom
-- The times you are available for appointments
-- Any vaccination and microchip records you have
-- When symptoms started and whether they are getting worse
-- How far you can travel and whether you need home visits
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
-
-## How iComply matches you
-
-1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
-1. **We review your brief.** We check the type of vet you need, your location and your timing.
-1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
-1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
-
-There is no charge to you for the introduction, and no obligation to accept any quote.
-
 ![Client explaining what they need before being matched with a farm vet](/assets/images/finance-desk.jpg)
 
-## Timing and urgency
+## What a farm vet is likely to cost (POA)
 
-Routine appointments are often available within days, though busy practices can book further ahead. Emergencies should never wait for a matching service: if your animal is in immediate danger, phone the nearest open practice or emergency vet straight away. For planned care, we aim to put you in touch with a practice that has capacity in a sensible travelling distance.
+Veterinary fees vary a great deal between practices, regions and ownership groups, and the CMA has looked closely at transparency in this market. A good practice will explain the consultation charge, any likely tests and the range of treatment options before you commit. Because every case is different, quotes come from the practice and are POA.
 
-## Questions to ask a farm vet
-
-Asking a few direct questions early tells you a lot about how a practice works:
-
-- Do you offer payment plans or claim directly from my insurer?
-- Do you provide your own out-of-hours cover or use a separate emergency provider?
-- Are you part of the RCVS Practice Standards Scheme?
-- Can you give me a written estimate before any treatment goes ahead?
-- What diagnostic equipment do you have on site, and what do you refer out?
-- How do you handle follow-up checks and repeat prescriptions?
+Ask for an itemised estimate for anything beyond a routine consultation, and ask whether written prescriptions are available if you would prefer to buy medication elsewhere. Insurers often require you to pay first and claim later, so check your policy's excess and limits.
 
 ## Red flags when choosing a farm vet
 
-Be cautious if you notice any of the following:
+Most professionals are honest and competent, but it is worth knowing the warning signs:
 
-- No clear plan for follow-up after surgery or treatment
-- Vague answers about who covers emergencies at night and at weekends
-- Pressure to agree to expensive treatment without a clear explanation of alternatives
 - No way to see who is registered with the RCVS at the practice
+- No clear plan for follow-up after surgery or treatment
+- Pressure to agree to expensive treatment without a clear explanation of alternatives
+- Refusal to provide a written estimate or prescription when asked
 
-## Key things to know about a farm vet
+## Practical points about a farm vet
 
 These practical points are worth knowing before you speak to anyone about a farm vet:
 
@@ -112,23 +102,37 @@ These practical points are worth knowing before you speak to anyone about a farm
 
 A good vet will talk you through each of these in plain English.
 
-## Your relationship with the practice
+## What to understand about finding a farm vet near you
 
-Once you are introduced, the practice registers your animal, books the appointment and owns the clinical relationship. Your records stay with them, and you can move to a different practice later if you wish. We may check in briefly to make sure the introduction was useful.
+Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS), and you can search the RCVS register by name before you book. Many practices also join the voluntary RCVS Practice Standards Scheme, which inspects premises, equipment and clinical processes.
+
+If your animals have a complex or unusual condition, it is reasonable to ask whether the vet treating them holds one of these, or whether they refer to someone who does.
 
 ![Next steps after an iComply introduction for a farm vet](/assets/images/healthcare-consult.jpg)
 
 ## FAQs: a farm vet
 
+### How do I check that a farm vet is properly registered?
+
+You can search the RCVS register by name to confirm that any vet you are considering is registered with the Royal College of Veterinary Surgeons. It is a quick check you can do before you book.
+
+### What should I do if I need a vet urgently for a calving or lambing?
+
+If you have an emergency with a calving or lambing, call your chosen practice straight away and ask how they handle out-of-hours cover. It is worth discussing emergency arrangements with any vet you are thinking of using before an emergency happens.
+
+### Can a farm vet help me with a herd health plan?
+
+Yes, farm vets often work with farmers to create herd health plans that help prevent disease and support farm assurance schemes. You can ask the vet about their approach to health planning during your first conversation.
+
+### Do I need a vet who is approved for TB testing?
+
+If you need official TB testing for your herd, you will need a vet who is approved to carry out that work in your area. Ask the practice directly whether they are approved for TB testing where you are.
+
 ### Can you help in an animal emergency?
 
 If your animal is in immediate danger, do not wait for an enquiry reply. Phone your nearest open veterinary practice or out-of-hours emergency vet now. Our service is for finding a practice for planned or ongoing care.
 
-### Do I need to register with a vet before my pet is ill?
-
-It is sensible to register in advance. Registration means the practice has your details and history on file, which saves time if something goes wrong.
-
-### How do I find a farm vet near me?
+### Can you find a farm vet in my area?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable veterinary practice with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
 
@@ -140,17 +144,13 @@ iComply is a matching service. We are not a vet and we do not give professional 
 
 Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
 
-### How quickly will I hear back?
+## Related searches
 
-Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
-
-## People also look for
-
-- [Emergency vet near me](/keywords/emergency-vet-near-me/)
-- [Exotic vet near me](/keywords/exotic-vet-near-me/)
-- [24 hour vet near me](/keywords/24-hour-vet-near-me/)
+- [Cat vet near me](/keywords/cat-vet-near-me/)
+- [Home visit vet near me](/keywords/home-visit-vet-near-me/)
+- [Best accredited vet near me](/keywords/best-accredited-vet-near-me/)
 - [Best vet near me](/keywords/best-vet-near-me/)
-- [Bird vet near me](/keywords/bird-vet-near-me/)
+- [Equine vet near me](/keywords/equine-vet-near-me/)
 - [Browse all vets](/hubs/vets/)
 
 ## Ready to be matched?

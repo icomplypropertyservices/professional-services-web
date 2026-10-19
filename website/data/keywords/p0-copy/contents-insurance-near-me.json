@@ -1,0 +1,53 @@
+{
+ "intro": "You've searched for contents insurance near me, which usually means you want cover for the things inside your home and would rather talk to someone local who can explain the options. Whether you're renting, just moved, or want to check your valuables are properly protected, an insurance broker can help you understand what's available. Here's how to get the most from that conversation.",
+ "need_heading": "What people searching for contents insurance near me often need",
+ "need_lead": "Most people want clear, local help to protect their belongings without overpaying or missing something important.",
+ "needs": [
+  "You've just moved into a new home or rental and need cover to start straight away.",
+  "You have valuable items like jewellery, bikes or electronics and want to know if they're covered away from home.",
+  "You're unsure whether your landlord's building insurance covers your possessions and want to check.",
+  "You want to compare what different policies include, such as new-for-old replacement or accidental damage.",
+  "You'd prefer to speak to someone face to face about what your contents cover actually protects."
+ ],
+ "context_heading": "Understanding how contents insurance works",
+ "context": [
+  "Contents insurance covers the belongings inside your home against risks like theft, fire and damage. Many policies offer new-for-old cover, meaning replaced items are brand new rather than second-hand, but check the limits for single high-value items. It's worth listing anything expensive so you can discuss whether it needs extra cover.",
+  "Insurance brokers and intermediaries in the UK must be authorised by the Financial Conduct Authority (FCA), or be appointed representatives of an authorised firm. You can check them on the FCA register. Many brokers also belong to the British Insurance Brokers' Association (BIBA), and some hold Chartered status from the Chartered Insurance Institute."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you're looking for contents insurance near you, so we can introduce you to a local broker.",
+  "Tell us whether you own or rent your home, as this affects what cover you need.",
+  "List any high-value items you want covered, such as jewellery, art or electronics, and their approximate value.",
+  "Say whether you need cover for items away from home, like a laptop or bike.",
+  "Let us know if you have any specific requirements, such as accidental damage cover or a no-claims discount.",
+  "Share your preferred contact method and any times you're available to speak."
+ ],
+ "questions_heading": "Questions to ask the insurance broker",
+ "questions": [
+  "What does the policy cover for items taken outside my home?",
+  "Are there any single item limits, and what happens if I need to claim for something worth more?",
+  "Is new-for-old cover included as standard, or is it an optional extra?",
+  "How do you calculate the rebuild cost of my contents, and do I need to check it each year?",
+  "What exclusions should I be aware of, such as damage caused by pets or wear and tear?",
+  "How are you paid for arranging this policy, and will you explain any fees upfront?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need contents insurance if I rent?",
+   "a": "Your landlord's building insurance covers the structure, not your belongings. Contents insurance protects your possessions, and some policies also cover accidental damage to the landlord's fixtures and fittings."
+  },
+  {
+   "q": "How do I value my contents for insurance?",
+   "a": "Go room by room and estimate the cost of replacing each item with a new equivalent. Don't include items that are permanently fitted, as these are usually part of the building. A broker can help you work out a realistic sum."
+  },
+  {
+   "q": "Is my jewellery covered away from home?",
+   "a": "Many policies offer optional cover for valuables away from home, but there may be limits per item. Tell your broker about any high-value pieces so they can advise on the right cover."
+  },
+  {
+   "q": "What is new-for-old cover?",
+   "a": "New-for-old means that if an item is stolen or damaged beyond repair, the insurer replaces it with a new one of similar quality, rather than deducting for wear and tear. It's common in contents policies, but always check the terms."
+  }
+ ]
+}

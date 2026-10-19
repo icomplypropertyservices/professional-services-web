@@ -1,0 +1,53 @@
+{
+ "intro": "If you have typed \"regulatory compliance consultant near me\", you are probably looking for someone who understands the rules your organisation has to follow and can help you meet them without wasting time. You may be facing an authorisation, a monitoring visit or a problem that needs fixing, and you want a local consultant who can talk it through with you. We can introduce you to a suitable UK professional who will quote you directly, so you can decide whether to go ahead.",
+ "need_heading": "What people searching for a local compliance consultant usually need",
+ "need_lead": "Most enquiries come from firms that know they have a compliance obligation but want practical help from someone close enough to understand their situation.",
+ "needs": [
+  "You are applying for authorisation from a regulator and need help preparing the application and supporting documents.",
+  "A regulator has asked for information or raised concerns and you need help responding accurately and on time.",
+  "You are setting up monitoring and record-keeping so that your firm can show it is meeting its obligations.",
+  "You have identified a problem in your processes and need help putting it right and keeping a record of the decisions made.",
+  "You want someone local who can meet you and your team face to face while you work through what your regulator expects."
+ ],
+ "context_heading": "Check experience with your specific regulator",
+ "context": [
+  "Regulatory compliance consultants support firms regulated by bodies such as the FCA, CQC or ICO with authorisations, monitoring and remediation. Most consultancy work is not regulated by a single body, so it pays to check credentials yourself before you engage anyone. Relevant memberships include the Chartered Management Institute, the CIPD for HR professionals, BCS for IT professionals, and industry-specific bodies for compliance specialists.",
+  "Where a consultant's work touches regulated areas such as financial services compliance, data protection or employment law, check that they are clear about the limits of their role and when you need a solicitor or other regulated adviser. Consultants do not replace your accountable people, so keep records of the decisions you make together."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Tell us which regulator your firm deals with and what stage you are at, such as applying for authorisation or responding to a request.",
+  "Describe the area of compliance you need help with, such as data protection, financial services or health and social care.",
+  "Explain whether you need help with an application, ongoing monitoring, remediation or a check of your current arrangements.",
+  "Say how soon you need to speak to someone and whether there is a deadline set by your regulator.",
+  "Mention the size and type of your organisation so we can introduce you to someone used to working with firms like yours.",
+  "Let us know whether you would prefer a consultant who can meet you in person locally or work remotely."
+ ],
+ "questions_heading": "Questions to ask the consultant",
+ "questions": [
+  "What experience do you have with our specific regulator and the type of work we do?",
+  "Can you explain the limits of your role and when we would need to involve a solicitor or other regulated adviser?",
+  "Which professional memberships do you hold, and can you share case studies or references from similar clients?",
+  "How will you work alongside our accountable people without taking over their responsibilities?",
+  "What records will you keep of the decisions we make together, and how will they be shared with us?",
+  "What information do you need from us before you can give a clear quote for the work?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a consultant who is near me, or can the work be done remotely?",
+   "a": "Much compliance work can be done remotely, but a local consultant can be useful if you want face-to-face meetings or someone familiar with your regional regulator contacts. Tell us your preference and we will introduce you to a suitable professional."
+  },
+  {
+   "q": "Will a consultant take over responsibility for compliance from our team?",
+   "a": "No. Consultants do not replace your accountable people, who remain responsible for meeting your obligations. The consultant's role is to support, advise and help you keep proper records of the decisions you make."
+  },
+  {
+   "q": "How do I check a consultant's credentials if the work is not regulated by a single body?",
+   "a": "Most consultancy work is not regulated by a single body, so it pays to check credentials yourself. Ask about relevant memberships such as the Chartered Management Institute, the CIPD for HR professionals, BCS for IT professionals, or industry-specific bodies, and ask for case studies and references from similar clients."
+  },
+  {
+   "q": "What should I have ready before I speak to a consultant?",
+   "a": "It helps to have your regulator's correspondence, a note of the compliance area you are worried about and any internal records of decisions already made. Having these ready means the consultant can give you a clearer view of what help you need and quote you directly."
+  }
+ ]
+}

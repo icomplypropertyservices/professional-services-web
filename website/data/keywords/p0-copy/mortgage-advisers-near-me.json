@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for mortgage advisers near me usually means you want someone local who can look at your situation and recommend a mortgage that fits. You might be buying your first home, remortgaging, or checking what is possible before you commit. We introduce you to a suitable UK mortgage broker, who will quote you directly.",
+ "need_heading": "What people searching for mortgage advisers near me usually need",
+ "need_lead": "Most people want clear, local advice on which mortgage suits their circumstances.",
+ "needs": [
+  "You are buying your first home and want to understand how much you could borrow and what deposit you need.",
+  "You are remortgaging and want to know whether a new deal would be better than staying with your current lender.",
+  "You are self-employed or have irregular income and need help showing lenders what you can afford.",
+  "You are moving home and need a mortgage that fits the timing of your sale and purchase.",
+  "You want to check whether you can afford to buy before you start viewing properties."
+ ],
+ "context_heading": "Understanding mortgage advice and how advisers are regulated",
+ "context": [
+  "Mortgage advice is regulated by the Financial Conduct Authority (FCA). Any broker or adviser you use should be authorised, or be an appointed representative of an authorised firm, and you can check this on the FCA register. Advisers typically hold a qualification such as CeMAP.",
+  "Brokers must tell you whether they search the whole of the market or a limited panel of lenders, and how they are paid, whether by lender commission, a fee, or both. If something goes wrong, you can complain to the firm and then to the Financial Ombudsman Service."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Whether you are buying your first home, moving, or remortgaging, and what stage you are at.",
+  "Your approximate deposit or equity, and the price range you are considering.",
+  "How your income is earned, for example salary, self-employment, or a mix, and whether it varies.",
+  "Any credit issues you are aware of, such as missed payments or defaults, so the adviser can prepare.",
+  "Whether you also want to discuss protection such as life insurance or income protection.",
+  "Your preferred location or whether you are happy to work with an adviser remotely."
+ ],
+ "questions_heading": "Questions to ask the mortgage adviser",
+ "questions": [
+  "Are you authorised by the FCA, and can you provide your firm's reference number?",
+  "Do you search the whole of the market or a limited panel of lenders?",
+  "How are you paid, and will you disclose any fees and commission in writing?",
+  "What qualification do you hold, and do you have experience with my type of income or credit history?",
+  "Will you also discuss protection products such as life insurance or income protection?",
+  "What happens if I want to complain about your service?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check that a mortgage adviser is properly authorised?",
+   "a": "You can check on the FCA register. The adviser should be authorised or an appointed representative of an authorised firm, and they should be happy to give you their firm reference number."
+  },
+  {
+   "q": "Will a mortgage adviser charge me a fee?",
+   "a": "Brokers must tell you how they are paid, whether by lender commission, a fee, or both. Ask for this in writing before you proceed so you know what to expect."
+  },
+  {
+   "q": "Can a mortgage adviser help if I am self-employed?",
+   "a": "Yes, many advisers have experience with self-employed income and can explain which lenders are more likely to accept your circumstances. They will need to see evidence of your income, such as tax returns or accounts."
+  },
+  {
+   "q": "Should I also ask about protection when I arrange a mortgage?",
+   "a": "It is worth discussing protection such as life insurance or income protection at the same time. A good adviser will explain the options and let you decide whether it is right for you."
+  }
+ ],
+ "extra_heading": "Choosing between the advisers you find nearby",
+ "extra": [
+  "Searching for mortgage advisers near me usually turns up several names, so the useful question becomes how to compare them fairly. Rather than assuming any one is best, look at what each will actually do for you: whether they cover the whole market or a panel of lenders, what qualification they hold, and whether they have dealt with situations like yours before.",
+  "Distance matters less than it used to, because much mortgage advice can be given by phone or video, but a local adviser may suit you if you would rather sit down face to face with your documents. It is reasonable to ring or email a few before deciding, and to ask each the same questions so you can weigh the answers side by side. A good adviser will welcome this and explain things in plain terms.",
+  "Watch for anyone who seems to promise an outcome before they know your circumstances, or who is vague about how they are paid. Mortgage advice is regulated by the Financial Conduct Authority, so you can check that each firm is authorised on the FCA register before you go further. Taking that step first narrows your list to people who can properly advise you."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I contact several mortgage advisers before choosing one?",
+   "a": "It can help to speak to a few so you can compare how they work and how clearly they explain things. Ask each whether they search the whole market or a limited panel, and how they are paid, so you are comparing like with like."
+  },
+  {
+   "q": "Does a mortgage adviser need to be local to me?",
+   "a": "Not necessarily. Much advice can be given remotely, but a nearby adviser may be preferable if you want to meet in person with your paperwork. Either way, check on the FCA register that the firm is authorised before you proceed."
+  },
+  {
+   "q": "What should I have ready for a first conversation with a local adviser?",
+   "a": "It helps to have a rough idea of your deposit or equity, how your income is earned, and any credit issues you know about. You do not need everything to hand for a first chat, but the more you can explain, the more useful the adviser's initial view will be."
+  }
+ ]
+}

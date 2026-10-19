@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for an HMRC tax advisor near you usually means something has landed on the doormat or in your inbox and you want someone local who deals with HMRC for a living. Perhaps a letter needs answering, a compliance check has started, or you simply want help getting your tax affairs straight before a deadline. iComply introduces you to a suitable UK tax adviser who can look at your situation and quote you directly, with the price on application.",
+ "need_heading": "What people searching for an HMRC tax advisor near me usually need",
+ "need_lead": "Most people behind this search want practical help with a specific HMRC matter rather than general tax planning.",
+ "needs": [
+  "You have received a letter from HMRC and are not sure what it is asking you to do or by when.",
+  "A compliance check has been opened into your tax affairs and you want someone to deal with HMRC on your behalf.",
+  "You are facing a penalty and want to understand your options, including whether a voluntary disclosure could help.",
+  "You owe tax you cannot pay in one go and want to discuss a time-to-pay arrangement.",
+  "You have fallen behind with HMRC deadlines and want help getting back on top of correspondence and filings."
+ ],
+ "context_heading": "Understanding who can act for you on HMRC matters",
+ "context": [
+  "\"Tax adviser\" is not a protected title in the UK, so anyone can use it. The Chartered Institute of Taxation, which sets the CTA qualification, and the Association of Taxation Technicians are the main specialist bodies, and many accountants and solicitors also advise on tax. Members of these bodies follow Professional Conduct in Relation to Taxation, a shared code covering honesty, confidentiality and dealing with HMRC.",
+  "Tax advisers who charge a fee must be supervised for anti-money-laundering purposes, and HMRC has been tightening standards for paid tax agents. It is therefore reasonable to ask about qualifications, supervision and professional indemnity insurance before you go ahead. iComply is not regulated and does not give tax advice itself; we simply introduce you to a professional who quotes you directly."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the HMRC letter or contact you have received and what it appears to be about.",
+  "Say which tax you are dealing with, such as income tax, self assessment or VAT, if you know.",
+  "Mention any deadline HMRC has given you so the adviser can judge urgency.",
+  "Explain whether you have already replied to HMRC or taken any steps yourself.",
+  "Say whether the matter is personal or relates to a business, and how the business is structured.",
+  "Include your location and whether you would prefer to meet in person, speak by phone or work remotely."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you a member of the Chartered Institute of Taxation or the Association of Taxation Technicians, or otherwise qualified in tax?",
+  "How will you handle correspondence and negotiations with HMRC on my behalf?",
+  "What do you charge and how will you keep me informed of costs as the work goes on?",
+  "Would a voluntary disclosure be appropriate in my situation, and how might that affect any penalty?",
+  "Can you help me ask HMRC for a time-to-pay arrangement if I cannot pay in full?",
+  "Do you hold professional indemnity insurance, and how is your firm supervised for anti-money-laundering purposes?"
+ ],
+ "faqs": [
+  {
+   "q": "Can a tax adviser speak to HMRC for me?",
+   "a": "Yes. Advisers who deal with HMRC routinely handle letters, compliance checks, penalties and disclosures on a client's behalf, and can negotiate time to pay. You would normally give them authority to act for you."
+  },
+  {
+   "q": "Does it matter if my adviser is not near me?",
+   "a": "Much of the work with HMRC can be done by phone, post or online, so distance is often not a barrier. Meeting in person can still help if your affairs are complicated or you would prefer to talk things through face to face."
+  },
+  {
+   "q": "Will I pay less penalty if I come forward voluntarily?",
+   "a": "A voluntary disclosure usually leads to lower penalties than waiting for HMRC to find the problem. The adviser can explain how this applies to your circumstances and help you make the disclosure properly."
+  },
+  {
+   "q": "What should I have ready before I speak to an adviser?",
+   "a": "Gather the HMRC letters you have received, any reference numbers, and records of the income, expenses or tax concerned. Knowing your deadlines helps the adviser assess how urgently the matter needs attention."
+  }
+ ],
+ "extra_heading": "What \"near me\" means when HMRC is the other party",
+ "extra": [
+  "Searching for an HMRC tax advisor near me often reflects a wish to sit down with someone local and hand over a bundle of correspondence in person. That instinct is understandable, and a face-to-face meeting can genuinely help when the paperwork is tangled or the matter has been worrying you for a while. But it is worth knowing that most of the work with HMRC is done in writing, by phone or through HMRC's online services, so an adviser a few towns away may serve you just as well as one on your high street.",
+  "If being nearby matters to you, think about what you actually want from the proximity: somewhere to drop off documents, a familiar commute, or the reassurance of meeting someone before you commit. Ask whether the first meeting can be at their office or yours, and whether they will travel. Also ask who will actually handle your case day to day, since the person you meet is not always the person who deals with HMRC.",
+  "When comparing advisers for an HMRC matter, the deciding factors tend to be their experience of the specific issue you are facing, how clearly they explain the process and costs, and how promptly they respond. Local convenience is a reasonable tiebreaker once those are settled, not a substitute for them. iComply simply introduces you to a suitable UK tax adviser and leaves the quoting and the work to them."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I choose an adviser in my own town or is further afield fine?",
+   "a": "For most HMRC matters, correspondence, calls and online dealings mean location is not a barrier. Choose on relevant experience and clear communication first, then use closeness as a tiebreaker if you would prefer to meet in person."
+  },
+  {
+   "q": "Can I visit an adviser in person about an HMRC letter?",
+   "a": "Many advisers are happy to meet, though arrangements vary between practices. When you enquire, say that you would like a face-to-face appointment and ask where and when that could happen."
+  },
+  {
+   "q": "What happens at a first appointment about an HMRC matter?",
+   "a": "Expect to go through the letters you have received, explain what has happened so far, and hear how the adviser would approach it. They should set out what they need from you and how their charges will work before you decide whether to go ahead."
+  }
+ ]
+}

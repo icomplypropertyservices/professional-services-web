@@ -1,0 +1,53 @@
+{
+ "intro": "You're looking for a business consultant near you, probably because something in your business needs a fresh pair of eyes. Whether it's growth, operations, finance or strategy, you want someone local who understands your situation and can help you move forward. We introduce you to a suitable UK consultant who will quote you directly, with fees on application.",
+ "need_heading": "What people searching for a business consultant near me usually need",
+ "need_lead": "Most people searching for a business consultant near me are dealing with a specific challenge and want practical, local help.",
+ "needs": [
+  "You run a small business and feel stuck on how to grow without spreading yourself too thin.",
+  "Your operations have become inefficient and you need an outside view on how to streamline them.",
+  "You're facing a financial decision, such as pricing or cost control, and want expert guidance.",
+  "You're planning a change in strategy and need someone to help you think it through clearly.",
+  "You want to improve your team's performance or structure but aren't sure where to start."
+ ],
+ "context_heading": "What to understand about finding a business consultant near you",
+ "context": [
+  "Business consultancy is not regulated by a single body, so it pays to check credentials yourself. Relevant memberships include the Chartered Management Institute (CMI), the CIPD for HR professionals, and BCS for IT professionals. Ask for case studies and references from similar clients.",
+  "Where a consultant's work touches regulated areas, such as financial services compliance, data protection or employment law, check that they are clear about the limits of their role and when you need a solicitor or other regulated adviser."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Describe the main challenge or goal you want help with, such as growth, operations, finance or strategy.",
+  "Mention the size and sector of your business so we can introduce you to someone with relevant experience.",
+  "Say whether you prefer a consultant who can meet in person locally or work remotely.",
+  "Explain any deadlines or time pressures you're facing.",
+  "Note if your work touches regulated areas like compliance, data protection or employment law.",
+  "Include your budget range or ask for an indication of fees so the consultant can quote appropriately."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "What experience do you have with businesses like mine?",
+  "How do you usually start working with a new client?",
+  "Can you share examples of similar projects you've handled?",
+  "What credentials or memberships do you hold?",
+  "How will you measure the success of our work together?",
+  "What are your fees and how are they structured?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I choose a business consultant near me?",
+   "a": "Start by checking their experience with businesses like yours and asking for case studies or references. Since consultancy is not regulated by a single body, verify any relevant memberships and make sure you're clear on fees and goals before you begin."
+  },
+  {
+   "q": "What should I prepare before contacting a consultant?",
+   "a": "Think about your main challenge or goal, your budget, and any time pressures. Having a clear idea of what you want to achieve will help the consultant give you a useful quote and proposal."
+  },
+  {
+   "q": "Can a business consultant help with regulated areas like compliance?",
+   "a": "Some consultants specialise in compliance, but they should be clear about the limits of their role. For legal or regulated advice, you may need a solicitor or other regulated adviser, so ask upfront how they handle this."
+  },
+  {
+   "q": "How are consultancy fees usually charged?",
+   "a": "Fees vary widely and are often quoted on application, depending on the scope and duration of the work. Ask for a clear breakdown before you commit, and consider starting with a short diagnostic project to keep costs manageable."
+  }
+ ]
+}

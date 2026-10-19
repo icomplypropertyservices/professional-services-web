@@ -1,0 +1,69 @@
+{
+ "intro": "Looking for a corporate solicitor near you usually means a business matter has reached the point where you need proper legal help — a sale, a purchase, an investment or a disagreement between shareholders. You want someone local enough to meet, who understands company law and can tell you where you stand. iComply is a free introduction service: you tell us what you need, and we introduce you to a suitable UK solicitor who quotes you directly.",
+ "need_heading": "What people searching for a corporate solicitor usually need",
+ "need_lead": "Corporate solicitors deal with the legal side of running, buying, selling and funding a company, so the reasons people look for one tend to be fairly specific.",
+ "needs": [
+  "You are buying or selling a company and need help with heads of terms, due diligence and the sale and purchase agreement.",
+  "You are bringing in an investor or raising money and need the investment documents and shareholder arrangements put in order.",
+  "You want a shareholders' agreement or need to restructure shareholdings between founders or family members.",
+  "You are a director worried about your duties, especially if the company is trading through difficult times.",
+  "You need advice on warranties and a disclosure letter before signing a deal, so you know what you are taking on."
+ ],
+ "context_heading": "Checking who will act for you",
+ "context": [
+  "Solicitors in England and Wales are regulated by the Solicitors Regulation Authority, and you can check an individual or firm on the SRA's register. In Scotland the regulator is the Law Society of Scotland, and in Northern Ireland it is the Law Society of Northern Ireland. Regulated firms must hold professional indemnity insurance and have a complaints procedure; if a service complaint is not resolved, the Legal Ombudsman can look at it in England and Wales.",
+  "The word \"lawyer\" is not protected on its own, so it is worth confirming that whoever handles your matter is a solicitor, a chartered legal executive or another authorised professional. Some work, such as conducting court litigation, can only be done by authorised people. Corporate work often involves several advisers, so ask who will actually do the work and who you will deal with."
+ ],
+ "tell_heading": "What to tell iComply",
+ "tell": [
+  "Describe the corporate matter in a sentence or two — for example a share sale, an investment round or a shareholders' disagreement.",
+  "Say what kind of company it is and roughly how it is owned, such as limited by shares with a small number of shareholders.",
+  "Mention whether there is a deadline, such as a completion date you are working towards.",
+  "Say where you are based and how far you are willing to travel, since you searched for a solicitor near you.",
+  "Explain whether you already have documents such as heads of terms or a draft agreement.",
+  "Note whether you are acting for the company, the directors or yourself as a shareholder, as this affects who the solicitor can act for."
+ ],
+ "questions_heading": "Questions to ask the solicitor",
+ "questions": [
+  "Are you regulated by the SRA, and can you confirm the firm holds professional indemnity insurance?",
+  "Who will actually handle my matter day to day, and are they a solicitor or another authorised professional?",
+  "Have you advised on deals like mine before, and can you explain how you would approach it?",
+  "How will you keep me informed, and who is my point of contact?",
+  "What information and documents will you need from me at the start?",
+  "How does your firm handle complaints if something goes wrong?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a corporate solicitor who is local to me?",
+   "a": "Much corporate work can be done remotely, but meeting in person can help with complex negotiations or sensitive shareholder matters. A solicitor near you may also be more familiar with local businesses and advisers. It is worth asking how they prefer to work before you decide."
+  },
+  {
+   "q": "What is the difference between a corporate solicitor and a commercial solicitor?",
+   "a": "Corporate solicitors usually focus on the company itself — buying and selling businesses, investment, restructures, shareholder matters and directors' duties. Commercial solicitors tend to handle trading contracts and day-to-day business agreements. Some firms do both, so explain your matter and ask who is best placed to help."
+  },
+  {
+   "q": "What are heads of terms and why do they matter?",
+   "a": "Heads of terms set out the framework of a deal before the detailed documents are drafted. They are usually not legally binding apart from certain clauses, but they shape what follows. It is sensible to have a solicitor look them over before you sign."
+  },
+  {
+   "q": "What is a disclosure letter?",
+   "a": "In a company sale, the seller gives warranties about the business and a disclosure letter sets out exceptions to them. This manages the seller's risk and tells the buyer what they are taking on. A solicitor can help you prepare or look over it so nothing important is missed."
+  }
+ ],
+ "extra_heading": "Meeting a corporate solicitor for the first time",
+ "extra": [
+  "A first meeting about a company matter is mostly about establishing the facts and the shape of the deal. Expect questions about how the company is owned, who the shareholders and directors are, what has been agreed so far and what you want the end result to be. If you have heads of terms, a draft agreement or recent accounts, take them along.",
+  "It also helps to be clear about who the solicitor is acting for. In a company sale or investment, the company, the directors and individual shareholders can have different interests, and a solicitor may not be able to act for more than one of them. Raising this early avoids awkwardness later and lets you plan who else may need their own adviser.",
+  "Ask how the work will be priced and what is included. Corporate work is often quoted by the hour or as a fixed fee for a defined stage, and the solicitor should explain this before starting. Since you searched for a corporate solicitor near me, it is also fair to ask whether meetings can be in person, by phone or by video, and how quickly they can begin."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Can a corporate solicitor act for both the buyer and the seller?",
+   "a": "Usually not, because the two sides have conflicting interests and a solicitor owes a duty of loyalty to their own client. Each side should have its own adviser. If you are unsure who the solicitor would be acting for, ask before any confidential information is shared."
+  },
+  {
+   "q": "What should I bring to a first appointment about a company matter?",
+   "a": "Bring anything that shows how the company is structured and what has been agreed so far, such as the articles of association, a shareholders' agreement, heads of terms or a draft contract. Recent accounts can also help the solicitor understand the business. If you are unsure, ask what they would find useful."
+  }
+ ]
+}

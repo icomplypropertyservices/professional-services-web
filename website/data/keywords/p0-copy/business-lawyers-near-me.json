@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for business lawyers near me usually means you want practical legal help for your company or the business you are starting, and you would rather deal with someone you can meet or speak to locally. You may be comparing several solicitors before deciding who to instruct, which is sensible given how much contracts, disputes and employment issues can affect a small business.",
+ "need_heading": "What people searching for business lawyers near me usually need",
+ "need_lead": "Most people behind this search are dealing with a specific commercial issue or want to put the right legal foundations in place before problems arise.",
+ "needs": [
+  "You are setting up a company and want advice on company formation, a shareholders' agreement or terms and conditions for your customers.",
+  "You have a commercial contract to sign or draft and want a solicitor to check that it protects your business if things go wrong.",
+  "You are facing a dispute with a supplier, customer or former business partner and need to understand your options before it escalates.",
+  "You employ staff and need help with employment contracts, settlement agreements or the correct process for a dismissal.",
+  "You are taking on or leaving commercial premises and want a solicitor to handle the lease or property aspects."
+ ],
+ "context_heading": "Checking who is regulated to act for you",
+ "context": [
+  "In England and Wales, solicitors are regulated by the Solicitors Regulation Authority (SRA), and you can check an individual or firm on the SRA register. In Scotland the regulator is the Law Society of Scotland, and in Northern Ireland it is the Law Society of Northern Ireland. Regulated firms must hold professional indemnity insurance and have a complaints procedure, and if a service complaint is not resolved, the Legal Ombudsman can look at it in England and Wales.",
+  "The word lawyer is not protected on its own, so it is worth confirming that whoever handles your matter is a solicitor, a chartered legal executive (CILEx) or another authorised professional. Reserved activities such as conducting court litigation and certain probate and conveyancing work can only be carried out by authorised people."
+ ],
+ "tell_heading": "What to include when you contact iComply",
+ "tell": [
+  "Describe the type of business you run and whether you are a sole trader, partnership or limited company.",
+  "Explain the specific issue you need help with, such as a contract, a dispute, an employment matter or a commercial lease.",
+  "Say whether you are looking for one-off advice or ongoing support for your business.",
+  "Mention any deadlines you are working towards, such as a court date or a contract signing.",
+  "Confirm where your business is based so we can introduce you to a solicitor practising in the right jurisdiction.",
+  "Note whether you would prefer to meet in person locally or are happy to work remotely."
+ ],
+ "questions_heading": "Questions to ask a business solicitor",
+ "questions": [
+  "Are you regulated by the SRA, the Law Society of Scotland or the Law Society of Northern Ireland, and can you provide your registration number?",
+  "What experience do you have with businesses of my size and in my sector?",
+  "Will you handle my matter personally or will it be passed to a colleague?",
+  "How will you charge for this work, and can you give me an estimate of the likely costs?",
+  "Do you offer fixed-fee packages for start-ups or for the specific work I need?",
+  "What is the likely timescale for resolving my matter, and what do you need from me to get started?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check that a business solicitor is properly regulated?",
+   "a": "In England and Wales you can check an individual or firm on the Solicitors Regulation Authority (SRA) register. In Scotland and Northern Ireland, the Law Society of Scotland and the Law Society of Northern Ireland respectively hold the relevant registers. Always confirm the status of the person who will actually handle your matter."
+  },
+  {
+   "q": "Can any lawyer deal with my business dispute?",
+   "a": "The word lawyer is not protected, so not everyone using that title can carry out reserved activities such as conducting court litigation. Check that you are instructing a solicitor, a chartered legal executive (CILEx) or another authorised professional. If your dispute may end up in court, ask about their experience and authorisation to act."
+  },
+  {
+   "q": "What should I have ready before I speak to a business solicitor?",
+   "a": "Gather any relevant contracts, correspondence, company documents and a clear summary of what you want to achieve. It also helps to know your business structure and your key deadlines. Having this ready can make the first conversation more focused and useful."
+  },
+  {
+   "q": "What happens if I am unhappy with the service from a solicitor?",
+   "a": "Regulated firms must have a complaints procedure, so start by raising your concern with the firm directly. If that does not resolve things, the Legal Ombudsman can look at service complaints in England and Wales. The relevant regulator or law society can also explain the options in other parts of the UK."
+  }
+ ],
+ "extra_heading": "Comparing several business solicitors before you choose",
+ "extra": [
+  "Searching for business lawyers near me in the plural suggests you are weighing up more than one option rather than simply taking the first name you find. That is worth doing, because business solicitors vary in the sectors they know and the kind of work they take on, and a firm that suits a dispute may not be the best fit for a lease or a shareholders' agreement. Comparing a few quotes side by side helps you judge both the approach and the price.",
+  "When you compare, ask each firm who would actually handle your matter and whether that person specialises in the area you need. Look at how clearly they explain the process and what they need from you, and check how their charges are structured, since some quote a fixed fee for defined work such as a shareholders' agreement while others bill by the hour. A short first conversation often tells you whether their style suits how you like to work.",
+  "Location matters less than it once did, but if meeting in person is important to you, ask whether the solicitor you speak to is the one based at the office near you or a colleague elsewhere. Confirm too which part of the UK your business and any contract are governed by, because that decides whether an SRA-regulated solicitor, the Law Society of Scotland or the Law Society of Northern Ireland is the right regulator to check."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Is it worth getting quotes from more than one business solicitor?",
+   "a": "It can be, especially where the work is well defined, such as drafting a contract or setting up a shareholders' agreement. Comparing how each firm proposes to handle the matter and how they charge gives you a clearer basis for deciding than a single quote alone."
+  },
+  {
+   "q": "Does my business solicitor need to be nearby?",
+   "a": "Not necessarily, since much commercial work can be handled by phone, email and video. A local firm may still appeal if you prefer face-to-face meetings or if your matter involves premises or a court near you, so it is worth saying which you would prefer when you get in touch."
+  },
+  {
+   "q": "Can I compare a solicitor with a chartered legal executive for business work?",
+   "a": "Yes, and it is worth knowing which you are dealing with. Chartered legal executives (CILEx) are authorised professionals who can handle many commercial matters, but reserved activities such as conducting court litigation can only be carried out by authorised people, so ask about the status of whoever will act for you."
+  }
+ ]
+}

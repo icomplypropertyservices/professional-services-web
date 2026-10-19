@@ -1,0 +1,53 @@
+{
+ "intro": "You're looking for a construction accountant near you because your work involves the Construction Industry Scheme, retentions or stage payments, and you want someone who deals with these regularly. The right accountant can help you keep CIS returns on track, manage cash flow around retentions, and handle VAT under the domestic reverse charge. We introduce you to a suitable UK professional who will quote you directly, with fees on application.",
+ "need_heading": "What people searching for a construction accountant usually need",
+ "need_lead": "Most people looking for a construction accountant near them are dealing with the practical tax and compliance issues that come with working in construction.",
+ "needs": [
+  "You're a subcontractor and need help with CIS returns and claiming back any CIS deductions that have been taken from your payments.",
+  "You're a contractor and need to make sure you're deducting the right amount from subcontractors and filing your monthly CIS returns on time.",
+  "You have retentions held back on completed work and want advice on how to account for them and manage the cash flow gap.",
+  "You're unsure how the VAT domestic reverse charge applies to your invoices and need someone to explain it and check you're applying it correctly.",
+  "You're a small construction firm or sole trader who wants an accountant who understands stage payments and the way construction contracts are structured."
+ ],
+ "context_heading": "One key thing to understand about construction accountants",
+ "context": [
+  "The word \"accountant\" on its own is not a protected title in the UK, so anyone can use it. However, titles such as Chartered Accountant (ICAEW, ICAS or Chartered Accountants Ireland), Chartered Certified Accountant (ACCA) and Chartered Management Accountant (CIMA) are protected, and members are bound by their body's ethics, training and complaints rules. Only registered auditors can sign statutory audit reports.",
+  "Every practice offering accountancy services must also be supervised for anti-money-laundering purposes, either by a professional body or by HMRC. It is reasonable to ask which body supervises a firm, whether they hold professional indemnity insurance, and how complaints are handled."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Whether you're a subcontractor, a contractor or both, as this affects the CIS and VAT advice you'll need.",
+  "The size and structure of your business, such as sole trader, partnership or limited company, so we can introduce you to an accountant used to working with firms like yours.",
+  "Which specific issues you need help with, such as CIS returns, retentions, stage payments or the domestic reverse charge.",
+  "Whether you already have an accountant and are looking to switch, or are setting up and need one for the first time.",
+  "Any upcoming deadlines or particular concerns, such as a CIS refund you're expecting or a VAT inspection.",
+  "Your location and whether you'd prefer to work with an accountant nearby or are happy to work remotely."
+ ],
+ "questions_heading": "Questions to ask the construction accountant",
+ "questions": [
+  "How do you help subcontractors with CIS returns and reclaiming CIS deductions?",
+  "What is your experience with retentions and how they affect my accounts and cash flow?",
+  "Can you explain how the VAT domestic reverse charge applies to my invoices and check that I'm applying it correctly?",
+  "How do you handle stage payments and valuing work in progress for construction contracts?",
+  "Which professional body supervises your practice for anti-money-laundering purposes?",
+  "Do you hold professional indemnity insurance, and how are complaints handled?"
+ ],
+ "faqs": [
+  {
+   "q": "What is the Construction Industry Scheme (CIS) and do I need a construction accountant for it?",
+   "a": "The Construction Industry Scheme (CIS) is a set of rules for how contractors pay subcontractors in the construction industry. If you're a contractor, you must deduct money from subcontractors' payments and pass it to HMRC; if you're a subcontractor, you may be able to claim back some of the deductions. A construction accountant can help you understand your obligations and stay compliant."
+  },
+  {
+   "q": "How does the VAT domestic reverse charge affect my construction business?",
+   "a": "The VAT domestic reverse charge applies to certain construction services between VAT-registered businesses. Instead of the supplier charging VAT, the customer accounts for the VAT themselves. This changes how you invoice and record VAT, so it's important to get it right. A construction accountant can explain how it applies to your specific situation."
+  },
+  {
+   "q": "What are retentions and why do they matter for my accounts?",
+   "a": "Retentions are amounts held back by a client until a project is completed or a defects period ends. They can affect your cash flow and how you report your income. A construction accountant can help you account for retentions correctly and plan for the cash flow impact."
+  },
+  {
+   "q": "How can I check that a construction accountant is properly qualified?",
+   "a": "The title \"accountant\" is not protected, but titles like Chartered Accountant, Chartered Certified Accountant and Chartered Management Accountant are. You can ask which professional body they belong to and check their registration. It's also reasonable to ask which body supervises them for anti-money-laundering purposes and whether they hold professional indemnity insurance."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for cataract surgery near me usually means you or someone close to you has been told that the cloudiness in your vision is a cataract, and you want to understand what private treatment close to home would involve. You may be weighing up waiting times, lens choices, or simply wanting to speak to a consultant about your options. We introduce you to a suitable UK professional who can quote you directly, with prices on application.",
+ "need_heading": "What people searching for cataract surgery near me usually need",
+ "need_lead": "Most people want a clear, local route to a consultant who can assess their eyes and explain the practicalities of surgery.",
+ "needs": [
+  "You have been told by an optician or GP that you have a cataract and you want to discuss private surgery without travelling far.",
+  "You are finding everyday tasks like reading or driving in low light increasingly difficult and want to know how soon surgery could help.",
+  "You want to understand the different lens options available and how they might affect your glasses prescription afterwards.",
+  "You are considering private treatment because of NHS waiting times but want to know what the process involves and what it might cost.",
+  "You have private medical insurance and need to check which local consultants or hospitals your policy covers before you book."
+ ],
+ "context_heading": "What to understand about private cataract surgery near you",
+ "context": [
+  "Cataract surgery replaces the cloudy lens in your eye with an artificial one, usually as a day case under local anaesthetic. The consultant you see should be on the General Medical Council's specialist register for ophthalmology, which you can check online. Private clinics providing regulated healthcare in England must register with the Care Quality Commission, which inspects and publishes ratings; in Wales, Scotland and Northern Ireland different regulators apply.",
+  "Many private consultants also work in the NHS, so asking about their experience with the specific lens options you are considering is sensible. If you have private medical insurance, your insurer may require a GP referral and may limit you to certain consultants or hospitals, so check your policy before you book. After surgery, you will need to plan for driving restrictions, and your consultant will advise you on when you can safely drive again."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you are looking for cataract surgery near you and give your town or postcode so we can introduce you to a local professional.",
+  "Say whether you have already been diagnosed with a cataract and whether you have a referral letter from your optician or GP.",
+  "Explain which lens options you are interested in, such as a standard lens or a premium lens that may reduce your need for glasses.",
+  "Tell us if you have private medical insurance and whether your insurer has confirmed cover for cataract surgery.",
+  "Mention any other eye conditions you have, such as glaucoma or macular problems, as these can affect the advice you receive.",
+  "Let us know about any practical concerns, such as driving restrictions or the time you can take off work, so the professional can address them."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you on the GMC's specialist register for ophthalmology, and what is your experience with the lens options you are recommending?",
+  "Which lens options do you offer, and how might each affect my glasses prescription after surgery?",
+  "What are the risks and benefits of cataract surgery in my particular case?",
+  "How soon after surgery can I drive again, and what restrictions should I expect?",
+  "Is the clinic registered with the relevant regulator, such as the Care Quality Commission in England?",
+  "If I have private medical insurance, will you help me check that the procedure is covered before I book?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral from my GP or optician to see a private consultant about cataract surgery?",
+   "a": "Many private consultants are happy to see you without a referral, but if you have private medical insurance your insurer may require a GP referral before you book. It is worth checking with both the consultant's office and your insurer."
+  },
+  {
+   "q": "How do I check that a private clinic is properly regulated?",
+   "a": "In England, private clinics providing regulated healthcare must register with the Care Quality Commission, which inspects and publishes ratings. In Wales, Scotland and Northern Ireland, the regulators are Healthcare Inspectorate Wales, Healthcare Improvement Scotland and the RQIA respectively."
+  },
+  {
+   "q": "What lens options are available for cataract surgery?",
+   "a": "Lens options vary and may include standard lenses, which usually correct distance vision but may still require glasses for reading, and premium lenses designed to reduce dependence on glasses. Your consultant can explain which options might suit your eyes and lifestyle."
+  },
+  {
+   "q": "Will I be able to drive after cataract surgery?",
+   "a": "You will need to plan for driving restrictions after surgery, and your consultant will advise you on when it is safe to drive again. This typically depends on your vision meeting the legal standard and your eye healing properly."
+  }
+ ]
+}

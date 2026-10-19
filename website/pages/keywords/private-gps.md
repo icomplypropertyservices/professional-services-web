@@ -12,7 +12,9 @@ og_image: /assets/images/hero-workshop.jpg
 
 # Private GPs
 
-There are many **private GPs** to choose from, and they are not all the same. A private GP offers longer, faster appointments, often the same or next day, for the same range of everyday medical problems an NHS GP sees, plus referrals, tests and certificates.
+You've searched for private GPs, so you're likely weighing up paying for a GP appointment yourself — perhaps because you're tired of waiting for an NHS slot, need a longer conversation, or want a same-day opinion. Private GPs work outside the NHS and charge for their time, but they can offer appointments that fit around your life. Here's what to think about before you choose one.
+
+A private GP offers longer, faster appointments, often the same or next day, for the same range of everyday medical problems an NHS GP sees, plus referrals, tests and certificates.
 
 iComply Professional Services is a free matching service. You tell us what you need and where you are; we connect you with a suitable UK private GP who can quote for the work. The practice provides the service, and every quote is POA.
 
@@ -20,74 +22,68 @@ iComply Professional Services is a free matching service. You tell us what you n
 
 ![Private GP clinic ready to take on a new enquiry for private GPs](/assets/images/hero-workshop.jpg)
 
-## What private GPs commonly help with
+## What people searching for private GPs usually need
 
-Private GPs help clients in many situations. Some of the most common are:
+Most people looking for private GPs want quicker access, more time, or a service the NHS isn't currently providing.
 
-- A referral letter to a private specialist or for a scan.
-- A longer consultation to talk through several symptoms.
-- A quick appointment when an NHS slot is weeks away.
-- Ongoing support with a long-term condition alongside the NHS.
-- Travel vaccinations or a fit-to-fly certificate.
+- You've been trying to get an NHS GP appointment for a while and your symptoms are worrying you now.
+- You need a longer appointment because you have several issues to discuss or a complex history.
+- You want a same-day or next-day appointment for a problem that isn't an emergency but can't wait.
+- You need a private sick note, travel vaccination, or medical certificate for work or travel.
+- You'd like a private referral to a specialist without a long wait, or a second opinion on a diagnosis.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of private GP fits best.
+## How fees usually work (POA)
 
-## How private GPs differ
+Private GP fees usually depend on appointment length, the time of day and whether you are seen in person or by video. Prescriptions, blood tests, referral letters and certificates are often charged separately. The clinic quotes you, POA.
 
-Private GPs vary in specialism, size, fees and approach. Some focus on particular types of client; others offer a broad service. Knowing the differences helps you choose.
-
-Rather than searching through long lists of private GPs, tell us what you need. We introduce practices that fit, and you can compare their quotes.
-
-## When to think twice
-
-Be cautious if you notice any of the following:
-
-- A doctor you cannot find on the GMC register
-- Prescribing high-risk medicines without proper checks
-- Unclear charges for tests and prescriptions
-- Reluctance to share information with your NHS GP
-
-**Need a private GP?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
-
-## Information that helps us match you
-
-A short, clear brief saves time on both sides. Useful details include:
-
-- Your private medical insurance details, if you have cover
-- Your NHS GP practice details
-- The times you can attend
-- Questions you want answered in the appointment
-- Current medication, doses and any allergies
-- A short list of your symptoms and when they started
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+Ask for the full price of the appointment and any likely extras before you book, and check whether your health insurance covers outpatient GP care.
 
 ## Questions to ask a private GP
 
 Once you are introduced, these questions help you decide whether the private GP is right for you:
 
-- What do tests, prescriptions and referral letters cost on top?
-- Is the doctor GMC registered with a licence to practise?
-- Who do I contact if I have questions after the appointment?
-- How long is a standard appointment?
-- Do you accept my health insurance?
-- Can you refer me to a private specialist, and do you have preferred consultants?
+- How long are your appointments, and can I book a longer slot if I have several issues?
+- Do you offer video consultations, and for which types of problem?
+- Will you share your notes with my NHS GP, and how do you handle consent?
+- What is the fee for the consultation, and are there extra charges for tests or certificates?
+- Which regulator is your clinic registered with, and can I see your registration details?
+- Can you refer me to an NHS specialist if needed, or would that be a private referral?
 
-## Costs and quotes for a private GP
+**Need a private GP?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-Private GP fees usually depend on appointment length, the time of day and whether you are seen in person or by video. Prescriptions, blood tests, referral letters and certificates are often charged separately. iComply does not publish prices; the clinic quotes you, POA.
+## Key things to know about a private GP
 
-Ask for the full price of the appointment and any likely extras before you book, and check whether your health insurance covers outpatient GP care.
+A few points come up again and again with a private GP:
 
-![Planning the first appointment after an enquiry for private GPs](/assets/images/insurance-advisory.jpg)
+- Appointments of 15 to 30 minutes are common.
+- Video consultations suit many problems.
+- Share notes with your NHS GP.
 
-## How to check you are in safe hands
+A good private GP will talk you through each of these in plain English.
+
+## Checking private GPs are qualified and regulated
 
 Every doctor practising in the UK must be registered and hold a licence to practise with the General Medical Council (GMC). GPs also appear on the GMC's GP register. You can search the GMC's online register by name. Private clinics providing regulated healthcare in England must register with the Care Quality Commission (CQC), which inspects and publishes ratings. In Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA.
 
 A private GP does not replace your NHS GP. Good private clinics will ask for consent to share consultation notes with your NHS practice, so your records stay complete and medication is prescribed safely.
 
 iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
+
+## What to understand about private GPs
+
+Good private clinics will ask for your consent to share consultation notes with your NHS practice, so your records stay complete and any medication is prescribed safely. Private GPs are fully registered with the General Medical Council and appear on the GP register, which you can check online.
+
+Clinics providing regulated healthcare in England must register with the Care Quality Commission, which inspects and publishes ratings. In Wales, Scotland and Northern Ireland different regulators apply. You can ask any clinic which regulator it falls under and check its registration before you book.
+
+![Planning the first appointment after an enquiry for private GPs](/assets/images/insurance-advisory.jpg)
+
+## Choosing between private GPs
+
+Searching for private GPs in the plural suggests you're comparing more than one clinic, perhaps weighing up a local practice against a larger group, or deciding between an in-person visit and a video consultation. It's worth thinking about what matters most to you: how soon you can be seen, how long the appointment lasts, and whether the GP can offer the tests, referrals or certificates you need.
+
+When you contact a few private GPs, ask each one the same questions so you can compare fairly. For example, find out the fee for a standard consultation and whether there are extra charges for longer appointments, tests or paperwork. Also ask whether they share notes with your NHS GP and which regulator the clinic is registered with — in England, that's the Care Quality Commission.
+
+Remember that a private GP doesn't replace your NHS GP, but they can work alongside them. Good clinics will ask for your consent to share consultation notes with your NHS practice, so your records stay complete and any medication is prescribed safely. Before you book, check that the GP is on the General Medical Council's GP register and that the clinic is registered with the appropriate regulator for your nation.
 
 ## From enquiry to quote in four steps
 
@@ -98,19 +94,18 @@ iComply is not a regulator and does not provide the professional service itself.
 
 We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
 
-## Timing and urgency
+## What to tell iComply when you enquire
 
-Many private GP clinics offer same-day or next-day appointments, including evenings and weekends, and video appointments can be quicker still. If you have chest pain, difficulty breathing, signs of a stroke or another emergency, call 999 instead.
+A short, clear brief saves time on both sides. Useful details include:
 
-## Key things to know about a private GP
+- The specific health concern you want to discuss, and whether it's new or ongoing.
+- Whether you need a same-day or next-day appointment, or can wait a few days.
+- If you need a longer appointment because you have several issues to cover.
+- Any certificates, referrals or tests you're hoping to get from the appointment.
+- Your location and whether you'd consider a video consultation instead of attending in person.
+- Whether you've already seen an NHS GP about this and what they advised.
 
-A few points come up again and again with a private GP:
-
-- Appointments of 15 to 30 minutes are common.
-- Video consultations suit many problems.
-- Share notes with your NHS GP.
-
-Raise any of these with the private GP you are introduced to; they should be happy to explain.
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
 ## After the introduction
 
@@ -118,43 +113,59 @@ Once introduced, the clinic will register you, confirm your appointment and expl
 
 ![Next steps after an iComply introduction for a private GP](/assets/images/finance-desk.jpg)
 
-## FAQs: a private GP
+## Private GPs: FAQs
+
+### Can a private GP prescribe medication?
+
+Yes, a private GP can prescribe medication if it's clinically appropriate. They may not be able to issue an NHS prescription, so you might pay the private cost of the medicine. They will usually inform your NHS GP about any prescription to keep your records up to date.
+
+### Will using a private GP affect my NHS care?
+
+No, using a private GP doesn't affect your entitlement to NHS care. A private GP doesn't replace your NHS GP, and good clinics will share notes with your NHS practice so your records stay complete. You can still use NHS services as normal.
+
+### How do I check a private GP is properly qualified?
+
+Every doctor practising in the UK must be registered with the General Medical Council and hold a licence to practise. GPs also appear on the GMC's GP register, which you can search online by name. Clinics providing regulated healthcare in England must be registered with the Care Quality Commission, and you can check their registration and ratings.
+
+### What if I need urgent medical help?
+
+Private GPs are not an emergency service. If you need urgent medical help, call NHS 111 or, in a life-threatening emergency, 999. For non-urgent advice, Citizens Advice or GOV.UK may help with wider questions.
+
+### How do I compare private GPs?
+
+Ask each clinic the same set of questions: appointment length, fees, availability, whether they offer video consultations, and how they share notes with your NHS GP. You can also check the doctor's registration on the General Medical Council's online register and the clinic's registration with the relevant regulator.
+
+### Can I see a private GP for a second opinion?
+
+Yes, many private GPs offer second opinions. It helps to bring any relevant medical records or test results to the appointment, and to tell the GP what you're hoping to clarify. They can also refer you to a specialist if needed.
 
 ### Will a private GP share my notes with my NHS GP?
 
 With your consent, most do, and it is safer for you. Joined-up records help avoid duplicate tests and medication clashes.
 
-### Can a private GP prescribe medication?
-
-Yes, a GMC-registered doctor can issue private prescriptions. You pay the clinic's prescription fee and the pharmacy's price for the medicine.
-
-### Can you find a private GP in my area?
+### How do I find a private GP near me?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable private GP clinic with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
-
-### Can I contact you on WhatsApp?
-
-Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
-
-### How quickly will I hear back?
-
-Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
 
 ### Is it free to use iComply?
 
 Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
 
-## Other services you may need
+### Can I contact you on WhatsApp?
 
+Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
+
+## Related searches
+
+- [Best private referral near me](/keywords/best-private-referral-near-me/)
 - [Best private GP near me](/keywords/best-private-gp-near-me/)
-- [Local private doctor near me](/keywords/local-private-doctor-near-me/)
-- [Best private doctors near me](/keywords/best-private-doctors-near-me/)
-- [Private GP near me](/keywords/private-gp-near-me/)
-- [Private allergy clinic near me](/keywords/private-allergy-clinic-near-me/)
+- [Top private paediatrician near me](/keywords/top-private-paediatrician-near-me/)
+- [Accredited private GP near me](/keywords/accredited-private-gp-near-me/)
+- [Best private doctor near me](/keywords/best-private-doctor-near-me/)
 - [Browse all private GPs](/hubs/private-gps/)
 
 ## Ready to be matched?
 
-One short enquiry is all it takes. We connect you with a private GP who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
+Tell us what you need and where you are. We will match you with a suitable private GP, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
 
 [Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

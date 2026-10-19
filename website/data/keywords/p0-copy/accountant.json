@@ -1,0 +1,73 @@
+{
+ "intro": "You searched for an accountant, which usually means you need help with tax, accounts or payroll and want someone qualified to handle it. Whether you are self-employed, running a small company or simply behind on your paperwork, an accountant can take the worry out of dealing with HMRC and Companies House. iComply introduces you to a UK accountant who will quote you directly, so you can compare what is on offer before you commit.",
+ "need_heading": "What people searching for an accountant usually need",
+ "need_lead": "Most people looking for an accountant want reassurance that their tax and accounts are in order, without overpaying or getting lost in jargon.",
+ "needs": [
+  "You have started working for yourself and need to register with HMRC and file a Self Assessment tax return for the first time.",
+  "You run a limited company and need help preparing annual accounts and a confirmation statement for Companies House.",
+  "You are behind on your bookkeeping and want someone to sort out your records and bring your tax filings up to date.",
+  "You are thinking about making tax digital and want an accountant who can set you up with compatible software and explain what it means for you.",
+  "You want advice on tax planning, such as whether to take a salary or dividends, or how to claim allowable expenses properly."
+ ],
+ "context_heading": "What to understand about finding an accountant",
+ "context": [
+  "In the UK, the word \"accountant\" on its own is not a protected title, so anyone can use it. However, titles such as Chartered Accountant (ICAEW, ICAS or Chartered Accountants Ireland), Chartered Certified Accountant (ACCA) and Chartered Management Accountant (CIMA) are protected, and members are bound by their body's ethics, training and complaints rules. Only registered auditors can sign statutory audit reports.",
+  "Every practice offering accountancy services must also be supervised for anti-money-laundering purposes, either by a professional body or by HMRC. It is reasonable to ask which body supervises a firm, whether they hold professional indemnity insurance, and how complaints are handled."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Whether you are self-employed, a limited company director, a landlord or something else, as this affects the work involved.",
+  "Which tax returns and filings you need help with, such as Self Assessment, corporation tax, VAT or payroll.",
+  "Whether you already keep digital records or use accounting software, and whether you want help moving to Making Tax Digital.",
+  "How far back your records go and whether you have any overdue filings or correspondence from HMRC.",
+  "Whether you want ongoing support or a one-off piece of work, such as catching up on previous years.",
+  "Any deadlines you are working towards, so the accountant can tell you if they can help in time."
+ ],
+ "questions_heading": "Questions to ask the accountant",
+ "questions": [
+  "Which professional body are you a member of, and what does that mean for the service you provide?",
+  "Which body supervises your practice for anti-money-laundering purposes?",
+  "Do you hold professional indemnity insurance?",
+  "What exactly is included in your quote, and which returns and filings does it cover?",
+  "How do you handle Making Tax Digital, and will you help me choose and set up software?",
+  "How do you charge, and will you let me know in advance if the work is likely to cost more than quoted?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a chartered accountant?",
+   "a": "Not necessarily, but a protected title such as Chartered Accountant or Chartered Certified Accountant shows the person is bound by a professional body's rules on ethics, training and complaints. For straightforward tax returns, a qualified accountant from any recognised body can help, but for more complex work you may want to check their specific qualifications."
+  },
+  {
+   "q": "What is Making Tax Digital and does it affect me?",
+   "a": "Making Tax Digital is HMRC's move towards digital record-keeping and filing. It already applies to VAT-registered businesses, and is being extended to other taxes over time. An accountant can explain whether it applies to you yet and help you choose compatible software."
+  },
+  {
+   "q": "Can an accountant help if I am behind on my tax returns?",
+   "a": "Yes, accountants regularly help people catch up on overdue returns and deal with HMRC. It is best to be upfront about how far behind you are so they can estimate the work involved and any penalties you may face."
+  },
+  {
+   "q": "How do I know an accountant is properly supervised?",
+   "a": "Every accountancy practice must be supervised for anti-money-laundering purposes by a professional body or by HMRC. You can ask which body supervises them and check the answer with that body if you wish."
+  }
+ ],
+ "extra_heading": "Choosing between accountants when the word alone tells you little",
+ "extra": [
+  "Typing just \"accountant\" suggests you are at the very start of the search, before you know whether you need a bookkeeper, a tax adviser or a full accountancy practice. That is worth pausing on, because the work differs: a bookkeeper records transactions, while an accountant prepares accounts and tax returns and can advise on cash flow and business decisions. Knowing roughly which of those you need will make any conversation with a practice far more productive.",
+  "Because the title is unprotected, the letters after a name are your main guide. Chartered Accountant, Chartered Certified Accountant and Chartered Management Accountant are all protected titles, each tied to a body with its own training, ethics and complaints rules, so ask which one applies and what it covers. Beyond qualifications, compare how a practice communicates, whether they explain things in plain language, and whether they will help you plan rather than simply file at the end of the year.",
+  "At a first appointment, expect to talk through your income, your business structure and any records you already keep, and to come away with a clear picture of what would be done and what it would cost. Quotes are on application, so ask exactly which returns and filings the figure covers and what happens if the work turns out to be larger than expected. It is also sensible to ask how they handle Making Tax Digital and whether they will help you choose compatible software."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Is an accountant the same as a bookkeeper?",
+   "a": "Not quite. A bookkeeper records day-to-day income and spending, while an accountant prepares your accounts and tax returns and can advise on tax and business decisions. Some practices offer both, so ask what is included before you agree to anything."
+  },
+  {
+   "q": "What should I bring to a first meeting with an accountant?",
+   "a": "Bring whatever records you have, such as bank statements, invoices, receipts and any correspondence from HMRC, along with a note of your business structure and how you keep records now. Being open about anything overdue helps them judge the work involved and quote accordingly."
+  },
+  {
+   "q": "Can I ask an accountant to explain things without jargon?",
+   "a": "Yes, and it is worth saying so early on. A practice that suits you should be willing to talk through what a return involves and why a particular approach is being suggested, so you can make informed decisions rather than simply signing where shown."
+  }
+ ]
+}

@@ -7,57 +7,69 @@ group: legal
 hub: solicitors-lawyers
 profession: solicitor
 service_label: Employment solicitor
-og_image: /assets/images/finance-desk.jpg
+og_image: /assets/images/hero-workshop.jpg
 ---
 
 # Employment Lawyers Near Me
 
-Searching for **employment lawyers near me**? You probably want someone suitable, available and within reach. Employment solicitors advise employees and employers on dismissal, discrimination, redundancy, settlement agreements and tribunal claims.
+If you've been searching for employment lawyers near me, you're likely facing a work problem that needs clear legal guidance — whether it's a dismissal, redundancy, discrimination or a settlement agreement. You want someone local who can explain your options and act for you if needed. We introduce you to employment solicitors in the UK who can quote you directly, with fees given as price on application.
+
+Employment solicitors advise employees and employers on dismissal, discrimination, redundancy, settlement agreements and tribunal claims.
 
 iComply Professional Services is a free matching service. You tell us what you need and where you are; we connect you with a suitable UK solicitor who can quote for the work. The practice provides the service, and every quote is POA.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Planning the first appointment after an enquiry for employment lawyers near me](/assets/images/finance-desk.jpg)
+![Planning the first appointment after an enquiry for employment lawyers near me](/assets/images/hero-workshop.jpg)
 
-## What solicitors commonly help with
+## What people searching for employment lawyers near me usually need
 
-Solicitors help clients in many situations. Some of the most common are:
+Most people looking for an employment lawyer nearby are dealing with a specific workplace issue and want to know where they stand.
 
-- A business contract, shareholder agreement or company sale.
-- A debt that is owed to you, or one you are being chased for.
-- Buying or selling property, or a lease problem.
-- A will, a lasting power of attorney or a family member's estate.
-- Being contacted by the police or facing a criminal charge.
+- You've been dismissed and want to know whether you have a claim for unfair dismissal or wrongful dismissal.
+- You're being offered a settlement agreement and need independent legal advice before signing.
+- You're facing redundancy and want to understand your rights and any redundancy pay.
+- You're experiencing discrimination at work and want advice on your options, including tribunal claims.
+- You're an employer dealing with a grievance, disciplinary or potential tribunal claim and need advice on procedure.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of solicitor fits best.
+## Questions to ask the employment solicitor
+
+Once you are introduced, these questions help you decide whether the solicitor is right for you:
+
+- What experience do you have with cases like mine?
+- What are the time limits I need to be aware of for my situation?
+- How will you charge me, and can you give me an estimate of the likely costs?
+- Will you be handling my matter personally, and are you regulated by the SRA or the relevant Law Society?
+- What are the possible outcomes and the risks of taking my case forward?
+- Do you offer an initial consultation, and is there a charge for it?
+
+## How fees usually work (POA)
+
+Legal fees depend on the type of matter, its complexity and who does the work. Firms commonly charge hourly rates, fixed fees for defined stages, or (in some claims) conditional fee arrangements. Regulated firms in England and Wales must publish pricing information for certain services and give you clear costs information at the outset. The firm will give you a POA quote.
+
+Ask for a written estimate and for an explanation of what is not included, such as court fees, barristers' fees or experts. Ask too whether legal expenses insurance or legal aid might cover some or all of the cost.
+
+**Need an employment solicitor?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
+
+## Comparing employment solicitors near you
+
+Searching for employment lawyers near me usually means you want more than one name to consider, so it helps to think about what you're comparing. Employment solicitors work on both sides of a dispute, for employees and for employers, and the advice you get will reflect which side the firm usually acts for. Ask each one whether your kind of problem, such as a dismissal, redundancy or discrimination at work, is a regular part of their work.
+
+Location matters most if you would rather meet face to face, but many employment matters can be handled by phone or video, so a solicitor slightly further away may still suit you. When you speak to each firm, ask who would actually handle your matter and whether that person is a solicitor or another authorised professional. You can check a solicitor's details on the Solicitors Regulation Authority's register in England and Wales, or with the Law Society of Scotland or the Law Society of Northern Ireland depending on where you are.
+
+Bear in mind that employment advice is often charged in different ways, and any quote you receive is price on application, so ask each firm to explain how their charges would work for your situation. It's also worth asking about practical next steps, such as whether ACAS early conciliation applies to you and what dates you need to keep in mind. Comparing a few quotes on that basis helps you judge which solicitor fits your needs, rather than relying on labels alone.
 
 ## Key things to know about an employment solicitor
 
-These practical points are worth knowing before you speak to anyone about an employment solicitor:
+A few points come up again and again with an employment solicitor:
 
 - Tribunal claims usually require ACAS early conciliation.
 - Time limits are short, often three months less a day.
 - Settlement agreements need independent legal advice.
 
-A good solicitor will talk you through each of these in plain English.
+Raise any of these with the solicitor you are introduced to; they should be happy to explain.
 
-## Warning signs to watch for
-
-Most professionals are honest and competent, but it is worth knowing the warning signs:
-
-- Requests to send money to an account that changes by email
-- No clear costs information or client care letter
-- Guarantees about the outcome of a dispute
-- A firm or individual you cannot find on the relevant register
-
-**Need an employment solicitor?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
-
-## Your relationship with the practice
-
-After the introduction, the firm will carry out identity checks and conflict checks and send a client care letter setting out who is acting for you, what they will do and how they charge. Your legal relationship is with the firm. iComply does not give legal advice and does not take part in your case.
-
-## Checking solicitors are qualified and regulated
+## Qualifications and registration to look for
 
 Solicitors in England and Wales are regulated by the Solicitors Regulation Authority (SRA), and you can check an individual or firm on the SRA's register. In Scotland solicitors are regulated by the Law Society of Scotland, and in Northern Ireland by the Law Society of Northern Ireland. Regulated firms must hold professional indemnity insurance and have a complaints procedure; if that does not resolve things, the Legal Ombudsman can look at service complaints in England and Wales.
 
@@ -65,74 +77,82 @@ The word "lawyer" is not protected on its own, so check that whoever handles you
 
 "Lawyer" is a general term. In England and Wales the person handling your matter will usually be a solicitor, chartered legal executive or barrister, each regulated by their own body.
 
-iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
+Please note that iComply is a matching service only. We are not regulated as a solicitor, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
 
-## What to prepare before you enquire
-
-You do not need all of this to enquire, but the more you can share, the better the match:
-
-- Any deadlines you have been given, especially court dates
-- The names of the other people or organisations involved
-- Whether you may be eligible for legal aid
-- Whether you have legal expenses insurance (often in home or car policies)
-- How you prefer to be contacted
-- Copies of key documents such as contracts, letters or court papers
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
-
-![Law firm ready to take on a new enquiry for employment lawyers near me](/assets/images/insurance-advisory.jpg)
-
-## What to ask before you instruct anyone
-
-Once you are introduced, these questions help you decide whether the solicitor is right for you:
-
-- How will you keep me updated?
-- What could make costs rise, and how will you warn me?
-- What are the likely next steps and timescales?
-- How will you charge: hourly, fixed fee, or another arrangement?
-- What is your realistic view of my options at this stage?
-- How much experience do you have with cases like mine?
+![Law firm ready to take on a new enquiry for employment lawyers near me](/assets/images/finance-desk.jpg)
 
 ## How iComply matches you
 
-1. **Enquire for free** with your town or postcode and a short description.
-1. **We clarify** anything unclear, so the introduction is useful from the start.
-1. **We connect you** with an employment solicitor who suits your situation.
-1. **The practice takes over**, confirms scope and fees in writing and does the work.
+1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
+1. **We review your brief.** We check the type of solicitor you need, your location and your timing.
+1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
+1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
 
 We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
 
-## Looking for an employment solicitor close to home
+## What to tell iComply when you enquire
 
-When you search for an employment solicitor near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
+A short, clear brief saves time on both sides. Useful details include:
 
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
+- A brief description of your situation, such as whether it's about dismissal, redundancy, discrimination or a settlement agreement.
+- Whether you are an employee or an employer, as this affects the advice you need.
+- Your location and how far you're willing to travel, since you searched for employment lawyers near me.
+- Any key dates or deadlines you're aware of, such as a tribunal deadline or a date you've been asked to sign a settlement agreement.
+- Whether you've already started ACAS early conciliation or any other process.
+- Any preferences you have, such as whether you'd like to meet in person or are happy with phone or video advice.
 
-## How fees usually work (POA)
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
-Legal fees depend on the type of matter, its complexity and who does the work. Firms commonly charge hourly rates, fixed fees for defined stages, or (in some claims) conditional fee arrangements. Regulated firms in England and Wales must publish pricing information for certain services and give you clear costs information at the outset. iComply does not publish fees; the firm will give you a POA quote.
+## One key thing to understand about employment law
 
-Ask for a written estimate and for an explanation of what is not included, such as court fees, barristers' fees or experts. Ask too whether legal expenses insurance or legal aid might cover some or all of the cost.
+Employment disputes often have short time limits. For many tribunal claims, you must start the process within three months less a day of the act you're complaining about, and you usually need to go through ACAS early conciliation first. Missing these deadlines can mean losing the right to bring a claim, so it's important to get advice quickly.
 
-![Next steps after an iComply introduction for an employment solicitor](/assets/images/healthcare-consult.jpg)
+If you're signing a settlement agreement, you'll need independent legal advice from a solicitor or other authorised professional for it to be legally binding. The word "lawyer" isn't protected, so check that whoever advises you is a solicitor regulated by the Solicitors Regulation Authority (in England and Wales), the Law Society of Scotland, or the Law Society of Northern Ireland, depending on where you are.
 
-## Employment Lawyers Near Me: FAQs
+## Warning signs to watch for
+
+Be cautious if you notice any of the following:
+
+- Requests to send money to an account that changes by email
+- No clear costs information or client care letter
+- Guarantees about the outcome of a dispute
+- Pressure to sign immediately without time to read terms
+
+![Next steps after an iComply introduction for an employment solicitor](/assets/images/insurance-advisory.jpg)
+
+## FAQs: an employment solicitor
+
+### Do I need a solicitor for a settlement agreement?
+
+Yes, for a settlement agreement to be legally binding, you usually need independent legal advice from a solicitor or other authorised professional. This advice confirms you understand the terms and that you're entering into it voluntarily.
+
+### How long do I have to make a claim to an employment tribunal?
+
+For most tribunal claims, you must start the process within three months less a day of the act you're complaining about. You'll usually need to go through ACAS early conciliation first, which can pause the clock, so it's best to get advice quickly.
+
+### What is ACAS early conciliation?
+
+ACAS early conciliation is a free service that gives you and your employer a chance to resolve the dispute without going to a tribunal. You normally need to notify ACAS before you can make a tribunal claim.
+
+### Can I get legal advice if I can't afford a solicitor?
+
+Some solicitors offer free initial consultations or fixed-fee advice, and you may be able to get help through schemes like legal aid for certain employment matters, though eligibility is limited. It's worth asking about costs upfront and exploring options like Citizens Advice or ACAS for general guidance.
+
+### Should I choose a solicitor who acts for employees or for employers?
+
+It depends on your situation. If you are an employee facing dismissal, redundancy or discrimination, look for a solicitor who regularly advises employees; if you are an employer dealing with a grievance or tribunal claim, look for one who advises employers. Ask about their experience with your type of matter before deciding.
+
+### Can I compare quotes from more than one employment solicitor?
+
+Yes, and it's sensible to do so. Fees are price on application, so ask each firm how they would charge for your situation and what the quote covers. That way you can compare like with like before choosing who to instruct.
 
 ### Is a solicitor the same as a lawyer?
 
 "Lawyer" is a general word that covers solicitors, barristers, chartered legal executives and others. A solicitor is a specific regulated professional who can advise you, run your case and instruct a barrister if needed.
 
-### Can I get legal aid?
-
-Legal aid is still available for some criminal, family (especially where there is domestic abuse), housing and immigration matters, subject to means and merits tests. A matched firm can tell you whether you are likely to qualify.
-
 ### How do I find an employment solicitor near me?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable law firm with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
-
-### Is iComply regulated?
-
-iComply is a matching service. We are not a solicitor and we do not give professional advice. The professionals we introduce are registered with their own bodies, and you can check them.
 
 ### Do I have to accept a quote?
 
@@ -144,14 +164,14 @@ Yes. Enquiring and being matched is free for you. If a practice quotes for its p
 
 ## Related searches
 
-- [Solicitor near me](/keywords/solicitor-near-me/)
-- [Criminal defence solicitor near me](/keywords/criminal-defence-solicitor-near-me/)
-- [Lawyer near me](/keywords/lawyer-near-me/)
-- [Child arrangements lawyers near me](/keywords/child-arrangements-lawyers-near-me/)
+- [Clinical negligence lawyers near me](/keywords/clinical-negligence-lawyers-near-me/)
+- [Commercial solicitor near me](/keywords/commercial-solicitor-near-me/)
+- [Business solicitor near me](/keywords/business-solicitor-near-me/)
 - [Cheap solicitor near me](/keywords/cheap-solicitor-near-me/)
+- [Criminal solicitor near me](/keywords/criminal-solicitor-near-me/)
 - [Browse all solicitors](/hubs/solicitors-lawyers/)
 
-## Ready to be matched?
+## Request your free quote
 
 One short enquiry is all it takes. We connect you with an employment solicitor who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
 

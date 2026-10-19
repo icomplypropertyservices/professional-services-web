@@ -1,0 +1,74 @@
+{
+ "intro": "You have searched for an accredited private GP near you, which suggests you want to see a doctor quickly, for longer than a standard appointment, and you want reassurance that the clinic and the doctor meet official standards. You may be dealing with a problem that needs prompt attention, or you may simply want more time to discuss your health. We can introduce you to a suitable UK private GP who will quote you directly.",
+ "need_heading": "What people searching for an accredited private GP usually need",
+ "need_lead": "Most people who search for an accredited private GP near them want fast, unhurried medical care from a doctor whose credentials they can check.",
+ "needs": [
+  "You need an appointment soon, perhaps because your NHS GP has no slots for a while and your symptoms are worrying you.",
+  "You want a longer consultation than the standard ten minutes, so you can discuss several issues or a complex problem properly.",
+  "You need a referral to a specialist or a private clinic, and you want a GP to write it after a thorough assessment.",
+  "You are looking for a private GP near your home or workplace, so attending an appointment is practical.",
+  "You want to be sure the doctor is on the General Medical Council's register and the clinic is registered with the appropriate regulator before you book."
+ ],
+ "context_heading": "Checking that a private GP is properly accredited",
+ "context": [
+  "Every doctor practising in the UK must be registered and hold a licence to practise with the General Medical Council (GMC). GPs also appear on the GMC's GP register, and you can search the GMC's online register by name to confirm a doctor's registration and licence. This is the clearest way to check that a doctor is properly accredited.",
+  "Private clinics providing regulated healthcare in England must register with the Care Quality Commission (CQC), which inspects services and publishes ratings. In Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA. You can check a clinic's registration and any inspection findings with the relevant regulator before you book.",
+  "A private GP does not replace your NHS GP. Good private clinics will ask for your consent to share consultation notes with your NHS practice, so your records stay complete and medication is prescribed safely."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the medical problem or problems you want to discuss, and say whether it is urgent or longstanding.",
+  "Say roughly where you are located and how far you are willing to travel, since you are looking for a GP near you.",
+  "Mention any preference for a video consultation or a face-to-face appointment, as both are often available.",
+  "Explain whether you need a referral, a sick note, a private prescription, or tests, so the GP can prepare.",
+  "Say whether you have already seen your NHS GP about this issue, and whether you are happy for notes to be shared.",
+  "Mention any accessibility needs or language preferences that would help the appointment go smoothly."
+ ],
+ "questions_heading": "Questions to ask the private GP",
+ "questions": [
+  "Are you registered on the GMC's GP register with a licence to practise, and what is your GMC number?",
+  "Is the clinic registered with the CQC, or the relevant regulator for my nation, and can I see the registration details?",
+  "How long are your appointments, and can I book a same-day or next-day slot?",
+  "Will you share notes of our consultation with my NHS GP, and how do you handle consent?",
+  "What is the fee for the consultation and any follow-up, and what does it include?",
+  "Can you arrange referrals, tests or private prescriptions if they are needed, and what would that involve?"
+ ],
+ "faqs": [
+  {
+   "q": "How can I check that a private GP is accredited?",
+   "a": "You can search the General Medical Council's online register by the doctor's name to confirm registration and licence to practise. For the clinic, check registration with the Care Quality Commission in England, Healthcare Inspectorate Wales, Healthcare Improvement Scotland, or the RQIA in Northern Ireland, depending on where you are."
+  },
+  {
+   "q": "Will a private GP near me share information with my NHS GP?",
+   "a": "Good private clinics will ask for your consent to share consultation notes with your NHS practice, so your records stay complete and medication is prescribed safely. You can ask how they handle this before you book."
+  },
+  {
+   "q": "Can a private GP see me for the same problems as my NHS GP?",
+   "a": "A private GP offers longer, faster appointments, often the same or next day, for the same range of everyday medical problems an NHS GP sees, plus referrals, tests and certificates. They do not replace your NHS GP, but they can provide prompt care when you need it."
+  },
+  {
+   "q": "What should I expect to pay for a private GP appointment?",
+   "a": "Fees vary between clinics and depend on the length of the appointment and any additional services. iComply does not set fees; the private GP you are introduced to will quote you directly, so you can compare before you commit."
+  }
+ ],
+ "extra_heading": "Getting the most from a first appointment with an accredited private GP",
+ "extra": [
+  "When you have checked that a doctor is on the General Medical Council's register and the clinic is registered with the right regulator, the next step is making the appointment itself count. Private GP appointments are often longer than the standard NHS slot, so bring a written list of your symptoms, how long they have lasted, any medication you take and any questions you want answered. That way the extra time goes on your health rather than on trying to remember details.",
+  "Because you searched for an accredited private GP near you, think about what \"near\" needs to mean in practice. A clinic close to home may suit a face-to-face examination, while one near your workplace may be easier to reach at short notice, and many private GPs also offer video consultations for problems that do not need a physical examination. Ask when you enquire whether the doctor you are introduced to offers both, and how follow-up appointments are arranged.",
+  "It helps to be clear about what you want from the visit before you go. If you need a referral, a certificate or a private prescription, say so at the start, and ask whether the GP will share notes with your NHS practice so your records stay joined up. Accreditation tells you a doctor and clinic meet official standards, but it does not tell you whether a particular GP suits your needs, so use the first appointment to judge how well you are listened to."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Does an accredited private GP replace my NHS GP?",
+   "a": "No. A private GP does not replace your NHS GP, and good private clinics will ask for your consent to share consultation notes with your NHS practice so your records stay complete and medication is prescribed safely. It is worth keeping your NHS registration even if you see a private GP for convenience."
+  },
+  {
+   "q": "What should I bring to my first private GP appointment?",
+   "a": "Bring a list of your symptoms and how long you have had them, any medication you take, and details of relevant past treatment. If you have seen your NHS GP about the same problem, say so, and mention whether you are happy for notes to be shared between the two."
+  },
+  {
+   "q": "Can a private GP near me see me if I am not registered anywhere locally?",
+   "a": "Private GPs generally see people who are not registered with a local NHS practice, though you should confirm this when you enquire. It is still sensible to remain registered with an NHS GP, because private care is not a substitute for NHS primary care."
+  }
+ ]
+}

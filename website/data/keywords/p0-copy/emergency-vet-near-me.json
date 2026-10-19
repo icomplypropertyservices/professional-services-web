@@ -1,0 +1,73 @@
+{
+ "intro": "When your pet needs urgent help, searching for an emergency vet near me is the first step to getting them seen quickly. You need to know where to go, what to bring, and how to make sure your animal gets the right care without delay. We can introduce you to a suitable UK vet who handles emergencies, so you can focus on your pet.",
+ "need_heading": "What people searching for an emergency vet near me usually need",
+ "need_lead": "You need fast, practical help for a pet that has been in an accident, eaten something harmful, or suddenly become very unwell.",
+ "needs": [
+  "Your pet has been hit by a car or had another serious accident and needs urgent attention.",
+  "You suspect your pet has swallowed something poisonous, such as medication, chocolate or antifreeze, and you need advice quickly.",
+  "Your dog or cat is struggling to breathe, has collapsed, or is showing signs of severe pain.",
+  "Your pet has a bloated, swollen abdomen or is retching unproductively, which can be a sign of a life-threatening condition.",
+  "Your animal is giving birth and having difficulty, or a newborn is in distress."
+ ],
+ "context_heading": "What to do before you set off",
+ "context": [
+  "In a genuine emergency, phone the practice ahead so the team can prepare for your arrival, then travel straight there. Bring any packaging of something your pet may have swallowed, as this helps the vet know what they are dealing with. Emergency clinics usually send records back to your normal practice afterwards, so your regular vet stays informed.",
+  "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS), and you can search the RCVS register by name before you book. Many practices also join the voluntary RCVS Practice Standards Scheme, which inspects premises, equipment and clinical processes. If your animal has a complex or unusual condition, it is reasonable to ask whether the vet treating it holds further qualifications such as an RCVS certificate or specialist status."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the emergency clearly, including what happened and when.",
+  "State the type of animal you have, its age and any known health conditions.",
+  "Mention if you suspect poisoning and what substance may be involved.",
+  "Say whether your pet is conscious, breathing normally and able to walk.",
+  "Give your location so we can introduce you to a vet near you.",
+  "Let us know if you have a regular vet who should receive the records afterwards."
+ ],
+ "questions_heading": "Questions to ask the emergency vet",
+ "questions": [
+  "Are you able to see my pet immediately, and should I phone ahead?",
+  "What should I bring with me, such as any packaging or medication?",
+  "Will you send the treatment records to my normal vet afterwards?",
+  "Are you registered with the RCVS, and do you hold any further qualifications?",
+  "What is the likely cost, and how will I be billed?",
+  "Do you have the equipment and staff to handle my pet's specific problem?"
+ ],
+ "faqs": [
+  {
+   "q": "Should I phone the emergency vet before I go?",
+   "a": "Yes, in a genuine emergency it is best to phone ahead so the team can prepare for your arrival. Then travel straight there with your pet."
+  },
+  {
+   "q": "What should I do if I think my pet has eaten something poisonous?",
+   "a": "Bring the packaging of whatever your pet may have swallowed, as this helps the vet identify the substance. Phone the practice ahead so they can advise you and prepare."
+  },
+  {
+   "q": "Will my normal vet find out about the emergency treatment?",
+   "a": "Emergency clinics usually send records back to your normal practice afterwards, so your regular vet stays informed about your pet's care."
+  },
+  {
+   "q": "How can I check that a vet is properly qualified?",
+   "a": "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS), and you can search the RCVS register by name. You can also ask whether the vet holds further qualifications such as an RCVS certificate or specialist status."
+  }
+ ],
+ "extra_heading": "Getting there safely and settling the practicalities",
+ "extra": [
+  "Searching for an emergency vet near me often happens in a hurry, so it helps to think about the journey before you move. Ask the practice for the clearest route and where to park, and if someone can travel with you, let them hold your pet or drive while you stay with the animal. Keep your pet secure in a carrier or on a lead, even if they seem calm, because pain and fear can make an injured animal behave unpredictably.",
+  "At the first appointment, the vet will usually assess your pet straight away and talk you through what they find before any treatment begins. This is the moment to ask how the bill works, since emergency care is often priced on application and the final cost depends on what your pet needs. It is reasonable to ask for an estimate and to check what happens if your pet has to stay in overnight.",
+  "A common misunderstanding is that the nearest practice is always the right one, when what matters is whether they can handle your pet's particular problem and are open when you need them. Another is that your regular vet will automatically be told what happened; records are usually sent back, but you can confirm this yourself. If you are unsure whether something counts as an emergency, NHS 111 cannot help with animals, so phone the practice and describe the symptoms."
+ ],
+ "extra_faqs": [
+  {
+   "q": "How do I choose between emergency vets near me?",
+   "a": "Ask each practice whether they are open now, whether they can handle your pet's specific problem, and what they charge, since prices are on application. You can also check that the vet is on the RCVS register and ask about any further qualifications."
+  },
+  {
+   "q": "What if my pet seems better by the time I arrive?",
+   "a": "Still have your pet seen, because some serious conditions such as poisoning or internal injury can be hidden at first. Describe what you saw at home, including anything your pet swallowed, so the vet has the full picture."
+  },
+  {
+   "q": "Will I be able to stay with my pet during treatment?",
+   "a": "This varies between practices and depends on what your pet needs, so ask when you phone ahead. In many emergencies the team will need space to work, but they can usually explain what is happening and when you can see your pet again."
+  }
+ ]
+}

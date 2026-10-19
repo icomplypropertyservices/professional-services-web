@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for a chartered accountant near you usually means you want someone you can sit down with, or at least speak to easily, about tax, accounts or a business matter that has landed on your desk. You may be starting out, going self-employed, or simply unhappy with how your current affairs are handled. We can introduce you to a suitable UK accountancy practice in your area, and they will quote you directly.",
+ "need_heading": "What people searching for a local chartered accountant usually need",
+ "need_lead": "The reasons behind this search are often practical and time-sensitive, and they usually involve a decision about money or paperwork.",
+ "needs": [
+  "You have started working for yourself and need help understanding what to register for and how to keep records from the beginning.",
+  "Your business has grown and the annual accounts and tax return now feel too complicated to handle alone.",
+  "You are thinking about setting up a limited company and want to know whether it suits your situation.",
+  "You have received a letter from HMRC and want a qualified person to look at it with you.",
+  "You are buying or selling a business, or bringing in a partner, and need the figures examined properly."
+ ],
+ "context_heading": "Why the word chartered matters here",
+ "context": [
+  "In the UK the word accountant on its own is not a protected title, so anyone can call themselves one. Titles such as Chartered Accountant, Chartered Certified Accountant and Chartered Management Accountant are protected, and members are bound by their professional body's ethics, training and complaints rules. That is why checking which body a firm belongs to is a sensible first step.",
+  "Every practice offering accountancy services must also be supervised for anti-money-laundering purposes, either by a professional body or by HMRC. It is reasonable to ask which body supervises a firm, whether they hold professional indemnity insurance, and how complaints are handled. Only registered auditors can sign statutory audit reports, so if an audit is needed, ask about that specifically."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Say what kind of work you do or what the business does, so we can match you with a practice used to your sector.",
+  "Explain whether you are self-employed, in a partnership, a limited company or something else.",
+  "Mention roughly what you need help with, such as annual accounts, tax returns, payroll or an audit.",
+  "Tell us where you are based and how far you are willing to travel, or whether you would prefer to work remotely.",
+  "Say whether you already have an accountant and are thinking of changing, as a handover will be involved.",
+  "Include anything with a deadline attached, such as a letter from HMRC or a year end that has already passed."
+ ],
+ "questions_heading": "Questions worth asking the accountant",
+ "questions": [
+  "Which professional body are you a member of, and can I check your entry on its directory?",
+  "Which body supervises the firm for anti-money-laundering purposes?",
+  "Will a partner look over my work, and who will I deal with day to day?",
+  "Do you hold professional indemnity insurance?",
+  "How do you handle complaints if I am unhappy with the service?",
+  "Are you authorised to carry out a statutory audit if my company needs one?"
+ ],
+ "faqs": [
+  {
+   "q": "Is a chartered accountant different from an accountant?",
+   "a": "Yes. Anyone can use the word accountant, but Chartered Accountant is a protected title held by members of ICAEW, ICAS or Chartered Accountants Ireland. Those members are bound by their body's ethics, training and complaints rules."
+  },
+  {
+   "q": "How do I check that someone is really chartered?",
+   "a": "Ask which institute they belong to and look them up on that institute's directory. It is a quick check and worth doing before you share any financial information."
+  },
+  {
+   "q": "Can you tell me who is the best accountant near me?",
+   "a": "We do not rank or rate professionals, and we would be wary of anyone who claims to be the best. Instead, ask about their experience in your sector, who will handle your work, and how they charge, then judge for yourself."
+  },
+  {
+   "q": "What if I need an audit rather than ordinary accounts?",
+   "a": "Only registered auditors can sign statutory audit reports, so mention this when you enquire. We can introduce you to a practice that is authorised for audit work where that applies."
+  }
+ ],
+ "extra_heading": "Choosing between the chartered accountants close to you",
+ "extra": [
+  "Once you have a shortlist of chartered accountants near you, the useful comparison is not who sounds most impressive but who fits how you actually work. A practice a few streets away may suit you best if you like dropping paperwork in by hand, while one further out may be the better match if your work is unusual and you are happy to deal with most things by phone and email. Distance matters less than whether the person handling your affairs understands your trade or profession.",
+  "Ask each practice the same set of questions so the answers sit side by side: who will be your main contact, whether a partner reviews the work, what they would need from you and when, and how they set their fees. Fees are usually quoted as price on application because the work varies so much, so ask what is included and what would be charged separately. It also helps to ask how they prefer to keep in touch, since some practices are set up for remote working and others expect you to come in.",
+  "A first meeting is really a two-way conversation. Take along your last set of accounts or tax return if you have one, a note of your year end, and any correspondence from HMRC, so the accountant can see the shape of your affairs rather than guess at them. Use the time to judge whether they explain things in a way you follow, because you will be relying on that plain speaking for as long as you work together."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I pick a chartered accountant in my own town or is further afield fine?",
+   "a": "It depends on how you like to work. If you want to hand over records in person or sit down face to face, someone local is easier, but if you are comfortable with phone and email, a practice further away may suit your needs better. What matters most is that they understand your sector and explain things clearly."
+  },
+  {
+   "q": "What should I bring to a first appointment with a chartered accountant?",
+   "a": "Bring your last set of accounts or tax return if you have them, a note of your business year end, and any letters from HMRC. If you are thinking of changing accountants, mention it early, because records will need to be handed over from your current one. The more they can see, the more useful the conversation will be."
+  },
+  {
+   "q": "Why are fees shown as price on application rather than a fixed figure?",
+   "a": "Accountancy work varies widely depending on the size of your business, the records you keep and whether an audit is involved, so a single figure would mislead. Ask each practice what their quote covers and what would be charged separately, then compare the answers directly."
+  }
+ ]
+}

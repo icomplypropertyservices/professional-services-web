@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a certified financial planner near you usually means you want face-to-face help with money decisions and you'd rather sit down with someone local than deal with a distant call centre. Perhaps you're planning for retirement, sorting out investments, or dealing with a change in circumstances and want proper financial planning rather than a quick product sale. iComply introduces you to a suitable UK financial adviser who can quote you directly, with fees on application.",
+ "need_heading": "What people searching for a certified financial planner near me usually need",
+ "need_lead": "Most people typing this search want a qualified planner they can meet locally who will look at their whole financial picture.",
+ "needs": [
+  "You are approaching retirement and want a plan that pulls together your pensions, savings and spending so you know what you can afford.",
+  "You have investments or savings scattered across several providers and want someone to make sense of them as a whole.",
+  "Your circumstances have changed through bereavement, divorce or an inheritance and you need help deciding what to do next.",
+  "You want to know whether your current arrangements are on track for the life you hope to have, and what to adjust.",
+  "You would prefer to discuss your finances in person with a local professional rather than online or over the phone."
+ ],
+ "context_heading": "Understanding the CFP certification and local advice",
+ "context": [
+  "CFP professionals hold the CFP certification, which in the UK is held through the CISI and covers financial planning practice and ethics. You can check CISI records to confirm someone genuinely holds it. The certification signals a planning-led approach rather than a focus on selling particular products.",
+  "Financial advice in the UK is regulated by the Financial Conduct Authority, so check that any adviser or firm is authorised, or is an appointed representative of an authorised firm, on the FCA register. Advisers must tell you whether their advice is independent or restricted, and how they charge. If something goes wrong you can complain to the firm, then to the Financial Ombudsman Service, and the Financial Services Compensation Scheme may protect you if an authorised firm fails."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say roughly where you are so we can introduce you to an adviser who covers your area.",
+  "Describe what you want help with, such as retirement planning, investments, pensions or a change in circumstances.",
+  "Mention that you are specifically looking for a CFP professional so this can be taken into account.",
+  "Explain whether you would prefer independent or restricted advice, if you have a view.",
+  "Note whether you would like an initial meeting in person, by phone or online.",
+  "Say whether you already have an adviser and are simply looking for a second opinion or a change."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Do you hold the CFP certification, and can you confirm how I can check this with the CISI?",
+  "Are you independent or restricted in the advice you give?",
+  "How do you charge for your services, and what will the initial meeting involve?",
+  "What does ongoing service look like after the initial plan is put in place?",
+  "How will you take my whole financial situation into account rather than just one product?",
+  "Who will I deal with day to day, and how often would we go over the plan?"
+ ],
+ "faqs": [
+  {
+   "q": "What does CFP mean and why does it matter?",
+   "a": "CFP stands for Certified Financial Planner, a certification held through the CISI in the UK covering financial planning practice and ethics. It indicates a planning-led approach, and you can check CISI records to confirm someone holds it. It is not a substitute for checking FCA authorisation."
+  },
+  {
+   "q": "How do I check that a local financial adviser is properly authorised?",
+   "a": "Use the FCA register to confirm that the adviser or firm is authorised, or is an appointed representative of an authorised firm. If something goes wrong you can complain to the firm, then to the Financial Ombudsman Service, and the Financial Services Compensation Scheme may protect you if an authorised firm fails."
+  },
+  {
+   "q": "Should I choose independent or restricted advice?",
+   "a": "Independent advisers consider the whole market, while restricted advisers are limited to certain products or providers. Advisers must tell you which they offer and how they charge, so you can decide what suits your situation. There is no single right answer for everyone."
+  },
+  {
+   "q": "How can I judge whether a local planner is right for me?",
+   "a": "Ask about their qualifications, whether they hold the CFP certification, whether their advice is independent or restricted, and how they charge. A first conversation should leave you clear on what they will do and what it will cost. iComply does not assess or vouch for advisers, so it is worth checking the FCA register and CISI records yourself."
+  }
+ ]
+}

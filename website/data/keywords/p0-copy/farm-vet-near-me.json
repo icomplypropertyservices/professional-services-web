@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for a farm vet near me, you're likely looking for a vet who understands the practicalities of livestock work and can get to your animals without a long delay. Whether you keep a few sheep or run a larger herd, finding a local practice that covers your area is the first step. We can introduce you to a suitable UK farm vet who will quote you directly for the work you need.",
+ "need_heading": "What farmers and smallholders usually need from a farm vet",
+ "need_lead": "Most people searching for a farm vet near me want a local professional who can handle both routine and urgent livestock care.",
+ "needs": [
+  "You need a vet who can come out to your holding for routine herd health checks and help you put together a herd health plan.",
+  "You have a cow or sheep that needs official TB testing and you want to know whether the practice is approved for that work in your area.",
+  "You are facing an emergency calving or lambing and need a vet who can attend quickly and knows your animals.",
+  "You keep pigs or a small flock and want advice on fertility, disease control or welfare that fits your setup.",
+  "You are new to keeping livestock and want a local vet who can guide you on practical health planning and record keeping."
+ ],
+ "context_heading": "What to understand about finding a farm vet near you",
+ "context": [
+  "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS), and you can search the RCVS register by name before you book. Many practices also join the voluntary RCVS Practice Standards Scheme, which inspects premises, equipment and clinical processes.",
+  "Some vets hold further qualifications such as an RCVS certificate, advanced practitioner status or specialist status in a particular species or discipline. If your animals have a complex or unusual condition, it is reasonable to ask whether the vet treating them holds one of these, or whether they refer to someone who does."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Tell us the type and number of livestock you keep, such as cattle, sheep or pigs, so we can introduce you to a vet used to working with them.",
+  "Let us know your location and how far you are willing to travel or how far you need the vet to come to you.",
+  "Mention whether you need routine herd health work, TB testing, fertility checks or emergency cover, as this helps match you with the right practice.",
+  "Explain if you are looking for a vet who can help with a herd health plan for farm assurance schemes.",
+  "Include any specific concerns you have, such as disease control, welfare issues or recent calving problems.",
+  "Tell us if you have a preference for a practice that is approved for official TB testing in your area, if that matters to you."
+ ],
+ "questions_heading": "Questions to ask the farm vet",
+ "questions": [
+  "Are you approved for official TB testing in my area?",
+  "How do you cover emergency calvings and lambings out of hours?",
+  "Do you offer herd health plans and can you help with farm assurance requirements?",
+  "What are your charges for a visit, and how do you quote for routine work?",
+  "Do you have experience with the type of livestock I keep?",
+  "Can you provide references from other farms you work with locally?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check that a farm vet is properly registered?",
+   "a": "You can search the RCVS register by name to confirm that any vet you are considering is registered with the Royal College of Veterinary Surgeons. It is a quick check you can do before you book."
+  },
+  {
+   "q": "What should I do if I need a vet urgently for a calving or lambing?",
+   "a": "If you have an emergency with a calving or lambing, call your chosen practice straight away and ask how they handle out-of-hours cover. It is worth discussing emergency arrangements with any vet you are thinking of using before an emergency happens."
+  },
+  {
+   "q": "Can a farm vet help me with a herd health plan?",
+   "a": "Yes, farm vets often work with farmers to create herd health plans that help prevent disease and support farm assurance schemes. You can ask the vet about their approach to health planning during your first conversation."
+  },
+  {
+   "q": "Do I need a vet who is approved for TB testing?",
+   "a": "If you need official TB testing for your herd, you will need a vet who is approved to carry out that work in your area. Ask the practice directly whether they are approved for TB testing where you are."
+  }
+ ]
+}

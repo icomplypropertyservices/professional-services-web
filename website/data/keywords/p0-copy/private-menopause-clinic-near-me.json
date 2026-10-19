@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a private menopause clinic near you usually means you want more time to talk through symptoms and treatment options than a standard appointment allows. You may be struggling with symptoms that affect your sleep, work or relationships, or you may feel unsure whether hormone replacement therapy is right for you. A private GP clinic with a special interest in menopause can offer longer appointments and a focused discussion.",
+ "need_heading": "What people searching for a private menopause clinic near me often need",
+ "need_lead": "Most people want a clinician who will listen carefully and explain the options clearly, without feeling rushed.",
+ "needs": [
+  "You are having symptoms such as hot flushes, night sweats, mood changes or brain fog and want to understand whether they are related to perimenopause or menopause.",
+  "You have already seen your NHS GP but felt the appointment was too short to cover everything you wanted to discuss.",
+  "You are unsure about the risks and benefits of hormone replacement therapy and want a longer conversation before deciding.",
+  "You have blood test results or a symptom diary and want them looked at by a doctor with a special interest in menopause care.",
+  "You want to discuss how private care might work alongside your NHS GP, including sharing information so your records stay joined up."
+ ],
+ "context_heading": "What to understand about private menopause care",
+ "context": [
+  "Private menopause clinics offer longer appointments with doctors who have a special interest in menopause care. These appointments give you time to describe your symptoms in detail and ask questions about treatment. A private GP does not replace your NHS GP, and good clinics will ask for your consent to share consultation notes with your NHS practice so your records stay complete and medication is prescribed safely.",
+  "Every doctor practising in the UK must be registered and hold a licence to practise with the General Medical Council (GMC), and GPs also appear on the GMC's GP register. You can search the GMC's online register by name to check a doctor's registration. Private clinics providing regulated healthcare in England must register with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe your main menopause symptoms and how long you have been experiencing them.",
+  "Mention whether you have already seen your NHS GP about menopause and what was discussed.",
+  "Say whether you have had any blood tests or other investigations and whether you can bring the results.",
+  "Explain what you hope to get from the appointment, such as advice on hormone replacement therapy or a look at your current treatment.",
+  "Mention any preference for a clinic that is easy to reach from your home or workplace.",
+  "Say whether you would like the clinic to share information with your NHS GP."
+ ],
+ "questions_heading": "Questions to ask the private menopause clinic",
+ "questions": [
+  "What is your training and experience in menopause care?",
+  "How long are appointments, and can I bring someone with me?",
+  "Will you share information with my NHS GP, and how does that work?",
+  "What should I bring to the appointment, such as blood test results or a symptom diary?",
+  "How do you approach discussions about hormone replacement therapy and other treatment options?",
+  "What is the process if I need a prescription or follow-up appointment?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral from my NHS GP to visit a private menopause clinic?",
+   "a": "You do not usually need a referral to see a private GP, but it is worth checking with the clinic when you enquire. Some clinics may ask for information from your NHS GP to help them understand your history."
+  },
+  {
+   "q": "Will the private clinic tell my NHS GP about my visit?",
+   "a": "Good private clinics will ask for your consent to share consultation notes with your NHS practice, so your records stay complete and any medication is prescribed safely. You can discuss this when you book."
+  },
+  {
+   "q": "How do I check that a doctor is properly registered?",
+   "a": "Every doctor practising in the UK must be registered and hold a licence to practise with the General Medical Council (GMC). You can search the GMC's online register by name to check a doctor's registration and whether they appear on the GP register."
+  },
+  {
+   "q": "How do I know if a private clinic is regulated?",
+   "a": "Private clinics providing regulated healthcare in England must register with the Care Quality Commission (CQC), which inspects and publishes ratings. In Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA. You can check the relevant regulator's published information for the clinic."
+  }
+ ]
+}

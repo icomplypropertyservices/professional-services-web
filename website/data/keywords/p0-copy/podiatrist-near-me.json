@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a podiatrist near you usually means something about your feet or legs has become uncomfortable, painful or worrying enough to want help close to home. You may have an ingrown toenail, a verruca that will not settle, heel pain when you walk, or a foot check you have been putting off. We can introduce you to a podiatrist in your area who will quote you directly, with prices on application.",
+ "need_heading": "What people searching for a local podiatrist usually need",
+ "need_lead": "Most people want a nearby clinic they can get to easily, for a specific foot or lower-limb problem they would like looked at properly.",
+ "needs": [
+  "You have an ingrown toenail that is sore, inflamed or keeps coming back, and you want someone local to assess and treat it.",
+  "A verruca or other skin or nail condition on your foot has not cleared up and you would like a podiatrist to look at it.",
+  "You have heel pain or discomfort in your feet or legs when walking, and you want to understand what is causing it.",
+  "You have diabetes and need a regular foot check, or have been advised to have your feet looked at.",
+  "You have a gait or walking problem, or foot pain that affects your day-to-day movement, and want a proper assessment near you."
+ ],
+ "context_heading": "Checking who you are seeing",
+ "context": [
+  "Podiatrist and chiropodist are protected titles in the UK. Anyone using them must be registered with the Health and Care Professions Council (HCPC), and you can check the register online before you book. Many podiatrists are also members of the Royal College of Podiatry.",
+  "Podiatrists diagnose and treat problems with the feet and lower limbs, from ingrown toenails and verrucas to heel pain, gait problems and diabetic foot care. Some carry out nail surgery under local anaesthetic, so it is worth asking what the appointment involves and what it will cost before you go ahead."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the foot or lower-limb problem you want help with, such as an ingrown toenail, verruca, heel pain or a diabetic foot check.",
+  "Say roughly where you are and how far you are willing to travel, since you are looking for a podiatrist near you.",
+  "Mention whether you have diabetes, as foot checks and care need to take this into account.",
+  "Explain whether you have seen anyone about the problem before, and what was advised.",
+  "Say whether you have a preference for a particular day or time of day for appointments, without needing exact dates.",
+  "Note anything that affects your mobility or access needs, so the introduction suits you."
+ ],
+ "questions_heading": "Questions to ask the podiatrist",
+ "questions": [
+  "Are you registered with the Health and Care Professions Council, and what is your registration number?",
+  "What will the first appointment involve for my foot problem, and how long should I allow?",
+  "What will the treatment cost, and are there any additional charges I should know about?",
+  "Should I bring my usual footwear to the appointment?",
+  "Do you carry out nail surgery or other procedures under local anaesthetic if I need them?",
+  "What aftercare or follow-up will I need, and how will we decide if further appointments are necessary?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check that a podiatrist is properly registered?",
+   "a": "Podiatrist and chiropodist are protected titles, so anyone using them must be registered with the Health and Care Professions Council (HCPC). You can check the register online before you book, and it is a sensible step when choosing someone near you."
+  },
+  {
+   "q": "Should I bring anything to my first appointment?",
+   "a": "It helps to bring your usual footwear, especially if your problem is related to walking or gait. That way the podiatrist can see how your shoes fit and how you move in them."
+  },
+  {
+   "q": "I have diabetes. Do I need to see a podiatrist?",
+   "a": "People with diabetes need regular foot checks, because foot problems can develop without you noticing. A podiatrist can assess your feet and advise on care, and you should also raise any concerns with your GP or diabetes team."
+  },
+  {
+   "q": "What kinds of problems can a podiatrist near me help with?",
+   "a": "Podiatrists treat foot and lower-limb problems, from nail and skin conditions to heel pain, gait problems and diabetic foot care. Some also carry out nail surgery under local anaesthetic, so you can ask what is available when you enquire."
+  }
+ ]
+}

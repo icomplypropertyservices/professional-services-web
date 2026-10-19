@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for an insurance advisor near me usually means you want someone local who can help you make sense of cover for your home, your business or your family's protection. You might be buying a policy for the first time, checking that existing cover still fits, or facing a claim and unsure where to turn. We introduce you to a UK insurance broker who will discuss your needs and quote you directly.",
+ "need_heading": "What people searching for an insurance advisor near me often need",
+ "need_lead": "Most people want clear, local advice on choosing the right cover and understanding what is and isn't included.",
+ "needs": [
+  "You are buying a home and need buildings and contents insurance that actually covers what matters to you.",
+  "You run a small business and are unsure which risks you are legally required to insure and which are optional.",
+  "You want to look again at your existing policies because your circumstances have changed, such as moving house or starting a family.",
+  "You have made a claim and want help understanding the process and what your policy covers.",
+  "You are looking for personal protection such as income protection or life cover and want to know how it works."
+ ],
+ "context_heading": "What to understand about insurance advice",
+ "context": [
+  "Insurance brokers and intermediaries in the UK must be authorised by the Financial Conduct Authority (FCA), or be appointed representatives of an authorised firm. You can check any adviser on the FCA register. Many brokers also belong to the British Insurance Brokers' Association (BIBA), and some hold Chartered status from the Chartered Insurance Institute.",
+  "A good adviser will take time to understand your demands and needs, explain key policy features and exclusions, and tell you how they are paid. If you have a complaint that is not resolved, you can take it to the Financial Ombudsman Service."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say what type of cover you are looking for, such as home, business or personal protection.",
+  "Mention whether you already have insurance and when it is due for renewal.",
+  "Explain any particular risks or concerns you want to make sure are covered.",
+  "Include your location so we can introduce you to a broker who works in your area.",
+  "Note if you have a deadline, such as a house purchase or business start date.",
+  "Tell us if you have any special requirements, such as covering a listed building or unusual business activity."
+ ],
+ "questions_heading": "Questions to ask the insurance advisor",
+ "questions": [
+  "Are you authorised by the FCA, and can you provide your firm reference number?",
+  "How do you get paid for arranging my insurance, and will you tell me in writing?",
+  "What exclusions apply to the policies you are recommending?",
+  "Will you help me if I need to make a claim?",
+  "How often will you look at my cover with me to make sure it still meets my needs?",
+  "What is your complaints procedure if I am unhappy with your service?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need to use an insurance advisor, or can I buy cover directly?",
+   "a": "You can buy insurance directly, but an advisor can help you compare options and understand exclusions. They must explain the cover and how they are paid, so you can decide what suits you."
+  },
+  {
+   "q": "How do I check that an insurance advisor is properly authorised?",
+   "a": "You can check on the FCA register. The advisor should be authorised or be an appointed representative of an authorised firm. You can also ask if they are a member of BIBA or hold Chartered status."
+  },
+  {
+   "q": "What information will an insurance advisor need from me?",
+   "a": "They will ask about what you want to cover, your circumstances and any previous claims. Being open helps them find suitable cover and avoid problems later."
+  },
+  {
+   "q": "Can an insurance advisor help if my claim is refused?",
+   "a": "They can explain the policy terms and may help you challenge a decision. If you remain unhappy, you can complain to the firm and then to the Financial Ombudsman Service."
+  }
+ ],
+ "extra_heading": "Choosing between local insurance advisers",
+ "extra": [
+  "Searching for an insurance advisor near me suggests you would rather speak to someone face to face or at least locally, perhaps because you want to sit down and go through paperwork together or have someone close by if a claim gets complicated. Distance is only one factor, though, and a broker slightly further away may still be the right fit if they know your particular type of cover well.",
+  "When you compare advisers, ask what kinds of insurance they deal with most often, since a broker who mainly handles business cover may not be the best person for a household policy, and the other way round. Check on the FCA register that each one is authorised or is an appointed representative of an authorised firm, and ask whether they are a member of BIBA or hold Chartered status from the Chartered Insurance Institute. You can also ask how they are paid and whether they charge a fee as well as commission, so you can weigh up the overall cost rather than just the headline quote.",
+  "At a first appointment, expect questions about what you own, who else depends on you and any claims you have made before, because the adviser must understand your demands and needs before recommending anything. Ask them to walk you through the exclusions in plain terms and to explain what happens if you need to claim, including whether they handle claims themselves or pass you to the insurer. Take your existing policy documents along if you have them, as comparing what you already hold with what is being offered is often the quickest way to spot gaps."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Does an insurance advisor near me have to visit my home?",
+   "a": "Not usually. Many first conversations happen by phone or in the adviser's office, and a home visit is often only needed for things like a buildings survey or a detailed business review. Ask when you first speak to them what they prefer."
+  },
+  {
+   "q": "Is a local insurance advisor better than a national one?",
+   "a": "Local can be convenient, especially if you want to drop in documents or discuss a claim in person, but what matters most is that the adviser understands your type of cover and is properly authorised. It is worth comparing a nearby adviser with one further afield before deciding."
+  },
+  {
+   "q": "Will an adviser near me only offer policies from local insurers?",
+   "a": "No. Advisers generally arrange cover with insurers across the UK, and being nearby does not limit which policies they can access. Ask which insurers they typically use for your kind of cover so you understand the range of options."
+  }
+ ]
+}

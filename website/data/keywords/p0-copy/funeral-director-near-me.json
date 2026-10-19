@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a funeral director near you usually means someone has died and you need practical help close to home, often at short notice. You may be arranging a funeral for the first time and want to know who can guide you through the arrangements locally. We introduce you to a funeral director in your area who can explain the options and quote you directly.",
+ "need_heading": "What people searching for a funeral director near me usually need",
+ "need_lead": "Most people searching this way need a local funeral director who can take care of the person who has died and help the family organise the funeral.",
+ "needs": [
+  "You need someone nearby who can collect the person who has died and care for them until the funeral.",
+  "You want to understand the difference between a burial and a cremation, including direct cremation, before making arrangements.",
+  "You are unsure what a funeral will cost and want a clear price list so you can compare local funeral directors.",
+  "You need help with the practical steps after a death, such as registering the death and choosing a date for the funeral.",
+  "You would prefer to speak to a funeral director close to home so visits to the funeral home are easy for family and friends."
+ ],
+ "context_heading": "Understanding funeral director regulation and costs",
+ "context": [
+  "Funeral directors in England are not licensed, but many belong to the National Association of Funeral Directors (NAFD) or the National Society of Allied and Independent Funeral Directors (SAIF), which have codes of practice. Scotland has a statutory code of practice for funeral directors. Checking membership can help you feel confident about the standards you can expect.",
+  "The Competition and Markets Authority requires funeral directors to display standardised price lists, so you can compare costs clearly. Ask for the standardised price list when you contact a funeral director near you, and remember that direct cremation is an option if you prefer a simpler arrangement."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Tell us your postcode or the area where you need a funeral director so we can introduce you to someone local.",
+  "Let us know whether you are considering burial or cremation, or if you would like to discuss direct cremation.",
+  "Mention if the death has already been registered or if you need guidance on that step.",
+  "Share any preferences you have, such as a religious or non-religious service, or a particular funeral home you have in mind.",
+  "Tell us if you are working to a particular budget so the funeral director can explain the options clearly.",
+  "Let us know the best way and time to contact you, as this is often a difficult time for the family."
+ ],
+ "questions_heading": "Questions to ask the funeral director",
+ "questions": [
+  "Can you provide your standardised price list so I can see the costs clearly?",
+  "Are you a member of NAFD or SAIF, and what does your code of practice cover?",
+  "What is included in your direct cremation option?",
+  "How do you care for the person who has died before the funeral?",
+  "Can you help us with registering the death and other practical arrangements?",
+  "What are the next steps if we decide to use your services?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I choose a funeral director near me?",
+   "a": "Start by contacting a few local funeral directors and asking for their standardised price list so you can compare costs. Check whether they belong to NAFD or SAIF, and choose someone you feel comfortable speaking with about your needs."
+  },
+  {
+   "q": "What is a standardised price list?",
+   "a": "It is a price list that funeral directors are required by the Competition and Markets Authority to display, making it easier for you to compare costs between providers. Ask for it when you enquire so you can see what is included."
+  },
+  {
+   "q": "Is direct cremation available from funeral directors near me?",
+   "a": "Many funeral directors offer direct cremation as a simpler, lower-cost option. Ask the funeral director near you whether they provide it and what it includes."
+  },
+  {
+   "q": "Do I need to use a funeral director who is a member of NAFD or SAIF?",
+   "a": "It is not a legal requirement, but membership means the funeral director follows a code of practice. You can ask about membership when you contact them to help you decide."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for a physio near me, you're probably dealing with pain, stiffness or an injury that's holding you back, and you want someone local who can help you move better. Physiotherapists assess and treat muscles, joints and movement to reduce pain and restore function. We introduce you to a suitable UK physiotherapist who will quote you directly, so you can compare and choose with confidence.",
+ "need_heading": "What people searching for a physio near me usually need",
+ "need_lead": "Most people looking for a physio near me want practical, hands-on help from a qualified professional who is easy to get to.",
+ "needs": [
+  "You have a bad back, neck or shoulder that has been bothering you and you want a proper assessment rather than guessing what to do.",
+  "You are recovering from a sports injury or a fall and need a structured rehabilitation plan to get back to your normal activities.",
+  "You have been referred for physiotherapy after surgery and need a local clinic that can support your recovery close to home.",
+  "You have a long-term condition such as arthritis or a neurological issue and want ongoing physiotherapy to manage symptoms and stay mobile.",
+  "You are looking for a physiotherapist who can see you without travelling far, perhaps because of work, caring responsibilities or limited transport."
+ ],
+ "context_heading": "What to check before you book a physio near me",
+ "context": [
+  "In the UK, 'physiotherapist' and 'physical therapist' are protected titles, so anyone using them must be registered with the Health and Care Professions Council (HCPC). You can check the HCPC register online to confirm someone's registration. Most physiotherapists are also members of the Chartered Society of Physiotherapy (CSP), shown by the letters MCSP after their name.",
+  "Sports therapists, massage therapists and personal trainers can be helpful for some needs, but they are not physiotherapists. If you have an injury, are recovering from surgery or have a neurological condition, check that you are booking an HCPC-registered physiotherapist. When you search for a physio near me, it's worth asking about their experience with your specific problem."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the problem you want help with, such as back pain, a sports injury or recovery after surgery.",
+  "Mention how long you have had the problem and whether it is getting better or worse.",
+  "Say whether you have seen a doctor or had any scans or tests related to the issue.",
+  "Explain any particular needs, such as a preference for a clinic that is easy to reach by public transport or has step-free access.",
+  "Note if you need evening or weekend appointments because of work or other commitments.",
+  "Include your location and how far you are willing to travel to see a physio near me."
+ ],
+ "questions_heading": "Questions to ask the physiotherapist",
+ "questions": [
+  "Are you registered with the Health and Care Professions Council (HCPC)?",
+  "What is your experience of treating my specific problem?",
+  "What will the first appointment involve and how many sessions might I need?",
+  "Will I need to bring anything with me, such as comfortable clothing or any scans I have had?",
+  "What should I expect in terms of home exercises between sessions?",
+  "What are your fees and how do you take payment?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I know a physiotherapist is properly qualified?",
+   "a": "In the UK, 'physiotherapist' is a protected title, so anyone using it must be registered with the Health and Care Professions Council (HCPC). You can check the HCPC register online. Many physiotherapists are also members of the Chartered Society of Physiotherapy (CSP) and use the letters MCSP."
+  },
+  {
+   "q": "What happens at a first physiotherapy appointment?",
+   "a": "The first session usually includes an assessment of your movement and symptoms, a discussion about your medical history and goals, and often some initial treatment or advice. You may be given exercises to do at home. It helps to wear comfortable clothing."
+  },
+  {
+   "q": "Can a sports therapist or personal trainer help with my injury?",
+   "a": "Sports therapists, massage therapists and personal trainers can be helpful for some needs, but they are not physiotherapists. For an injury, post-surgery rehabilitation or a neurological condition, check that you are booking an HCPC-registered physiotherapist."
+  },
+  {
+   "q": "How do I find a physio near me through iComply?",
+   "a": "Tell iComply what you need help with and your location, and we will introduce you to a suitable UK physiotherapist. They will then contact you with a quote, which is price on application, so you can decide whether to go ahead."
+  }
+ ],
+ "extra_heading": "Choosing between the physios close to you",
+ "extra": [
+  "Searching for a physio near me usually brings up more than one option, and the useful question is not which is best but which suits your situation. Think about what matters most to you: how easy the clinic is to reach on the days you are likely to need it, whether appointments are available at times that fit around work or caring, and whether the setting feels comfortable for the problem you have. A physiotherapist who is a short walk away but only free when you are at work may suit you less than one slightly further away who can see you at a time you can manage.",
+  "It is worth asking each physiotherapist the same few questions so you can compare like with like. Ask what their first appointment involves, what they would expect in terms of follow-up sessions, and what home exercises they typically set for a problem like yours. Because quotes are price on application, ask about fees directly and check what is included, so you are comparing the full picture rather than a headline figure. Bring comfortable clothing to your first session, as the assessment will usually involve looking at how you move.",
+  "One common misunderstanding is that any local practitioner offering hands-on treatment for aches and pains is a physiotherapist. Sports therapists, massage therapists and personal trainers can be helpful for some needs, but they are not physiotherapists, and the title is protected in the UK. If you are dealing with an injury, recovery after surgery or a neurological condition, confirm the person is registered with the Health and Care Professions Council (HCPC) before you book, wherever they happen to be based."
+ ],
+ "extra_faqs": [
+  {
+   "q": "There are several physios near me — how do I choose between them?",
+   "a": "Rather than looking for a best option, compare on what matters to you: how easily you can get there, whether appointment times fit your life, and how clearly each one explains what your first session would involve. Ask about fees and what they cover, since quotes are price on application, and check HCPC registration for each physiotherapist you are considering."
+  },
+  {
+   "q": "Do I need a referral from my GP before seeing a physio near me?",
+   "a": "Many physiotherapists in the UK see people without a referral from a GP, but it is worth asking the clinic when you enquire. If you have already seen a doctor, had scans or received a diagnosis, mention this so the physiotherapist knows your history from the start."
+  },
+  {
+   "q": "What if the nearest physio cannot help with my problem?",
+   "a": "Physiotherapists assess a wide range of muscle, joint and movement problems, but if your needs are outside what a particular clinic handles, it is reasonable to ask whether they can point you towards someone more suitable. Describing your problem clearly when you first make contact helps you avoid a wasted journey."
+  }
+ ]
+}

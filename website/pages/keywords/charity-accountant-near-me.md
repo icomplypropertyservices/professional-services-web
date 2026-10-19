@@ -1,128 +1,127 @@
 ---
 slug: charity-accountant-near-me
 title: Charity Accountant Near Me | iComply Professional Services
-description: Looking for a charity accountant near you? Tell iComply what you need and we match you with a suitable UK accountant. Free to enquire. Request a quote — POA.
+description: Find a charity accountant near you with iComply: one free enquiry, matched to a suitable UK accountant. No obligation. Request a quote — POA.
 family: accountant
 group: accountancy
 hub: accountants
 profession: accountant
 service_label: Charity accountant
-og_image: /assets/images/insurance-advisory.jpg
+og_image: /assets/images/hero-workshop.jpg
 ---
 
 # Charity Accountant Near Me
 
-Searching for **charity accountant near me**? You probably want someone suitable, available and within reach. Charity accountants prepare accounts under the Charities SORP, carry out independent examinations or audits and advise trustees on reporting and Gift Aid.
+You're looking for a charity accountant near you, most likely because your charity or not-for-profit has reporting duties to keep on top of and you'd rather have someone local who understands them. Whether you're a trustee of a small charity or running something larger, the right accountant can help with accounts, independent examination or audit, and the paperwork that goes with it. iComply introduces you to a suitable UK professional who quotes you directly, with the price on application.
+
+Charity accountants prepare accounts under the Charities SORP, carry out independent examinations or audits and advise trustees on reporting and Gift Aid.
 
 iComply Professional Services is a free matching service. You tell us what you need and where you are; we connect you with a suitable UK accountant who can quote for the work. The practice provides the service, and every quote is POA.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Client explaining what they need before being matched with a charity accountant](/assets/images/insurance-advisory.jpg)
+![Client explaining what they need before being matched with a charity accountant](/assets/images/hero-workshop.jpg)
 
-## What accountants commonly help with
+## What people searching for a charity accountant usually need
 
-Every enquiry is different, but these are typical starting points for clients who contact accountants:
+Charity accounting is a specialist area, and the person searching usually has a specific reporting or governance task in mind.
 
-- A VAT registration or a change of VAT scheme.
-- A landlord with rental income from one or several properties.
-- A sole trader filing a first Self Assessment return.
-- A new limited company needing year-end accounts and a corporation tax return.
-- A business sale, restructure or investment round that needs proper numbers.
+- You're a trustee who needs annual accounts prepared in line with the Charities SORP and filed correctly with the Charity Commission.
+- You're unsure whether your charity needs an independent examination or a full audit, and want someone to explain which applies to you.
+- You've been handling the books yourself and now need a professional to look over restricted funds and make sure they're tracked properly.
+- You've recently set up a charity or CIO and need help understanding Gift Aid claims and ongoing reporting obligations.
+- You want a local accountant you can sit down with face to face to talk through your charity's finances and trustee responsibilities.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of accountant fits best.
-
-## Timing and urgency
+## How long things usually take
 
 Most practices can take on a new client within a few weeks, but capacity tightens sharply in the run-up to the 31 January Self Assessment deadline and around company year ends. If you have a deadline coming up, say so in your enquiry so we can prioritise practices with room to help now.
 
-## Your relationship with the practice
-
-After the introduction, the practice will usually run its own onboarding: identity checks required under money-laundering rules, an engagement letter and authority to act with HMRC. From then on the relationship is between you and the accountant. You stay free to change firms later; a professional clearance letter makes handovers straightforward.
-
-**Need a charity accountant?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
-
-## How to check you are in safe hands
+## Checking accountants are qualified and regulated
 
 In the UK, the word "accountant" on its own is not a protected title, so anyone can use it. Titles such as Chartered Accountant (ICAEW, ICAS or Chartered Accountants Ireland), Chartered Certified Accountant (ACCA) and Chartered Management Accountant (CIMA) are protected, and members are bound by their body's ethics, training and complaints rules. Only registered auditors can sign statutory audit reports.
 
 Every practice offering accountancy services must also be supervised for anti-money-laundering purposes, either by a professional body or by HMRC. It is reasonable to ask which body supervises a firm, whether they hold professional indemnity insurance, and how complaints are handled.
 
-Please note that iComply is a matching service only. We are not regulated as a accountant, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
+iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
 
-## What a charity accountant is likely to cost (POA)
+**Need a charity accountant?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-Accountancy fees depend on the complexity of your affairs, the quality of your records and how much of the work you want the accountant to take on. Many practices offer fixed monthly or annual packages; others charge for time. Either can be fair if the scope is written down. iComply does not set or publish fees: the practice will quote you, and that quote is POA.
-
-Ask for an engagement letter before work starts. It should list what is included, your responsibilities, deadlines and how extra work is charged. Comparing two or three written scopes is usually more useful than comparing headline prices.
-
-## When to think twice
-
-Be cautious if you notice any of the following:
-
-- Promises of tax savings that sound too good to be true
-- No engagement letter or written scope before work begins
-- Reluctance to say which professional body or AML supervisor they use
-- No clear answer about who handles your file day to day
-
-![Next steps after an iComply introduction for a charity accountant](/assets/images/healthcare-consult.jpg)
-
-## How our free matching service works
+## How iComply matches you
 
 1. **Enquire for free** with your town or postcode and a short description.
 1. **We clarify** anything unclear, so the introduction is useful from the start.
 1. **We connect you** with a charity accountant who suits your situation.
 1. **The practice takes over**, confirms scope and fees in writing and does the work.
 
-There is no charge to you for the introduction, and no obligation to accept any quote.
+We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
 
-## Good questions for your first call
+## Costs and quotes for a charity accountant
 
-Asking a few direct questions early tells you a lot about how a practice works:
+Accountancy fees depend on the complexity of your affairs, the quality of your records and how much of the work you want the accountant to take on. Many practices offer fixed monthly or annual packages; others charge for time. Either can be fair if the scope is written down. iComply does not set or publish fees: the practice will quote you, and that quote is POA.
 
-- Who will actually prepare my accounts, and who reviews them?
-- How do you handle Making Tax Digital requirements?
-- What is included, and what would be charged as extra work?
-- How quickly do you usually reply to emails and calls?
-- Do you have experience with businesses or income like mine?
-- What do you need from me each month or each year?
+Ask for an engagement letter before work starts. It should list what is included, your responsibilities, deadlines and how extra work is charged. Comparing two or three written scopes is usually more useful than comparing headline prices.
 
-## Practical points about a charity accountant
+![Next steps after an iComply introduction for a charity accountant](/assets/images/insurance-advisory.jpg)
 
-A few points come up again and again with a charity accountant:
+## What to tell iComply when you enquire
+
+A short, clear brief saves time on both sides. Useful details include:
+
+- Describe your organisation, including whether it's a registered charity, a CIO, a company or an unincorporated association.
+- Say roughly what your annual income is like, since this affects whether you need an independent examination or an audit.
+- Mention whether you need help with accounts preparation, an independent examination, an audit, or broader trustee advice.
+- Explain whether you have restricted funds and whether tracking them is a concern for you.
+- Let us know if you need help with Gift Aid or Charity Commission filing alongside the accounts.
+- Tell us your location and whether you'd prefer to meet locally or work remotely.
+
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+
+## Questions to ask the professional
+
+Once you are introduced, these questions help you decide whether the accountant is right for you:
+
+- Which professional body are you a member of, and what title do you hold?
+- Which body supervises your practice for anti-money-laundering purposes?
+- Do you hold professional indemnity insurance?
+- How will you decide whether my charity needs an independent examination or an audit?
+- How do you handle restricted funds and report on them in the accounts?
+- Can you help with Gift Aid claims and Charity Commission filing as part of the work?
+
+## Understanding charity accounting and who you're dealing with
+
+In the UK, the word "accountant" on its own isn't a protected title, so anyone can call themselves one. Titles such as Chartered Accountant, Chartered Certified Accountant and Chartered Management Accountant are protected, and members are bound by their professional body's ethics, training and complaints rules. Only a registered auditor can sign a statutory audit report, which matters if your charity needs an audit rather than an independent examination.
+
+It's sensible to ask which body supervises a firm, whether they hold professional indemnity insurance, and how complaints are handled. Because charity work involves public money and trustee duties, these checks are worth making before you appoint anyone.
+
+## Key things to know about a charity accountant
+
+These practical points are worth knowing before you speak to anyone about a charity accountant:
 
 - Thresholds decide whether you need an independent examination or audit.
 - Ask about Charity Commission filing.
 - Restricted funds need careful tracking.
 
-A good accountant will talk you through each of these in plain English.
-
-## What to prepare before you enquire
-
-You do not need all of this to enquire, but the more you can share, the better the match:
-
-- Whether you are VAT registered or close to the threshold
-- Rough annual turnover or income range
-- Which software you use, if any (for example Xero, QuickBooks or Sage)
-- The services you think you need, even if you are unsure
-- The type of business or income you have (sole trader, partnership, company, landlord, employee)
-- Your Unique Taxpayer Reference or company number
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
-
-## Near me: how local matching works
-
-When you search for a charity accountant near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
-
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
+Raise any of these with the accountant you are introduced to; they should be happy to explain.
 
 ![Professional reviewing a client's brief before an introduction for charity accountant near me](/assets/images/finance-desk.jpg)
 
-## Charity Accountant Near Me: FAQs
+## FAQs about charity accountant near me
 
-### Do I need a chartered accountant?
+### Do I need an audit or an independent examination for my charity?
 
-Not always. For simple Self Assessment a qualified, supervised accountant may be enough. For audits, complex group structures or specialist tax work, a chartered or certified firm is often the safer choice. We can match you to either.
+It depends on your charity's income and structure, and the rules set by the Charity Commission and charity law. An accountant can look at your circumstances and explain which applies, and only a registered auditor can sign a statutory audit report.
+
+### What is the Charities SORP?
+
+The Charities SORP is the statement of recommended practice that sets out how charity accounts should be prepared. A charity accountant will prepare your accounts in line with it so they meet the expected standard.
+
+### Can you help with Gift Aid?
+
+Charity accountants can advise trustees on Gift Aid and how it fits with your reporting. It's worth raising this early so any claims are handled correctly alongside the accounts.
+
+### How do I know the accountant is properly qualified?
+
+Ask which professional body they belong to and which title they hold, since titles like Chartered Accountant and Chartered Certified Accountant are protected. You can also ask which body supervises the practice for anti-money-laundering purposes and whether they hold professional indemnity insurance.
 
 ### Can I switch accountant part-way through the year?
 
@@ -136,21 +135,17 @@ Send us your town or postcode with a short description of what you need. We look
 
 Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
 
-### Is iComply regulated?
-
-iComply is a matching service. We are not a accountant and we do not give professional advice. The professionals we introduce are registered with their own bodies, and you can check them.
-
 ### How quickly will I hear back?
 
 Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
 
-## Other services you may need
+## Related searches
 
-- [Accountants near me](/keywords/accountants-near-me/)
-- [Local accountant near me](/keywords/local-accountant-near-me/)
+- [Self assessment accountant near me](/keywords/self-assessment-accountant-near-me/)
+- [Accountants](/keywords/accountants/)
 - [Company accountant near me](/keywords/company-accountant-near-me/)
-- [Non resident accountant near me](/keywords/non-resident-accountant-near-me/)
-- [Medical accountant near me](/keywords/medical-accountant-near-me/)
+- [Accountant](/keywords/accountant/)
+- [Expat accountant near me](/keywords/expat-accountant-near-me/)
 - [Browse all accountants](/hubs/accountants/)
 
 ## Ready to be matched?

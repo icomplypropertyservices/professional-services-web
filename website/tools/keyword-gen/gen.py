@@ -8,9 +8,62 @@ from norm import parse
 from topics import T
 from families import F
 from mods import MOD, FORM, ROLE
+import json
+
+COPY_DIR = None  # set below once WEB is known
+def load_copy(slug):
+    """Keyword-specific copy written by copy_deepseek.py (DeepSeek, G20) and cached in git."""
+    with open(os.path.join(COPY_DIR, slug + '.json')) as fh:
+        return json.load(fh)
+
+# a/an by sound. Acronyms use letter names (an SRA, an FCA, an HMRC, a GP, a UK).
+_AN_LETTERS = set('AEFHILMNORSX')
+_A_EXCEPT = ('uniq', 'unio', 'unit', 'univ', 'unif', 'unil', 'unis', 'use', 'usu', 'uk', 'eu', 'one', 'once', 'ewe', 'utili', 'uro', 'euro')
+_AN_EXCEPT = ('hour', 'honest', 'honour', 'heir')
+def _wants_an(word):
+    w = word.strip('*_[("\'')
+    if not w: return None
+    letters = re.sub(r'[^A-Za-z]', '', w)
+    if not letters: return None
+    if len(letters) >= 2 and letters.isupper() and letters not in ('ACAS', 'NICE', 'OISC'):
+        return letters[0] in _AN_LETTERS
+    lw = letters.lower()
+    if lw.startswith(_AN_EXCEPT): return True
+    if lw.startswith(_A_EXCEPT): return False
+    return lw[0] in 'aeiou'
+def dedupe_sentences(text):
+    """Drop a sentence in a body paragraph if the same sentence already appeared earlier on the page."""
+    seen = set(); out = []; in_front = False
+    for line in text.split('\n'):
+        if line == '---': in_front = not in_front; out.append(line); continue
+        if in_front or not line.strip() or line.startswith(('#', '!', '[', '**[', '1. ', '- ')):
+            out.append(line); continue
+        keep = []
+        for sent in re.split(r'(?<=[.!?])\s+', line):
+            k = ' '.join(re.sub(r'[^a-z0-9 ]', ' ', sent.lower()).split())
+            if len(k.split()) >= 4 and k in seen: continue
+            seen.add(k); keep.append(sent)
+        out.append(' '.join(keep) if keep else line)  # never leave a heading or FAQ without its text
+    return re.sub(r'\n{3,}', '\n\n', '\n'.join(out))
+
+def fix_articles(text):
+    def sub(m):
+        art, word = m.group(1), m.group(2)
+        want = _wants_an(word)
+        if want is None: return m.group(0)
+        new = ('an' if want else 'a')
+        if art[0].isupper(): new = new.capitalize()
+        return new + m.group(0)[len(art):]
+    out = []
+    for line in text.split('\n'):
+        if line.startswith(('slug:', 'og_image:', 'hub:', 'family:', 'group:')) or '](/' in line and line.startswith('- ['):
+            out.append(line); continue
+        out.append(re.sub(r'\b(a|an|A|An)\s+([*_\["(]*[A-Za-z][\w\-]*)', sub, line))
+    return '\n'.join(out)
 
 WEB = os.path.dirname(os.path.dirname(HERE))
 OUT = os.path.join(WEB, 'pages', 'keywords')
+COPY_DIR = os.path.join(WEB, 'data', 'keywords', 'p0-copy')
 SLUGS = [l.strip() for l in open(os.path.join(WEB, 'data', 'keywords', 'PS-KEYWORDS-P0.txt')) if l.strip()]
 AGENCY = ('website', 'seo', 'digital-marketing', 'web-design')
 
@@ -60,6 +113,8 @@ def build(slug, siblings_by_family):
     group = fam['group']
     hub = topic.get('hub') or fam['hub']
     imgs = IMAGES.get(group, IMAGES['general'])[:]
+    if group != 'healthcare':  # keep the clinical desk photo off legal, finance and property pages
+        imgs = [i for i in imgs if i != 'healthcare-consult.jpg']
     rot = rng.randrange(len(imgs)); imgs = imgs[rot:] + imgs[:rot]
     alts = [
         f"Client explaining what they need before being matched with {lab}",
@@ -69,7 +124,7 @@ def build(slug, siblings_by_family):
         f"Planning the first appointment after an enquiry for {kw}",
     ]
     rng.shuffle(alts)
-    img = lambda i: f"![{alts[i]}](/assets/images/{imgs[i]})"
+    img = lambda i: f"![{alts[i]}](/assets/images/{imgs[i % len(imgs)]})"
     form = 'near' if p['near'] else ('plural' if p['plural'] else 'bare')
 
     # ---- intro
@@ -87,8 +142,11 @@ def build(slug, siblings_by_family):
      f"We act as the middleman between you and the professional. Share a short brief and we match you with {lab} who has the right experience and capacity. Enquiring is free, and you are under no obligation to accept a quote.",
      f"Rather than calling round, you can send one enquiry to iComply. We look at your needs, location and timing, then introduce you to a suitable {fam['practice']}. They quote you directly, POA, and you decide whether to go ahead.",
     ]
+    cp = load_copy(slug)
     md = []
-    md.append(rng.choice(openers[form]))
+    md.append(cp['intro'].strip())
+    md.append('')
+    md.append(topic['what'])
     md.append('')
     md.append(rng.choice(middle))
     md.append('')
@@ -101,13 +159,10 @@ def build(slug, siblings_by_family):
         sections.append((h, body))
 
     # what / scenarios
-    sc = rng.sample(fam['scenarios'], 5)
-    sec(rng.choice(["What {nouns} commonly help with", "Common reasons people contact {nouns}", "Where {nouns} can help"]).format(**ctx),
-        [rng.choice([f"{cap(fam['nouns'])} help clients in many situations. Some of the most common are:",
-                     f"Every enquiry is different, but these are typical starting points for clients who contact {fam['nouns']}:",
-                     f"You do not need to have everything worked out. Clients often come to us with situations like these:"])]
-        + ['- ' + cap(x) + '.' for x in sc]
-        + [f"If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of {fam['noun']} fits best."])
+    sec(cp['need_heading'].strip(), [cp['need_lead'].strip()] + ['- ' + cap(x.strip()) for x in cp['needs']])
+    sec(cp['context_heading'].strip(), [x.strip() for x in cp['context']])
+    if cp.get('extra'):
+        sec(cp['extra_heading'].strip(), [x.strip() for x in cp['extra']])
     # key points (topic-specific)
     sec(rng.choice(["Key things to know about {lab}", "Practical points about {lab}", "Before you choose {lab}"]).format(**ctx),
         [rng.choice([f"A few points come up again and again with {lab}:", f"These practical points are worth knowing before you speak to anyone about {lab}:"])]
@@ -120,8 +175,7 @@ def build(slug, siblings_by_family):
             hs, paras, _ = MOD[m]
             sec(rng.choice(hs).format(**ctx), [x.format(**ctx) for x in paras])
     # form
-    hs, paras = FORM[form]
-    sec(rng.choice(hs).format(**ctx), [x.format(**ctx) for x in paras])
+    # (generic near-me / plural / bare paragraphs dropped 19 Oct: the keyword-specific copy covers the search intent)
     # role angle
     last = p['rest'][-1] if p['rest'] else ''
     rk = {'advisor':'advisor','advisors':'advisor','adviser':'advisor','advisers':'advisor','consultant':'consultant','consultants':'consultant',
@@ -137,15 +191,14 @@ def build(slug, siblings_by_family):
     ]))
     sec(rng.choice(["Checking {nouns} are qualified and regulated", "Qualifications and registration to look for", "How to check you are in safe hands"]).format(**ctx), reg)
     # prepare
-    pr = rng.sample(fam['prepare'], 6)
-    sec(rng.choice(["What to prepare before you enquire", "Information that helps us match you", "Getting ready for your first conversation"]),
+    sec(cp['tell_heading'].strip(),
         [rng.choice(["You do not need all of this to enquire, but the more you can share, the better the match:",
                      "A short, clear brief saves time on both sides. Useful details include:"])]
-        + ['- ' + cap(x) for x in pr]
+        + ['- ' + cap(x.strip()) for x in cp['tell']]
         + ["Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced."])
     # questions
-    qs = rng.sample(fam['questions'], 6)
-    sec(rng.choice(["Questions to ask {lab}", "Good questions for your first call", "What to ask before you instruct anyone"]).format(**ctx),
+    qs = [q.strip() for q in cp['questions']]
+    sec(cp['questions_heading'].strip(),
         [rng.choice([f"Once you are introduced, these questions help you decide whether the {fam['noun']} is right for you:",
                      "Asking a few direct questions early tells you a lot about how a practice works:"])]
         + ['- ' + x for x in qs])
@@ -158,7 +211,7 @@ def build(slug, siblings_by_family):
         + ['- ' + cap(x) for x in rng.sample(fam['red_flags'], 4)]))
     opt.append((rng.choice(["Typical timescales", "How long things usually take", "Timing and urgency"]), [fam['timeline']]))
     opt.append((rng.choice(["What happens after you are introduced", "After the introduction", "Your relationship with the practice"]), [fam['after']]))
-    keep = rng.sample(opt, rng.choice([2, 3, 3]))
+    keep = rng.sample(opt, 1)
     for o in keep: sec(*o)
     # how it works
     steps_v = [
@@ -197,7 +250,8 @@ def build(slug, siblings_by_family):
             md.append('')
 
     # FAQs
-    faqs = list(fam['faqs'])
+    faqs = [(x['q'].strip(), x['a'].strip()) for x in cp['faqs'] + cp.get('extra_faqs', [])]
+    faqs += rng.sample(list(fam['faqs']), min(1, len(fam['faqs'])))
     for m in p['mods']:
         if m in MOD:
             q, a = MOD[m][2]; faqs.append((q.format(**ctx), a.format(**ctx)))
@@ -210,7 +264,7 @@ def build(slug, siblings_by_family):
         ("How quickly will I hear back?", "Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you."),
         ("Can I contact you on WhatsApp?", "Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced."),
     ]
-    faqs += rng.sample(generic, 3)
+    faqs += rng.sample(generic, 2)
     seenq = set(); fq = []
     for q, a in faqs:
         if q not in seenq: seenq.add(q); fq.append((q, a))
@@ -268,7 +322,7 @@ def build(slug, siblings_by_family):
         f'group: {group}', f'hub: {hub}', f'profession: {fam["noun"]}', f'service_label: {cap(bare)}', f'og_image: /assets/images/{imgs[0]}', '---', '',
         f'# {kwt}', '',
     ]
-    return '\n'.join(front + md).rstrip() + '\n', desc
+    return fix_articles(dedupe_sentences('\n'.join(front + md).rstrip() + '\n')), desc
 
 def main():
     os.makedirs(OUT, exist_ok=True)

@@ -1,0 +1,73 @@
+{
+ "intro": "When you type \"accountants near me\", you're usually looking for someone local who can take the stress out of tax and accounts, or you want to compare a few practices before deciding. You might be self-employed, running a small business, or simply tired of doing your own return. We introduce you to a suitable UK accountant who quotes you directly, so you can see what's on offer before you commit.",
+ "need_heading": "What people searching for accountants near me usually need",
+ "need_lead": "Most people want a local accountant who can handle the paperwork and help them plan ahead, without jargon or surprise bills.",
+ "needs": [
+  "You're self-employed and need someone to prepare your self assessment tax return and tell you what you can claim.",
+  "You run a small limited company and want help with annual accounts, confirmation statements and corporation tax.",
+  "You're behind with your bookkeeping and need an accountant to sort out your records before filing deadlines.",
+  "You're starting a new business and want advice on the best legal structure and how to keep on top of tax from day one.",
+  "You've moved to a new area and need a local accountant who understands your situation and can meet in person if needed."
+ ],
+ "context_heading": "What to know about choosing an accountant near you",
+ "context": [
+  "In the UK, the word \"accountant\" on its own is not a protected title, so anyone can call themselves an accountant. However, titles such as Chartered Accountant, Chartered Certified Accountant and Chartered Management Accountant are protected, and members are bound by their professional body's ethics, training and complaints rules. It's reasonable to ask which body supervises the firm and whether they hold professional indemnity insurance.",
+  "Every accountancy practice must also be supervised for anti-money-laundering purposes, either by a professional body or by HMRC. When you compare local accountants, ask about their experience with your type of work and how they handle Making Tax Digital, so you know they can support you as rules change."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Whether you're self-employed, a limited company director, a landlord or something else, so we can match you with the right kind of practice.",
+  "The type of work you need help with, such as tax returns, annual accounts, bookkeeping or tax planning.",
+  "Your approximate turnover or income range, so the accountant can gauge the scale of your affairs.",
+  "Whether you're up to date with your records or need help catching up.",
+  "Any deadlines you're working towards, such as a tax return due date or company accounts filing date.",
+  "Your preferred way of working, whether you'd like to meet in person locally or are happy with remote support."
+ ],
+ "questions_heading": "Questions to ask the accountant",
+ "questions": [
+  "Which professional body supervises your practice for anti-money-laundering purposes?",
+  "Do you hold professional indemnity insurance?",
+  "What exactly is included in your fee for preparing my accounts and tax return?",
+  "How do you handle Making Tax Digital for my situation?",
+  "Will you help me plan ahead for tax, not just file the returns?",
+  "How do you prefer to communicate, and how quickly do you usually respond to queries?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I compare accountants near me if I don't know the difference between them?",
+   "a": "Look at their professional qualifications and the body that supervises them, and ask what experience they have with clients like you. A good accountant should explain things clearly and help you plan, not just file paperwork."
+  },
+  {
+   "q": "Can I ask an accountant for a quote before I commit?",
+   "a": "Yes, most accountants will give you a quote after understanding your needs. With iComply, you tell us what you need and we introduce you to a suitable professional who quotes you directly, so you can compare."
+  },
+  {
+   "q": "What should I have ready when I first speak to an accountant?",
+   "a": "It helps to have an idea of your income and expenses, your business structure if you have one, and any deadlines you're working towards. The accountant can then tell you what else they need."
+  },
+  {
+   "q": "Is it better to choose an accountant who is local to me?",
+   "a": "Local can be convenient for in-person meetings, but many accountants work remotely and serve clients across the UK. What matters most is that they understand your situation and communicate in a way that suits you."
+  }
+ ],
+ "extra_heading": "Choosing between several local accountants",
+ "extra": [
+  "Searching for accountants near me, rather than just an accountant, suggests you're weighing up more than one practice and want to compare them side by side. That's a sensible approach, because two firms a few streets apart can differ widely in the clients they usually work with and the way they like to communicate. Knowing what to compare makes those conversations much more useful.",
+  "Start with qualifications and supervision: check whether the person you'll deal with is a Chartered Accountant, Chartered Certified Accountant or Chartered Management Accountant, and ask which body supervises the practice for anti-money-laundering purposes. Then ask what kind of clients they usually help, since a practice that mostly works with landlords will feel different from one that spends its days on limited company accounts. A good accountant should help you plan, not only file, so notice whether they ask about your plans as well as your paperwork.",
+  "It also helps to compare how each one quotes. Ask exactly which returns and filings the fee covers, whether bookkeeping and software support are included, and how they handle Making Tax Digital for your situation. A quote that looks lower at first glance may cover less, so compare like with like before you decide."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I speak to more than one accountant near me before choosing?",
+   "a": "It's reasonable to speak to a few so you can compare how clearly they explain things and what their quotes cover. Each will need a similar picture of your income, business structure and deadlines to quote sensibly."
+  },
+  {
+   "q": "How do I judge which local accountant is right for me if I can't tell them apart?",
+   "a": "Ask about their qualifications and the body that supervises them, their experience with clients in your situation, and what their fee includes. The one who answers plainly and asks about your plans as well as your paperwork is usually the easier to work with."
+  },
+  {
+   "q": "Does working with a local accountant mean meetings in person?",
+   "a": "Not necessarily. Many practices near you also work by phone, email or online, so it's worth asking how they prefer to communicate before you assume you'll be visiting an office."
+  }
+ ]
+}

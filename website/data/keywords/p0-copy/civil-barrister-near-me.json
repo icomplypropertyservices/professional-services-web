@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a civil barrister near me usually means you are facing a non-criminal dispute—perhaps a contract disagreement, a negligence claim, a property issue or a debt—and you want specialist representation or advice from someone who can travel to you or work locally. You may be wondering whether you need a barrister at all, how to find one in your area, and how the process works.",
+ "need_heading": "What people searching for a civil barrister near me typically need",
+ "need_lead": "Most people looking for a civil barrister near me are dealing with a specific dispute and want to understand their options, costs and the next steps.",
+ "needs": [
+  "You have received a claim form or a letter before action and need advice on whether to defend, settle or counterclaim.",
+  "You are involved in a boundary or property dispute and want a barrister's view on the merits before incurring further costs.",
+  "You are considering making a negligence claim against a professional or tradesperson and need to know if you have a viable case.",
+  "You are owed money and want to understand how to recover it through the courts or negotiation.",
+  "You are already in court proceedings and need a barrister to represent you at a hearing or to advise on settlement."
+ ],
+ "context_heading": "Understanding how to find a civil barrister near you",
+ "context": [
+  "Civil barristers in England and Wales are regulated by the Bar Standards Board (BSB). You can check the Barristers' Register to confirm whether someone holds a current practising certificate and whether they are authorised to accept instructions directly from the public under the Public Access scheme. In Scotland, the equivalent professionals are advocates, regulated through the Faculty of Advocates.",
+  "Barristers usually work from chambers, and clerks manage their diaries and fees. Many barristers can be instructed through a solicitor in the traditional way, while those registered for Public Access can be instructed directly by members of the public for suitable matters. When searching for a civil barrister near me, consider whether you need someone local for face-to-face meetings or whether remote working is acceptable."
+ ],
+ "tell_heading": "What to tell iComply when enquiring about a civil barrister",
+ "tell": [
+  "Describe the type of civil dispute you are involved in, such as a contract, negligence, property or debt matter.",
+  "Explain what stage you are at—whether you have received a claim form, are considering issuing a claim, or are already in proceedings.",
+  "Mention any upcoming deadlines or hearing dates so the barrister can assess urgency.",
+  "State whether you have already instructed a solicitor or are seeking direct access under the Public Access scheme.",
+  "Give your location and say whether you are able to travel or need someone who can work remotely.",
+  "Outline what you hope to achieve, such as advice on merits, representation at a hearing, or help with settlement."
+ ],
+ "questions_heading": "Questions to ask a civil barrister before instructing them",
+ "questions": [
+  "What is your experience in handling cases like mine?",
+  "Are you authorised to accept instructions directly from the public under the Public Access scheme?",
+  "How do you charge for your work, and what are the likely costs?",
+  "What do you think the merits of my case are, and what are the risks?",
+  "Will you be able to represent me at hearings, and how far in advance do you need notice?",
+  "How will we communicate, and what is the best way to reach you?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a solicitor to instruct a civil barrister?",
+   "a": "Not always. Many barristers are registered under the Public Access scheme, which allows members of the public to instruct them directly for suitable matters. However, some cases may still require a solicitor, and the barrister can advise you on this."
+  },
+  {
+   "q": "How do I check if a civil barrister is regulated?",
+   "a": "You can check the Barristers' Register kept by the Bar Standards Board to confirm whether a barrister holds a current practising certificate and is authorised to accept direct instructions. In Scotland, advocates are regulated through the Faculty of Advocates."
+  },
+  {
+   "q": "What should I bring to my first meeting with a civil barrister?",
+   "a": "Bring any relevant documents, such as contracts, correspondence, claim forms and evidence. It is also helpful to have a clear timeline of events and a summary of what you want to achieve."
+  },
+  {
+   "q": "Can a civil barrister help me settle a dispute without going to court?",
+   "a": "Yes. Civil barristers can advise on the merits of your case and help with negotiation and settlement. Settlement can happen at any time, and a barrister can assist in reaching an agreement without the need for a trial."
+  }
+ ]
+}

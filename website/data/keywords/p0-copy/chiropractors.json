@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for chiropractors usually means you're dealing with back or neck pain, or another joint or muscle problem, and you want to compare a few practitioners before choosing. You might be unsure what a chiropractor actually does, or how to tell a good one from a risky one. Here's what to look for and how iComply can introduce you to a UK chiropractor who can quote you directly.",
+ "need_heading": "What people searching for chiropractors usually need",
+ "need_lead": "Most people who search for chiropractors are looking for safe, effective help with a specific musculoskeletal problem.",
+ "needs": [
+  "You have persistent back or neck pain and want to know whether spinal manipulation could help you.",
+  "You've been told by a friend or family member that a chiropractor sorted their bad back, and you're wondering if it's worth trying.",
+  "You want to compare a few chiropractors in your area but aren't sure what questions to ask or what a fair treatment plan looks like.",
+  "You're worried about the safety of chiropractic treatment and want to check that anyone you see is properly registered.",
+  "You've had a course of treatment elsewhere and want a second opinion, or you're looking for someone who will explain the evidence for your particular problem."
+ ],
+ "context_heading": "What you should know about chiropractors",
+ "context": [
+  "\"Chiropractor\" is a protected title in the UK, which means anyone using it must be registered with the General Chiropractic Council (GCC). You can search the GCC register online to confirm a practitioner's registration before you book. Many chiropractors are also members of the Royal College of Chiropractors or the British Chiropractic Association, though this is optional.",
+  "Chiropractors focus on the spine, joints and muscles, using manual adjustment and mobilisation alongside exercise and lifestyle advice. The evidence is strongest for back and neck pain, and a careful chiropractor will be honest with you about what they can and cannot help with. Be wary of anyone who promises a cure for unrelated conditions or pushes you into a long prepaid treatment plan before you've even had a proper assessment."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the main problem you want help with, such as lower back pain, neck stiffness, or a joint issue, and how long it's been going on.",
+  "Mention any diagnosis you've already been given, or any treatment you've already tried, including whether you've seen a chiropractor before.",
+  "Say whether you have any other health conditions or take medication that might affect treatment, as this helps the chiropractor decide if they can help.",
+  "Let us know your location and how far you're willing to travel, so we can introduce you to a chiropractor who's convenient for you.",
+  "Explain what you're hoping to get from treatment, whether that's pain relief, better movement, or advice on managing the problem yourself.",
+  "Tell us if you have a preference for a particular approach or setting, such as a clinic that also offers exercise rehabilitation or one that's close to public transport."
+ ],
+ "questions_heading": "Questions to ask a chiropractor",
+ "questions": [
+  "Are you registered with the General Chiropractic Council, and what is your GCC registration number?",
+  "What does the evidence say about chiropractic treatment for my specific problem?",
+  "What will the first appointment involve, and will you explain any risks before treatment?",
+  "How many sessions do you expect I might need, and will you check my progress as we go?",
+  "Do you offer a treatment plan that I can pay for session by session rather than upfront?",
+  "What should I do if my symptoms get worse after treatment, and how can I contact you between appointments?"
+ ],
+ "faqs": [
+  {
+   "q": "What does a chiropractor do?",
+   "a": "Chiropractors assess and treat problems with the spine, joints and muscles, often using spinal manipulation alongside exercise and lifestyle advice. They focus particularly on back and neck pain, where the evidence for manual therapy is strongest."
+  },
+  {
+   "q": "How do I check if a chiropractor is properly qualified?",
+   "a": "All chiropractors in the UK must be registered with the General Chiropractic Council (GCC) to use the title. You can search the GCC register online to confirm registration. Many also belong to professional bodies such as the Royal College of Chiropractors or the British Chiropractic Association."
+  },
+  {
+   "q": "Is chiropractic treatment safe?",
+   "a": "Chiropractic treatment is generally considered safe when carried out by a registered practitioner, but like any physical treatment it carries some risks, such as temporary soreness. A careful chiropractor will explain these risks and check your medical history before treating you. If you have concerns, ask about the evidence for your specific condition."
+  },
+  {
+   "q": "Will I have to pay for a long course of treatment upfront?",
+   "a": "You should be cautious about any practitioner who asks for a large prepayment before you've had a proper assessment. A responsible chiropractor will usually suggest a short trial of treatment and check your progress before recommending more. Quotes are price on application, so you can ask about costs and payment options before you commit."
+  }
+ ]
+}

@@ -7,69 +7,38 @@ group: accountancy
 hub: tax-advisors
 profession: tax adviser
 service_label: Trusts adviser
-og_image: /assets/images/healthcare-consult.jpg
+og_image: /assets/images/hero-workshop.jpg
 ---
 
 # Trusts Advisor Near Me
 
-Searching for **trusts advisor near me**? You probably want someone suitable, available and within reach. Trusts advisers help set up and run trusts, handle trust tax returns, the ten-year charge and registration with the Trust Registration Service.
+You are looking for a trusts adviser near you, someone who can help with the specific tax and legal duties that come with running a trust. Whether you are setting up a trust, dealing with its tax returns, or need to register it, a local adviser can guide you through the rules. iComply introduces you to a suitable UK professional who will quote you directly, with fees on application.
+
+Trusts advisers help set up and run trusts, handle trust tax returns, the ten-year charge and registration with the Trust Registration Service.
 
 iComply Professional Services is a free matching service. You tell us what you need and where you are; we connect you with a suitable UK tax adviser who can quote for the work. The practice provides the service, and every quote is POA.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Client explaining what they need before being matched with a trusts adviser](/assets/images/healthcare-consult.jpg)
+![Client explaining what they need before being matched with a trusts adviser](/assets/images/hero-workshop.jpg)
 
-## What tax advisers commonly help with
+## What people searching for a trusts adviser near me usually need
 
-Tax advisers help clients in many situations. Some of the most common are:
+Most people looking for a trusts adviser near them are dealing with the practicalities of setting up or running a trust and want local, expert help.
 
-- Selling a property, shares or a business and wanting to understand the tax.
-- A business considering investment schemes such as EIS or SEIS.
-- A VAT question that could affect pricing or cash flow.
-- A dispute or appeal against an HMRC decision.
-- Planning for inheritance tax across the family.
+- You are a trustee who has recently taken on the role and need to understand your legal duties and tax responsibilities.
+- You want to set up a trust for family members and need advice on the type of trust and its tax implications.
+- You are responsible for a trust that must be registered with the Trust Registration Service and need help with the process.
+- You need to file a trust tax return or deal with the ten-year charge and want a professional to handle it.
+- You are unsure whether a trust is the right option for your circumstances and want advice on the tax rules before deciding.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of tax adviser fits best.
+## Finding a trusts adviser near you: what to consider
 
-## When to think twice
+When you search for a trusts adviser near me, you are likely looking for someone you can sit down with locally, or at least speak to easily, about the trust you are involved with. Proximity can matter if you need to discuss sensitive family arrangements or share paperwork in person, but it is not the only factor. The right adviser for your trust will have relevant experience with the type of trust you have and the issues you are facing.
 
-Most professionals are honest and competent, but it is worth knowing the warning signs:
+Trusts come in many forms, from simple bare trusts to complex discretionary trusts, and the tax rules and administrative duties differ accordingly. A local adviser may be convenient, but you should also check that they regularly deal with trusts like yours. Ask how they keep up to date with changes to trust taxation and the Trust Registration Service, and whether they can handle the ten-year charge if it applies.
 
-- Pressure to act quickly without written advice
-- Advice that relies on keeping information from HMRC
-- Fees linked to a percentage of tax "saved" without clear terms
-- No professional body membership or AML supervision
-
-## From enquiry to quote in four steps
-
-1. **Enquire for free** with your town or postcode and a short description.
-1. **We clarify** anything unclear, so the introduction is useful from the start.
-1. **We connect you** with a trusts adviser who suits your situation.
-1. **The practice takes over**, confirms scope and fees in writing and does the work.
-
-We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
-
-**Need a trusts adviser?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
-
-## Finding a trusts adviser near you
-
-When you search for a trusts adviser near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
-
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
-
-## Getting ready for your first conversation
-
-A short, clear brief saves time on both sides. Useful details include:
-
-- Any deadlines given by HMRC or a buyer or seller
-- Relevant figures, even if they are estimates
-- A short summary of the question or problem in your own words
-- Your preferred way of meeting: online or in person
-- The names of any other advisers already involved
-- The tax years involved
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+Before your first appointment, gather the trust deed and any previous tax returns or correspondence with HMRC. This will help the adviser understand your position quickly. At the meeting, you can expect to discuss the trust's tax status, registration requirements, and your duties as a trustee. Be clear about what you want to achieve, whether that is compliance, planning, or simply peace of mind.
 
 ## Key things to know about a trusts adviser
 
@@ -81,9 +50,46 @@ A few points come up again and again with a trusts adviser:
 
 A good tax adviser will talk you through each of these in plain English.
 
-![Professional reviewing a client's brief before an introduction for trusts advisor near me](/assets/images/finance-desk.jpg)
+**Need a trusts adviser?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-## How to check you are in safe hands
+## From enquiry to quote in four steps
+
+1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
+1. **We review your brief.** We check the type of tax adviser you need, your location and your timing.
+1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
+1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
+
+There is no charge to you for the introduction, and no obligation to accept any quote.
+
+## What a trusts adviser is likely to cost (POA)
+
+Tax advice is usually charged by time or as a fixed fee for a defined piece of work, such as a written report or handling an HMRC enquiry. Complexity, deadlines and the amount at stake all affect the quote. The adviser you are matched with will quote you, POA.
+
+Ask whether the first conversation is free or chargeable, and ask for a written scope before detailed advice begins. If an HMRC enquiry is involved, ask whether you have fee protection insurance through an existing accountant.
+
+## Questions to ask the professional
+
+Once you are introduced, these questions help you decide whether the tax adviser is right for you:
+
+- What qualifications and experience do you have in dealing with trusts and their tax affairs?
+- Are you a member of a professional body such as the Chartered Institute of Taxation or the Association of Taxation Technicians?
+- How do you charge for your services, and what will the likely costs be for my situation?
+- Will you handle the registration of the trust with the Trust Registration Service if needed?
+- Can you explain the ten-year charge and how it might apply to my trust?
+- What information and records will you need from me to get started?
+
+![Professional reviewing a client's brief before an introduction for trusts advisor near me](/assets/images/insurance-advisory.jpg)
+
+## Warning signs to watch for
+
+Most professionals are honest and competent, but it is worth knowing the warning signs:
+
+- Pressure to act quickly without written advice
+- No professional body membership or AML supervision
+- Advice that relies on keeping information from HMRC
+- Fees linked to a percentage of tax "saved" without clear terms
+
+## Checking tax advisers are qualified and regulated
 
 "Tax adviser" is not a protected title in the UK. The Chartered Institute of Taxation (CTA qualification) and the Association of Taxation Technicians (ATT) are the main specialist bodies, and many accountants and solicitors also advise on tax. Members of these bodies follow Professional Conduct in Relation to Taxation, a shared code covering honesty, confidentiality and dealing with HMRC.
 
@@ -93,62 +99,76 @@ Adviser and advisor are simply two spellings of the same word. What matters is w
 
 Please note that iComply is a matching service only. We are not regulated as a tax adviser, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
 
-## Questions to ask a trusts adviser
+## Understanding trust tax and regulation
 
-Asking a few direct questions early tells you a lot about how a practice works:
+Trusts have their own tax rules, and most must be registered with HMRC's Trust Registration Service. Trustees have legal duties, including keeping records and filing returns. A trusts adviser can help you meet these obligations and avoid common pitfalls.
 
-- Will you deal with HMRC directly on my behalf?
-- Do you hold professional indemnity insurance?
-- Are you CTA or ATT qualified, or a member of another body?
-- How do you charge for initial advice and for ongoing work?
-- What are the main risks or uncertainties in my position?
-- Will I get advice in writing that I can rely on?
+In the UK, 'tax adviser' is not a protected title, so it is wise to check qualifications. The Chartered Institute of Taxation (CTA) and the Association of Taxation Technicians (ATT) are the main specialist bodies, and their members follow Professional Conduct in Relation to Taxation. Tax advisers who charge a fee must be supervised for anti-money-laundering purposes, and HMRC has been tightening standards for paid tax agents. It is reasonable to ask about qualifications, supervision and professional indemnity insurance before you proceed.
 
-## How fees usually work (POA)
+## What to tell iComply when enquiring
 
-Tax advice is usually charged by time or as a fixed fee for a defined piece of work, such as a written report or handling an HMRC enquiry. Complexity, deadlines and the amount at stake all affect the quote. iComply does not publish fees; the adviser you are matched with will quote you, POA.
+You do not need all of this to enquire, but the more you can share, the better the match:
 
-Ask whether the first conversation is free or chargeable, and ask for a written scope before detailed advice begins. If an HMRC enquiry is involved, ask whether you have fee protection insurance through an existing accountant.
+- Describe the type of trust you are dealing with, such as whether it is a new trust you want to set up or an existing trust you need help with.
+- Explain what you need help with, for example registration, tax returns, the ten-year charge, or general advice on trustees' duties.
+- Mention whether the trust is already registered with the Trust Registration Service or if that is something you need assistance with.
+- State your role, such as trustee, beneficiary, or someone considering setting up a trust.
+- Include your location so we can introduce you to a professional near you.
+- Let us know if you have any particular deadlines or time-sensitive issues, without using specific dates if possible.
 
-## How long things usually take
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
-Straightforward questions can often be answered within a couple of weeks. HMRC enquiries and appeals have their own deadlines, which should be included in your enquiry so we can prioritise advisers with capacity. Large transactions benefit from advice before contracts are signed, not after.
+![Planning the first appointment after an enquiry for trusts advisor near me](/assets/images/finance-desk.jpg)
 
-![Planning the first appointment after an enquiry for trusts advisor near me](/assets/images/hero-workshop.jpg)
+## Trusts Advisor Near Me: FAQs
 
-## FAQs about trusts advisor near me
+### Do I need a trusts adviser if I am a trustee?
+
+Trustees have legal duties and must ensure the trust complies with tax rules, including registration and filing returns. A trusts adviser can help you understand and meet these obligations, especially if the trust has complex tax affairs.
+
+### What is the Trust Registration Service?
+
+The Trust Registration Service is HMRC's online system for registering trusts. Most trusts must be registered, and a trusts adviser can guide you through the process and ensure you meet the requirements.
+
+### How can I check if a trusts adviser is qualified?
+
+You can ask about their qualifications and membership of professional bodies such as the Chartered Institute of Taxation or the Association of Taxation Technicians. Also ask about their supervision for anti-money-laundering purposes and professional indemnity insurance.
+
+### What is the ten-year charge on trusts?
+
+The ten-year charge is a tax that may apply to certain trusts on each tenth anniversary of the trust's creation. A trusts adviser can explain whether it applies to your trust and help you calculate and pay any tax due.
+
+### Do I need to meet a trusts adviser in person?
+
+Not necessarily. Many advisers work remotely or offer a mix of phone, video and in-person meetings. What matters most is that you can communicate easily and that the adviser understands your trust's needs. If you prefer face-to-face contact, look for someone local, but don't rule out a specialist elsewhere if they have the right expertise.
+
+### How can I compare trusts advisers near me?
+
+Start by checking their qualifications and experience with trusts. Ask about their membership of professional bodies such as the Chartered Institute of Taxation or the Association of Taxation Technicians, and whether they are supervised for anti-money-laundering purposes. Also ask for a clear explanation of how they charge and what services they will provide, so you can compare like with like.
 
 ### Should I reply to HMRC before speaking to an adviser?
 
 Note the deadline on the letter, but avoid sending a detailed reply before you have advice if the matter is complex. An adviser can often ask HMRC for more time where it is reasonable.
 
-### Is tax planning legal?
-
-Using reliefs and allowances as Parliament intended is normal and legal. Aggressive avoidance schemes are a different matter and can carry serious risks. A qualified adviser will explain the difference clearly.
-
-### How do I find a trusts adviser near me?
+### Can you find a trusts adviser in my area?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable tax practice with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
-
-### Is iComply regulated?
-
-iComply is a matching service. We are not a tax adviser and we do not give professional advice. The professionals we introduce are registered with their own bodies, and you can check them.
 
 ### How quickly will I hear back?
 
 Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
 
-### Do I have to accept a quote?
+### Can I contact you on WhatsApp?
 
-No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
+Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
 
-## Other services you may need
+## People also look for
 
-- [Best EIS specialist near me](/keywords/best-eis-specialist-near-me/)
-- [Landlord tax advisor near me](/keywords/landlord-tax-advisor-near-me/)
-- [Inheritance tax return near me](/keywords/inheritance-tax-return-near-me/)
 - [SEIS advisor near me](/keywords/seis-advisor-near-me/)
-- [Trust registration near me](/keywords/trust-registration-near-me/)
+- [VAT advisor near me](/keywords/vat-advisor-near-me/)
+- [Best EIS consultant near me](/keywords/best-eis-consultant-near-me/)
+- [HMRC tax advisor near me](/keywords/hmrc-tax-advisor-near-me/)
+- [Tax advisors near me](/keywords/tax-advisors-near-me/)
 - [Browse all tax advisers](/hubs/tax-advisors/)
 
 ## Get a free quote for a trusts adviser

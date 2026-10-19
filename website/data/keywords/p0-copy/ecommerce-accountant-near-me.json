@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for an ecommerce accountant near you usually means your online shop has grown past the point where a general accountant can keep up with marketplace fees, stock movements and VAT across borders. You want someone local enough to talk to properly, who understands the way online selling actually works. iComply is a free introduction service: you tell us what you need, and we introduce you to a suitable UK professional who quotes you directly, price on application.",
+ "need_heading": "What people searching for an ecommerce accountant usually need",
+ "need_lead": "Most enquiries come from sellers whose books have become tangled by the realities of selling online.",
+ "needs": [
+  "You sell through one or more marketplaces and need help making sense of the fees deducted before your money reaches you.",
+  "Your stock levels, returns and refunds move constantly, and you want records that reflect what is really happening in the business.",
+  "You sell to customers in the UK and the EU and are unsure how VAT applies to each sale.",
+  "You take payments in more than one currency and need the figures pulled together clearly.",
+  "You are moving from a general accountant to someone who deals with online sellers day to day, and you want that person to be reasonably close by."
+ ],
+ "context_heading": "The title 'accountant' is not protected on its own",
+ "context": [
+  "In the UK, anyone can call themselves an accountant, so the letters after a name matter. Titles such as Chartered Accountant (ICAEW, ICAS or Chartered Accountants Ireland), Chartered Certified Accountant (ACCA) and Chartered Management Accountant (CIMA) are protected, and members are bound by their body's ethics, training and complaints rules. Only registered auditors can sign statutory audit reports.",
+  "Every practice offering accountancy services must also be supervised for anti-money-laundering purposes, either by a professional body or by HMRC. It is reasonable to ask which body supervises a firm, whether they hold professional indemnity insurance, and how complaints are handled. iComply does not give advice or provide the service itself; we simply introduce you to a professional who quotes you directly."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say which marketplaces and sales platforms you sell on, and roughly what share of your sales each one represents.",
+  "Explain whether you hold your own stock or use fulfilment arrangements, and how you currently record stock movements.",
+  "Mention the currencies you sell in and where your customers are based, particularly any EU sales.",
+  "Describe how your records are kept at the moment, including any software you use and whether your sales platforms connect to it.",
+  "Say whether you are a sole trader, a partnership or a limited company, and whether you already have an accountant.",
+  "Add anything that makes your situation unusual, such as seasonal peaks, high return rates or plans to start selling into new countries."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Which sales platforms do you already work with, and how do you bring their data into the accounts?",
+  "How do you handle marketplace fees and refunds so that profit is shown accurately?",
+  "How would you approach VAT on my sales into the EU compared with my UK sales?",
+  "What is your preferred way of tracking stock, and how does that feed into the year-end figures?",
+  "Which professional body supervises your practice, and do you hold professional indemnity insurance?",
+  "How do you charge for ecommerce work, and what would you need from me to give a quote?"
+ ],
+ "faqs": [
+  {
+   "q": "Why does an ecommerce seller need a specialist accountant rather than a general one?",
+   "a": "Online selling brings marketplace fees, stock movements and multi-currency sales into the accounts in ways a general practice may not see often. An accountant who deals with these regularly is more likely to recognise the questions to ask and the records to keep."
+  },
+  {
+   "q": "Can an accountant help with VAT on sales to the EU?",
+   "a": "VAT on overseas sales can be complex, and the rules differ depending on where your customers are and how you hold stock. A professional can explain how the rules apply to your particular sales and what records you need to keep."
+  },
+  {
+   "q": "What records should I bring to a first conversation?",
+   "a": "It helps to have your platform statements, a summary of stock on hand, and any existing accounts or tax returns. The clearer the picture of your sales and costs, the more useful the first conversation will be."
+  },
+  {
+   "q": "How do I judge whether an accountant is right for my business?",
+   "a": "Ask about their experience with the platforms you sell on, how they handle stock and multi-currency sales, and which body supervises them. Compare how clearly they answer and whether their quote explains what is included, rather than relying on a single headline figure."
+  }
+ ]
+}

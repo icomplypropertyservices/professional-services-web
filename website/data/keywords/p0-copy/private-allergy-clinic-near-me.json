@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a private allergy clinic near you usually means you or someone in your family is waiting on answers about a reaction, a persistent symptom or a child's suspected food allergy, and you'd like to see someone sooner or closer to home. Private allergy clinics offer faster access to allergists for testing, food challenges and treatment plans for adults and children. Here's what to think about before you choose one, and how to tell us what you need so we can introduce you to a suitable private GP.",
+ "need_heading": "What people searching for a private allergy clinic near me usually need",
+ "need_lead": "Most people who type this are looking for a clear answer about a symptom, and a clinic they can actually get to.",
+ "needs": [
+  "You've had a reaction to food, medication, an insect sting or something in your environment and want it looked into properly rather than guessed at.",
+  "Your child has suspected food allergies or eczema linked to allergies, and you'd like a proper assessment and a plan you can follow at home and at nursery or school.",
+  "You've been living with hay fever, asthma-like symptoms or recurring hives that haven't settled, and you want to understand the trigger and the treatment options.",
+  "You're facing a long wait for NHS allergy assessment and want to be seen sooner, close enough that repeat visits for testing or follow-up are manageable.",
+  "You need a treatment plan, including whether immunotherapy might be suitable, and someone to explain the options clearly before you commit."
+ ],
+ "context_heading": "What to know before choosing a private allergy clinic near you",
+ "context": [
+  "Every doctor practising in the UK must be registered and hold a licence to practise with the General Medical Council, and GPs also appear on the GMC's GP register, so you can search the register by name. Private clinics providing regulated healthcare in England must register with the Care Quality Commission, which inspects and publishes ratings; in Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA. Checking these before you book is a sensible first step.",
+  "Specialist allergists are best for complex cases, and unvalidated tests should be avoided, so ask what kind of testing is being proposed and why. A private GP does not replace your NHS GP, and good private clinics will ask for consent to share consultation notes with your NHS practice so your records stay complete and medication is prescribed safely. If your search includes words like best or affordable, judge for yourself by comparing what each clinic offers, who will see you and what the quote covers."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the symptoms or reaction that prompted your search, including when they started and how often they happen.",
+  "Say whether the enquiry is for an adult or a child, and give the child's age if relevant, as clinics differ in what they offer.",
+  "Mention any suspected triggers, such as a particular food, medication, pet or seasonal pattern.",
+  "Explain whether you've already seen your NHS GP or had any tests, and what the outcome was.",
+  "Say how far you're willing to travel and whether repeat visits for testing or follow-up would be practical.",
+  "Note whether you're hoping for a treatment plan, testing, food challenges or a discussion about immunotherapy, so the right professional can quote."
+ ],
+ "questions_heading": "Questions to ask the private professional",
+ "questions": [
+  "Who will I actually see, and are they a specialist allergist or a private GP with an interest in allergy?",
+  "Which tests are you proposing, and are they validated tests rather than unvalidated ones?",
+  "Will you share consultation notes with my NHS GP, with my consent, so my records stay complete?",
+  "Is immunotherapy something you'd consider for my case, and what would that involve?",
+  "What does the quote cover, and are there likely to be separate charges for tests or follow-up?",
+  "How would you handle a food challenge, especially if the patient is a child?"
+ ],
+ "faqs": [
+  {
+   "q": "Is a private allergy clinic near me the same as seeing an NHS allergist?",
+   "a": "No. A private clinic is paid for directly and usually offers faster access, while NHS allergy services are accessed through your GP referral. A private GP does not replace your NHS GP, so keep your NHS practice informed."
+  },
+  {
+   "q": "How do I check a clinic is properly regulated?",
+   "a": "You can search the General Medical Council's online register by the doctor's name to confirm they are registered and hold a licence to practise. In England, private clinics providing regulated healthcare must register with the Care Quality Commission, which publishes inspection ratings; the equivalent bodies are Healthcare Inspectorate Wales, Healthcare Improvement Scotland and the RQIA in Northern Ireland."
+  },
+  {
+   "q": "What should I do if I'm worried about a severe reaction right now?",
+   "a": "For a severe reaction such as difficulty breathing or swelling of the face or throat, call 999. For urgent advice that isn't an emergency, NHS 111 can help you decide what to do next."
+  },
+  {
+   "q": "Can a private clinic test my child for food allergies?",
+   "a": "Many private allergy clinics assess children as well as adults, including for food challenges, but services vary. Tell us your child's age and the suspected trigger so we can introduce you to a suitable professional who can quote you directly."
+  }
+ ]
+}

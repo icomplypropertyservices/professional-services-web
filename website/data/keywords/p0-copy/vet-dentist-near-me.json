@@ -1,0 +1,53 @@
+{
+ "intro": "You've searched for a vet dentist near you, which usually means your animal is showing signs of dental trouble or you've been told their teeth need attention. Finding the right practice is about more than distance: dental work in animals often needs specific equipment and, in some cases, a vet with further training. We can introduce you to a suitable UK veterinary practice, who will quote you directly.",
+ "need_heading": "What people searching for a vet dentist usually need",
+ "need_lead": "Most people searching this way are worried about their animal's mouth and want to know who can help locally.",
+ "needs": [
+  "Your dog or cat has bad breath that has built up over time, and you're wondering whether it's more than just their food.",
+  "Your animal is drooling, pawing at the mouth or reluctant to eat, which can be signs of dental pain.",
+  "Your vet has mentioned that a tooth may need extracting or that the mouth needs a closer look under anaesthetic.",
+  "You've noticed a broken or discoloured tooth and want it assessed properly rather than left alone.",
+  "You want to find a practice near you that can take dental X-rays and handle more than a simple scale and polish."
+ ],
+ "context_heading": "Understanding veterinary dentistry",
+ "context": [
+  "Veterinary dentistry covers scaling, extractions, treatment of fractured teeth and oral disease, and it is usually carried out under general anaesthetic with dental X-rays. That matters because much of what is going on in an animal's mouth sits below the gumline and cannot be seen during a routine check with the animal awake.",
+  "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons, and you can search the RCVS register by name before you book. Some vets hold further qualifications such as an RCVS certificate, advanced practitioner status or specialist status, and complex cases may be referred to a vet with advanced dental training."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Say what kind of animal you have, including the species, breed and approximate age.",
+  "Describe the signs you've noticed, such as bad breath, drooling, pawing at the mouth or reluctance to eat.",
+  "Mention whether your own vet has already looked at the mouth and what they said.",
+  "Explain whether you've been told the case may need referral or a procedure under anaesthetic.",
+  "Give your location and how far you're able to travel to a practice.",
+  "Say whether your animal has any other health conditions or is on any medication."
+ ],
+ "questions_heading": "Questions to ask the practice",
+ "questions": [
+  "Does the practice have dental X-ray equipment on site?",
+  "How do you assess an animal's mouth before deciding on treatment?",
+  "Would this procedure be done under general anaesthetic, and how do you manage that safely?",
+  "Do you hold any further dental qualifications, or would you refer a complex case to someone who does?",
+  "What aftercare will my animal need following dental treatment?",
+  "Are you able to see my animal promptly if they are in discomfort?"
+ ],
+ "faqs": [
+  {
+   "q": "Can I check that a vet is properly registered?",
+   "a": "Yes. Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons, and you can search the RCVS register by name before you book. Veterinary nurses have their own RCVS register too."
+  },
+  {
+   "q": "Why does dental treatment usually need a general anaesthetic?",
+   "a": "Much of the disease sits below the gumline and cannot be properly examined or treated in an awake animal. Dental X-rays taken under anaesthetic help the vet see what is happening beneath the surface before deciding on treatment."
+  },
+  {
+   "q": "What signs suggest my animal might be in dental pain?",
+   "a": "Bad breath, drooling and pawing at the mouth are common signs of dental pain. Reluctance to eat or changes in chewing can also be worth raising with a vet."
+  },
+  {
+   "q": "What if my animal's case is complex?",
+   "a": "Complex cases may be referred to a vet with advanced dental training. It is reasonable to ask whether the vet treating your animal holds a further qualification, or whether they refer to someone who does."
+  }
+ ]
+}

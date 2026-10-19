@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for asylum lawyers near you usually means something urgent or frightening is already happening — a claim to make, an interview looming, or a refusal letter that needs answering. You want someone local who can sit down with you and take the weight off. We introduce you to a suitable UK professional who quotes you directly, so you can compare before you commit.",
+ "need_heading": "What people searching for asylum lawyers near me usually need",
+ "need_lead": "Most people behind this search are facing a decision about protection and want qualified help close to home.",
+ "needs": [
+  "You have arrived in the UK and need to start a claim for asylum but do not know how to put your account in writing.",
+  "You have an asylum interview coming up and want someone to help you prepare what you will say and how to explain your evidence.",
+  "You have received a refusal and need to understand whether you can appeal and by when.",
+  "You are supporting a family member or friend through the asylum process and want a local professional who can explain each stage to you.",
+  "You have new evidence or a change in your circumstances and need advice on making a fresh claim."
+ ],
+ "context_heading": "Who is allowed to help you with asylum",
+ "context": [
+  "Giving immigration advice in the UK is a criminal offence unless the person is qualified and regulated. Asylum help must come from an adviser registered with the Immigration Advice Authority (IAA, formerly the OISC) at the right level for your matter, or from a solicitor, barrister or chartered legal executive authorised by their own regulator. Before you share documents or pay anyone, check the IAA's adviser finder or the SRA register.",
+  "IAA advisers are registered at levels that limit what they can do, from basic applications through to appeals and representation. Ask what level an adviser holds and whether it covers appeals and representation, since asylum cases often reach that stage. Legal aid often covers asylum work, so it is worth asking about eligibility early."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Say where you are in the process — whether you have already claimed asylum, have an interview booked, or have received a decision.",
+  "Explain whether you have an appeal deadline running, as this affects how quickly you need someone.",
+  "Describe briefly what kind of help you need, such as preparing a statement, interview preparation, an appeal or a fresh claim.",
+  "Mention the area you live in and how far you can reasonably travel, since you searched for lawyers near you.",
+  "Say whether you are asking for yourself or on behalf of someone else, and whether an interpreter will be needed.",
+  "Tell us whether you want to know about legal aid as well as paying privately, so the professional can address it in their quote."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you registered with the Immigration Advice Authority, or authorised by a regulator such as the SRA, and at what level?",
+  "Does your registration or authorisation cover appeals and representation in asylum cases?",
+  "Will you be the person handling my case, or will it be passed to someone else?",
+  "Can you tell me whether legal aid is likely to cover my asylum matter, and what I would pay if not?",
+  "What will you need from me first, and how should I get my documents and evidence to you?",
+  "If there is a deadline on my case, how soon can you take it on?"
+ ],
+ "faqs": [
+  {
+   "q": "Can anyone near me help with an asylum claim?",
+   "a": "No. Giving immigration advice in the UK is a criminal offence unless the person is qualified and regulated. Asylum help must come from someone registered with the Immigration Advice Authority at the right level, or from a solicitor, barrister or chartered legal executive authorised by their own regulator."
+  },
+  {
+   "q": "How do I check that an asylum lawyer is properly regulated?",
+   "a": "Use the Immigration Advice Authority's adviser finder or the SRA register before you share documents or pay anyone. Ask what level an adviser holds and whether it covers appeals and representation, since asylum cases often reach that stage."
+  },
+  {
+   "q": "Does legal aid cover asylum work?",
+   "a": "Legal aid often covers asylum matters, so it is worth asking about eligibility early. The professional you speak to can tell you whether it applies to your situation and what you would pay if it does not."
+  },
+  {
+   "q": "Why do appeal deadlines matter so much in asylum cases?",
+   "a": "Appeals in asylum cases have short deadlines, so a refusal letter needs attention quickly. Tell us straight away if you have a deadline running so the professional can see how urgent your enquiry is."
+  }
+ ],
+ "extra_heading": "Comparing several asylum lawyers near you",
+ "extra": [
+  "Searching for asylum lawyers near me, rather than for one named firm, suggests you are weighing up more than one option — perhaps a few practices within reach of home, or a mix of solicitors and advisers you have heard about. That is a sensible way to approach something this important, because the person who handles your claim will shape how your account is presented. Comparing a few before you commit gives you room to judge who explains things in a way you can follow.",
+  "When you speak to each one, ask the same questions so the answers are genuinely comparable: what stage of the asylum process they would take on, whether their registration or authorisation covers appeals and representation, and how they would prepare you for interview. Listen for how clearly they explain the next step and whether they invite your questions. A professional who rushes you or is vague about who will actually handle the case is worth thinking twice about.",
+  "It also helps to be honest with yourself about practicalities — travel, interpreting, and whether you would rather deal with someone who can see you in person or is content to work by phone and letter. None of this tells you who is best; only your own judgement, backed by the regulator checks, can do that. We introduce you to a suitable professional and they quote you directly, so the decision stays yours."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Is it worth speaking to more than one asylum lawyer before deciding?",
+   "a": "Many people do, and it can help you judge how clearly each one explains the process and what they would do for you. Ask each the same questions about their registration level, appeals and interview preparation so you can compare fairly."
+  },
+  {
+   "q": "Can I bring someone with me to the first appointment?",
+   "a": "That is usually possible, and it can help to have a friend or family member there to take notes and remember what was said. Mention it when you enquire so the professional can allow for it, and say if an interpreter will be needed."
+  },
+  {
+   "q": "What should I have ready before I contact anyone?",
+   "a": "Have to hand any letters from the Home Office, the date of any interview or deadline, and a short note of where you are in the process. Keep your original documents safe and only share copies until you have checked the professional's registration."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for a dermatologist near me, you're likely dealing with a skin, hair or nail concern that needs a proper diagnosis or treatment plan. You want to see someone qualified in your area without navigating the whole system alone. We introduce you to a suitable UK professional who quotes you directly, so you can decide what's right for you.",
+ "need_heading": "What people searching for a dermatologist near me usually need",
+ "need_lead": "Most people want clear answers about a skin problem and a convenient appointment with a specialist.",
+ "needs": [
+  "You have a persistent rash, acne or eczema that hasn't improved with over-the-counter treatments and you want a specialist opinion.",
+  "You've noticed a mole that is changing in size, shape or colour and you want it checked promptly.",
+  "You have a hair or scalp condition, such as thinning hair or an itchy scalp, that is causing you concern.",
+  "You need a private dermatology appointment close to home because travelling further afield is difficult.",
+  "You have private medical insurance and want to find a consultant who works with your insurer."
+ ],
+ "context_heading": "What to understand when choosing a dermatologist near you",
+ "context": [
+  "A dermatologist is a hospital consultant who diagnoses and treats skin, hair and nail conditions. In the UK, hospital consultants should appear on the General Medical Council's specialist register for their field, and you can check this online. Private clinics providing regulated healthcare in England must register with the Care Quality Commission, which inspects and publishes ratings; in Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA.",
+  "Many private dermatologists also work in the NHS. If you have private medical insurance, your insurer may require a GP referral and may limit you to certain consultants or hospitals, so check before you book. Photos of flare-ups can help the consultant understand your condition, and changing moles should be seen promptly."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Describe the skin, hair or nail problem you want help with, including how long it has been going on.",
+  "Mention if you have a changing mole or any lesion that worries you, so we can prioritise appropriately.",
+  "Say whether you have private medical insurance and which insurer, as this may affect your choice of consultant.",
+  "Let us know your preferred location or how far you are willing to travel for an appointment.",
+  "Include any relevant medical history, such as previous skin conditions or treatments you have tried.",
+  "Tell us if you have a GP referral already, as some insurers and consultants may require one."
+ ],
+ "questions_heading": "Questions to ask the dermatologist",
+ "questions": [
+  "Are you on the GMC's specialist register for dermatology?",
+  "What is your approach to diagnosing and treating my specific skin concern?",
+  "How long will the appointment last and what will it cost?",
+  "Will you provide a report for my GP or insurer?",
+  "What are the next steps if I need a biopsy or further tests?",
+  "Do you have experience treating my particular condition?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check if a dermatologist is properly qualified?",
+   "a": "You can check the General Medical Council's specialist register online to confirm a doctor is registered as a specialist in dermatology. This is a public register and free to search."
+  },
+  {
+   "q": "Do I need a GP referral to see a private dermatologist?",
+   "a": "Not always, but some private consultants and insurers require one. It's best to check with the consultant's office and your insurer before booking."
+  },
+  {
+   "q": "What should I bring to my dermatology appointment?",
+   "a": "Bring any relevant medical records, a list of medications you take, and photos of flare-ups if the condition comes and goes. This helps the consultant understand your situation."
+  },
+  {
+   "q": "How do I find a dermatologist near me?",
+   "a": "You can ask your GP for a recommendation, search the GMC register, or use an introduction service like iComply. We ask what you need and introduce you to a suitable professional who quotes you directly."
+  }
+ ]
+}

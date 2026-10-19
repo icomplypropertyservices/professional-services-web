@@ -1,63 +1,47 @@
 ---
 slug: best-business-wills-near-me
 title: Best Business Wills Near Me | iComply Professional Services
-description: Need "best business wills near me"? iComply connects you with a suitable UK wills and probate practice. Free, no-obligation matching. Request a quote — POA.
+description: Find "best business wills near me" with iComply: one free enquiry, matched to a suitable UK wills and probate specialist. No obligation. Request a quote — POA.
 family: wills
 group: legal
 hub: wills-probate
 profession: wills and probate specialist
 service_label: Business will
-og_image: /assets/images/finance-desk.jpg
+og_image: /assets/images/hero-workshop.jpg
 ---
 
 # Best Business Wills Near Me
 
-Looking for **best business wills near me** usually starts with a practical problem that needs a qualified person. Business wills deal with company shares, partnership interests and business property, often alongside shareholder agreements and business relief.
+You're looking for the best business wills near you because your will needs to do more than pass on personal belongings — it has to work with your company shares or partnership interest. You want someone local who understands how a business will fits alongside shareholder agreements and business relief, and who can quote you directly for that work.
+
+Business wills deal with company shares, partnership interests and business property, often alongside shareholder agreements and business relief.
 
 Rather than calling round, you can send one enquiry to iComply. We look at your needs, location and timing, then introduce you to a suitable wills and probate practice. They quote you directly, POA, and you decide whether to go ahead.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Planning the first appointment after an enquiry for best business wills near me](/assets/images/finance-desk.jpg)
+![Planning the first appointment after an enquiry for best business wills near me](/assets/images/hero-workshop.jpg)
 
-## Common reasons people contact wills and probate specialists
+## What people searching for business wills usually need
 
-Every enquiry is different, but these are typical starting points for clients who contact wills and probate specialists:
+A business will is a specialised document, and the situations that prompt the search are often tied to ownership, succession and the people left behind.
 
-- Business owners who need their shares or partnership covered.
-- A dispute about a will or how an estate is being handled.
-- A first will after buying a home or having children.
-- A blended family with children from different relationships.
-- Planning for inheritance tax and passing on assets.
+- You own shares in a private company and want your will to say clearly who should inherit them, rather than leaving a gap that the articles of association then fill.
+- You are a partner in a partnership and need your will to align with the partnership agreement, so your interest passes as the agreement intends.
+- You want to consider business relief and how changing rules might affect what your family receives, and you need a will that is drafted with that in mind.
+- You have a separate business will in mind because your personal will already deals with your home and savings, and you want the business side kept distinct.
+- You are reviewing an existing will that was written before you started or grew the business, and you want to check it still works with your current ownership structure.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of wills and probate specialist fits best.
+## Questions to ask the professional
 
-## How to check you are in safe hands
+Once you are introduced, these questions help you decide whether the wills and probate specialist is right for you:
 
-Writing a will is not a reserved legal activity in England and Wales, so some will writers are not regulated. Solicitors (SRA) and chartered legal executives (CILEx) are regulated, insured and covered by the Legal Ombudsman. Many specialists are also members of STEP (the Society of Trust and Estate Practitioners) or Solicitors for the Elderly. Applying for a grant of probate on someone else's behalf for a fee is a reserved activity.
-
-When choosing a provider, ask whether they are regulated, whether they hold professional indemnity insurance and where your original will is stored. Scotland has its own rules on succession and confirmation, so make sure your adviser practises in the right jurisdiction.
-
-iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
-
-## Good questions for your first call
-
-Asking a few direct questions early tells you a lot about how a practice works:
-
-- Do you also handle lasting powers of attorney?
-- For probate, what will you do and what will the executors do?
-- Are you regulated, and by whom?
-- How will you check the will is valid and properly signed?
-- Is the fee fixed for the will, or charged by time?
-- What happens if a family member raises a dispute?
-
-**Need a business will?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
-
-## Finding a business will near you
-
-When you search for a business will near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
-
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
+- Are you regulated, and do you hold professional indemnity insurance for the business will work you would do for me?
+- How will you make sure my business will works with my company's articles of association or my partnership agreement?
+- What is your experience of drafting business wills that take business relief into account, given the changing rules?
+- Will you store my original will, and where will it be kept?
+- Do you recommend a separate business will alongside my personal will, and why?
+- If any of my business interests are in Scotland, will you handle that yourself or work with someone who practises there?
 
 ## What "best" really means when choosing a business will
 
@@ -67,14 +51,39 @@ Useful signs of quality include verified registration with the right body, relev
 
 When we match you, we look at fit rather than marketing claims: specialism, location, capacity and whether the practice can start when you need it.
 
-## Warning signs to watch for
+**Need a business will?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-Be cautious if you notice any of the following:
+## What a business will is likely to cost (POA)
 
-- No regulation and no professional indemnity insurance
-- Unwillingness to provide a written estimate
-- No proper advice about signing and witnessing
-- Percentage fees for estate work without a clear explanation
+Simple wills are often offered at a fixed fee, while trusts, business assets and complex families take more time. Estate administration may be charged by time, as a fixed fee for set stages, or occasionally as a percentage of the estate. The practice will quote you, POA.
+
+Ask for the fee in writing, including storage, VAT and probate court fees. For estate work, ask for an estimate of the total cost and how often you will receive updates.
+
+## Comparing local business will specialists on more than price
+
+Searching for the best business wills near me usually means you want a shortlist you can judge for yourself, not a ranking someone else has decided for you. Nobody can honestly promise that one practice is best for every business owner, because a will for a company shareholder raises different questions from one for a partnership. What you can do is compare how each specialist approaches your particular ownership structure.
+
+A useful first conversation is to ask how they would read your articles of association or partnership agreement alongside the will, and whether they would draft a separate business will. Ask too how they keep the will aligned if the agreement or your shareholding changes later. The professional who asks you the most precise questions about your business is often the one worth a second conversation.
+
+Price matters, but a quote given as POA should come with a clear description of what the work covers, so you can compare like with like. Ask whether the quote includes reviewing your existing will, the agreement and any business relief considerations, or whether those are charged separately. Comparing that scope across local specialists tells you more than comparing headline figures alone.
+
+## Before you choose a business will
+
+A few points come up again and again with a business will:
+
+- Check articles and partnership agreements.
+- Business relief rules are changing.
+- Consider separate business wills.
+
+A good wills and probate specialist will talk you through each of these in plain English.
+
+![Wills and probate practice ready to take on a new enquiry for best business wills near me](/assets/images/finance-desk.jpg)
+
+## What to understand before you choose
+
+Writing a will is not a reserved legal activity in England and Wales, so some will writers are not regulated. Solicitors regulated by the SRA and chartered legal executives regulated by CILEx are insured and covered by the Legal Ombudsman, and many specialists are also members of STEP or Solicitors for the Elderly. When you are judging who is best for your business will, ask about regulation, professional indemnity insurance and where your original will is stored.
+
+Business wills often need to be read alongside your articles of association or partnership agreement, and business relief rules are changing, so the drafting has to take both into account. If your business or assets are in Scotland, succession and confirmation follow different rules, so make sure your adviser practises in the right jurisdiction.
 
 ## How iComply matches you
 
@@ -85,52 +94,63 @@ Be cautious if you notice any of the following:
 
 There is no charge to you for the introduction, and no obligation to accept any quote.
 
-![Wills and probate practice ready to take on a new enquiry for best business wills near me](/assets/images/insurance-advisory.jpg)
+## Qualifications and registration to look for
 
-## What happens after you are introduced
+Solicitors (SRA) and chartered legal executives (CILEx) are regulated, insured and covered by the Legal Ombudsman. Many specialists are also members of STEP (the Society of Trust and Estate Practitioners) or Solicitors for the Elderly. Applying for a grant of probate on someone else's behalf for a fee is a reserved activity.
 
-Once introduced, the practice will take instructions, carry out identity checks and confirm the fee in writing. They are responsible for the legal work. iComply does not draft wills or administer estates.
+When choosing a provider, ask whether they are regulated, whether they hold professional indemnity insurance and where your original will is stored. Scotland has its own rules on succession and confirmation, so make sure your adviser practises in the right jurisdiction.
 
-## Timing and urgency
+Please note that iComply is a matching service only. We are not regulated as a wills and probate specialist, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
 
-A straightforward will can often be drafted within a few weeks of the first meeting. Estates take longer: obtaining a grant, collecting assets and paying debts commonly takes many months, more if property must be sold or there is a dispute.
+## Red flags when choosing a business will
 
-## Key things to know about a business will
+Most professionals are honest and competent, but it is worth knowing the warning signs:
 
-These practical points are worth knowing before you speak to anyone about a business will:
+- Percentage fees for estate work without a clear explanation
+- Pressure to buy add-on trusts or storage you do not need
+- No regulation and no professional indemnity insurance
+- No proper advice about signing and witnessing
 
-- Check articles and partnership agreements.
-- Business relief rules are changing.
-- Consider separate business wills.
-
-A good wills and probate specialist will talk you through each of these in plain English.
-
-## Information that helps us match you
+## What to tell iComply when you enquire
 
 A short, clear brief saves time on both sides. Useful details include:
 
-- Who you would like to benefit, and anyone you want to exclude
-- Details of any existing will
-- For an estate: the death certificate and a copy of the will
-- Questions about care costs or inheritance tax
-- A list of main assets and roughly what they are worth
-- Pension and life insurance nominations
+- Say that you are looking for a business will and that you want someone near you, so we can introduce you to a suitable wills and probate specialist in your area.
+- Describe your business structure — whether you are a sole trader, in a partnership or a company shareholder — and roughly what your interest is.
+- Mention whether you already have a will and whether it deals with your business interest at all.
+- Say whether there is a shareholder agreement or partnership agreement that your will needs to work with.
+- Explain whether you want a separate business will or one will covering both personal and business assets.
+- Note whether any business property or shares are in Scotland, so we can introduce you to someone who practises in the right jurisdiction.
 
 Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
-## What a business will is likely to cost (POA)
+![Professional reviewing a client's brief before an introduction for best business wills near me](/assets/images/insurance-advisory.jpg)
 
-Simple wills are often offered at a fixed fee, while trusts, business assets and complex families take more time. Estate administration may be charged by time, as a fixed fee for set stages, or occasionally as a percentage of the estate. iComply does not publish fees; the practice will quote you, POA.
+## FAQs about best business wills near me
 
-Ask for the fee in writing, including storage, VAT and probate court fees. For estate work, ask for an estimate of the total cost and how often you will receive updates.
+### Why would I need a business will rather than a standard will?
 
-![Professional reviewing a client's brief before an introduction for best business wills near me](/assets/images/healthcare-consult.jpg)
+A standard will may not deal properly with company shares or partnership interests, and it can conflict with a shareholder or partnership agreement. A business will is drafted to work with those documents and to consider business relief.
 
-## FAQs: a business will
+### How do I judge who is best for a business will near me?
 
-### What happens if I die without a will?
+Ask whether the professional is regulated by the SRA or CILEx, holds professional indemnity insurance and has experience of business wills and the agreements that sit alongside them. You can also ask about membership of STEP or Solicitors for the Elderly, and compare quotes directly.
 
-The intestacy rules decide who inherits, which may not reflect your wishes, especially for unmarried partners and stepchildren. A will lets you choose.
+### Are business relief rules changing, and does that affect my will?
+
+Business relief rules are changing, and the way your will is drafted can affect how relief applies to your shares or business property. A wills and probate specialist can explain the current position and how your will should be worded.
+
+### Can iComply give me advice about my business will?
+
+No — iComply is not regulated and does not give professional advice or provide the service itself. We introduce you to a suitable UK professional who quotes you directly, and you decide whether to proceed.
+
+### Does "near me" mean I need someone in my own town?
+
+Not necessarily. Many business will matters are handled by phone, post and secure email, so a specialist a little further away who understands your ownership structure may suit you better than the closest option. What matters is that they practise in the right jurisdiction for your business and assets.
+
+### Should my business will be a separate document from my personal will?
+
+That is a decision for you and the professional, and it depends on how your business interest is held and what your existing will already covers. A separate business will can keep the business side distinct, but it also needs to be kept consistent with your personal will so the two do not pull against each other.
 
 ### Do I need a solicitor for probate?
 
@@ -140,32 +160,28 @@ Not always. Executors can apply for probate themselves for simpler estates. Many
 
 We look at what you need, where you are, how urgent it is and which practices have the relevant experience and capacity. We do not rank firms by who pays the most; we aim for the best fit for your brief.
 
-### Can you find a business will in my area?
+### How do I find a business will near me?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable wills and probate practice with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
-
-### Do I have to accept a quote?
-
-No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
-
-### Can I contact you on WhatsApp?
-
-Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
 
 ### How quickly will I hear back?
 
 Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
 
-## People also look for
+### Is it free to use iComply?
 
-- [Business will near me](/keywords/business-will-near-me/)
-- [Discretionary trust will near me](/keywords/discretionary-trust-will-near-me/)
+Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
+
+## Other services you may need
+
+- [Best contentious probate near me](/keywords/best-contentious-probate-near-me/)
+- [Estate planning solicitor near me](/keywords/estate-planning-solicitor-near-me/)
 - [Executor assistance near me](/keywords/executor-assistance-near-me/)
-- [Property trust will near me](/keywords/property-trust-will-near-me/)
-- [Best complex wills near me](/keywords/best-complex-wills-near-me/)
+- [Business will near me](/keywords/business-will-near-me/)
+- [Will writing near me](/keywords/will-writing-near-me/)
 - [Browse all wills and probate specialists](/hubs/wills-probate/)
 
-## Ready to be matched?
+## Request your free quote
 
 Tell us what you need and where you are. We will match you with a suitable wills and probate specialist, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
 

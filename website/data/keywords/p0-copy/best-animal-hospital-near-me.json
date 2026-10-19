@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for the best animal hospital near me usually means something has moved beyond what your own vet can handle at the practice — a suspected fracture, a condition needing a scan, or a pet that needs to stay in overnight. You want somewhere close enough to get to quickly, with the right equipment and people on hand. We can introduce you to a suitable UK veterinary professional who will quote you directly, with the price on application.",
+ "need_heading": "What people searching for an animal hospital usually need",
+ "need_lead": "The situations behind this search tend to involve care that a first-opinion practice cannot provide on its own premises.",
+ "needs": [
+  "Your own vet has suggested a referral because your animal needs imaging such as a CT or MRI scan.",
+  "Your pet needs surgery that requires a dedicated theatre and a team used to complex procedures.",
+  "Your animal is unwell enough to need an inpatient ward with intensive care and monitoring.",
+  "You have moved to a new area and want to know which animal hospitals are within reach before something goes wrong.",
+  "Your pet has an unusual or complex condition and you want to know whether a hospital near you has someone with further qualifications in that area."
+ ],
+ "context_heading": "How animal hospitals usually fit into your pet's care",
+ "context": [
+  "Animal hospitals are larger veterinary centres with inpatient wards, advanced imaging, dedicated theatres and often specialists. Most cases reach one through a referral from your own vet rather than by walking in, so it is worth asking your practice first whether they would refer you and where to.",
+  "If your pet is insured, check with your insurer whether referral treatment needs approval before it goes ahead, as this can affect how the claim is handled. Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons, and you can search the RCVS register by name before you book. Many practices also join the voluntary RCVS Practice Standards Scheme, which inspects premises, equipment and clinical processes."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Describe your animal — the species, breed and age — and what has prompted you to look for a hospital.",
+  "Explain what your own vet has said, including whether a referral has already been discussed or arranged.",
+  "Say what treatment or investigation is expected, such as imaging, surgery or overnight care.",
+  "Tell us roughly where you are so we can introduce you to a professional within a sensible distance.",
+  "Mention whether your pet is insured and whether you have checked with your insurer about referral approval.",
+  "Include anything about your animal's temperament or previous care that might affect how the visit is handled."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Does my animal need a referral from my own vet before you can see them?",
+  "What imaging and surgical facilities do you have on site, and would my pet need to go elsewhere for anything?",
+  "Will the vet treating my animal hold an RCVS certificate, advanced practitioner status or specialist status in this area?",
+  "Who will be looking after my animal overnight, and how often will they be checked?",
+  "Do you need my insurer's approval before referral treatment starts, and can you help me with what they will ask for?",
+  "What will the costs involve, and will I be given an estimate before any treatment goes ahead?"
+ ],
+ "faqs": [
+  {
+   "q": "Can I take my pet straight to an animal hospital without seeing my vet first?",
+   "a": "Most cases reach a hospital through a referral from your own vet, so it is usually best to speak to your practice first. They can tell you whether hospital-level care is needed and help arrange it. In an emergency, call your vet or NHS 111 for advice on urgent animal care."
+  },
+  {
+   "q": "How do I judge which animal hospital is best for my pet?",
+   "a": "Rather than relying on a label, ask what facilities the hospital has on site, whether the vet treating your animal holds further RCVS qualifications in the relevant area, and who provides overnight care. You can also check that the practice is on the RCVS register and whether it has joined the voluntary Practice Standards Scheme."
+  },
+  {
+   "q": "Will my insurance cover treatment at an animal hospital?",
+   "a": "That depends on your policy, so check with your insurer before referral treatment begins. Some insurers need to approve referral treatment first, and it helps to know what they will ask for. The hospital can usually tell you what information they need to provide."
+  },
+  {
+   "q": "What does price on application mean here?",
+   "a": "It means the professional you are introduced to will quote you directly for the care your animal needs, rather than a fixed price being shown in advance. Costs vary with the investigation, treatment and length of stay involved. Ask for an estimate before treatment goes ahead so you know where you stand."
+  }
+ ]
+}

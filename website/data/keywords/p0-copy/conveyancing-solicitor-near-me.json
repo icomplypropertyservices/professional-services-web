@@ -1,0 +1,69 @@
+{
+ "intro": "Searching for a conveyancing solicitor near me usually means you're buying, selling or remortgaging a home and want legal help from someone local. You might be a first-time buyer, moving up the ladder, or dealing with a leasehold flat or a property with unusual features. We introduce you to a suitable UK conveyancer who quotes you directly, so you can compare and choose.",
+ "need_heading": "What people searching for a local conveyancer usually need",
+ "need_lead": "Most people want a clear quote and confidence that the conveyancer can handle the specific legal work their property involves.",
+ "needs": [
+  "You are buying your first home and need someone to explain each stage, from offer to completion, in plain language.",
+  "You are selling a leasehold flat and want a conveyancer who understands lease terms, service charges and management packs.",
+  "You are remortgaging and your lender requires a conveyancer on its panel to act for it.",
+  "You have inherited a property or are buying with a gift or loan from family and need advice on the legal implications.",
+  "You are buying a property with a shared ownership element or an unusual title and want a conveyancer experienced in that area."
+ ],
+ "context_heading": "Checking regulation and lender panels",
+ "context": [
+  "Conveyancing in England and Wales is a reserved legal activity. It can be carried out by solicitors regulated by the Solicitors Regulation Authority (SRA) or by licensed conveyancers regulated by the Council for Licensed Conveyancers (CLC). Both must hold professional indemnity insurance and follow strict rules on handling client money.",
+  "Many lenders only work with conveyancers on their panel, and the Law Society's Conveyancing Quality Scheme (CQS) is a common accreditation. Before you instruct a firm, check that it is on your lender's panel and ask whether it holds CQS accreditation."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Whether you are buying, selling, remortgaging or doing more than one of these.",
+  "The type of property, such as freehold, leasehold, shared ownership or a new build.",
+  "Your rough timescale, for example whether you have already found a property or are still searching.",
+  "Whether you are using a mortgage and, if so, which lender, so we can check panel requirements.",
+  "Any special features, such as a listed building, an unregistered title or a property bought at auction.",
+  "Your location and how far you are willing to travel for face-to-face meetings, if that matters to you."
+ ],
+ "questions_heading": "Questions to ask the conveyancer",
+ "questions": [
+  "Are you regulated by the SRA or the CLC, and what is your professional indemnity insurance cover?",
+  "Do you hold CQS accreditation or belong to any other relevant scheme?",
+  "Are you on my lender's panel for this transaction?",
+  "Who will handle my file day to day, and will I have a named contact?",
+  "What is included in your quote, and what could cause the final bill to differ?",
+  "How will you keep me updated on progress, and how often should I expect to hear from you?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a conveyancing solicitor or a licensed conveyancer?",
+   "a": "Both can carry out conveyancing in England and Wales, provided they are regulated by the SRA or the CLC respectively. The right choice depends on the property and your lender's panel requirements, so it is worth checking both."
+  },
+  {
+   "q": "What does 'price on application' mean for conveyancing quotes?",
+   "a": "It means the conveyancer will give you a personalised quote after learning about your transaction, rather than a fixed price upfront. This allows them to account for the specific work your property requires."
+  },
+  {
+   "q": "Can I use a conveyancer who is not local to the property?",
+   "a": "Yes, many conveyancers work remotely and you are not usually required to use one near the property. However, some people prefer a local firm for face-to-face meetings, so tell us your preference."
+  },
+  {
+   "q": "What should I check before instructing a conveyancer?",
+   "a": "Check their regulation (SRA or CLC), whether they are on your lender's panel, and whether they hold CQS accreditation. Also ask who will handle your file and what the quote includes."
+  }
+ ],
+ "extra_heading": "What happens after you choose a local conveyancer",
+ "extra": [
+  "Once you have chosen a conveyancer near you, the first step is usually a welcome pack and a request for identification and proof of address, which the firm needs for anti-money-laundering checks. You will also be asked to provide details of the property, the estate agent and your mortgage lender, so the conveyancer can open the file and request the legal pack from the seller's solicitor.",
+  "Your conveyancer will then review the title, raise enquiries with the seller's solicitor and report to you on the findings. For a purchase, this is also when searches are ordered and your mortgage offer is checked against the property. You should expect to receive a report on title explaining the legal position in plain language, and you will be asked to sign the contract and transfer documents when you are ready to proceed.",
+  "If you are selling, the conveyancer will prepare the contract pack and answer enquiries from the buyer's solicitor. They will also handle the redemption of any existing mortgage and account to you for the net proceeds. Throughout, you can ask who your named contact is and how often you will receive updates, so you are not left wondering what is happening."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Will I need to visit my conveyancer's office in person?",
+   "a": "Many conveyancers now work remotely and can verify your identity electronically or by post, so a visit may not be necessary. However, if you prefer face-to-face meetings, you can tell us when you enquire and we will introduce you to a conveyancer who offers that."
+  },
+  {
+   "q": "How do I compare quotes from local conveyancers?",
+   "a": "Ask each conveyancer what their quote includes, such as search fees, VAT and disbursements, and whether there are any likely extra costs for your property. Also check their regulation, lender panel membership and who will handle your file day to day. This helps you compare like with like rather than just the headline figure."
+  }
+ ]
+}

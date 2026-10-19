@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a care home advisor near me usually means you are trying to make sense of care options for someone you love, often while feeling under pressure to decide quickly. You may be comparing homes, reading contracts, or wondering how fees will change over time. We introduce you to independent care advisors who can help you understand the choices and ask the right questions.",
+ "need_heading": "What people searching for a care home advisor near me often need",
+ "need_lead": "Most people looking for a care home advisor near me are facing a first move into care or a change in circumstances and want clear, local guidance.",
+ "needs": [
+  "You have been told that a relative needs residential care and you do not know how to compare the homes in your area.",
+  "You are worried about care home fees and want to understand what the contract says before you sign.",
+  "You need help planning a move from hospital to a care home and feel unsure about the steps involved.",
+  "You are struggling to work out whether home care or a care home is the right choice for someone close to you.",
+  "You want to know what to ask when you visit a care home and how to check its CQC rating."
+ ],
+ "context_heading": "Understanding care advice and regulation",
+ "context": [
+  "Care homes and home care agencies in England are registered with and inspected by the Care Quality Commission (CQC); Wales, Scotland and Northern Ireland have their own regulators. Local councils assess care needs and finances and must provide information and advice. Independent care advisors can help you understand these options, but they should be clear about whether their advice is regulated.",
+  "Care fees advice that involves financial products, such as immediate needs annuities, is regulated by the Financial Conduct Authority (FCA), and the Society of Later Life Advisers (SOLLA) accredits specialist advisers. When you speak to an advisor, ask whether they are regulated for any financial recommendations they make. This helps you know what protection you have."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Tell us the local area where you are looking for care, so we can introduce you to an advisor who knows that area.",
+  "Explain whether you need help comparing care homes, understanding contracts and fees, or planning a move.",
+  "Mention if the person needing care has had a needs assessment from the local council or is due one.",
+  "Let us know if you are considering financial products such as an immediate needs annuity, so we can match you with an advisor regulated for that.",
+  "Share any timescales you are working with, such as a hospital discharge date or a family deadline.",
+  "Tell us if you have already visited homes or have specific questions about CQC ratings or fee increases."
+ ],
+ "questions_heading": "Questions to ask the care advisor",
+ "questions": [
+  "Are you regulated by the Financial Conduct Authority for any financial advice you give, such as on immediate needs annuities?",
+  "Can you help me understand how to check CQC ratings for care homes in my area?",
+  "What should I look out for in a care home contract, especially about fee increases?",
+  "Will you help me compare the total costs of different care homes, including any extra charges?",
+  "Do you have experience of helping families with a move from hospital to a care home?",
+  "How do you work with local council assessments and funding decisions?"
+ ],
+ "faqs": [
+  {
+   "q": "What does a care home advisor do?",
+   "a": "Care home advisors help families compare homes, understand contracts and fees, and plan a move. They can also help you prepare questions for care homes and understand local council assessments."
+  },
+  {
+   "q": "How do I check a care home's rating?",
+   "a": "In England, you can check a care home's rating on the Care Quality Commission (CQC) online. In Wales, Scotland and Northern Ireland, the relevant regulator publishes inspection reports and ratings."
+  },
+  {
+   "q": "Should I use a regulated advisor for care fees advice?",
+   "a": "If your query involves financial products like immediate needs annuities, the advisor should be regulated by the Financial Conduct Authority (FCA). The Society of Later Life Advisers (SOLLA) also accredits specialist advisers, so you can ask about these credentials."
+  },
+  {
+   "q": "Can iComply recommend a specific care home?",
+   "a": "No, we are an introduction service and do not recommend or endorse specific care homes. We introduce you to a suitable care advisor who can help you compare options and make your own informed choice."
+  }
+ ]
+}

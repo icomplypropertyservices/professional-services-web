@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for a small animal vet near me, you're usually looking for someone close to home who can care for a dog, cat, rabbit or other small pet. You want a practice that understands your animal's needs and can see you without a long journey. We introduce you to a suitable UK vet who will quote you directly, with prices on application.",
+ "need_heading": "What people searching for a small animal vet usually need",
+ "need_lead": "Most people searching for a small animal vet near me need a local practice that can handle their pet's routine and urgent health needs.",
+ "needs": [
+  "You have a new puppy or kitten and need to register with a local practice for vaccinations and a health check.",
+  "Your dog or cat has become unwell and you want to find a nearby vet who can see them soon.",
+  "You keep rabbits or small mammals and need a vet who is confident handling these species.",
+  "You are looking for a practice that offers preventive care such as flea and worm treatment and neutering.",
+  "You have moved to a new area and need to transfer your pet's care to a vet close to your new home."
+ ],
+ "context_heading": "Checking your vet's registration and practice standards",
+ "context": [
+  "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS), and you can search the RCVS register by name before you book. Veterinary nurses also have their own RCVS register. Many practices join the voluntary RCVS Practice Standards Scheme, which inspects premises, equipment and clinical processes.",
+  "Some vets hold further qualifications such as an RCVS certificate, advanced practitioner status or specialist status in a particular species or discipline. If your animal has a complex or unusual condition, it is reasonable to ask whether the vet treating it holds one of these, or whether they refer to someone who does."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Tell us what kind of animal you have, including the species and breed if relevant.",
+  "Describe the reason for your enquiry, whether it is a routine check, a specific symptom or a preventive treatment.",
+  "Let us know your rough location so we can introduce you to a vet near you.",
+  "Mention whether your pet is already registered with another practice.",
+  "Say if you have a preference for a practice that is comfortable with rabbits or small mammals.",
+  "Include any questions you already have about the practice or the vet's experience."
+ ],
+ "questions_heading": "Questions to ask the vet",
+ "questions": [
+  "Are you taking on new patients at the moment?",
+  "What experience do you have with my type of pet?",
+  "Do you offer a preventive health plan, and what does it cover?",
+  "How do you handle out-of-hours emergencies?",
+  "Can you tell me about the practice's approach to vaccination schedules?",
+  "If my pet needs specialist care, do you refer to someone with advanced qualifications?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I find a small animal vet near me?",
+   "a": "You can search for local practices and check that they treat your species of pet. We can introduce you to a suitable vet based on what you tell us, and they will quote you directly."
+  },
+  {
+   "q": "Are all vets in the UK regulated?",
+   "a": "Yes, every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons. You can search the RCVS register by name to confirm a vet's registration."
+  },
+  {
+   "q": "What should I ask a vet about rabbit care?",
+   "a": "Rabbits and small mammals benefit from vets with specific interest and experience. Ask whether the practice regularly treats rabbits and what their approach is to common health issues."
+  },
+  {
+   "q": "Can I ask about the cost before booking?",
+   "a": "Yes, you can ask for an estimate of costs for a consultation or treatment. Prices are on application, and the vet will quote you directly."
+  }
+ ]
+}

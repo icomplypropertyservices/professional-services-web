@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for a mortgage broker near me, you're likely looking for someone local who can help you compare mortgages and guide you through the application. Whether you're buying your first home, remortgaging, or moving, a broker can check affordability and manage the process to offer. iComply introduces you to a suitable UK mortgage broker who will quote you directly, with fees on application.",
+ "need_heading": "What people searching for a mortgage broker near me usually need",
+ "need_lead": "Most people want clear, local advice on finding the right mortgage for their situation.",
+ "needs": [
+  "You're a first-time buyer and need help understanding how much you can borrow and which lenders might accept you.",
+  "You're remortgaging and want to find a better deal than your current lender is offering.",
+  "You're self-employed or have complex income and need a broker who understands your circumstances.",
+  "You're moving home and need a broker to coordinate the mortgage on your new property.",
+  "You want to know whether a broker searches the whole market or a limited panel, so you can make an informed choice."
+ ],
+ "context_heading": "What to understand about mortgage brokers near you",
+ "context": [
+  "Mortgage advice is regulated by the Financial Conduct Authority (FCA). Any broker or adviser you use should be authorised, or be an appointed representative of an authorised firm, and you can check this on the FCA register. Advisers typically hold a qualification such as CeMAP.",
+  "Brokers must tell you whether they search the whole of the market or a limited panel of lenders, and how they are paid, whether by lender commission, a fee, or both. If something goes wrong, you can complain to the firm and then to the Financial Ombudsman Service."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Your approximate deposit amount and the property price you're considering, so the broker can gauge affordability.",
+  "Whether you're buying, remortgaging, or moving, and your expected timescale.",
+  "Your employment status and income details, including any variable or self-employed income.",
+  "Any credit issues you're aware of, such as defaults or missed payments, as this affects lender choice.",
+  "Whether you need advice on protection products like life insurance or income protection alongside the mortgage.",
+  "Your preferred location or area, so we can introduce you to a broker who covers your region."
+ ],
+ "questions_heading": "Questions to ask the mortgage broker",
+ "questions": [
+  "Do you search the whole of the market or a limited panel of lenders?",
+  "How are you paid, and will I pay a fee directly or is it covered by lender commission?",
+  "What is your process for getting a decision in principle, and how long does it usually take?",
+  "Can you explain the different types of mortgages available for my situation, such as fixed or variable rates?",
+  "What happens if my application is declined, and will you help me find an alternative?",
+  "Are you authorised by the Financial Conduct Authority, and what is your firm's reference number?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check if a mortgage broker is authorised?",
+   "a": "You can check on the FCA register to see if the broker or their firm is authorised or an appointed representative. The broker should also be able to tell you their firm's reference number."
+  },
+  {
+   "q": "Will a mortgage broker near me charge a fee?",
+   "a": "Brokers must tell you how they are paid, whether by lender commission, a fee, or both. Fees vary, so ask for a clear explanation before you proceed."
+  },
+  {
+   "q": "What is a decision in principle and do I need one?",
+   "a": "A decision in principle is an indication from a lender of how much they might lend you, based on an initial check. It can help when making an offer on a property, and brokers often recommend getting one early."
+  },
+  {
+   "q": "Can a mortgage broker help if I'm self-employed?",
+   "a": "Yes, many brokers specialise in helping self-employed clients and understand how to present income evidence to lenders. Tell the broker about your income history and any accounts you have."
+  }
+ ],
+ "extra_heading": "Why searching for a broker near you can matter",
+ "extra": [
+  "Typing mortgage broker near me suggests you'd rather deal with someone you could meet face to face, perhaps to go through paperwork together or to ask questions in person rather than by email. A local broker may also know the housing market and typical property prices in your area, which can help when you're working out what you can afford.",
+  "Distance isn't everything, though. What matters most is whether the broker searches the whole market or a limited panel, how they're paid, and whether they have experience with situations like yours, such as being self-employed or having a small deposit. A broker a few streets away who only deals with a handful of lenders may suit you less than one further afield who covers your circumstances properly.",
+  "Before your first appointment, gather your income details, an idea of your deposit, and any credit issues you know about, so the conversation starts on solid ground. It's also worth asking early whether the broker charges a fee, since that affects your overall budget alongside the mortgage itself."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Does a mortgage broker need to be near me to help?",
+   "a": "Not necessarily. Much of the work can be done by phone, email or video, so being nearby is convenient but not essential. What matters more is that the broker is authorised by the Financial Conduct Authority and is set up to handle your situation."
+  },
+  {
+   "q": "Can I visit a local broker in person?",
+   "a": "Many brokers offer face-to-face appointments, though some work mainly remotely, so it's worth asking when you first get in touch. If meeting in person matters to you, say so early so you're introduced to someone who works that way."
+  },
+  {
+   "q": "What should I bring to a first meeting with a local broker?",
+   "a": "Bring proof of income such as payslips or accounts if you're self-employed, details of your deposit and any existing mortgage, and information about regular outgoings. The broker will use these to check affordability and explain your options."
+  }
+ ]
+}

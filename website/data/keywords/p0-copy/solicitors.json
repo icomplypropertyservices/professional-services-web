@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for \"solicitors\" usually means something legal has landed on your plate and you need to know who can actually help with it. Perhaps you are buying a home, dealing with a family matter, setting up a business or facing a dispute, and you want a solicitor who handles your kind of case rather than just any firm nearby. Our role is simple: you tell us what the matter is, and we introduce you to a suitable UK solicitor who will quote you directly, with the price on application.",
+ "need_heading": "What people searching for solicitors usually need",
+ "need_lead": "Most people who type \"solicitors\" are trying to match a specific legal situation with the right kind of firm.",
+ "needs": [
+  "You are buying or selling a home and need a solicitor to handle the conveyancing and the paperwork that goes with it.",
+  "You are separating or divorcing and want advice on arrangements for children, finances or both.",
+  "You run a business and need help with a contract, a lease or a disagreement with a supplier or customer.",
+  "You have received court papers or a letter before claim and need to understand your position before responding.",
+  "You are dealing with a bereavement and need help with probate or administering an estate."
+ ],
+ "context_heading": "Check who is actually regulated to act for you",
+ "context": [
+  "Solicitors in England and Wales are regulated by the Solicitors Regulation Authority (SRA), and you can check an individual or a firm on the SRA's register. In Scotland the regulator is the Law Society of Scotland, and in Northern Ireland it is the Law Society of Northern Ireland. Regulated firms must hold professional indemnity insurance and have a complaints procedure; in England and Wales, the Legal Ombudsman can look at service complaints if the firm's own process does not resolve things.",
+  "It also helps to know that the word \"lawyer\" is not protected on its own, so check that whoever handles your matter is a solicitor, a chartered legal executive (CILEx) or another authorised professional. Reserved activities such as conducting court litigation and certain probate and conveyancing work can only be carried out by authorised people, so it is worth confirming this before you instruct anyone."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Describe the legal matter in a sentence or two, such as a house purchase, a family issue or a business dispute.",
+  "Say where in the UK you are, since the law and the regulator differ between England and Wales, Scotland and Northern Ireland.",
+  "Mention whether any deadlines or court dates are already looming, so the solicitor knows how urgent it is.",
+  "Explain whether you have already spoken to a solicitor or received legal letters about the matter.",
+  "Note whether the matter is for you personally or for a business, as firms organise their work differently.",
+  "Say what outcome you are hoping for, so the solicitor can tell you whether that is realistic and what it might involve."
+ ],
+ "questions_heading": "Questions to ask the solicitor",
+ "questions": [
+  "Do you specialise in this type of matter, and how much of your work is in this area?",
+  "Are you regulated by the SRA, the Law Society of Scotland or the Law Society of Northern Ireland, and can I check you on the register?",
+  "Who will actually handle my matter day to day, and are they a solicitor or another authorised professional?",
+  "Can you explain your costs at the outset, including whether you charge by the hour or a fixed fee, and what could change that?",
+  "How will you keep me updated, and who do I contact if I have a question?",
+  "If I am unhappy with the service, what is your complaints procedure and what can I do if it is not resolved?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I know a solicitor is properly regulated?",
+   "a": "Solicitors in England and Wales can be checked on the SRA's register, while in Scotland and Northern Ireland you check with the Law Society of Scotland or the Law Society of Northern Ireland. Regulated firms must also hold professional indemnity insurance and have a complaints procedure."
+  },
+  {
+   "q": "What does price on application mean for a solicitor's quote?",
+   "a": "It means the solicitor will give you a price once they understand your matter, because legal work varies so much in scope. Ask for costs information at the start so you know how you will be charged and what could affect the final figure."
+  },
+  {
+   "q": "Can any lawyer deal with court cases and conveyancing?",
+   "a": "No. Reserved activities such as conducting court litigation and certain probate and conveyancing work can only be carried out by authorised people, so check that whoever handles your matter is a solicitor, a chartered legal executive or another authorised professional."
+  },
+  {
+   "q": "What should I have ready before I speak to a solicitor?",
+   "a": "Gather any letters, contracts, court papers or agreements connected to the matter, along with a clear summary of what has happened so far. Having these to hand helps the solicitor understand your situation and give you a useful quote."
+  }
+ ],
+ "extra_heading": "Comparing several solicitors without losing your footing",
+ "extra": [
+  "Typing the plural \"solicitors\" often means you are at the comparing stage rather than the point of instructing someone: you may have a shortlist in mind, or several names from friends and family, and you want to weigh them up before committing. That is a sensible place to be, because legal matters rarely come with a single obvious choice of firm, and the right fit depends on the type of work, your location and how you prefer to be dealt with.",
+  "When you speak to more than one, ask each the same set of questions so the answers can be compared fairly: what area of law they handle for you, who will do the day-to-day work and whether that person is a solicitor or another authorised professional, how costs will be calculated, and how they will keep you informed. Note down what each says while it is fresh, since it is easy to mix up who told you what. A firm that explains things clearly at this stage is giving you a fair idea of how it will communicate later.",
+  "It also helps to be clear about the difference between a quote and an estimate. A fixed fee is a set price for a defined piece of work, while an hourly rate means the final bill depends on how long the matter takes, so ask which applies to you and what could push the figure up. Price on application simply means the solicitor will put a figure to your matter once they understand it, rather than quoting blind."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I approach several solicitors at once?",
+   "a": "It is reasonable to speak to more than one so you can compare how they explain your matter and what they say about costs. Just be aware that some firms may charge for an initial meeting, so ask about that before you book."
+  },
+  {
+   "q": "How do I compare solicitors fairly when their quotes differ?",
+   "a": "Check that each quote covers the same scope of work and the same basis of charging, whether fixed fee or hourly. A lower figure for a narrower piece of work is not the same as a lower figure for the whole matter."
+  },
+  {
+   "q": "What if my matter spans England and Scotland?",
+   "a": "The law and the regulator differ between the two, so ask each solicitor which jurisdiction they are regulated in and whether they can act on the part of the matter that sits elsewhere. It may be that you need more than one firm involved."
+  }
+ ]
+}

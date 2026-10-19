@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a health insurance broker near me usually means you want someone local who can explain private medical insurance in plain terms and help you find a policy that fits your circumstances. You might be comparing cover for the first time, adding a family member, or reviewing an existing policy that no longer feels right. A broker can talk you through the options and how they are paid, so you can decide what suits you.",
+ "need_heading": "What people searching for a local health insurance broker usually need",
+ "need_lead": "Most people want clear, local guidance on private medical insurance without feeling pushed into a policy.",
+ "needs": [
+  "You want to understand how private medical insurance works before committing, including what is and is not covered for acute conditions.",
+  "You have a pre-existing condition and need to know how insurers are likely to treat it, since it is usually excluded.",
+  "You are unsure whether to choose a policy with full medical underwriting or moratorium underwriting and want the difference explained.",
+  "You want to check that the hospitals and specialists you would use are included on an insurer’s list before you apply.",
+  "You are thinking about adding outpatient cover or adjusting an excess and want to see how that changes the policy."
+ ],
+ "context_heading": "What to understand before you speak to a broker",
+ "context": [
+  "Private medical insurance in the UK pays for eligible private treatment for acute conditions, and policies often include options such as outpatient cover and excesses. Pre-existing conditions are usually excluded, so it is important to be honest about your medical history from the start. The type of underwriting used can affect how your conditions are treated, so ask the broker to explain it clearly.",
+  "Insurance brokers and intermediaries must be authorised by the FCA or be appointed representatives of an authorised firm, and you can check them on the FCA register. Many brokers also belong to the British Insurance Brokers’ Association, and some hold Chartered status from the Chartered Insurance Institute. A broker should understand your demands and needs, explain key policy features and exclusions, and tell you how they are paid."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you are looking for a health insurance broker near you and say which area you would like them to cover.",
+  "Explain whether you are insuring just yourself or also family members, and give their ages if relevant.",
+  "Describe any pre-existing conditions or recent medical treatment, as this will affect which policies are suitable.",
+  "Say whether you have had private medical insurance before and what you liked or disliked about it.",
+  "List any hospitals or specialists you would want to be able to use, so the broker can check hospital lists.",
+  "Mention your rough budget and whether you would consider an excess or a policy without outpatient cover to keep costs down."
+ ],
+ "questions_heading": "Questions to ask the broker",
+ "questions": [
+  "How do you get paid for arranging this policy, and will you tell me in writing?",
+  "Which underwriting approach do you recommend for my situation, and why?",
+  "Can you explain exactly what is excluded for pre-existing conditions in the policies you are considering?",
+  "Will you check that my preferred hospitals and specialists are on the insurer’s list?",
+  "What happens if I need to claim — will you help me with the paperwork?",
+  "If I am not happy with your service, how do I complain, and can I take it further?"
+ ],
+ "faqs": [
+  {
+   "q": "Will a broker near me cost me anything?",
+   "a": "Brokers are paid in different ways, and they must tell you how they are paid. Some charge a fee, some receive commission from the insurer, and some do both. Ask the broker to explain their charges clearly before you proceed."
+  },
+  {
+   "q": "Can a broker help if I have a pre-existing condition?",
+   "a": "Yes, a broker can explain how insurers are likely to treat a pre-existing condition, which is usually excluded. They can also talk you through the difference between full medical underwriting and moratorium underwriting, so you understand what might be covered."
+  },
+  {
+   "q": "How do I check that a broker is authorised?",
+   "a": "You can check whether a broker is authorised by the FCA on the FCA register. Many brokers also belong to the British Insurance Brokers’ Association, and some hold Chartered status from the Chartered Insurance Institute, which you can ask about."
+  },
+  {
+   "q": "What should I have ready before I speak to a broker?",
+   "a": "It helps to have details of any medical conditions, the hospitals you would like to use, and a rough idea of your budget. Being open about your health and what you want from the policy will help the broker give you accurate information."
+  }
+ ]
+}

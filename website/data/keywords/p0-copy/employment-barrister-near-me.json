@@ -1,0 +1,53 @@
+{
+ "intro": "You've searched for an employment barrister near you, which usually means something at work has gone wrong or is heading that way. Perhaps you're facing a disciplinary, a dismissal, or discrimination, and you want to know where you stand and what a barrister can do. We introduce people to UK employment barristers who can advise you directly and quote for the work.",
+ "need_heading": "What people searching for an employment barrister near me usually need",
+ "need_lead": "Most people looking for an employment barrister nearby are dealing with a workplace problem that needs specialist advice or representation.",
+ "needs": [
+  "You have been dismissed and want to know whether you have a claim for unfair dismissal before the tribunal deadline passes.",
+  "You are facing discrimination at work and need advice on whether your treatment is unlawful and what evidence to gather.",
+  "You have been offered a settlement agreement and want an employment barrister to go through it and explain the terms.",
+  "You are an employer dealing with a grievance or a potential tribunal claim from a member of staff and need guidance on your obligations.",
+  "You have a hearing coming up in the employment tribunal and want a barrister to represent you or help you prepare."
+ ],
+ "context_heading": "Direct access and tribunal deadlines",
+ "context": [
+  "Employment barristers usually work from chambers and are regulated by the Bar Standards Board. Many can be instructed directly by members of the public under the Public Access scheme for suitable employment matters, without going through a solicitor. You can check the Barristers' Register to see whether someone holds a current practising certificate and is authorised to accept direct instructions.",
+  "Tribunal deadlines are strict, so it is important to get advice early. Costs are not usually ordered in employment tribunals, which means each side generally pays their own legal costs regardless of the outcome. A barrister can explain the process and help you decide what to do next."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Say whether you are an employee or an employer, and what type of workplace issue you are facing, such as dismissal, discrimination, or a settlement agreement.",
+  "Give a brief outline of what has happened and any key dates, such as when you were dismissed or when you received a letter.",
+  "Mention whether any deadlines are approaching, such as a tribunal claim deadline or a date for a hearing.",
+  "Explain whether you have already taken advice from a solicitor or another adviser, and whether you have any documents ready.",
+  "State whether you need advice only, help preparing documents, or representation at a hearing.",
+  "Include your location and whether you are able to travel or would prefer to meet remotely."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you authorised to accept instructions directly from the public under the Public Access scheme?",
+  "What is your experience of employment tribunal cases like mine?",
+  "What are the key deadlines I need to be aware of in my situation?",
+  "What will you need from me in terms of documents and information?",
+  "How do you charge for your work, and what might the total cost be?",
+  "Will you be the person representing me at the hearing, or might that be another barrister?"
+ ],
+ "faqs": [
+  {
+   "q": "Can I instruct an employment barrister directly without a solicitor?",
+   "a": "Yes, if the barrister is registered under the Public Access scheme, which allows members of the public to instruct them directly for suitable matters. Not all barristers offer this, so it is worth checking the Barristers' Register or asking when you enquire."
+  },
+  {
+   "q": "How do I check whether a barrister is regulated?",
+   "a": "Barristers in England and Wales are regulated by the Bar Standards Board. You can check the Barristers' Register to see whether someone holds a current practising certificate and whether they are authorised to accept direct instructions from the public."
+  },
+  {
+   "q": "What is the time limit for making an employment tribunal claim?",
+   "a": "Employment tribunal deadlines are strict and vary depending on the type of claim. It is important to get advice quickly so you do not miss the deadline, and a barrister can explain the specific time limit that applies to your situation."
+  },
+  {
+   "q": "Will I have to pay the other side's legal costs if I lose?",
+   "a": "In employment tribunals, costs are not usually ordered, which means each side generally pays their own legal costs regardless of the outcome. However, there are limited circumstances where a tribunal may order costs, and a barrister can advise you further."
+  }
+ ]
+}

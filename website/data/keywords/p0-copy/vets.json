@@ -1,0 +1,73 @@
+{
+ "intro": "Looking for vets means you have an animal in your care and you want the right professional to look after its health. Whether you are registering a new pet, moving to a new area, or facing a specific concern, we can introduce you to a UK vet who will quote you directly. Just tell us what you need and we will help you take the next step.",
+ "need_heading": "What people searching for vets usually need",
+ "need_lead": "Most people who search for vets are looking for a reliable practice to care for their animal, but the exact reason varies.",
+ "needs": [
+  "You have just got a puppy, kitten or other pet and need to register with a practice before any health issues arise.",
+  "Your animal is showing symptoms that worry you and you want a vet to examine and advise on the best course of action.",
+  "You are moving home and need to find a local vet who can continue your pet's routine care and keep its records up to date.",
+  "You need a vet who can provide preventive treatments such as vaccinations, flea and worm control, or neutering.",
+  "Your pet has a complex or ongoing condition and you want to find a vet with experience in that area or who can refer you appropriately."
+ ],
+ "context_heading": "What to understand about choosing a vet",
+ "context": [
+  "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS), and you can search the RCVS register by name before you book. Veterinary nurses also have their own RCVS register. Many practices join the voluntary RCVS Practice Standards Scheme, which inspects premises, equipment and clinical processes, so you can check whether a practice is part of it.",
+  "If your animal has a complex or unusual condition, it is reasonable to ask whether the vet treating it holds further qualifications such as an RCVS certificate, advanced practitioner status or specialist status in a particular species or discipline, or whether they would refer you to someone who does."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Tell us the type of animal you have and its age, as this helps us match you with a vet who sees that species.",
+  "Let us know whether you are looking for routine preventive care, treatment for a specific illness or injury, or advice on a complex condition.",
+  "Mention any particular requirements, such as a practice that is easy to reach or one that offers home visits.",
+  "If your animal has an ongoing condition, describe it briefly so we can introduce you to a vet with relevant experience.",
+  "Tell us whether you need help outside normal hours, as many practices use a dedicated out-of-hours provider.",
+  "Let us know if you are looking for a practice that offers a preventive health plan, and what you would like it to cover."
+ ],
+ "questions_heading": "Questions to ask the vet",
+ "questions": [
+  "Are you registered with the Royal College of Veterinary Surgeons, and what is your registration number?",
+  "How does the practice handle emergencies outside normal hours?",
+  "Do you have a preventive health plan, and what does it include?",
+  "What are your fees for a consultation, and do you provide estimates for treatments?",
+  "Do you have experience treating my type of animal and its specific condition?",
+  "If my animal needs specialist care, do you refer to someone with advanced qualifications?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check if a vet is properly qualified?",
+   "a": "You can search the Royal College of Veterinary Surgeons (RCVS) register by name to confirm that a vet is registered to practise in the UK. Veterinary nurses also have their own RCVS register. It is a quick and simple check you can do before you book."
+  },
+  {
+   "q": "What should I do in an emergency with my pet?",
+   "a": "If your pet needs urgent veterinary care, contact your vet practice straight away. If it is outside their normal hours, they should have arrangements for out-of-hours care, so check their message or ask them in advance. For life-threatening situations, act quickly and call the practice or the emergency provider they recommend."
+  },
+  {
+   "q": "Are preventive health plans worth it?",
+   "a": "Preventive health plans can spread the cost of routine care such as vaccinations and parasite control, but you should check exactly what is included and whether it suits your animal's needs. Ask the practice for a clear breakdown of what the plan covers and any exclusions."
+  },
+  {
+   "q": "Can I ask for a vet with a special interest in my animal's condition?",
+   "a": "Yes, you can ask whether the vet treating your animal holds further qualifications such as an RCVS certificate or specialist status in a particular species or discipline. If they do not, it is reasonable to ask whether they would refer you to someone who does."
+  }
+ ],
+ "extra_heading": "Comparing several vets before you decide",
+ "extra": [
+  "Searching for vets in the plural suggests you are weighing up more than one practice rather than simply finding a single name. That is a sensible approach, because practices differ in size, in the species they see most often and in how they organise their staff, so it helps to compare a few before you settle on one.",
+  "When you compare, ask each practice the same questions so the answers are genuinely side by side: who you would see, how out-of-hours cover works, what a consultation costs and whether estimates are given before treatment. You can also check each vet's registration on the RCVS register and ask whether the practice belongs to the voluntary RCVS Practice Standards Scheme, which tells you the premises and processes have been inspected.",
+  "Think about what matters most for your animal's circumstances, such as how far you are willing to travel in an emergency, whether you need a practice that sees exotic species, or whether continuity with the same vet matters for an ongoing condition. Comparing on those practical points, rather than on any claim to be the best, will usually lead you to the right practice for you."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Is it worth registering with more than one vet practice?",
+   "a": "Most people register with one practice for routine care, but it is useful to know where you would go outside normal hours, as many practices use a dedicated out-of-hours provider. If your animal has an ongoing condition, keeping its records with one practice helps avoid gaps in its history."
+  },
+  {
+   "q": "How can I compare vets fairly when prices are on application?",
+   "a": "Ask each practice the same questions about consultation fees, how estimates are handled and what a preventive health plan includes, so you can compare like with like. Prices vary with the treatment needed, which is why practices quote on application rather than listing a single figure."
+  },
+  {
+   "q": "What if I keep more than one type of animal?",
+   "a": "Some practices see only cats and dogs, while others treat rabbits, birds, reptiles or farm animals, so ask whether they cover every species in your household. If one practice cannot help with a particular animal, it may still be worth registering there for the others and finding a separate vet for the rest."
+  }
+ ]
+}

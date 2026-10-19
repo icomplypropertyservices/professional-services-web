@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for \"IUI near me\", you're likely looking for a local clinic that offers intrauterine insemination, a fertility treatment that places prepared sperm directly into the womb around ovulation. You may be considering donor sperm or have been advised that IUI is a less invasive option than IVF. Finding a clinic near you that provides this treatment is the first step.",
+ "need_heading": "What people searching for IUI near me usually need",
+ "need_lead": "Most people want to understand how to access IUI locally and what to expect from the process.",
+ "needs": [
+  "You want to find a clinic close to home that offers IUI, so appointments are practical to attend.",
+  "You may be using donor sperm and need a clinic that is licensed for donor treatment.",
+  "You are exploring fertility options and want to know whether IUI is suitable for your circumstances.",
+  "You have been told that IUI is less invasive than IVF and want to learn more about it.",
+  "You want to understand the success rates of IUI compared with other treatments before deciding."
+ ],
+ "context_heading": "What to understand about IUI and clinic licensing",
+ "context": [
+  "IUI involves placing prepared sperm directly into the womb around the time of ovulation. It is less invasive than IVF, but success rates per cycle are generally lower. It is commonly used with donor sperm or for mild fertility issues.",
+  "Clinics that provide IUI using donor sperm, or that carry out treatments involving eggs, sperm or embryos, must be licensed by the Human Fertilisation and Embryology Authority (HFEA). The HFEA's Choose a Fertility Clinic tool allows you to check a clinic's inspection ratings, success rates and patient feedback. Simple tests such as blood hormone checks may be offered outside HFEA licensing, but any treatment involving eggs, sperm or embryos should always be at a licensed centre."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Mention that you are looking for IUI near you, so we can introduce you to a suitable local clinic.",
+  "Let us know whether you plan to use donor sperm or your partner's sperm, as this affects the clinic's licensing.",
+  "Share any relevant fertility history or test results you already have, so the clinic can advise you appropriately.",
+  "Tell us your location and how far you are willing to travel for appointments.",
+  "Mention if you have a preference for a clinic that is licensed by the HFEA for donor treatment.",
+  "Indicate whether you have any specific questions about IUI success rates or the treatment process."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Is your clinic licensed by the HFEA for IUI treatment?",
+  "What are your success rates for IUI per cycle, and how do they compare with national averages?",
+  "Do you offer IUI with donor sperm, and what are the requirements?",
+  "What tests or investigations will I need before starting IUI?",
+  "How many cycles of IUI do you typically recommend before considering other options?",
+  "What are the risks and side effects of IUI, and how are they managed?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral from my GP to get IUI?",
+   "a": "Some clinics accept self-referrals for IUI, while others may require a referral from your GP. It's best to ask the clinic directly when you enquire."
+  },
+  {
+   "q": "Is IUI available on the NHS?",
+   "a": "IUI may be available on the NHS in some areas, but eligibility criteria vary. You can check with your GP or local integrated care board for details."
+  },
+  {
+   "q": "How is IUI different from IVF?",
+   "a": "IUI is less invasive than IVF because it involves placing sperm into the womb without egg retrieval or embryo transfer. However, success rates per cycle are generally lower with IUI."
+  },
+  {
+   "q": "Can I have IUI if I'm using donor sperm?",
+   "a": "Yes, IUI is commonly used with donor sperm. The clinic must be licensed by the HFEA for donor treatment, so always check this before proceeding."
+  }
+ ]
+}

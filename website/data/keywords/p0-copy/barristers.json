@@ -1,0 +1,73 @@
+{
+ "intro": "You have searched for barristers, probably because you need specialist advocacy or legal advice for a court or tribunal case. Barristers are experts in presenting cases and giving opinions, and you may be able to instruct one directly if they are registered for Public Access. We can introduce you to a suitable barrister who will quote you directly.",
+ "need_heading": "When you might need a barrister",
+ "need_lead": "People search for barristers when they need focused legal expertise for a specific dispute or hearing.",
+ "needs": [
+  "You are representing yourself in court and want a barrister to examine your case and advise on the strengths and weaknesses.",
+  "You need a specialist opinion on a point of law before deciding whether to take a case further.",
+  "You have a hearing coming up and want an advocate to speak for you or to help you prepare.",
+  "You are already working with a solicitor but need a barrister's expertise for a complex area of law.",
+  "You want to instruct a barrister directly under the Public Access scheme for a matter that does not require a solicitor."
+ ],
+ "context_heading": "Understanding how barristers work",
+ "context": [
+  "Barristers are regulated by the Bar Standards Board in England and Wales. You can check the Barristers' Register to confirm that someone holds a current practising certificate and whether they are authorised to accept instructions directly from the public. In Scotland, the equivalent professionals are advocates, regulated through the Faculty of Advocates.",
+  "Barristers usually work from chambers, where clerks manage their diaries and fees. Many barristers can be instructed through a solicitor in the traditional way, while those registered under the Public Access scheme can be instructed directly by members of the public for suitable matters. Fees are usually agreed for a defined piece of work, so you know the cost upfront."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "The type of legal issue you need help with, such as a court hearing, a tribunal, or a specialist opinion.",
+  "The stage your case is at, including any deadlines or hearing dates you are working towards.",
+  "Whether you already have a solicitor acting for you or whether you are representing yourself.",
+  "The court or tribunal involved, if a hearing is scheduled, and the area of law it concerns.",
+  "Any particular expertise you are looking for, such as experience in a specific field of law.",
+  "Your location and whether you are able to travel or would prefer a barrister who can work remotely."
+ ],
+ "questions_heading": "Questions to ask a barrister",
+ "questions": [
+  "Are you authorised to accept instructions directly from the public under the Public Access scheme?",
+  "What is your experience in the specific area of law my case involves?",
+  "How will your fees be structured, and what will they cover?",
+  "Will you be the person handling my case from start to finish?",
+  "What do you need from me to prepare for the hearing or to give an opinion?",
+  "How far in advance do I need to instruct you before a hearing?"
+ ],
+ "faqs": [
+  {
+   "q": "Can I instruct a barrister directly without going through a solicitor?",
+   "a": "Yes, if the barrister is registered for Public Access. You can check the Barristers' Register to see whether a barrister is authorised to accept instructions directly from the public. Not all barristers offer this, and it may not be suitable for every case."
+  },
+  {
+   "q": "How do barristers' fees work?",
+   "a": "Barristers usually agree fees for a defined piece of work, such as preparing an opinion or representing you at a hearing. The fee will depend on the complexity of the case and the barrister's experience. You should discuss and agree fees before any work begins."
+  },
+  {
+   "q": "What is the difference between a barrister and a solicitor?",
+   "a": "Solicitors often handle the day-to-day management of a case and can instruct barristers on your behalf. Barristers are specialist advocates and advisers who represent clients in courts and tribunals, draft legal documents and give expert opinions. In some matters, you may need both."
+  },
+  {
+   "q": "How do I check a barrister's credentials?",
+   "a": "You can check the Barristers' Register, maintained by the Bar Standards Board, to confirm that a barrister holds a current practising certificate and whether they are authorised to accept direct instructions. You can also ask the barrister about their experience in your area of law."
+  }
+ ],
+ "extra_heading": "Comparing several barristers before you choose",
+ "extra": [
+  "Searching for barristers in the plural usually means you are weighing up more than one option rather than looking for a single name. That is a sensible approach, because barristers specialise in different areas of law, and the right fit depends on the facts of your case rather than on any general ranking.",
+  "When you compare, look at each barrister's area of practice and ask whether they have handled matters like yours. You can check the Barristers' Register to confirm a current practising certificate and whether they accept direct instructions under the Public Access scheme, and you can ask about their approach to fees for a defined piece of work.",
+  "It also helps to think about how you would work together: whether they can attend your hearing in person, whether they can prepare written advice, and how quickly they could take on your matter. Comparing on those practical points, rather than on claims of being the best, will tell you far more about who suits your situation."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I speak to more than one barrister before deciding?",
+   "a": "It can be helpful to speak to a few so you can compare their specialisms, how they would approach your matter and how their fees are structured. Each barrister will quote you directly, so you can judge the fit for yourself before committing to anything."
+  },
+  {
+   "q": "Does choosing a more expensive barrister mean better representation?",
+   "a": "Not necessarily. Fees usually reflect the complexity of the work and the barrister's experience in that area, so a higher fee does not mean a better outcome. What matters more is whether the barrister practises in the right area of law and understands your case."
+  },
+  {
+   "q": "What if my matter needs a solicitor as well as a barrister?",
+   "a": "Some cases are best handled by a solicitor who manages the day-to-day work and instructs a barrister for advocacy or a specialist opinion. If you are unsure, tell us what your case involves and a barrister can explain whether direct instruction under Public Access is suitable."
+  }
+ ]
+}

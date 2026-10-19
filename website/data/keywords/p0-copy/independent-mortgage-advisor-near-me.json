@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for an independent mortgage advisor near you usually means you want someone local who can look at your whole situation and find a mortgage that fits. You might be buying your first home, remortgaging, or unsure whether your current lender is offering you the best deal. You want clear, independent advice and a sense of what it will cost before you commit.",
+ "need_heading": "What people searching for an independent mortgage advisor near me usually need",
+ "need_lead": "You want an adviser who can search the market for you and explain the options in plain terms.",
+ "needs": [
+  "You are buying your first home and feel overwhelmed by the number of lenders and products available.",
+  "You are remortgaging and want to know if there is a better deal than your current lender's offer.",
+  "Your circumstances are less straightforward, such as being self-employed or having a small deposit, and you need an adviser who understands those details.",
+  "You want to understand how an adviser is paid and whether there are fees before you agree to anything.",
+  "You would prefer to deal with someone local who can meet in person or is easy to reach by phone."
+ ],
+ "context_heading": "Understanding independent mortgage advice",
+ "context": [
+  "Independent mortgage advisers search across the market rather than being tied to a single lender. They should explain whether they search the whole of the market or a limited panel, and how they are paid, whether by lender commission, a fee, or both. Some deals are only available directly from lenders, so it is worth asking about that too.",
+  "Mortgage advice is regulated by the Financial Conduct Authority (FCA). Any broker or adviser you use should be authorised, or be an appointed representative of an authorised firm, and you can check this on the FCA register. Advisers typically hold a qualification such as CeMAP. If something goes wrong, you can complain to the firm and then to the Financial Ombudsman Service."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Whether you are buying a home, remortgaging, or exploring other options.",
+  "The approximate value of the property and the size of your deposit or equity.",
+  "Whether you are employed, self-employed, or have another income source.",
+  "Any credit issues or past financial difficulties that might affect your application.",
+  "Whether you have a deadline, such as a house purchase that is already underway.",
+  "How you would prefer to communicate, such as by phone, email, or in person."
+ ],
+ "questions_heading": "Questions to ask the mortgage adviser",
+ "questions": [
+  "Do you search the whole of the market or a limited panel of lenders?",
+  "How are you paid, and will I receive a clear breakdown of any fees?",
+  "Are you authorised by the Financial Conduct Authority, and what is your firm's reference number?",
+  "What qualifications do you hold, such as CeMAP?",
+  "Are there any direct-only deals that I should consider separately?",
+  "What happens if I want to complain about your service?"
+ ],
+ "faqs": [
+  {
+   "q": "What does 'whole of market' mean for an independent mortgage adviser?",
+   "a": "It means the adviser searches across the mortgage market rather than being restricted to a single lender or a small panel. You should ask them to confirm this, as some advisers only look at a limited range of lenders."
+  },
+  {
+   "q": "How can I check that a mortgage adviser is properly authorised?",
+   "a": "You can check on the Financial Conduct Authority (FCA) register to see if the adviser or their firm is authorised. Advisers should also hold a qualification such as CeMAP, which you can ask them about."
+  },
+  {
+   "q": "Will I have to pay a fee for independent mortgage advice?",
+   "a": "Fees vary by firm, and advisers must tell you how they are paid, whether by lender commission, a fee, or both. Ask for a clear explanation before you agree to proceed."
+  },
+  {
+   "q": "Can an independent adviser find deals that are not available directly from lenders?",
+   "a": "Some deals are direct-only, meaning they are only available by going straight to the lender. An adviser should explain this and help you compare those options alongside the ones they can access."
+  }
+ ],
+ "extra_heading": "What happens at a first meeting with a local mortgage adviser",
+ "extra": [
+  "When you meet an independent mortgage adviser near you for the first time, expect a conversation rather than a sales pitch. They will usually ask about your income, your deposit or equity, your credit history and what you want the mortgage to do, whether that is buying, remortgaging or borrowing more. Bring proof of income, identification and details of any existing mortgage so the picture is complete.",
+  "The adviser should then explain the range of lenders they can approach and how they are paid, whether through lender commission, a fee or both. This is the moment to ask whether they search the whole of the market or a limited panel, and to raise anything that might complicate your application, such as self-employment or a small deposit. You should leave with a clear idea of the next steps and what information they still need from you.",
+  "Being local can make the first meeting easier, but it is not the only thing that matters. A nearby adviser you can sit down with is useful if you prefer to talk things through face to face, yet what counts most is that they are authorised by the Financial Conduct Authority and that you understand their fees before you commit. If you would rather work by phone or email, say so early so the adviser can adapt."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Is it better to use an adviser near me or one further away?",
+   "a": "There is no rule that a local adviser is better. Being nearby can help if you want to meet in person, but what matters most is that the adviser is authorised by the Financial Conduct Authority, searches the market you need and explains their fees clearly."
+  },
+  {
+   "q": "What should I bring to a first appointment with a mortgage adviser?",
+   "a": "Bring identification, proof of income such as payslips or accounts if you are self-employed, and details of your deposit or current mortgage. It also helps to have a rough idea of the property value and any credit issues you want to discuss."
+  },
+  {
+   "q": "Will an independent adviser charge me for the first meeting?",
+   "a": "Fees vary by firm, and some advisers charge for an initial consultation while others do not. Ask about any charges before you book, and remember they must tell you how they are paid, whether by commission, a fee or both."
+  }
+ ]
+}

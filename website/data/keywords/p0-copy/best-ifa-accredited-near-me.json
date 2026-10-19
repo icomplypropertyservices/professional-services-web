@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for the best IFA accredited near you usually means you want independent financial advice from someone local whose credentials you can actually check. You may be weighing up a pension, an investment or protection cover, and you want to be sure the person you speak to is properly authorised and genuinely independent. We can introduce you to a financial advice firm that suits what you have described, and they will quote you directly.",
+ "need_heading": "What people searching for an accredited IFA usually need",
+ "need_lead": "Most people behind this search want local, independent advice they can trust, without knowing where to start checking credentials.",
+ "needs": [
+  "You want an adviser who considers products from across the market rather than only recommending a limited panel.",
+  "You would like to speak to someone near you, perhaps face to face, about a pension, investment or protection decision.",
+  "You want to understand how the adviser is authorised and what qualifications sit behind the word accredited.",
+  "You are unsure how charges work and want them explained clearly in pounds before you commit.",
+  "You have a specific sum or goal in mind and want independent advice on how best to approach it."
+ ],
+ "context_heading": "Checking independent status and accreditation",
+ "context": [
+  "Financial advice in the UK is regulated by the Financial Conduct Authority (FCA). You can check that any adviser or firm is authorised, or is an appointed representative of an authorised firm, on the FCA register, and that check is the most reliable starting point. If something goes wrong you can complain to the firm, then to the Financial Ombudsman Service, and the Financial Services Compensation Scheme may protect you if an authorised firm fails.",
+  "Advisers must tell you whether their advice is independent, meaning they consider the whole market, or restricted to certain products or providers, and how they charge. Chartered status from the Chartered Insurance Institute or the Personal Finance Society, and certifications such as CFP, show advanced qualifications, so ask what accreditation actually means in each case. On best, no one can promise that for you, so compare what each firm offers and judge for yourself."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe what you want advice on, such as a pension, investments or protection cover.",
+  "Say roughly where you are so we can look for a firm near you.",
+  "Mention whether you would prefer to meet in person or are happy to speak remotely.",
+  "Explain whether you already have existing products or arrangements the adviser should know about.",
+  "Note any particular accreditation or qualification you are looking for and why it matters to you.",
+  "Say what you would like the advice to achieve so the firm can quote accurately."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you independent or restricted, and does your advice consider products from across the whole market?",
+  "Which regulator authorises your firm, and can you point me to where I can check it?",
+  "What do the accreditations after your name actually mean, and who issued them?",
+  "How do you charge, and can you set out the likely cost in pounds before any work begins?",
+  "What qualifications do you and the people advising me hold?",
+  "What happens if I am unhappy with the advice, and how would a complaint be handled?"
+ ],
+ "faqs": [
+  {
+   "q": "How can I tell whether an IFA is properly accredited?",
+   "a": "Check the adviser or firm on the FCA register to confirm they are authorised or an appointed representative of an authorised firm. Then ask what any accreditation means and who issued it, as Chartered status and certifications such as CFP are signs of advanced qualifications."
+  },
+  {
+   "q": "What does independent mean for an IFA?",
+   "a": "An independent financial adviser considers products from across the market when recommending pensions, investments and protection. Advisers must tell you whether their advice is independent or restricted, so ask them to confirm it clearly."
+  },
+  {
+   "q": "Will I know the cost before I go ahead?",
+   "a": "Advisers must explain how they charge, and you can ask for the likely cost in pounds before any work begins. Getting that in writing helps you compare firms and decide what suits you."
+  },
+  {
+   "q": "What can I do if something goes wrong with the advice?",
+   "a": "You can complain to the firm first, then to the Financial Ombudsman Service. The Financial Services Compensation Scheme may also protect you if an authorised firm fails."
+  }
+ ],
+ "extra_heading": "What the first meeting with an IFA usually involves",
+ "extra": [
+  "When you meet an independent financial adviser for the first time, expect a conversation about your circumstances rather than a product pitch. They will ask about your goals, your existing pensions, investments or protection arrangements, and how much risk you are comfortable with, so gather any relevant paperwork beforehand. This is also your chance to ask what accreditation they hold and what it actually covers.",
+  "Before any advice is given, the adviser must explain whether their service is independent or restricted and set out how they charge. Ask for that in pounds and in writing, so you can compare it fairly against other firms near you rather than relying on the word best. If anything about the charges or the scope of advice is unclear, keep asking until it makes sense to you.",
+  "You do not have to commit at that first meeting. It is reasonable to go away, check the firm on the FCA register, and think about whether the adviser's approach suits what you need. If you decide to proceed, the adviser will confirm the arrangement in writing before doing the work."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I bring anything to a first meeting with an IFA?",
+   "a": "Bring details of any pensions, investments or protection policies you already hold, along with a rough idea of your goals and what you can afford to set aside. Having this to hand helps the adviser understand your position and explain what they can do."
+  },
+  {
+   "q": "Is the first meeting usually free?",
+   "a": "That varies between firms, so ask before you book whether there is a charge for an initial conversation and how it is calculated. Advisers must explain how they charge, and you can ask for the likely cost in pounds before any work begins."
+  },
+  {
+   "q": "Can I change my mind after the first meeting?",
+   "a": "Yes. Nothing obliges you to go ahead, and taking time to check the firm on the FCA register and weigh up the charges is sensible. If you do proceed, ask for the arrangement to be confirmed in writing."
+  }
+ ]
+}

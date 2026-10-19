@@ -1,0 +1,53 @@
+{
+ "intro": "You've searched for a fertility assessment near you, which usually means you're trying to understand your fertility and want some clear answers without travelling far. A fertility assessment can give you a picture of what's happening and what your options might be. We can introduce you to a suitable UK fertility clinic in your area, and they will quote you directly.",
+ "need_heading": "What people searching for a fertility assessment near me usually need",
+ "need_lead": "Most people want a straightforward, local starting point to understand their fertility and what to do next.",
+ "needs": [
+  "You've been trying to conceive for a while and want to know whether everything is as it should be.",
+  "You have a health condition or family history that makes you wonder about your fertility.",
+  "You're planning for the future and want to understand your options before making decisions.",
+  "You've had a previous fertility issue and want to check how things are now.",
+  "You want a local clinic so appointments and follow-ups are easy to get to."
+ ],
+ "context_heading": "What to understand about fertility assessments and licensing",
+ "context": [
+  "A fertility assessment typically includes hormone blood tests, an ultrasound scan and semen analysis to understand your chances and options. Simple tests such as blood hormone checks may be offered by clinics outside HFEA licensing, but treatment involving eggs, sperm or embryos should always be with a licensed centre.",
+  "Clinics offering IVF, donor treatment, egg and embryo freezing and most other fertility treatments must be licensed by the Human Fertilisation and Embryology Authority (HFEA). The HFEA's Choose a Fertility Clinic tool shows each licensed clinic's inspection ratings, success rates and patient feedback."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you're looking for a fertility assessment near you and give your town or postcode so we can introduce you to a local clinic.",
+  "Explain briefly why you want an assessment, such as how long you've been trying to conceive or any relevant health history.",
+  "Say whether you're enquiring for yourself or for you and a partner, as some tests involve both of you.",
+  "Let us know if you have a preference for a clinic that is licensed by the HFEA for any treatment that might follow.",
+  "Mention any previous fertility tests or treatments so the clinic can see the full picture.",
+  "Ask for the clinic to explain results clearly, as the next steps depend on what the tests show."
+ ],
+ "questions_heading": "Questions to ask the fertility clinic",
+ "questions": [
+  "What does your fertility assessment include, and will it cover hormone blood tests, an ultrasound scan and semen analysis if needed?",
+  "Are you licensed by the HFEA for treatments such as IVF, donor treatment or egg and embryo freezing?",
+  "How and when will you explain my results to me, and what support do you offer to help me understand them?",
+  "Can you tell me the price of the assessment and any follow-up costs before I book?",
+  "How soon can I be seen for an assessment, and are there any preparation steps I need to take?",
+  "What are the next steps if the assessment shows something that needs treatment or further investigation?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral from my GP for a fertility assessment?",
+   "a": "Not always. Many clinics accept self-referrals for a fertility assessment, but it's worth asking the clinic when you enquire. Your GP can also advise on NHS options."
+  },
+  {
+   "q": "What happens during a fertility assessment?",
+   "a": "A fertility assessment typically includes hormone blood tests, an ultrasound scan and semen analysis to understand your chances and options. The clinic should explain each step and what the results mean."
+  },
+  {
+   "q": "Is a fertility assessment the same as fertility treatment?",
+   "a": "No. An assessment is about gathering information, while treatment such as IVF or donor treatment is a separate step. Clinics offering most fertility treatments must be licensed by the HFEA, so check before you book."
+  },
+  {
+   "q": "How do I choose a clinic near me?",
+   "a": "Look for a clinic that is convenient for you and, if treatment might be needed, check its HFEA licence and inspection ratings using the HFEA's Choose a Fertility Clinic tool. Ask how results will be explained and what the costs are."
+  }
+ ]
+}

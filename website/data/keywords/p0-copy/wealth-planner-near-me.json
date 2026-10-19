@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a wealth planner near you usually means you have significant assets to look after and want someone local who can see the whole picture. You might be planning for retirement, thinking about passing money to the next generation, or wanting investments, tax and estate matters to work together. We can introduce you to a UK financial adviser who deals with this kind of planning, and they will quote you directly.",
+ "need_heading": "What people searching for a local wealth planner usually need",
+ "need_lead": "Most people who search this way want joined-up help with money that has grown beyond simple savings.",
+ "needs": [
+  "You have investments, pensions or property that add up to a meaningful sum and you want a coherent plan rather than separate pots.",
+  "You are approaching or in retirement and want to understand how to draw on your assets in a sensible order.",
+  "You want to think about inheritance and how your estate passes to family, alongside the tax that may apply.",
+  "You would like your financial planning to sit alongside your will and tax affairs, with your solicitor and accountant brought in where needed.",
+  "You want someone you can meet or speak to locally who will explain their charges clearly before any work begins."
+ ],
+ "context_heading": "Checking who is authorised",
+ "context": [
+  "Financial advice in the UK is regulated by the Financial Conduct Authority (FCA). Before you engage anyone, check that the adviser or firm is authorised, or is an appointed representative of an authorised firm, on the FCA register. If something goes wrong you can complain to the firm, then to the Financial Ombudsman Service, and the Financial Services Compensation Scheme may protect you if an authorised firm fails.",
+  "Advisers must also tell you whether their advice is independent, considering the whole market, or restricted to certain products or providers, and how they charge. Advanced qualifications such as Chartered status from the Chartered Insurance Institute or the Personal Finance Society, or certification such as CFP, can show a deeper level of training."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Describe the assets you want to plan around, such as investments, pensions, property or family business interests.",
+  "Say what you are hoping to achieve, whether that is retirement income, passing wealth to the next generation, or organising tax and estate matters.",
+  "Mention whether you already work with a solicitor or accountant, as coordination may be useful.",
+  "Explain whether you are looking for ongoing planning or help with a particular decision.",
+  "Say roughly where you are and whether you would prefer to meet in person locally or work remotely.",
+  "Note any preferences about how you like to receive information, such as plain explanations of charges before you commit."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you independent or restricted in the advice you give?",
+  "How do you charge for your work, and will I see the fees in writing before anything begins?",
+  "How will you coordinate with my solicitor and accountant on estate and tax matters?",
+  "What experience do you have with clients whose assets are similar to mine?",
+  "How will you revisit my plan over time, and what does that involve?",
+  "What qualifications do you and the firm hold, and are you on the FCA register?"
+ ],
+ "faqs": [
+  {
+   "q": "Is a wealth planner the same as a financial adviser?",
+   "a": "In the UK, wealth planning is generally carried out by regulated financial advisers who specialise in clients with significant assets. They help with investments, tax, estate and family wealth, often working alongside solicitors and accountants."
+  },
+  {
+   "q": "How do I check that a wealth planner is authorised?",
+   "a": "Look up the adviser and the firm on the FCA register to confirm they are authorised or an appointed representative of an authorised firm. If something goes wrong, you can complain to the firm and then to the Financial Ombudsman Service."
+  },
+  {
+   "q": "Should I choose an independent or restricted adviser?",
+   "a": "Independent advisers consider the whole market, while restricted advisers are limited to certain products or providers. Advisers must tell you which they are, so you can decide what suits your situation."
+  },
+  {
+   "q": "What should I have ready before I speak to a wealth planner?",
+   "a": "It helps to gather details of your assets, pensions, property and any existing arrangements, along with your goals for retirement and inheritance. Being clear about what you want to achieve makes the first conversation more useful."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "intro": "A nagging toothache or a tender spot that won't settle often sends people searching for a root canal near me, hoping to find someone who can save the tooth without a long wait. You want a local dentist who can deal with the pain and explain what happens next. We introduce you to a UK private dentist who can assess the tooth and quote you directly.",
+ "need_heading": "What people searching for a root canal near me usually need",
+ "need_lead": "Most people searching for a root canal near me want a local dentist who can relieve pain and save the tooth.",
+ "needs": [
+  "You have a persistent toothache or a sharp pain when biting, and you suspect the nerve inside the tooth is inflamed or infected.",
+  "Your own dentist has referred you for root canal treatment and you need to find a private dentist nearby who can carry it out.",
+  "You have been told the tooth may need to come out, but you would rather explore root canal treatment to keep it.",
+  "You want to understand whether the treatment will be comfortable and what aftercare, such as a crown, might be needed.",
+  "You need a clear quote before treatment starts, so you can plan for the cost of a root canal and any follow-up work."
+ ],
+ "context_heading": "What to know about root canal treatment",
+ "context": [
+  "Root canal treatment removes infected or inflamed pulp from inside the tooth, cleans the canals and seals them to save the tooth. Modern anaesthetic keeps the procedure comfortable, and a crown is often needed afterwards to protect the tooth. Endodontists specialise in complex cases, so if your tooth has unusual anatomy or has had previous treatment, a dentist may suggest a referral.",
+  "Dentists and dental nurses must be registered with the General Dental Council (GDC), and you can check the register online. Private clinics providing regulated healthcare in England must register with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA. If something goes wrong with private dental treatment, start with the practice's complaints process, and the Dental Complaints Service can help with private dental complaints that are not resolved."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the tooth that is troubling you and how long you have had the pain or sensitivity.",
+  "Mention whether your own dentist has already diagnosed the problem or referred you for root canal treatment.",
+  "Say whether you have been told the tooth might need a crown afterwards, as this affects the quote.",
+  "Explain any worries you have about pain or dental treatment, so the dentist can put you at ease.",
+  "Give your location and how far you are willing to travel to see a private dentist near you.",
+  "Ask for a quote that covers the root canal and any follow-up appointments or crown, so you know the full cost."
+ ],
+ "questions_heading": "Questions to ask the dentist",
+ "questions": [
+  "Will you be able to save the tooth with root canal treatment, or is extraction more likely?",
+  "How will you make sure the treatment is comfortable, and what anaesthetic will you use?",
+  "Will I need a crown after the root canal, and is that included in your quote?",
+  "How many visits will the root canal treatment take, and what happens at each appointment?",
+  "What should I do if the tooth becomes painful again after treatment?",
+  "Are you registered with the GDC, and is the practice registered with the relevant regulator for my area?"
+ ],
+ "faqs": [
+  {
+   "q": "Is root canal treatment painful?",
+   "a": "Modern anaesthetic keeps root canal treatment comfortable, and most people find it similar to having a filling. You may have some tenderness afterwards, which usually settles."
+  },
+  {
+   "q": "Will I always need a crown after a root canal?",
+   "a": "A crown is often needed afterwards to protect the tooth, especially if it is a back tooth that takes a lot of chewing. Your dentist will advise whether a crown is necessary in your case."
+  },
+  {
+   "q": "How do I check a dentist's registration?",
+   "a": "You can check the GDC register online to confirm a dentist is registered. If the practice provides regulated healthcare in England, you can also check whether it is registered with the CQC."
+  },
+  {
+   "q": "What if I am unhappy with private dental treatment?",
+   "a": "Start with the practice's complaints process. If the complaint is not resolved, the Dental Complaints Service can help with private dental complaints."
+  }
+ ]
+}

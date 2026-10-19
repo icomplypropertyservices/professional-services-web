@@ -1,0 +1,53 @@
+{
+ "intro": "You're buying a property and want a conveyancer who acts only for you as the buyer, not for the seller too. Searching for a purchase only conveyancer near me usually means you want someone local to handle the legal side of your purchase without any conflict of interest. We introduce you to a suitable UK conveyancer who quotes you directly, so you can compare and choose.",
+ "need_heading": "What people buying a property usually need from a purchase only conveyancer",
+ "need_lead": "A purchase only conveyancer focuses solely on your interests as the buyer, from offer to completion.",
+ "needs": [
+  "You've had an offer accepted and need a conveyancer who will check the title, carry out searches and examine the contract on your behalf.",
+  "You want to avoid using the same firm as the seller, so you're looking for someone who acts only for you.",
+  "You need help understanding the mortgage offer conditions and making sure your lender's requirements are met.",
+  "You want to raise questions about the survey and searches early, so any issues can be resolved before you exchange contracts.",
+  "You need someone to handle the Stamp Duty filing and completion paperwork once the purchase goes through."
+ ],
+ "context_heading": "Why 'purchase only' matters and what to check",
+ "context": [
+  "A purchase only conveyancer acts solely for you as the buyer, which avoids any conflict of interest that could arise if the same firm also acted for the seller. In England and Wales, conveyancing is a reserved legal activity, so your conveyancer must be either a solicitor regulated by the Solicitors Regulation Authority or a licensed conveyancer regulated by the Council for Licensed Conveyancers.",
+  "Many lenders only work with conveyancers on their panel, and the Law Society's Conveyancing Quality Scheme is a common accreditation. Before you instruct anyone, check that the firm is on your lender's panel and that they hold professional indemnity insurance."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you are buying and need a purchase only conveyancer, so we can introduce you to someone who acts solely for buyers.",
+  "Give the general location of the property you are buying, so we can suggest a conveyancer familiar with the area.",
+  "Say whether you have a mortgage offer in place and whether your lender has a panel of conveyancers.",
+  "Let us know if you have already had a survey done or are waiting for one, as this affects the questions you may want to raise early.",
+  "Tell us if you have a deadline in mind, such as a target completion date, so the conveyancer can advise on what is realistic.",
+  "Mention any particular concerns, such as leasehold issues or searches, so the conveyancer can address them in their quote."
+ ],
+ "questions_heading": "Questions to ask the conveyancer",
+ "questions": [
+  "Are you on my lender's panel, and do you hold professional indemnity insurance?",
+  "Will you act only for me as the buyer, and not for the seller as well?",
+  "How will you keep me informed about the title checks, searches and contract examination?",
+  "What is your approach to raising questions about the survey and searches early?",
+  "Will you handle the Stamp Duty filing and completion, and what do you need from me?",
+  "Can you explain your fees clearly, including any disbursements, before I instruct you?"
+ ],
+ "faqs": [
+  {
+   "q": "What does 'purchase only' mean in conveyancing?",
+   "a": "It means the conveyancer acts solely for you as the buyer and does not also act for the seller. This avoids any conflict of interest and ensures your interests are the only ones they represent."
+  },
+  {
+   "q": "Do I need a conveyancer who is local to the property?",
+   "a": "Not necessarily, but a conveyancer familiar with the area can be helpful for local searches and knowing the local market. Many conveyancers now work remotely, so location is often less important than expertise and communication."
+  },
+  {
+   "q": "How do I check if a conveyancer is qualified?",
+   "a": "In England and Wales, conveyancers must be either solicitors regulated by the Solicitors Regulation Authority or licensed conveyancers regulated by the Council for Licensed Conveyancers. You can check their registration on the relevant regulator's public register."
+  },
+  {
+   "q": "What should I do if my lender requires a conveyancer on their panel?",
+   "a": "Ask the conveyancer directly whether they are on your lender's panel before you instruct them. If they are not, you may need to choose a firm that is, or your lender may allow you to use your chosen firm under certain conditions."
+  }
+ ]
+}

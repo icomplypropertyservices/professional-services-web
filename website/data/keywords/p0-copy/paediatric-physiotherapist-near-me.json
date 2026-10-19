@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for a paediatric physiotherapist near me, you're likely looking for local help for a baby or child with movement, development or a long-term condition. You want to understand what a paediatric physiotherapist does and how to find one who can support your child close to home.",
+ "need_heading": "What families searching for a paediatric physiotherapist usually need",
+ "need_lead": "Most parents are looking for practical, local support to help their child move, play and develop with confidence.",
+ "needs": [
+  "You've noticed your baby isn't rolling, sitting or crawling when other children of the same age are, and you'd like a professional opinion.",
+  "Your child has a diagnosed condition such as cerebral palsy or muscular dystrophy and needs ongoing physiotherapy to stay mobile and comfortable.",
+  "Your child has had a sports injury or an operation and needs rehabilitation to get back to their usual activities.",
+  "You're worried about your child's posture, walking style or frequent falls, and you want to know whether physiotherapy could help.",
+  "Your child receives physiotherapy through the NHS but you'd like to explore additional private sessions closer to home or with shorter waiting times."
+ ],
+ "context_heading": "What to know before you book",
+ "context": [
+  "In the UK, 'physiotherapist' is a protected title, so anyone using it must be registered with the Health and Care Professions Council (HCPC). You can check the HCPC register online to confirm that the professional you're considering is registered. Many physiotherapists are also members of the Chartered Society of Physiotherapy (CSP), which is shown by the letters MCSP after their name.",
+  "Paediatric physiotherapists specialise in working with babies and children, and they often use play-based therapy to keep sessions engaging. They should also teach you, as a parent or carer, exercises and techniques to use at home between appointments. When you contact a professional, ask about their experience with your child's specific condition."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Give your child's age and a brief description of your concerns, such as delayed milestones or a recent injury.",
+  "Mention any diagnosis your child has received, as this helps iComply introduce you to a professional with relevant experience.",
+  "Explain what you're hoping to achieve, whether it's an assessment, ongoing therapy or a second opinion.",
+  "Let iComply know your location and how far you're able to travel for appointments.",
+  "Say whether your child is already receiving NHS physiotherapy or other support, so the professional can work alongside it.",
+  "Include any particular needs your child has, such as communication difficulties or sensory sensitivities, that might affect how sessions are run."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "What experience do you have working with children who have my child's condition?",
+  "How do you involve parents in sessions, and what exercises can we do at home?",
+  "What does a typical session look like for a child of my child's age?",
+  "How do you measure progress, and when would we plan to check how things are going?",
+  "Are you registered with the HCPC, and do you hold MCSP membership?",
+  "What are your fees, and how many sessions might my child need?"
+ ],
+ "faqs": [
+  {
+   "q": "What does a paediatric physiotherapist do?",
+   "a": "Paediatric physiotherapists help babies and children with development, movement, sports injuries and long-term conditions. They use play-based therapy and teach parents exercises to continue at home."
+  },
+  {
+   "q": "How can I check a paediatric physiotherapist is qualified?",
+   "a": "In the UK, 'physiotherapist' is a protected title, so anyone using it must be registered with the Health and Care Professions Council (HCPC). You can check the HCPC register online, and many physiotherapists are also members of the Chartered Society of Physiotherapy (CSP), shown by MCSP."
+  },
+  {
+   "q": "Can I see a paediatric physiotherapist privately without a referral?",
+   "a": "Yes, you can often book a private paediatric physiotherapist directly without a referral from your GP. However, it's a good idea to let your GP or health visitor know, especially if your child is also under NHS care."
+  },
+  {
+   "q": "What should I expect at the first appointment?",
+   "a": "The first appointment usually involves an assessment of your child's movement and development, a discussion of your concerns and medical history, and a plan for therapy. The physiotherapist should explain what they recommend and involve you in decisions."
+  }
+ ]
+}

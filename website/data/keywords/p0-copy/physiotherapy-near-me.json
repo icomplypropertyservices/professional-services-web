@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for physiotherapy near me, you are usually looking for local help with pain, movement or recovery. You want someone who can assess your problem and give you a clear plan, without having to travel far. We can introduce you to a physiotherapist in your area who will quote you directly.",
+ "need_heading": "What people searching for physiotherapy near me usually need",
+ "need_lead": "Most people want convenient, face-to-face physiotherapy for a specific problem that is affecting their daily life.",
+ "needs": [
+  "You have persistent back, neck or shoulder pain and want a proper assessment rather than guessing what to do.",
+  "You are recovering from an operation or injury and need a structured rehabilitation plan close to home.",
+  "You have a sports injury that is stopping you from training or playing and want expert guidance on returning safely.",
+  "You feel unsteady on your feet or have a neurological condition and want help with balance and movement.",
+  "You have been putting up with a problem for a while and want to see someone locally before it gets worse."
+ ],
+ "context_heading": "What to check when choosing a physiotherapist near you",
+ "context": [
+  "In the UK, 'physiotherapist' and 'physical therapist' are protected titles. Anyone using them must be registered with the Health and Care Professions Council (HCPC), and you can check the register online. Most physiotherapists are also members of the Chartered Society of Physiotherapy (CSP), shown by the letters MCSP.",
+  "Sports therapists, massage therapists and personal trainers can be helpful for some needs, but they are not physiotherapists. For an injury, post-surgery rehabilitation or a neurological condition, check that you are booking an HCPC-registered physiotherapist. Active treatment works best, so look for someone who combines clinic sessions with home exercises and checks your progress regularly."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the problem you want help with and how long it has been going on.",
+  "Mention any diagnosis, surgery or injury you have had, and whether you are still under a hospital or GP.",
+  "Say where you are based and how far you are willing to travel for appointments.",
+  "Explain what you want to achieve, such as reducing pain, returning to sport or improving mobility.",
+  "Let us know if you have a preference for a particular type of physiotherapy or setting.",
+  "Include any times or days that are difficult for you so we can introduce you to someone whose availability fits."
+ ],
+ "questions_heading": "Questions to ask the physiotherapist",
+ "questions": [
+  "Are you registered with the Health and Care Professions Council (HCPC)?",
+  "What is your approach to treating my problem, and will I have exercises to do at home?",
+  "How many sessions am I likely to need, and how will we check my progress?",
+  "What are your fees, and do you charge for an initial assessment separately?",
+  "Do you have experience of treating people with my specific condition or injury?",
+  "Where are you based, and do you offer appointments at times that suit me?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I know if someone is a qualified physiotherapist?",
+   "a": "In the UK, 'physiotherapist' is a protected title, so anyone using it must be registered with the Health and Care Professions Council (HCPC). You can check the HCPC register online. Many physiotherapists are also members of the Chartered Society of Physiotherapy (CSP) and use the letters MCSP."
+  },
+  {
+   "q": "Can I see a physiotherapist without a referral from my GP?",
+   "a": "Yes, you can usually book an appointment with a private physiotherapist directly without seeing your GP first. However, if you are claiming on private health insurance, your insurer may require a referral, so it is worth checking your policy."
+  },
+  {
+   "q": "What happens during a physiotherapy appointment?",
+   "a": "Your physiotherapist will assess your movement and discuss your symptoms and goals. Treatment often includes hands-on techniques, exercises to do at home, and advice on managing your condition. Active treatment works best, so you should expect to be involved in your own recovery."
+  },
+  {
+   "q": "How do I choose a physiotherapist near me?",
+   "a": "Check that the physiotherapist is HCPC-registered and, if you wish, a member of the CSP. Consider their experience with your specific problem, the location and appointment times, and ask about fees before you book. You can also ask what their approach is and whether they provide home exercises."
+  }
+ ],
+ "extra_heading": "Getting to your appointments and keeping them going",
+ "extra": [
+  "Searching for physiotherapy near me usually means the journey matters as much as the treatment. Physiotherapy works best as a course of sessions with review along the way, so a clinic you can reach easily on a bad day is more useful than one that is awkward to get to. Think about how you would travel when your symptoms are at their worst, not just on a good day.",
+  "Consider practicalities before you commit: parking or public transport, step-free access if you need it, and whether appointment times fit around work or caring responsibilities. Ask whether the physiotherapist offers any remote appointments for reviews or exercise progressions, which can reduce how often you need to travel in. If you are relying on someone else for a lift, check that their availability matches the times offered.",
+  "It also helps to ask what happens between sessions. A good plan usually includes exercises you do at home, so the clinic visits become checkpoints rather than the whole of your treatment. Ask how progress is reviewed and what you should do if your symptoms change before the next appointment."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Can I have physiotherapy appointments remotely?",
+   "a": "Many physiotherapists offer remote appointments, which can work well for reviews, exercise progression and advice. For an initial assessment of a movement problem, hands-on treatment or certain conditions, being seen in person is often more useful. Ask the physiotherapist what they recommend for your situation."
+  },
+  {
+   "q": "What if I have to travel a long way to see a physiotherapist?",
+   "a": "If the nearest suitable physiotherapist is some distance away, ask whether some sessions can be done remotely to reduce travel. It is also worth asking how a course of treatment is likely to be spaced out, so you can plan around the journeys. Discuss your circumstances when you enquire so the arrangements can be realistic."
+  },
+  {
+   "q": "Do I need to keep going once I feel better?",
+   "a": "Often the later sessions focus on building strength and confidence so the problem does not return, and on making sure you can manage your exercises independently. Your physiotherapist should explain why each stage matters and agree with you when sessions can stop. If you are unsure, ask what signs would suggest you should come back."
+  }
+ ]
+}

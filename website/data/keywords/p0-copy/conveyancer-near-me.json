@@ -1,0 +1,69 @@
+{
+ "intro": "You've searched for \"conveyancer near me\", which usually means you're buying, selling or remortgaging a property and want legal help from someone local. A conveyancer handles the legal side of property transactions, so finding the right one early can help your move go smoothly.",
+ "need_heading": "What people searching for a local conveyancer usually need",
+ "need_lead": "Most people looking for a conveyancer near them are at the start of a property transaction and want clear, local legal support.",
+ "needs": [
+  "You're buying your first home and need someone to check the title and carry out searches before you exchange contracts.",
+  "You're selling a flat and want a conveyancer who can deal with the freeholder or managing agent on leasehold queries.",
+  "You're remortgaging and your lender needs the legal work completed on your existing property.",
+  "You've had an offer accepted and want to instruct a conveyancer quickly so the process doesn't stall.",
+  "You want a conveyancer who is on your mortgage lender's panel so the legal work can proceed without extra delay."
+ ],
+ "context_heading": "What to check before you instruct a conveyancer",
+ "context": [
+  "Conveyancing in England and Wales is a reserved legal activity. It can only be carried out by solicitors regulated by the Solicitors Regulation Authority (SRA) or by licensed conveyancers regulated by the Council for Licensed Conveyancers (CLC). Both must hold professional indemnity insurance and follow strict rules on handling client money. In Scotland, property transactions are handled by solicitors under Scottish law.",
+  "Many lenders only work with conveyancers on their panel, so it's worth checking that the firm you choose is on your lender's panel before you instruct them. The Law Society's Conveyancing Quality Scheme (CQS) is a common accreditation that some firms hold, which you can ask about."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Whether you are buying, selling, remortgaging or doing more than one of these.",
+  "The type of property, such as freehold or leasehold, and whether it is a house, flat or something else.",
+  "Your approximate location or the area the property is in, so we can introduce you to a local professional.",
+  "Whether you have a mortgage lender and if you already know their panel requirements.",
+  "Any time pressures you are aware of, such as a target completion date or a related purchase.",
+  "Whether you have already instructed a conveyancer or are starting from scratch."
+ ],
+ "questions_heading": "Questions to ask the conveyancer",
+ "questions": [
+  "Are you regulated by the SRA or the CLC, and what is your professional indemnity insurance cover?",
+  "Are you on my mortgage lender's panel?",
+  "What information do you need from me to provide a quote?",
+  "How will you keep me updated on progress, and who will be my main point of contact?",
+  "What are your arrangements for holding client money, and how do you handle bank details securely?",
+  "Do you have experience with the type of property I am dealing with, such as leasehold or new build?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a conveyancer who is local to the property?",
+   "a": "Not necessarily, as much of the work can be done remotely. However, a local conveyancer may have useful knowledge of the area and local searches, so it can be worth considering."
+  },
+  {
+   "q": "What is the difference between a solicitor and a licensed conveyancer?",
+   "a": "Both can carry out conveyancing in England and Wales, but solicitors are regulated by the SRA and licensed conveyancers by the CLC. Both must hold professional indemnity insurance and follow rules on handling client money."
+  },
+  {
+   "q": "How do I check if a conveyancer is on my lender's panel?",
+   "a": "You can ask the conveyancer directly, or check with your mortgage lender. Many lenders publish their panel lists or can confirm over the phone."
+  },
+  {
+   "q": "When should I instruct a conveyancer?",
+   "a": "It's best to instruct a conveyancer as early as possible, ideally once your offer is accepted, to avoid delays. They can start work on the legal checks while other parts of the process are ongoing."
+  }
+ ],
+ "extra_heading": "What 'near me' means for conveyancing",
+ "extra": [
+  "Searching for a conveyancer near me often reflects a wish to sit down face to face, drop off documents in person, or have someone who knows the local property market. While much conveyancing work is now done remotely, a local conveyancer may still be able to offer in-person meetings and a better understanding of local search results. It's worth asking upfront how they prefer to communicate and whether they can accommodate your preference for local contact.",
+  "When comparing local conveyancers, focus on what matters for your transaction rather than distance alone. Check that they are regulated by the SRA or CLC, that they are on your lender's panel if you have a mortgage, and that they have experience with the type of property you are dealing with. A nearby firm that lacks these credentials may serve you less well than a slightly more distant one that has them.",
+  "A common misunderstanding is that a conveyancer must be physically close to you or the property. In reality, the legal work can be handled from anywhere in England and Wales, and what counts most is expertise, clear communication and regulation. Use the 'near me' search as a starting point, but make your choice based on the answers you get to your questions."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Is it better to choose a conveyancer who is close to the property or close to me?",
+   "a": "It depends on your priorities. Some people prefer a conveyancer near their own home for convenience, while others prefer one near the property for local knowledge. The most important factors are regulation, lender panel membership and experience with your type of property."
+  },
+  {
+   "q": "Can I use a conveyancer who is not local to the property?",
+   "a": "Yes, there is no requirement for a conveyancer to be local to the property. Much of the work is done remotely, and what matters is that they are properly regulated and on your lender's panel if you have a mortgage."
+  }
+ ]
+}

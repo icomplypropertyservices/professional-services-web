@@ -7,60 +7,66 @@ group: legal
 hub: conveyancers
 profession: conveyancer
 service_label: Conveyancer
-og_image: /assets/images/hero-workshop.jpg
+og_image: /assets/images/insurance-advisory.jpg
 ---
 
 # Conveyancer
 
-Before you contact anyone about **conveyancer**, it helps to know what to expect. A conveyancer handles the legal side of buying, selling or remortgaging property: checking title, raising enquiries, ordering searches, exchanging contracts, completing and registering the transfer.
+Searching for a conveyancer usually means you're buying, selling or remortgaging a property and need someone to handle the legal side. You might be at the start of the process or already have an offer accepted and need to move quickly. We can introduce you to a suitable UK conveyancer who will quote you directly.
+
+A conveyancer handles the legal side of buying, selling or remortgaging property: checking title, raising enquiries, ordering searches, exchanging contracts, completing and registering the transfer.
 
 We act as the middleman between you and the professional. Share a short brief and we match you with a conveyancer who has the right experience and capacity. Enquiring is free, and you are under no obligation to accept a quote.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Client explaining what they need before being matched with a conveyancer](/assets/images/hero-workshop.jpg)
+![Planning the first appointment after an enquiry for conveyancer](/assets/images/insurance-advisory.jpg)
 
-## Common reasons people contact conveyancers
+## What people searching for a conveyancer usually need
 
-You do not need to have everything worked out. Clients often come to us with situations like these:
+Most people looking for a conveyancer are at a key stage in a property transaction and need clear, practical help.
 
-- A first-time buyer purchasing with a mortgage.
-- A remortgage or transfer of equity.
-- A leasehold flat with service charges and a lease to review.
-- A chain of linked sales and purchases.
-- A new-build purchase with developer deadlines.
+- You've had an offer accepted on a house and need a conveyancer to start the legal work without delay.
+- You're selling your home and want a conveyancer who can handle the paperwork and keep the buyer's side moving.
+- You're remortgaging and your lender needs the legal work done by a conveyancer on their panel.
+- You're buying a leasehold flat and need someone who understands the extra checks involved, such as service charges and lease terms.
+- You've been told by your lender or estate agent that you need to instruct a conveyancer before things can progress.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of conveyancer fits best.
+## Questions to ask the conveyancer
 
-## How long things usually take
+Asking a few direct questions early tells you a lot about how a practice works:
 
-A typical freehold purchase in England and Wales often takes a few months from offer to completion, and leasehold transactions usually take longer. Auction purchases may require completion within a short, fixed period. Tell us your target dates so we can match you with a firm with the capacity to keep up.
+- Are you regulated by the Solicitors Regulation Authority or the Council for Licensed Conveyancers?
+- Are you on my lender's panel for this mortgage?
+- What is your experience with properties like mine, for example leasehold or new build?
+- How will you keep me updated on progress, and who will be my main point of contact?
+- What are your fees and what do they include, and are there any additional costs such as search fees or VAT?
+- How do you handle client money, and what is your procedure for verifying bank details?
 
-## Information that helps us match you
+## One key thing to understand about conveyancing
 
-You do not need all of this to enquire, but the more you can share, the better the match:
+Conveyancing in England and Wales is a reserved legal activity, which means it must be carried out by a solicitor regulated by the Solicitors Regulation Authority or a licensed conveyancer regulated by the Council for Licensed Conveyancers. Both must hold professional indemnity insurance and follow strict rules on handling client money.
 
-- Any key dates, such as an exchange or completion target
-- The agreed price range and whether you have a mortgage
-- Your lender's name, if you know it
-- The property address and whether it is freehold or leasehold
-- Any planned works, extensions or boundary questions
-- Whether you are in a chain
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+Many lenders only work with conveyancers on their panel, so it's worth checking that any firm you're considering is on your lender's panel before you instruct them. The Law Society's Conveyancing Quality Scheme is a common accreditation, but it's not a mark of quality in itself, so always ask about experience and how they'll keep you informed.
 
 **Need a conveyancer?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-## Good questions for your first call
+## When to think twice
 
-Once you are introduced, these questions help you decide whether the conveyancer is right for you:
+Most professionals are honest and competent, but it is worth knowing the warning signs:
 
-- How will you update me, and how quickly will you reply?
-- What happens to the fee if the transaction falls through?
-- How do you protect me against payment fraud?
-- What searches do you recommend for this property?
-- Will one named person handle my file?
-- Is your quote fixed, and what disbursements are extra?
+- Not being on your lender's panel
+- Slow responses before you have even instructed them
+- Quotes that leave out common disbursements
+- No named person responsible for your file
+
+## How to check you are in safe hands
+
+Conveyancing in England and Wales is a reserved legal activity. It can be carried out by solicitors regulated by the SRA or by licensed conveyancers regulated by the Council for Licensed Conveyancers (CLC). In Scotland, property transactions are handled by solicitors under Scottish law.
+
+Many lenders only work with conveyancers on their panel, and the Law Society's Conveyancing Quality Scheme (CQS) is a common accreditation. Check that your chosen firm is on your lender's panel before you instruct them.
+
+Please note that iComply is a matching service only. We are not regulated as a conveyancer, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
 
 ## What a conveyancer is likely to cost (POA)
 
@@ -68,22 +74,9 @@ Conveyancing is often quoted as a fixed legal fee plus disbursements, such as se
 
 Compare written quotes line by line rather than on the headline figure, and ask whether there is a fee if the deal falls through. Very low quotes sometimes mean higher add-on charges later.
 
-## After the introduction
+![Next steps after an iComply introduction for a conveyancer](/assets/images/hero-workshop.jpg)
 
-After the introduction, the firm will send its terms, carry out identity and source-of-funds checks and open your file. From then on they handle the legal work with the other side's conveyancer. iComply does not take part in the transaction or hold any money.
-
-![Next steps after an iComply introduction for a conveyancer](/assets/images/finance-desk.jpg)
-
-## How our free matching service works
-
-1. **Enquire for free** with your town or postcode and a short description.
-1. **We clarify** anything unclear, so the introduction is useful from the start.
-1. **We connect you** with a conveyancer who suits your situation.
-1. **The practice takes over**, confirms scope and fees in writing and does the work.
-
-We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
-
-## Before you choose a conveyancer
+## Practical points about a conveyancer
 
 A few points come up again and again with a conveyancer:
 
@@ -93,68 +86,95 @@ A few points come up again and again with a conveyancer:
 
 Raise any of these with the conveyancer you are introduced to; they should be happy to explain.
 
-## The basics of a conveyancer
+## From enquiry to quote in four steps
 
-If you have not used a conveyancer before, it helps to understand what the work involves before you contact anyone. That makes your first conversation more productive and helps you spot good advice.
+1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
+1. **We review your brief.** We check the type of conveyancer you need, your location and your timing.
+1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
+1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
 
-Once you know what you need, we can match you with a suitable practice. You do not need to know every detail; a short description is enough to start.
+We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
 
-## Qualifications and registration to look for
+## What happens once you've instructed a conveyancer
 
-Conveyancing in England and Wales is a reserved legal activity. It can be carried out by solicitors regulated by the SRA or by licensed conveyancers regulated by the Council for Licensed Conveyancers (CLC). Both must hold professional indemnity insurance and follow strict rules on handling client money. In Scotland, property transactions are handled by solicitors under Scottish law.
+After you instruct a conveyancer, the first step is usually receiving a client care letter and a request for identification and proof of funds, along with a fee breakdown. They will then write to the other side's conveyancer to confirm instructions and obtain the contract pack, which is the point where the legal work really begins.
 
-Many lenders only work with conveyancers on their panel, and the Law Society's Conveyancing Quality Scheme (CQS) is a common accreditation. Check that your chosen firm is on your lender's panel before you instruct them.
+From there your conveyancer checks the title, raises enquiries with the seller's side and orders the local authority, water and environmental searches. When those come back, they will report to you and, if you have a mortgage, send a report to your lender as well. Nothing should be signed or exchanged until you have had that report and had your questions answered.
 
-Please note that iComply is a matching service only. We are not regulated as a conveyancer, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
+Exchange and completion follow once enquiries and searches are resolved and your mortgage offer is in place. Your conveyancer will then deal with the transfer of funds, submit the stamp duty return to HMRC where it applies, and register the change of ownership with the relevant land registry. Keep in touch with them throughout, and always ring to verify bank details before sending money.
 
-## When to think twice
+## What to tell iComply when you enquire
 
-Most professionals are honest and competent, but it is worth knowing the warning signs:
+A short, clear brief saves time on both sides. Useful details include:
 
-- Quotes that leave out common disbursements
-- Not being on your lender's panel
-- Bank details sent by email or changed by email (always phone to verify)
-- Slow responses before you have even instructed them
+- Tell us whether you're buying, selling or remortgaging, and whether it's a freehold or leasehold property.
+- Let us know the property's location and value, as this helps us find a conveyancer familiar with the area.
+- If you have a mortgage, tell us which lender you're using so we can check panel requirements.
+- Mention any specific deadlines you're working towards, such as a target completion date or a related purchase.
+- Let us know if you've already instructed a conveyancer and are looking for a comparison quote.
+- Tell us about any unusual features, such as a shared ownership scheme, an unregistered title or a property with a history of disputes.
 
-![Conveyancing firm ready to take on a new enquiry for conveyancer](/assets/images/insurance-advisory.jpg)
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+
+![Conveyancing firm ready to take on a new enquiry for conveyancer](/assets/images/finance-desk.jpg)
 
 ## FAQs about conveyancer
 
-### When should I instruct a conveyancer?
+### Do I need a conveyancer if I'm buying with a mortgage?
 
-As soon as your offer is accepted, or before you list a property for sale. Instructing early helps you avoid delays.
+Yes, your lender will usually require a conveyancer to act for them and to carry out the legal work, including checking the title and arranging searches. Even if you're a cash buyer, it's strongly advisable to use a conveyancer to protect your interests.
+
+### Can I use a conveyancer who isn't on my lender's panel?
+
+Some lenders will allow you to use a conveyancer who isn't on their panel, but they may charge an additional fee or require separate representation. It's always best to check with your lender first.
+
+### How long does conveyancing take?
+
+The time taken depends on many factors, such as whether you're in a chain, the complexity of the title and how quickly searches and enquiries are resolved. Your conveyancer should be able to give you an estimate based on your circumstances.
+
+### What should I do if I'm not happy with my conveyancer?
+
+First, raise your concerns with the conveyancer directly. If that doesn't resolve the issue, you can ask about their complaints procedure; if you're still unhappy, you may be able to complain to the Legal Ombudsman or the relevant regulator.
+
+### Will my conveyancer deal with stamp duty for me?
+
+Yes, in most residential purchases your conveyancer submits the stamp duty land tax return to HMRC and arranges payment from the completion funds. In Scotland the equivalent tax is handled under Scottish procedures, so ask your solicitor there to confirm how it works.
+
+### What identification will my conveyancer ask for?
+
+Expect to provide photo identification and proof of address, and evidence of where your deposit is coming from to meet anti-money laundering rules. Ask early what format they need, as missing documents are a common cause of delay.
+
+### Can my conveyancer act for both me and my lender?
+
+Often yes, because many lenders instruct the same firm to act for them as well as for you. If your lender insists on separate representation, your conveyancer will tell you, and that can affect the overall cost.
 
 ### What is the difference between a solicitor and a licensed conveyancer?
 
 Both are regulated and insured. Licensed conveyancers specialise in property transactions, while solicitors can also advise on wider legal issues. Either can handle a standard purchase or sale.
 
-### Can you find a conveyancer in my area?
+### How do I find a conveyancer near me?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable conveyancing firm with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
-
-### Is it free to use iComply?
-
-Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
-
-### Do I have to accept a quote?
-
-No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
 
 ### Can I contact you on WhatsApp?
 
 Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
 
-## Related searches
+### Do I have to accept a quote?
 
-- [Best conveyancer mobile near me](/keywords/best-conveyancer-mobile-near-me/)
-- [Licensed conveyancer near me](/keywords/licensed-conveyancer-near-me/)
-- [Commercial conveyancing solicitor near me](/keywords/commercial-conveyancing-solicitor-near-me/)
-- [New build conveyancer near me](/keywords/new-build-conveyancer-near-me/)
-- [Sale only conveyancer near me](/keywords/sale-only-conveyancer-near-me/)
+No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
+
+## People also look for
+
+- [Cash buyer conveyancer near me](/keywords/cash-buyer-conveyancer-near-me/)
+- [Best comparison conveyancer near me](/keywords/best-comparison-conveyancer-near-me/)
+- [Best conveyancer accredited near me](/keywords/best-conveyancer-accredited-near-me/)
+- [Conveyancer near me](/keywords/conveyancer-near-me/)
+- [Fast conveyancer near me](/keywords/fast-conveyancer-near-me/)
 - [Browse all conveyancers](/hubs/conveyancers/)
 
-## Get a free quote for a conveyancer
+## Request your free quote
 
-One short enquiry is all it takes. We connect you with a conveyancer who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
+Tell us what you need and where you are. We will match you with a suitable conveyancer, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
 
 [Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

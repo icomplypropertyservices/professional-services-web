@@ -45,7 +45,7 @@ pricing: POA only
 
 iComply Professional Services helps people in the UK find the right professional — and helps practices receive that demand as clear, usable introductions. If you need a solicitor, private dentist, accountant, mortgage adviser or insurance broker, you can enquire with a short brief. We act as the **middleman**: we listen, match, and connect. The regulated firm then owns the relationship and the work.
 
-We are a separate brand from iComply Property Services. This site is not about gas, electrical or fire certificates, and it is not a marketing agency selling websites or search campaigns to firms.
+We are a separate brand from iComply Property Services, and we focus only on introducing people to UK professionals.
 
 ## What we do for clients
 
@@ -64,7 +64,7 @@ Professional firms need a steady path to genuine client demand. Practices that w
 
 ## How trust works here
 
-- **Honesty on price** — everything commercial is POA. We do not invent fixed £ packages on this site.
+- **Honesty on price** — fees are set by the professional and quoted POA. We never invent prices.
 - **Clear boundaries** — iComply does not replace your solicitor, clinician, accountant or authorised adviser.
 - **No fake offices** — nationwide intent does not mean inventing a branch on every high street.
 - **Brand separation** — Property Services and Professional Services stay distinct.

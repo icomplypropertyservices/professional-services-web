@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for a payroll tax advisor near you usually means something has changed in how you pay people, or is about to. Perhaps you have taken on your first employee, set up a limited company and started paying yourself, or you are worried about how benefits or a salary sacrifice arrangement are being treated. A payroll tax adviser deals with PAYE, National Insurance, benefits in kind, employment status and termination payments, and can talk you through your own situation.",
+ "need_heading": "What people searching for a payroll tax advisor usually need",
+ "need_lead": "Most enquiries come from employers and company owners who want their payroll tax position checked or sorted out by someone local.",
+ "needs": [
+  "You have started employing someone and are unsure how PAYE and National Insurance should be handled from the first payment.",
+  "You pay yourself through your own company and want to understand how salary, dividends and benefits in kind fit together.",
+  "You provide benefits such as a company car or private medical cover and need to know how reporting them to HMRC works.",
+  "You are thinking about a salary sacrifice arrangement and want it designed carefully so it does what you intend.",
+  "You are engaging a worker on a self-employed basis and want to check the employment status position before it causes a problem."
+ ],
+ "context_heading": "Qualifications and supervision are worth checking",
+ "context": [
+  "\"Tax adviser\" is not a protected title in the UK, so anyone can use it. The Chartered Institute of Taxation, which sets the CTA qualification, and the Association of Taxation Technicians are the main specialist bodies, and many accountants and solicitors also advise on tax. Members of these bodies follow Professional Conduct in Relation to Taxation, a shared code covering honesty, confidentiality and dealing with HMRC.",
+  "Tax advisers who charge a fee must be supervised for anti-money-laundering purposes, and HMRC has been tightening standards for paid tax agents. It is therefore reasonable to ask about qualifications, supervision and professional indemnity insurance before you go ahead. Because quotes are on application, ask what the fee covers before you commit."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe your business, including whether you are a sole trader, partnership or limited company, and roughly how many people you pay.",
+  "Explain what prompted the search, such as taking on a first employee, a benefits in kind issue or a change in how you pay yourself.",
+  "Mention any benefits in kind you provide, such as a company car, medical cover or accommodation.",
+  "Say whether you use a salary sacrifice arrangement or are considering setting one up.",
+  "Describe any worker you engage on a self-employed basis and why you believe that is the right status.",
+  "Say where you are based and how far you are willing to travel, since you are looking for someone near you."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "What qualifications and professional body memberships do you hold for payroll tax work?",
+  "How do you approach employment status checks for workers engaged on a self-employed basis?",
+  "How would you handle reporting benefits in kind to HMRC for the benefits we provide?",
+  "What should we consider before putting a salary sacrifice arrangement in place?",
+  "How do you deal with HMRC on our behalf if a payroll tax query arises?",
+  "What will your fee cover, and how will you keep us informed as the work progresses?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a payroll tax adviser if I only employ one person?",
+   "a": "Even with a single employee, PAYE and National Insurance still apply, and benefits in kind may need reporting to HMRC. A payroll tax adviser can check that the arrangements are set up correctly from the start."
+  },
+  {
+   "q": "Can a payroll tax adviser help with employment status?",
+   "a": "Yes, employment status is one of the areas payroll tax advisers handle, and mistakes carry risk. They can look at how a worker is engaged and paid and explain the position."
+  },
+  {
+   "q": "Is a payroll tax adviser the same as an accountant?",
+   "a": "Not necessarily, though many accountants advise on tax. \"Tax adviser\" is not a protected title, so it is worth asking about qualifications and membership of a specialist body such as the Chartered Institute of Taxation or the Association of Taxation Technicians."
+  },
+  {
+   "q": "What is a salary sacrifice arrangement?",
+   "a": "It is an arrangement where an employee gives up part of their salary in return for a benefit, and it needs careful design. A payroll tax adviser can explain how it would affect pay, tax and National Insurance in your circumstances."
+  }
+ ],
+ "extra_heading": "Payroll tax help close to home",
+ "extra": [
+  "Searching for a payroll tax advisor near you suggests you would rather sit down with someone local than deal with a distant call centre, especially when the subject is your own pay and the pay of people who work for you. Payroll tax questions often come with paperwork you would rather hand over in person, such as payslips, a benefits in kind form or a contract for a worker you engage on a self-employed basis.",
+  "Being near you matters most when something needs sorting quickly, for example a benefits in kind deadline or a query from HMRC about a termination payment. Ask the professional how they prefer to work with local clients, whether that is at their office, at your premises or by phone and email between meetings, and choose what suits the way you run your business.",
+  "It is also worth remembering that payroll tax work overlaps with everyday accountancy, so some local firms will offer it alongside bookkeeping and payroll processing while others concentrate on tax alone. Neither is automatically better; what counts is that the person you speak to can explain PAYE, National Insurance and employment status clearly in terms of your own circumstances."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I look for a payroll tax adviser or a payroll bureau?",
+   "a": "A payroll bureau usually runs the payroll itself, calculating pay and producing payslips, while a payroll tax adviser concentrates on the tax treatment, such as benefits in kind, employment status and termination payments. Some firms do both, so it is worth asking which parts they handle and which they leave to you."
+  },
+  {
+   "q": "Can a local adviser deal with HMRC on my behalf?",
+   "a": "Advisers often act as your agent in dealings with HMRC, which usually means you authorise them to act for you. Ask how they would keep you informed of any correspondence and what they need from you before they contact HMRC."
+  },
+  {
+   "q": "What should I bring to a first meeting about payroll tax?",
+   "a": "Bring anything that shows how people are paid and engaged: recent payslips, details of any benefits you provide, contracts for self-employed workers and any letters from HMRC. That gives the adviser enough to understand your position and explain what they would do next."
+  }
+ ]
+}

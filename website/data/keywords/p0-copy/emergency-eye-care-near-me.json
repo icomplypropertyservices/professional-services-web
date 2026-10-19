@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for emergency eye care near me, you likely have a sudden eye problem that needs prompt attention. We understand you want to find a qualified optician quickly who can assess your situation and provide urgent care. iComply introduces you to a suitable UK professional who can quote you directly for the help you need.",
+ "need_heading": "What people searching for emergency eye care near me usually need",
+ "need_lead": "Most people searching for emergency eye care near me need fast access to an optician who can assess and manage an urgent eye problem.",
+ "needs": [
+  "You have a red, painful eye that has come on suddenly and you are unsure whether it needs urgent treatment.",
+  "You have noticed a sudden change in your vision, such as blurring or loss of vision in one eye, and need same-day advice.",
+  "You are seeing new flashes of light or a sudden increase in floaters and want to know if it is serious.",
+  "You have got something in your eye, like a piece of grit or a foreign body, and it will not come out.",
+  "You have suffered a minor eye injury and need to know whether it requires professional attention."
+ ],
+ "context_heading": "One key thing to understand about urgent eye care",
+ "context": [
+  "In many areas of the UK, community optometrists provide urgent eye care services for problems like red eyes, sudden vision changes, flashes, floaters and minor eye injuries. These services can assess your condition quickly and either treat you or refer you on if needed.",
+  "However, some eye problems need immediate hospital care. If you have a chemical injury to your eye, rinse it immediately with water and go to A&E. If you have sudden vision loss, you should seek same-day care from an optician or hospital eye service."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe your main symptom, such as redness, pain, sudden vision change, flashes, floaters or injury.",
+  "Say when the problem started and whether it is getting worse.",
+  "Mention any recent eye injury or foreign body in the eye.",
+  "Note whether you have any existing eye conditions or wear contact lenses.",
+  "Include your location so we can introduce you to a professional near you.",
+  "Explain if you have already tried any first aid, such as rinsing your eye."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Can you see me today for an urgent assessment?",
+  "What tests will you do to find out what is wrong with my eye?",
+  "Will you be able to treat my condition, or will I need to go to hospital?",
+  "What should I do if my symptoms get worse before my appointment?",
+  "Do you provide urgent eye care for children as well as adults?",
+  "Is there a fee for the urgent assessment, and how much will it be?"
+ ],
+ "faqs": [
+  {
+   "q": "What should I do if I get a chemical in my eye?",
+   "a": "Rinse your eye immediately with clean water for at least ten to fifteen minutes and then go straight to A&E. Do not wait for an optician appointment."
+  },
+  {
+   "q": "Can an optician help with sudden vision loss?",
+   "a": "Yes, an optician can assess sudden vision changes and may refer you urgently to a hospital eye service if needed. You should seek same-day care."
+  },
+  {
+   "q": "Are urgent eye care services available on the high street?",
+   "a": "Many areas have opticians who provide urgent eye care services for minor eye conditions and injuries. iComply can introduce you to a suitable professional near you."
+  },
+  {
+   "q": "Do I need a referral to see an optician for an urgent eye problem?",
+   "a": "You can often book directly with an optician for an urgent eye assessment without a referral. iComply introduces you to a professional who can quote you directly."
+  }
+ ]
+}

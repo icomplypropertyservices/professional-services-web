@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for a horse vet near me, you're likely looking for a vet who can come to your yard for routine care and be there quickly when something goes wrong. Whether it's a planned visit or an emergency like colic, you need someone who knows horses and can get to you without a long drive. We introduce you to a suitable UK vet who quotes you directly, so you can compare and choose what works for you and your horse.",
+ "need_heading": "What horse owners usually need from a local vet",
+ "need_lead": "A horse vet near you needs to cover both the everyday and the urgent, often at short notice.",
+ "needs": [
+  "You need a vet who can visit your yard for routine vaccinations, dental checks and general health exams without you having to transport your horse.",
+  "You want a vet who can respond quickly to emergencies such as colic, wounds or lameness, and who knows the quickest route to your yard.",
+  "You may be looking for a vet who has experience with your horse's particular discipline or breed, and who can advise on preventive care.",
+  "You might need a vet who can provide documentation for insurance claims or travel, and who understands the paperwork involved.",
+  "You could be new to the area or your current vet is retiring, and you want to find someone local who can take over your horse's care."
+ ],
+ "context_heading": "What to know when choosing a horse vet",
+ "context": [
+  "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS), and you can search the RCVS register by name before you book. Many practices also join the voluntary RCVS Practice Standards Scheme, which inspects premises, equipment and clinical processes, so you can ask whether a practice is part of it.",
+  "Some vets hold further qualifications such as an RCVS certificate, advanced practitioner status or specialist status in a particular species or discipline. If your horse has a complex or unusual condition, it is reasonable to ask whether the vet treating it holds one of these, or whether they refer to someone who does."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you are looking for a horse vet near you, and give the name of your yard or the area you keep your horse in.",
+  "Describe your horse's age, breed and general health, and whether you need routine care or have a specific concern.",
+  "Say whether you need a vet who can visit the yard or whether you are able to travel with your horse.",
+  "Note any particular experience you would like the vet to have, such as with lameness, dentistry or a certain discipline.",
+  "Include your availability for visits and whether you share your yard with other horse owners who might also need a vet.",
+  "Mention if you have an urgent issue, so we can help you find a vet who can respond promptly."
+ ],
+ "questions_heading": "Questions to ask the vet",
+ "questions": [
+  "Do you visit yards in my area, and how quickly can you usually get here in an emergency?",
+  "Are you registered with the RCVS, and is the practice part of the RCVS Practice Standards Scheme?",
+  "Do you have experience with horses of my horse's age, breed or discipline?",
+  "What is your approach to routine care such as vaccinations, dental checks and worming?",
+  "How do you handle out-of-hours emergencies, and who covers when you are unavailable?",
+  "Can you provide a written estimate for any planned treatment or procedure?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check that a horse vet is properly registered?",
+   "a": "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS), and you can search the RCVS register by name before you book. Veterinary nurses also have their own RCVS register, so you can check them too."
+  },
+  {
+   "q": "What should I have ready for an emergency vet visit?",
+   "a": "Keep a basic first aid kit at the yard and your vet's emergency number to hand. It also helps to have your horse's passport and insurance details accessible, and to know your yard's postcode and access instructions."
+  },
+  {
+   "q": "Can I share a vet visit with other horse owners at my yard?",
+   "a": "Many vets are happy to see several horses on the same visit if you arrange it in advance, which can be more convenient and may reduce call-out costs. Agree routine visit days with others on your yard and ask the vet about booking multiple appointments."
+  },
+  {
+   "q": "What if my horse needs a specialist?",
+   "a": "Some vets hold further qualifications such as an RCVS certificate, advanced practitioner status or specialist status in a particular species or discipline. If your horse has a complex or unusual condition, it is reasonable to ask whether the vet treating it holds one of these, or whether they refer to someone who does."
+  }
+ ]
+}

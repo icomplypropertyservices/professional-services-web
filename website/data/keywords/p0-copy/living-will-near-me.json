@@ -1,0 +1,54 @@
+{
+ "intro": "Searching for a living will near you usually means you want to set down, in a proper document, which medical treatments you would refuse if you later lost the ability to decide. It may be that you have watched someone go through this, or you simply want your wishes known while you can still express them clearly. We can introduce you to a wills and probate specialist who works in your area and who can talk the options through with you.",
+ "need_heading": "What people searching for a living will usually need",
+ "need_lead": "Most people who search for a living will near me are trying to put their wishes about future medical treatment into a form that doctors will actually follow.",
+ "needs": [
+  "You want to record clearly which treatments you would refuse if you became seriously ill and could no longer make decisions for yourself.",
+  "You have a particular condition in mind, or a treatment you feel strongly about, and you want that written down properly rather than left to chance.",
+  "You are unsure whether you need a living will, a health and welfare lasting power of attorney, or both, and want someone to explain the difference.",
+  "You have a relative or friend who has gone through a difficult time in hospital and you want to spare your own family the same uncertainty.",
+  "You want the document to be shared with your GP and understood by those close to you, so that it is there when it matters."
+ ],
+ "context_heading": "Getting a living will right",
+ "context": [
+  "A living will is often called an advance decision. If it refuses life-sustaining treatment, it has to meet strict legal rules to be valid, so the wording and the way it is signed and witnessed matter a great deal. A specialist can make sure yours is set out in a way that doctors will recognise and follow.",
+  "Many people make an advance decision alongside a health and welfare lasting power of attorney, which lets someone you choose make decisions on your behalf when you cannot. These are separate documents doing different jobs, and it is worth discussing both. It also helps to share your advance decision with your GP so it becomes part of your medical record."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Tell us roughly where you are, so we can introduce you to a specialist who practises in your area.",
+  "Say whether you are looking for an advance decision on its own or want to discuss a lasting power of attorney as well.",
+  "Mention any particular treatments or situations you feel strongly about, as this helps the specialist prepare.",
+  "Let us know whether you already have a will or any other documents in place.",
+  "Tell us if a family member or carer will be involved in the discussions, so they can be included.",
+  "Say whether you would prefer to meet in person, speak by phone or correspond in writing."
+ ],
+ "tell_heading_note": "",
+ "questions_heading": "Questions worth asking the specialist",
+ "questions": [
+  "Are you regulated, and do you hold professional indemnity insurance?",
+  "How will you make sure my advance decision meets the rules for refusing life-sustaining treatment?",
+  "Can you explain the difference between an advance decision and a health and welfare lasting power of attorney in my situation?",
+  "Will you help me share the document with my GP once it is signed?",
+  "Who should witness or countersign the document, and what do I need to do on the day?",
+  "Where will the original be kept, and how can I change or cancel it later?"
+ ],
+ "faqs": [
+  {
+   "q": "Is a living will the same as an advance decision?",
+   "a": "Yes, living will is the everyday name for what the law calls an advance decision to refuse treatment. It sets out treatments you would refuse in future if you lost capacity. If it refuses life-sustaining treatment, it must meet strict rules to be valid."
+  },
+  {
+   "q": "Do I need a lasting power of attorney as well?",
+   "a": "An advance decision only covers the treatments you refuse, while a health and welfare lasting power of attorney lets someone you choose make wider decisions on your behalf. Many people put both in place. A specialist can explain how they work together in your circumstances."
+  },
+  {
+   "q": "Should I tell my GP about my living will?",
+   "a": "It is sensible to share a copy with your GP so it can be added to your medical record and seen by those treating you. It also helps to talk it through with the people close to you, so they know what you have decided and why."
+  },
+  {
+   "q": "Can I change my mind after making one?",
+   "a": "Yes, you can change or cancel an advance decision while you still have capacity, but it needs to be done clearly and the old document should be withdrawn. Ask the specialist how to record any change properly and who should be told."
+  }
+ ]
+}

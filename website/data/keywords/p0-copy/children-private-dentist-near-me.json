@@ -1,0 +1,53 @@
+{
+ "intro": "Finding a private dentist for your child can feel like a big step, especially if you want care that's gentle and focused on prevention. You're likely looking for someone close to home who can help your child feel at ease and build good habits early. We can introduce you to a UK private dentist who works with children, and they'll quote you directly for any treatment.",
+ "need_heading": "What parents searching for a children's private dentist usually need",
+ "need_lead": "Most parents want a dentist who can make visits calm and positive for their child, while keeping an eye on growing teeth and preventing problems.",
+ "needs": [
+  "You want a dentist who is experienced in treating children and can help your child feel relaxed from the first visit.",
+  "You're looking for preventive care such as fluoride varnish or fissure sealants to protect your child's teeth.",
+  "You need advice on when to start orthodontic assessments or whether your child's bite needs checking.",
+  "You'd like a practice that explains treatment clearly and gives you time to ask questions about your child's dental health.",
+  "You want a dentist who can see your child regularly and build a familiar, reassuring routine."
+ ],
+ "context_heading": "Understanding private dental care for children",
+ "context": [
+  "NHS dental care is free for children, but not all practices have capacity for new NHS patients. Private care means you'll pay for treatment, and the dentist will give you a quote before anything goes ahead.",
+  "Dentists, dental hygienists, dental therapists and dental nurses must be registered with the General Dental Council (GDC), and you can check the GDC register online. Private clinics providing regulated healthcare in England must register with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales it's Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Your child's age and any specific concerns you have about their teeth or gums.",
+  "Whether your child has seen a dentist before and how they felt about it.",
+  "Any particular treatment you're interested in, such as fluoride varnish, fissure sealants or an orthodontic assessment.",
+  "How far you're willing to travel to see a dentist.",
+  "Any preferences for appointment times that fit around school or work.",
+  "Whether you'd like the dentist to have experience with anxious children or additional needs."
+ ],
+ "questions_heading": "Questions to ask the dentist",
+ "questions": [
+  "What is your experience of treating children of my child's age?",
+  "How do you help children who are nervous about dental visits?",
+  "What preventive treatments do you recommend for my child, and why?",
+  "When should my child have an orthodontic assessment?",
+  "What are the costs for a child's check-up and any follow-up treatment?",
+  "How do you handle emergencies or out-of-hours concerns?"
+ ],
+ "faqs": [
+  {
+   "q": "Is private dental care for children expensive?",
+   "a": "Costs vary between practices and depend on the treatment needed. The dentist will give you a quote before treatment starts, so you can decide what's right for your family."
+  },
+  {
+   "q": "Can I get NHS dental care for my child instead?",
+   "a": "NHS dental care is free for children, but not all practices are accepting new NHS patients. You can ask local practices about NHS availability or contact NHS 111 for advice."
+  },
+  {
+   "q": "How do I check a dentist's registration?",
+   "a": "You can check the General Dental Council (GDC) register online to confirm that a dentist, hygienist, therapist or nurse is registered. In England, you can also check the Care Quality Commission (CQC) register for clinics and their inspection ratings."
+  },
+  {
+   "q": "What if I have a complaint about private dental treatment?",
+   "a": "Start with the practice's complaints process. If it's not resolved, the Dental Complaints Service can help with private dental complaints."
+  }
+ ]
+}

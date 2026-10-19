@@ -1,0 +1,69 @@
+{
+ "intro": "You have searched for a private GP, likely because you want a longer appointment, a quicker one, or a service that fits around your life. A private GP can offer that, but it helps to know what to expect and what to check before you book. We introduce you to a suitable UK professional who quotes you directly, so you can compare and decide.",
+ "need_heading": "What people searching for a private GP usually need",
+ "need_lead": "Most people looking for a private GP want medical care that feels unhurried and fits their schedule.",
+ "needs": [
+  "You need an appointment soon and cannot get one with your NHS GP as quickly as you would like.",
+  "You want more time to talk through a problem than a standard appointment allows.",
+  "You would prefer a video consultation for something that does not need a physical examination.",
+  "You need a referral, a test, or a certificate and want to arrange it without a long wait.",
+  "You want to see a GP at a time that suits your work or family commitments, such as an evening or weekend."
+ ],
+ "context_heading": "What to understand about private GP care",
+ "context": [
+  "A private GP does not replace your NHS GP. Good private clinics will ask for your consent to share consultation notes with your NHS practice, so your records stay complete and any medication is prescribed safely.",
+  "Every doctor practising in the UK must be registered and hold a licence to practise with the General Medical Council (GMC). GPs also appear on the GMC's GP register, and you can search the GMC's online register by name. Private clinics providing regulated healthcare in England must register with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the medical problem or reason you want to see a private GP, so we can introduce you to someone suitable.",
+  "Say whether you would prefer a face-to-face appointment or a video consultation.",
+  "Mention any preference for a particular day or time, such as an evening or weekend.",
+  "Note if you need a referral, a test, or a certificate, as this may affect which professional is right for you.",
+  "Tell us if you have any long-term conditions or take regular medication, so the professional can prepare.",
+  "Include your location and how far you are willing to travel, or confirm that you are happy with a video consultation."
+ ],
+ "questions_heading": "Questions to ask the private GP",
+ "questions": [
+  "How long are your appointments, and can I book a longer slot if I need one?",
+  "Will you share your consultation notes with my NHS GP, and how do you do that?",
+  "What is the fee for the consultation, and are there any additional costs for tests or referrals?",
+  "Can you prescribe medication if I need it, and how does that work with my NHS GP?",
+  "Do you offer video consultations for my type of problem?",
+  "What is your policy on cancellations or rearranging an appointment?"
+ ],
+ "faqs": [
+  {
+   "q": "Will a private GP replace my NHS GP?",
+   "a": "No, a private GP does not replace your NHS GP. Good private clinics will ask for your consent to share consultation notes with your NHS practice, so your records stay complete and medication is prescribed safely."
+  },
+  {
+   "q": "How do I check that a private GP is properly qualified?",
+   "a": "Every doctor practising in the UK must be registered and hold a licence to practise with the General Medical Council (GMC). GPs also appear on the GMC's GP register, and you can search the GMC's online register by name. Private clinics providing regulated healthcare in England must register with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA."
+  },
+  {
+   "q": "Can I have a video consultation with a private GP?",
+   "a": "Many private GPs offer video consultations, which suit a range of problems where a physical examination is not needed. It is worth asking when you enquire whether a video appointment is appropriate for your situation."
+  },
+  {
+   "q": "How long does a private GP appointment usually last?",
+   "a": "Appointments of fifteen to thirty minutes are common with a private GP, giving you more time to discuss your concerns than a standard NHS appointment. You can ask about the length of appointments when you speak to the professional."
+  }
+ ],
+ "extra_heading": "What happens at a first private GP appointment",
+ "extra": [
+  "At a first appointment, expect the GP to take a full history: what has brought you in, how long it has been going on, what you have already tried, and any medication you take. Longer appointment slots mean there is usually room to cover more than one concern in a single visit, so it helps to write down your questions beforehand and decide what matters most to you.",
+  "The GP may examine you, arrange tests such as blood tests, or refer you on to a specialist if that is what your situation needs. Ask how and when you will receive results, and who will follow up on them, so nothing is left hanging between appointments.",
+  "Before you leave, ask for a summary of what was discussed and any treatment plan, and check whether the clinic will pass this on to your NHS GP with your consent. Keeping both sets of records joined up protects you if you later need NHS care, repeat prescriptions or a referral."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Can a private GP prescribe medication for me?",
+   "a": "A private GP can prescribe medication where it is clinically appropriate, and may issue a private prescription, which you pay for at a pharmacy. If you take regular medication through your NHS GP, ask the private GP to share details with your NHS practice so your records stay consistent."
+  },
+  {
+   "q": "What should I bring to my first private GP appointment?",
+   "a": "Bring a list of any medication you take, including doses, plus details of any long-term conditions and recent test results if you have them. It also helps to note down your main concerns and questions in advance, so you can make the most of the longer appointment."
+  }
+ ]
+}

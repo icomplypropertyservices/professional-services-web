@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a cardiologist near you usually means something about your heart needs looking at, whether that's palpitations you can't explain, chest pain that has settled, high blood pressure that isn't settling, or a valve problem your GP has mentioned. You want to see someone close enough to travel to, without waiting longer than you'd like. iComply introduces you to a UK cardiologist who can quote you directly for a private consultation.",
+ "need_heading": "What people searching for a cardiologist near them usually need",
+ "need_lead": "Most people searching this way have a specific symptom or concern and want it looked at properly, soon, by someone they can get to easily.",
+ "needs": [
+  "You've been having palpitations or a racing heartbeat and want to know whether it's something to worry about.",
+  "Your GP has mentioned a heart murmur or valve problem and you'd like a specialist opinion.",
+  "You have high blood pressure that isn't coming under control and want it reviewed by a cardiologist.",
+  "You've had chest pain in the past that has settled, and you want it investigated rather than ignored.",
+  "You've been told you need tests such as an ECG, echo or a heart monitor and want to arrange them privately."
+ ],
+ "context_heading": "One thing to understand before you book",
+ "context": [
+  "If you have chest pain right now, do not book an appointment — call 999. A private consultation is for symptoms that have settled or concerns you can discuss calmly, not for an emergency.",
+  "Hospital consultants should appear on the General Medical Council's specialist register for their field, which you can check online. Private clinics providing regulated healthcare in England must register with the Care Quality Commission, which inspects and publishes ratings; in Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA. Private hospitals in England may also share outcomes data through the Private Healthcare Information Network."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the symptom or concern that's prompting you to see a cardiologist, and roughly how long it's been going on.",
+  "Say whether your GP has already referred you or suggested a specialist opinion.",
+  "Mention any tests you've already had, such as an ECG or echo, and what the results were.",
+  "Tell us your location and how far you're willing to travel for an appointment.",
+  "Say whether you have private medical insurance, as your insurer may require a GP referral and may limit you to certain consultants or hospitals.",
+  "Include anything that affects how soon you'd like to be seen, so we can introduce you to someone who can quote you directly."
+ ],
+ "questions_heading": "Questions to ask the cardiologist",
+ "questions": [
+  "What tests do you think I'll need, and will they be arranged at the same clinic?",
+  "Are you on the GMC's specialist register for cardiology?",
+  "Which hospital or clinic would I be seen at, and is it registered with the relevant regulator?",
+  "How will you share your findings with my GP?",
+  "What should I bring to the appointment, and should I bring a list of my medicines?",
+  "If I have private medical insurance, will you work with my insurer, and do I need a GP referral first?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a GP referral to see a cardiologist privately?",
+   "a": "Not always, but some consultants and most insurers prefer one. If you have private medical insurance, check with your insurer first, as it may require a GP referral and may limit you to certain consultants or hospitals."
+  },
+  {
+   "q": "What tests might a cardiologist arrange?",
+   "a": "Common tests include an ECG, an echocardiogram and a heart monitor worn over a period. The consultant will discuss which tests are appropriate for your symptoms at your appointment."
+  },
+  {
+   "q": "Should I book if I have chest pain right now?",
+   "a": "No — chest pain that is happening now needs 999, not an appointment. A private consultation is for symptoms that have settled or concerns you can discuss calmly."
+  },
+  {
+   "q": "How can I check that a cardiologist is properly registered?",
+   "a": "Hospital consultants should appear on the General Medical Council's specialist register for their field, which you can check online. You can also check whether the clinic is registered with the relevant regulator for its nation."
+  }
+ ]
+}

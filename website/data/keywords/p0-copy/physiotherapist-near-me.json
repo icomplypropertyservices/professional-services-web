@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for a physiotherapist near me, you're likely looking for someone local who can help with a specific physical problem — whether it's a recent injury, ongoing pain, recovery after surgery, or a long-term condition affecting how you move. You want to know who is qualified and how to get an appointment without travelling far. We introduce you to a UK physiotherapist in your area, who will quote you directly.",
+ "need_heading": "What people searching for a physiotherapist near me usually need",
+ "need_lead": "Most people want convenient, face-to-face help from a registered professional who can assess their movement and pain and give them a plan.",
+ "needs": [
+  "You have a sports or exercise injury and want a proper assessment rather than guessing whether to rest or push on.",
+  "You are recovering from surgery, such as a knee or hip replacement, and need rehabilitation close to home.",
+  "You have persistent back, neck or joint pain that is affecting your daily life and want advice on exercise and manual therapy.",
+  "You have a neurological condition, like Parkinson's or the effects of a stroke, and need help with movement and function.",
+  "You are looking for a physiotherapist who can see you locally because travelling further is difficult or impractical."
+ ],
+ "context_heading": "Check that your physiotherapist is registered",
+ "context": [
+  "In the UK, 'physiotherapist' and 'physical therapist' are protected titles. Anyone using them must be registered with the Health and Care Professions Council (HCPC), and you can check the register online. Most physiotherapists are also members of the Chartered Society of Physiotherapy, shown by the letters MCSP.",
+  "Sports therapists, massage therapists and personal trainers may help with some needs, but they are not physiotherapists. For an injury, post-surgery rehabilitation or a neurological condition, make sure you are booking an HCPC-registered physiotherapist."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Describe the problem you want help with, including when it started and how it affects your movement or daily activities.",
+  "Mention any diagnosis or surgery you have had, and whether you are working with a GP, consultant or other healthcare professional.",
+  "Say where you are looking for a physiotherapist, such as your town or the area you can easily travel to.",
+  "Explain any preferences you have, such as wanting a clinic-based appointment or a home visit if that is available.",
+  "Let us know if you need evening or weekend appointments, or any other access requirements.",
+  "Include any previous experience of physiotherapy and what you are hoping to achieve from treatment."
+ ],
+ "questions_heading": "Questions to ask the physiotherapist",
+ "questions": [
+  "Are you registered with the Health and Care Professions Council (HCPC), and what is your registration number?",
+  "How will you assess my problem and measure my progress over time?",
+  "What will the first appointment involve, and how long will it last?",
+  "Will treatment mainly be exercise-based, and will you give me exercises to do at home?",
+  "Do you have experience of treating my specific condition or injury?",
+  "What are your fees, and how many sessions am I likely to need?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I find a physiotherapist near me?",
+   "a": "Tell iComply what you need and where you are, and we will introduce you to a UK physiotherapist in your area. They will then contact you with details and a quote."
+  },
+  {
+   "q": "What is the difference between a physiotherapist and a sports therapist?",
+   "a": "Physiotherapists are registered with the HCPC and are qualified to assess and treat a wide range of movement and pain problems. Sports therapists and massage therapists are not physiotherapists, so check registration if you need physiotherapy."
+  },
+  {
+   "q": "Do I need a referral from my GP to see a physiotherapist?",
+   "a": "You can often see a physiotherapist privately without a GP referral, but some conditions or insurers may require one. It is worth asking the physiotherapist when they contact you."
+  },
+  {
+   "q": "How much does a physiotherapy appointment cost?",
+   "a": "Fees vary, so the physiotherapist will quote you directly. Ask what the quote covers, including the initial assessment and any follow-up sessions."
+  }
+ ],
+ "extra_heading": "Getting to your appointments and keeping them going",
+ "extra": [
+  "Searching for a physiotherapist near me often comes down to practicalities as much as treatment: how you will get there when you are in pain, whether you can park or use public transport, and whether the journey itself sets you back. A clinic that is genuinely easy to reach makes it far more likely you will keep attending, which matters because physiotherapy usually works through a course of sessions rather than a single visit.",
+  "Think about the shape of your week before you choose. If you work fixed hours, ask whether early morning, evening or weekend slots exist, and whether appointments tend to run to time. If stairs, walking distances or driving are difficult at the moment, say so when you enquire, because some clinics are more accessible than others and some physiotherapists offer home visits.",
+  "It also helps to ask what happens between appointments. Most physiotherapy depends on exercise you do yourself, so check whether you will be given a clear home programme, whether it will be adjusted as you improve, and how you can raise questions if something does not feel right before your next visit. Getting these answers early makes the whole course of treatment easier to fit around your life."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Can I choose a physiotherapist close to work rather than home?",
+   "a": "Yes, and it is worth weighing up which location you can reach most reliably each week. Tell us the area that suits you, whether that is near home or near your workplace, and we will introduce you to a physiotherapist there."
+  },
+  {
+   "q": "What if travelling to a clinic is difficult because of my condition?",
+   "a": "Mention this when you enquire, as some physiotherapists offer home visits and others work from premises with step-free access. Being upfront about what you can manage helps ensure the introduction suits your situation."
+  },
+  {
+   "q": "Should I see a physiotherapist near me or wait to be referred?",
+   "a": "You can often book privately without a GP referral, though some insurers ask for one. If you are unsure, ask the physiotherapist when they contact you, and speak to your GP if your symptoms are worrying you."
+  }
+ ]
+}

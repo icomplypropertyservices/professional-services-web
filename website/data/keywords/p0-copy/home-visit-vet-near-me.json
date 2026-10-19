@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a home visit vet near me usually means you need a vet to come to your animal rather than taking them to a practice. It might be because your pet is anxious, elderly or too unwell to travel, or because you have several animals to see. We can introduce you to a UK vet who offers home visits in your area, and they will quote you directly.",
+ "need_heading": "What people searching for a home visit vet usually need",
+ "need_lead": "A home visit vet brings care to your door, which can make a real difference when getting to a clinic is difficult.",
+ "needs": [
+  "Your pet becomes very stressed in the car or at the vet, and a home visit keeps them calm in familiar surroundings.",
+  "You have several pets that all need checking or vaccinating, and it is easier for one vet to see them all at home.",
+  "Your animal is elderly, disabled or too ill to travel comfortably, so a home visit avoids the journey.",
+  "You do not drive or have no easy way to get to a practice with your pet.",
+  "You are thinking about end-of-life care and would prefer your pet to be at home for a peaceful goodbye."
+ ],
+ "context_heading": "What a home visit vet can and cannot do",
+ "context": [
+  "Home visits work well for consultations, vaccinations and euthanasia, but surgery and some diagnostic tests still need a clinic. Ask the vet what equipment they bring with them, such as a scanner or blood testing kit, so you know what can be done at home.",
+  "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS), and you can search the RCVS register by name before you book. Veterinary nurses have their own RCVS register too. Many practices also join the voluntary RCVS Practice Standards Scheme, which inspects premises, equipment and clinical processes."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Tell us the kind of animal you have and what species it is, as some vets specialise in particular animals.",
+  "Describe what you need the vet for, such as a check-up, vaccinations, a poorly pet or end-of-life care.",
+  "Mention your postcode or the area you live in, so we can look for a vet who covers home visits near you.",
+  "Let us know if your pet is nervous, aggressive or difficult to handle, so the vet can prepare.",
+  "Say whether you have other animals at home that might need attention during the visit.",
+  "Tell us if you have a preferred day or time, or if the visit is urgent, so we can pass that on."
+ ],
+ "questions_heading": "Questions to ask the vet before you book",
+ "questions": [
+  "Do you bring equipment for blood tests or scans, or would my pet need to go to a clinic for those?",
+  "How do you usually handle nervous or difficult animals during a home visit?",
+  "What area do you cover for home visits, and is there a travel charge?",
+  "Can you tell me about your experience with my type of animal?",
+  "What happens if my pet needs surgery or an overnight stay?",
+  "Are you registered with the RCVS, and do you hold any further qualifications?"
+ ],
+ "faqs": [
+  {
+   "q": "Can a vet do everything at home that they can at a clinic?",
+   "a": "No, some things such as surgery and certain diagnostic tests need clinic facilities. A home visit vet will bring basic equipment, but they may need to refer you to a practice for more involved procedures."
+  },
+  {
+   "q": "How do I check a home visit vet is properly qualified?",
+   "a": "Every vet in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS). You can search the RCVS register by name before you book, and you can also ask about any further qualifications."
+  },
+  {
+   "q": "What should I have ready for a home visit?",
+   "a": "Make sure your pet is calm and in a quiet room, and have any previous records or medication to hand. It also helps to clear a space for the vet to work and to secure other animals if needed."
+  },
+  {
+   "q": "Is a home visit more expensive than going to a practice?",
+   "a": "Prices vary, and a home visit may include a travel charge. The vet will quote you directly, so you can ask for a clear price before you book."
+  }
+ ]
+}

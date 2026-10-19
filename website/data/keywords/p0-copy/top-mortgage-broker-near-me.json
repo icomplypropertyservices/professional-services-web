@@ -1,0 +1,73 @@
+{
+ "intro": "You're looking for a top mortgage broker near you, which usually means you want someone local who can compare mortgages from different lenders and guide you through your application. Whether you're buying your first home, remortgaging or moving, a broker can check affordability and manage the process through to offer. The key is to find someone authorised by the Financial Conduct Authority who explains their service clearly, so you can judge for yourself whether they're right for you.",
+ "need_heading": "What people searching for a top mortgage broker near me usually need",
+ "need_lead": "Most people want a knowledgeable local broker who can find them a suitable mortgage and handle the paperwork.",
+ "needs": [
+  "You're a first-time buyer and want someone nearby who can explain the mortgage process and help you get a decision in principle early.",
+  "You're remortgaging and want a broker who can compare deals from across the market to see if a better option exists.",
+  "You've had an offer accepted on a home and need a broker who can move quickly to secure a mortgage and manage the application through to offer.",
+  "You're self-employed or have an unusual income and need a broker experienced in complex affordability cases.",
+  "You want to understand the fees involved before you commit, so you can budget for the cost of advice."
+ ],
+ "context_heading": "Understanding \"top\" and \"near me\" for mortgage brokers",
+ "context": [
+  "Searching for a \"top\" mortgage broker is a common way to start, but there's no official ranking of brokers. Instead, look for someone authorised by the Financial Conduct Authority (FCA) and check their status on the FCA register. A good broker will clearly explain whether they search the whole market or a limited panel of lenders, and how they're paid.",
+  "\"Near me\" can mean you value face-to-face advice, but many brokers work remotely by phone or online, so you can broaden your search if needed. Ask about their approach and whether they charge a fee, as this affects the overall cost. Advisers typically hold a qualification such as CeMAP, which you can ask about."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Whether you're buying your first home, moving, remortgaging or buying to let, as this shapes the advice you need.",
+  "Your approximate property value and the size of deposit or equity you have, so the broker can assess affordability.",
+  "Your employment status and income details, including any variable or self-employed income, as this affects which lenders may consider you.",
+  "Any credit issues or past problems that might affect your application, so the broker can advise on suitable lenders.",
+  "Whether you already have a decision in principle or a mortgage offer, and any deadlines you're working towards.",
+  "Your preferred way of working, such as face-to-face or remote, and any preference for whole-of-market or limited-panel advice."
+ ],
+ "questions_heading": "Questions to ask a mortgage broker",
+ "questions": [
+  "Are you authorised by the Financial Conduct Authority, and can you provide your FCA registration number?",
+  "Do you search the whole of the market or a limited panel of lenders?",
+  "How do you charge for your services, and will I receive a clear fee agreement upfront?",
+  "What qualifications do you hold, such as CeMAP?",
+  "How will you help me get a decision in principle early in the process?",
+  "What happens if something goes wrong, and how do I complain if needed?"
+ ],
+ "faqs": [
+  {
+   "q": "How can I judge whether a mortgage broker is right for me?",
+   "a": "There's no official ranking for mortgage brokers, so look for FCA authorisation, clear explanations of their market coverage and fees, and relevant qualifications like CeMAP. Personal recommendations and checking the FCA register can help you decide."
+  },
+  {
+   "q": "Do I need a broker who is local to me?",
+   "a": "Not necessarily. Many brokers work remotely, but if you prefer face-to-face advice, a local broker may suit you better. Ask about their availability and how they communicate."
+  },
+  {
+   "q": "What should I have ready when I speak to a broker?",
+   "a": "Have details of your income, deposit, property value and any existing mortgage or credit issues. Also think about your preferred contact method and whether you want whole-of-market or limited-panel advice."
+  },
+  {
+   "q": "Will a broker charge me a fee?",
+   "a": "Brokers must tell you how they are paid, whether by lender commission, a fee, or both. Ask for a clear explanation upfront so you understand the cost before you proceed."
+  }
+ ],
+ "extra_heading": "How iComply introduces you to a mortgage broker",
+ "extra": [
+  "When you search for a top mortgage broker near me, you may be weighing up several names and wondering how to narrow them down. iComply is a free introduction service: you tell us what you need, and we introduce you to a suitable UK mortgage broker who quotes you directly. We don't provide the mortgage advice ourselves and we're not regulated, so the broker you speak to is the person who handles your case from start to finish.",
+  "Because quotes are on application, the broker will set out their fees once they understand your situation, such as whether you're buying your first home, remortgaging or working with self-employed income. It helps to tell us as much as you can upfront, including your deposit or equity, your employment status and any deadlines, so the introduction is as relevant as possible. You're then free to compare what you're offered and decide for yourself.",
+  "A useful first step is to check any broker you speak to on the FCA register before going further, and to ask whether they search the whole market or a limited panel. A first appointment usually covers your income, outgoings and plans, and may end with a decision in principle, which can strengthen your position when you make an offer on a home. Take your time, ask about fees in writing, and choose the broker who explains things most clearly to you."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Does iComply choose the broker for me?",
+   "a": "We introduce you to a suitable UK mortgage broker based on what you tell us, but the choice is yours. You can ask questions, compare what you're offered and decide whether to proceed. The broker, not iComply, provides the mortgage advice."
+  },
+  {
+   "q": "What happens at a first appointment with a mortgage broker?",
+   "a": "The broker will usually ask about your income, outgoings, deposit or equity and your plans, then explain whether they search the whole market or a limited panel. They should set out how they're paid, whether by lender commission, a fee, or both, and may help you get a decision in principle early."
+  },
+  {
+   "q": "Is there a cost to use iComply?",
+   "a": "Our introduction service is free to you. The mortgage broker you're introduced to will quote you directly, with fees on application, so you'll know the cost of their advice before you commit."
+  }
+ ]
+}

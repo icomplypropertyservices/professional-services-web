@@ -1,0 +1,53 @@
+{
+ "intro": "You're developing property and you need an accountant who understands how a development is structured and taxed, not a generalist who mainly does routine returns. The right professional can help you set up each project properly, handle the VAT position and explain when profit is actually taxed. iComply introduces you to a suitable UK accountant who quotes you directly, so you can compare what you're offered.",
+ "need_heading": "What people searching for a property developer accountant near you usually need",
+ "need_lead": "Property development has its own accounting rhythm, and the questions you'll have depend on how you buy, build and sell.",
+ "needs": [
+  "You're buying a site or a building to convert and want the accounts to treat the property as trading stock rather than an investment.",
+  "You're setting up a separate company for each project and need help deciding how the special purpose vehicle should be structured.",
+  "You're unsure how VAT applies to a new build or a conversion and want the rules explained before you commit to a purchase.",
+  "You're using subcontractors and need to understand how the Construction Industry Scheme affects payments and records.",
+  "You're close to selling units and want to know when profit is taxed and how finance costs are treated in the accounts."
+ ],
+ "context_heading": "Understanding the accounting side of a development",
+ "context": [
+  "The word \"accountant\" on its own isn't a protected title in the UK, so anyone can use it. Titles such as Chartered Accountant, Chartered Certified Accountant and Chartered Management Accountant are protected, and members are bound by their body's ethics, training and complaints rules. It's reasonable to ask which body supervises a firm, whether they hold professional indemnity insurance and how complaints are handled.",
+  "Every practice offering accountancy services must also be supervised for anti-money-laundering purposes, either by a professional body or by HMRC. Because development often involves large sums moving between project companies, that supervision matters. Asking early helps you judge whether a firm is set up for the way you work."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the project you're working on, including whether it's a new build, a conversion or a refurbishment.",
+  "Say whether you plan to hold the property or sell the units, as that affects how profit is taxed.",
+  "Mention whether you're using a separate company for the project or trading in your own name.",
+  "Explain whether you're registered for VAT and whether you've dealt with VAT on a development before.",
+  "Say whether you use subcontractors and how you currently handle the Construction Industry Scheme.",
+  "Include where you're based and where the site is, so the introduction suits someone who can work with you locally or remotely."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "How do you treat property held as trading stock in the accounts for a development like mine?",
+  "What are the VAT rules for my new build or conversion, and what records will you need from me?",
+  "When will the profit on my development be taxed, and how do finance costs affect that?",
+  "Should each project sit in its own company, and what are the practical implications of doing that?",
+  "How do you handle the Construction Industry Scheme when I pay subcontractors?",
+  "Which body supervises your practice for anti-money-laundering purposes, and how are complaints handled?"
+ ],
+ "faqs": [
+  {
+   "q": "Why does a property developer need a specialist accountant?",
+   "a": "Development accounts need to treat property as trading stock, and the VAT position on new builds and conversions follows specific rules. A specialist can help you structure each project and understand when profit is taxed."
+  },
+  {
+   "q": "Should I set up a separate company for each development?",
+   "a": "Special purpose vehicles are common for each project, but whether that suits you depends on your circumstances. An accountant can explain the practical implications before you commit."
+  },
+  {
+   "q": "When is my profit taxed on a development?",
+   "a": "Profit is generally taxed when the units are sold, rather than while you're building. How finance costs are treated in the accounts can affect the overall position, so it's worth discussing early."
+  },
+  {
+   "q": "How do I judge whether an accountant is right for my project?",
+   "a": "Ask which professional body supervises the firm, whether they hold professional indemnity insurance and how complaints are handled. You can also ask how they've approached VAT and project companies on developments similar to yours, then compare the quotes you receive."
+  }
+ ]
+}

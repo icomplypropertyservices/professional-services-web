@@ -1,0 +1,69 @@
+{
+ "intro": "Searching for a solicitor usually means something real has landed on your desk — a house purchase, a family change, a dispute, a business matter or a will — and you need proper legal help rather than guesswork. A solicitor can advise you, prepare documents, negotiate on your behalf and, where needed, run a court case or instruct a barrister. We introduce you to a suitable UK solicitor who quotes you directly, with the price on application.",
+ "need_heading": "What people looking for a solicitor usually need",
+ "need_lead": "Most people searching for a solicitor are facing a specific legal situation and want clear advice and someone to act for them.",
+ "needs": [
+  "You are buying or selling a home and need the conveyancing handled properly.",
+  "You are separating or divorcing and need advice on finances, children or both.",
+  "You have a dispute with a neighbour, a business or a former employer and want to know where you stand.",
+  "You need a will written or an estate dealt with after a bereavement.",
+  "You are setting up or running a business and need help with contracts, leases or terms."
+ ],
+ "context_heading": "Checking who is actually acting for you",
+ "context": [
+  "Solicitors in England and Wales are regulated by the Solicitors Regulation Authority (SRA), and you can check an individual or firm on the SRA register. In Scotland solicitors are regulated by the Law Society of Scotland, and in Northern Ireland by the Law Society of Northern Ireland. Regulated firms must hold professional indemnity insurance and have a complaints procedure; if that does not resolve things, the Legal Ombudsman can look at service complaints in England and Wales.",
+  "The word \"lawyer\" is not protected on its own, so check that whoever handles your matter is a solicitor, a chartered legal executive (CILEx) or another authorised professional. Reserved activities such as conducting court litigation and certain probate and conveyancing work can only be carried out by authorised people."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Describe the type of legal matter you are dealing with, such as property, family, probate, business or a dispute.",
+  "Explain briefly what has happened so far and what you are hoping to achieve.",
+  "Say whether any court dates, deadlines or letters before action are already in play.",
+  "Mention where you are based and whether you need someone local or are happy to work remotely.",
+  "Note whether the matter is personal or for a business, and who the other parties are.",
+  "Say whether you have already spoken to a solicitor about this and, if so, what stage things reached."
+ ],
+ "questions_heading": "Questions to ask the solicitor",
+ "questions": [
+  "Do you specialise in this type of matter, and who in the firm would handle it?",
+  "Can you set out your costs at the start, including likely disbursements and how they are billed?",
+  "What are the main risks and timescales in a case like mine?",
+  "Will you keep me updated, and how often should I expect to hear from you?",
+  "Do you hold professional indemnity insurance, and what is your complaints procedure?",
+  "Are there alternatives to going to court that would suit my situation better?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check that someone is a genuine solicitor?",
+   "a": "In England and Wales you can look up the individual or firm on the SRA register; in Scotland use the Law Society of Scotland, and in Northern Ireland the Law Society of Northern Ireland. The word \"lawyer\" alone is not protected, so it is worth confirming the person handling your matter is a solicitor or another authorised professional."
+  },
+  {
+   "q": "Will I know the cost before I commit?",
+   "a": "Ask for costs information at the start, before any work begins. A solicitor should explain how they charge, what disbursements might arise and whether a fixed fee or an estimate is possible for your matter."
+  },
+  {
+   "q": "Can a solicitor deal with my case without going to court?",
+   "a": "Often yes — much legal work involves advice, negotiation and documents rather than court hearings. Where court is needed, a solicitor can run the case and instruct a barrister if appropriate."
+  },
+  {
+   "q": "What should I do if I am unhappy with the service?",
+   "a": "Regulated firms must have a complaints procedure, so ask for it and raise your concerns in writing first. If that does not resolve things, the Legal Ombudsman can look at service complaints in England and Wales."
+  }
+ ],
+ "extra_heading": "What to expect at your first meeting with a solicitor",
+ "extra": [
+  "The first meeting is usually a chance for the solicitor to understand your situation and for you to decide whether they are the right fit. They will ask you to explain what has happened, what you want to achieve, and may ask for any relevant documents such as contracts, letters or court papers. This is also your opportunity to ask about their experience in this area of law and how they would approach your matter.",
+  "You should expect the solicitor to explain your options and the likely steps involved, including whether court action might be necessary. They should also discuss costs clearly, so ask for an estimate or a fixed fee where possible, and check what disbursements might apply. It is a good idea to take notes and to ask for anything you are unsure about to be confirmed in writing.",
+  "Remember that the first meeting is not just about legal advice; it is also about building a working relationship. You need to feel comfortable asking questions and raising concerns. If you do not understand something, say so — a good solicitor will explain things in plain language and make sure you are clear on the next steps."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Will I be charged for the first meeting?",
+   "a": "Some solicitors offer a free initial consultation, but many do not. Always ask before you book whether there is a charge and how much it will be, so you can make an informed decision."
+  },
+  {
+   "q": "What should I bring to the first meeting?",
+   "a": "Bring any documents relevant to your matter, such as contracts, letters, court forms or correspondence. Also bring a list of questions you want to ask, and note down anything the solicitor says that you want to remember."
+  }
+ ]
+}

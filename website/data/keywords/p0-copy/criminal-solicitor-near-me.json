@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for a criminal solicitor near me, you're likely facing a police investigation, a court hearing, or you need urgent legal advice about a criminal matter. You want someone local who can represent you and explain what happens next. We can introduce you to a solicitor who handles criminal cases in your area, and they will quote you directly.",
+ "need_heading": "What people searching for a criminal solicitor near me usually need",
+ "need_lead": "Most people looking for a criminal solicitor near me need clear, local legal support at a stressful time.",
+ "needs": [
+  "You have been asked to attend a police interview and want legal advice before you speak to the police.",
+  "You have been charged with an offence and need representation at the magistrates' court or Crown Court.",
+  "You are under investigation and want to understand your rights and the process ahead.",
+  "A family member has been arrested and you need to find a solicitor who can attend the police station.",
+  "You are due to appear in court and want a local solicitor to represent you and explain what will happen."
+ ],
+ "context_heading": "Understanding your right to legal advice",
+ "context": [
+  "If you are arrested or asked to attend a police interview, you have the right to free legal advice at the police station. It is important not to discuss the case with the police before you have received that advice. A criminal solicitor can attend the police station or advise you by telephone.",
+  "For court proceedings, legal aid may be available depending on your financial circumstances and the seriousness of the case. You can ask the solicitor about legal aid when you speak to them. Solicitors in England and Wales are regulated by the Solicitors Regulation Authority (SRA), and you can check an individual or firm on the SRA's register."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Tell us the type of criminal matter you need help with, such as a police interview, a court hearing, or an ongoing investigation.",
+  "Let us know your location so we can introduce you to a solicitor near you.",
+  "Mention whether you have already been charged or asked to attend court.",
+  "Say whether you need advice urgently, for example if you have a police interview coming up soon.",
+  "Tell us if you are enquiring on behalf of someone else, such as a family member who has been arrested.",
+  "Include any preferences you have, such as whether you would like to discuss legal aid."
+ ],
+ "questions_heading": "Questions to ask the criminal solicitor",
+ "questions": [
+  "What experience do you have with cases like mine?",
+  "Will you be able to attend the police station with me, or will you advise me by phone?",
+  "Can you explain the court process and what I should expect at each stage?",
+  "Do you offer legal aid, and how do I find out if I am eligible?",
+  "How will you keep me informed about my case?",
+  "What are your fees, and how will you charge for your work?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I have to pay for legal advice at the police station?",
+   "a": "No, you have the right to free legal advice at the police station. This is separate from any legal aid for court proceedings."
+  },
+  {
+   "q": "Can I get legal aid for my criminal case?",
+   "a": "Legal aid may be available for court depending on your financial circumstances and the seriousness of the case. You should ask the solicitor to assess your eligibility."
+  },
+  {
+   "q": "How do I check that a solicitor is regulated?",
+   "a": "Solicitors in England and Wales are regulated by the Solicitors Regulation Authority (SRA). You can check an individual or firm on the SRA's register."
+  },
+  {
+   "q": "What should I do if I am asked to attend a police interview?",
+   "a": "You should not discuss the case with the police before receiving legal advice. Ask for a solicitor to be present or available by phone before the interview."
+  }
+ ],
+ "extra_heading": "Choosing between the criminal solicitors close to you",
+ "extra": [
+  "Searching for a criminal solicitor near me usually means you want someone you can get to easily, perhaps for a court that serves your area or a police station you have been asked to attend. Proximity matters most when you need someone at short notice, so it helps to ask whether the solicitor covers the specific police station or court that applies to you before you go further.",
+  "Being local is not the same as being right for your case, so ask how much of their work is criminal defence and whether they have handled matters like yours before. Because the phrase near me says nothing about quality or cost, compare a few solicitors on what they tell you directly: how they would approach your situation, who would handle it, and how they charge, with quotes given on application.",
+  "It is also worth checking that whoever you speak to is actually a solicitor or another authorised professional, since the word lawyer on its own is not protected. In England and Wales you can look up an individual or firm on the Solicitors Regulation Authority's register, and regulated firms must hold professional indemnity insurance and have a complaints procedure."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Does the solicitor need to be based near the court or police station?",
+   "a": "Not always, but it can help, especially if you need someone to attend a police station or a court hearing at short notice. Ask the solicitor whether they cover the specific police station or court involved in your matter."
+  },
+  {
+   "q": "What should I have ready for a first conversation with a criminal solicitor?",
+   "a": "It helps to know what you have been told so far, such as whether you have been arrested, asked to attend an interview, charged or given a court date. Have any paperwork or correspondence to hand, and be ready to explain briefly what has happened."
+  },
+  {
+   "q": "Is a local solicitor likely to be cheaper?",
+   "a": "Not necessarily. Where a solicitor is based does not tell you what they will charge, so ask each one how their fees work and whether legal aid may be available for your case. You can then compare the quotes you receive and decide what suits you."
+  }
+ ]
+}

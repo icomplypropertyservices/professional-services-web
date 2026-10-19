@@ -1,0 +1,53 @@
+{
+ "intro": "You're looking for a property accountant near you because your property activities come with their own tax rules, and you want someone local who understands them. Whether you're a landlord with rental income, a developer working on projects, or an investor planning a purchase, the right accountant can help you structure things properly and stay compliant.",
+ "need_heading": "What people searching for a property accountant near me usually need",
+ "need_lead": "Property tax is not the same as general tax, so you need an accountant who deals with property matters regularly.",
+ "needs": [
+  "You own one or more buy-to-let properties and need help reporting rental income and claiming allowable expenses correctly.",
+  "You're about to sell a property and want to understand capital gains tax and any reliefs that might apply.",
+  "You're a developer and need advice on how development profits are taxed and how to structure your projects.",
+  "You're planning to buy a property and want to understand stamp duty land tax (SDLT) and whether VAT applies, especially for commercial property.",
+  "You're thinking about holding property through a company rather than personally and want to know the tax implications before you decide."
+ ],
+ "context_heading": "One key thing to understand about property tax",
+ "context": [
+  "Property tax is not a single subject. The tax treatment of rental income, development profits, and gains on sale can differ significantly, and the structure you use to hold property matters. For example, holding property personally versus through a company can affect how income and gains are taxed, and SDLT rules can be complex, especially for additional properties or commercial premises.",
+  "Because the word 'accountant' is not protected in the UK, anyone can call themselves an accountant. However, titles like Chartered Accountant or Chartered Certified Accountant are protected, and members are bound by their professional body's rules on ethics, training, and complaints. It's also worth checking that the firm is supervised for anti-money-laundering purposes and has professional indemnity insurance."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Describe the type of property you're involved with, such as residential, commercial, or mixed-use.",
+  "Mention whether you're a landlord, developer, investor, or a combination of these.",
+  "Explain what you need help with, for example rental income, capital gains, SDLT, VAT, or structuring a purchase.",
+  "Say whether you own property personally, through a company, or are considering a change.",
+  "Include how many properties you have or are planning to buy, if relevant.",
+  "Mention any deadlines or upcoming transactions that might affect timing."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "What experience do you have with landlords and property investors?",
+  "Are you a member of a professional body such as ICAEW, ACCA, or CIMA?",
+  "Which body supervises your firm for anti-money-laundering purposes?",
+  "Do you hold professional indemnity insurance?",
+  "How do you charge for your services, and what is included?",
+  "Can you explain the tax implications of holding property personally versus through a company?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a specialist property accountant?",
+   "a": "Property tax has specific rules, so an accountant who regularly deals with landlords, developers, and investors can help you avoid common pitfalls. They can advise on rental income, capital gains, SDLT, and structuring."
+  },
+  {
+   "q": "What is SDLT and why does it matter?",
+   "a": "SDLT is stamp duty land tax, a tax paid on property purchases in England and Northern Ireland. The rules can be complex, especially for additional properties or commercial property, so it's worth getting advice before you buy."
+  },
+  {
+   "q": "Can I claim expenses against my rental income?",
+   "a": "Yes, you can usually claim allowable expenses such as maintenance, insurance, and professional fees. A property accountant can help you identify what qualifies and keep proper records."
+  },
+  {
+   "q": "How can I check an accountant's credentials?",
+   "a": "Look for protected titles like Chartered Accountant or Chartered Certified Accountant, and check membership with the relevant body. You can also ask which body supervises the firm for anti-money-laundering purposes and whether they have professional indemnity insurance."
+  }
+ ]
+}

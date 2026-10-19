@@ -1,0 +1,73 @@
+{
+ "intro": "You're looking for a private doctor close to home, likely because you want to be seen sooner than the NHS can offer or you need a specialist opinion without a long wait. Private GPs and specialists see patients on a self-pay or insured basis, often with shorter waits. We can introduce you to a suitable UK professional in your area who will quote you directly.",
+ "need_heading": "Why people search for local private doctors",
+ "need_lead": "People look for a private doctor nearby for reasons like these:",
+ "needs": [
+  "You have a health concern and want an appointment soon rather than waiting for an NHS slot.",
+  "You need a private prescription or a sick note quickly and want to see a doctor face to face.",
+  "You want a specialist opinion but your NHS referral is taking longer than you'd like.",
+  "You have private medical insurance and want to see a doctor who works with your insurer.",
+  "You prefer the convenience of a clinic close to home or work, with appointment times that fit your schedule."
+ ],
+ "context_heading": "What to understand about private doctors",
+ "context": [
+  "Every doctor practising in the UK must be registered and hold a licence to practise with the General Medical Council (GMC). GPs also appear on the GMC's GP register, and you can search the GMC's online register by name. Private clinics providing regulated healthcare in England must register with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA.",
+  "A private GP does not replace your NHS GP. Good private clinics will ask for your consent to share consultation notes with your NHS practice, so your records stay complete and medication is prescribed safely. When comparing local private doctors, ask what is included in the fee and whether they will keep your NHS GP informed."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention the health concern or symptom you want to discuss, so we can match you with an appropriate professional.",
+  "Say whether you are paying yourself or using private medical insurance, as this affects which doctors can help.",
+  "Give your location and how far you are willing to travel to see a local private doctor.",
+  "Indicate any preference for a particular day or time, such as evenings or weekends.",
+  "Note if you need a specific service, such as a private prescription, a sick note, or a specialist referral.",
+  "Tell us if you have any accessibility needs or require a clinic with particular facilities."
+ ],
+ "questions_heading": "Questions to ask the private doctor",
+ "questions": [
+  "What is included in the fee for the consultation, and are there any additional costs for tests or follow-up?",
+  "Will you share the details of my visit with my NHS GP, and do you need my consent to do so?",
+  "Are you registered on the GMC's GP register, and what is your GMC number?",
+  "How quickly can I get an appointment, and do you offer any out-of-hours slots?",
+  "Do you have experience treating my specific health concern, and would you refer me to a specialist if needed?",
+  "Is the clinic registered with the relevant regulator, such as the CQC in England?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral to see a private doctor?",
+   "a": "Not usually. Private GPs typically see patients without a referral, but some specialists may ask for a letter from your NHS GP. It's best to check when you book."
+  },
+  {
+   "q": "Will using a private doctor affect my NHS care?",
+   "a": "No, you can still use NHS services. A private GP does not replace your NHS GP, and good clinics will share notes with your NHS practice so your records stay complete."
+  },
+  {
+   "q": "How do I check if a private doctor is properly registered?",
+   "a": "You can search the General Medical Council's online register by the doctor's name to confirm they hold a licence to practise. For clinics in England, you can also check the Care Quality Commission's register."
+  },
+  {
+   "q": "Can I see a private doctor if I have private medical insurance?",
+   "a": "Yes, many private doctors work with insurers, but you should check with your insurer first to confirm cover and any excess. Some doctors may ask you to pay upfront and claim back later."
+  }
+ ],
+ "extra_heading": "Seeing a private doctor close to home",
+ "extra": [
+  "Searching for local private doctors near me suggests location matters as much as speed: you want a clinic you can reach easily, perhaps on foot or by a short journey, rather than travelling across the country for an appointment. It also suggests you are comparing a few practices rather than settling on the first one you find, so it helps to think about what 'local' means for you in practice, such as parking, public transport or fitting an appointment around work or caring responsibilities.",
+  "When you compare private doctors in your area, ask each clinic what happens after the consultation, because the value of a local doctor often lies in being able to return for follow-up or tests without a long trip. Check whether the practice can arrange any tests it recommends and whether results are discussed with you in person or another way. If you are paying yourself, ask what the quoted fee covers and what would be charged separately, so you can compare like with like rather than simply the headline figure.",
+  "It also helps to remember that a private doctor near you works alongside your NHS GP rather than instead of them. Good clinics will ask your consent to share notes with your NHS practice, which keeps your records complete and helps with safe prescribing. If your concern turns out to need ongoing care, your NHS GP remains the right place for that, and the private consultation can feed into it."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Can I choose a private doctor near my workplace rather than my home?",
+   "a": "Yes, many people do this so appointments fit around their working day. When you enquire, tell us both locations and how far you are willing to travel, and we can introduce you to a suitable professional who quotes you directly."
+  },
+  {
+   "q": "What if I need tests after seeing a local private doctor?",
+   "a": "Ask at the consultation whether the practice can arrange the tests it recommends and how results will be explained to you. It is worth checking what is included in the fee and what is charged separately before you go ahead."
+  },
+  {
+   "q": "Should I tell my NHS GP I have seen a private doctor?",
+   "a": "It is sensible for your records to stay joined up, and good private clinics will ask your consent to share consultation notes with your NHS practice. That helps your NHS GP keep track of your care and prescribe safely."
+  }
+ ]
+}

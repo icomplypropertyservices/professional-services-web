@@ -1,0 +1,73 @@
+{
+ "intro": "You're looking for a work visa advisor near you, likely because you need help with a skilled worker visa, sponsorship, or meeting the salary and English requirements. Finding the right adviser means checking they are properly regulated to give immigration advice. We can introduce you to a suitable UK immigration adviser who can assess your situation and quote you directly.",
+ "need_heading": "What people searching for a work visa advisor near me usually need",
+ "need_lead": "Most people want clear, regulated advice on their work visa options and application.",
+ "needs": [
+  "You have a job offer from a UK employer and need to check that the employer is a licensed sponsor before you apply.",
+  "You are unsure whether your salary meets the threshold for a skilled worker visa and want to understand how it is assessed.",
+  "You need help identifying the correct occupation code for your role so your application is accurate.",
+  "You are applying under the Global Talent route and need guidance on the endorsement process and evidence.",
+  "You have a sponsor but want an adviser to go through your documents and English language evidence before you submit."
+ ],
+ "context_heading": "The key thing to understand about work visa advice",
+ "context": [
+  "In the UK, it is a criminal offence to give immigration advice unless the adviser is qualified and regulated. Advisers must be registered with the Immigration Advice Authority (IAA, formerly the OISC) at the right level for your matter, or be a solicitor, barrister or chartered legal executive authorised by their own regulator.",
+  "IAA advisers are registered at different levels that limit what they can do, from basic applications to appeals and representation. Always ask what level an adviser holds and whether it covers your type of case. You can check the IAA's adviser finder or the SRA register before you share documents or pay."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Explain the type of work visa you are interested in, such as skilled worker or global talent.",
+  "Mention whether you already have a job offer and whether the employer is a licensed sponsor.",
+  "State your occupation and, if known, the occupation code you believe applies.",
+  "Give an idea of your salary and whether it meets the threshold for your role.",
+  "Say whether you have taken an English language test and have the results.",
+  "Include your location so we can introduce you to an adviser near you."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you registered with the Immigration Advice Authority, and at what level?",
+  "If you are a solicitor or barrister, which regulator are you authorised by?",
+  "Does your registration cover the type of work visa application I need help with?",
+  "What information will you need from me and my sponsor to assess my case?",
+  "How will you confirm that my salary meets the threshold and that my occupation code is correct?",
+  "What is your fee structure and what will it cover?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a licensed sponsor for a skilled worker visa?",
+   "a": "Yes, skilled worker visas require a licensed sponsor. Your employer must be on the register of licensed sponsors, and you should check this before applying."
+  },
+  {
+   "q": "How can I check if an adviser is regulated?",
+   "a": "You can check the Immigration Advice Authority's adviser finder or the Solicitors Regulation Authority register. Always do this before sharing documents or paying any money."
+  },
+  {
+   "q": "What salary threshold applies for a skilled worker visa?",
+   "a": "The salary threshold depends on the occupation code and the going rate for the role. An adviser can help you understand the specific requirement for your job."
+  },
+  {
+   "q": "Can iComply give me immigration advice?",
+   "a": "No, iComply is not regulated to give immigration advice. We introduce you to a suitable UK immigration adviser who can advise you and quote you directly."
+  }
+ ],
+ "extra_heading": "Choosing between local advisers for a work visa",
+ "extra": [
+  "Searching for a work visa advisor near me often means you want someone you can actually sit down with, perhaps because your documents are complicated or English is not your first language. Being close by can make it easier to drop off paperwork, attend an appointment in person, or ask a question face to face. It is worth asking whether an adviser offers appointments in person, by phone or online, since a nearby practice may still work remotely.",
+  "When you have more than one option, compare them on what matters for a work visa rather than on distance alone. Ask whether the adviser regularly handles skilled worker or Global Talent cases, which registration level they hold, and whether that level covers your type of application. A short initial conversation usually tells you whether they understand sponsorship, salary thresholds and occupation codes without you having to explain the basics.",
+  "Be wary of anyone who promises a visa outcome or asks for payment before you have checked their registration. You can confirm an adviser's details through the Immigration Advice Authority's adviser finder or the relevant legal regulator's register, and it costs nothing to do this first. If an adviser cannot explain their registration clearly, look elsewhere."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Does a work visa adviser need to be near me to help?",
+   "a": "Not necessarily. Many advisers work by phone, email or video call, and documents can usually be shared electronically. Being local can still help if you prefer in-person appointments or need to hand over original documents."
+  },
+  {
+   "q": "What should I bring to a first meeting with a work visa adviser?",
+   "a": "Bring your job offer or contract if you have one, details of your employer and their sponsor licence, your occupation and salary information, and any English language test results. Also bring copies of your passport and any previous immigration documents."
+  },
+  {
+   "q": "Can a work visa adviser help if my employer is not yet a licensed sponsor?",
+   "a": "An adviser can explain what sponsorship involves and what your employer would need to do, but they cannot make an employer a licensed sponsor. Skilled worker visas require a licensed sponsor, so this is usually the first thing to clarify."
+  }
+ ]
+}

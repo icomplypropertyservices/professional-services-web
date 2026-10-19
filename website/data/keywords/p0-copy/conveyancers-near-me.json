@@ -1,0 +1,69 @@
+{
+ "intro": "Searching for conveyancers near me usually means you have a property transaction in front of you and want someone local to handle the legal side. Whether you are buying, selling or remortgaging, you are likely comparing a few firms and wondering who to speak to first. We can introduce you to a suitable UK conveyancer who will quote you directly, so you can compare quotes and decide for yourself.",
+ "need_heading": "What people searching for conveyancers near me usually need",
+ "need_lead": "Most people behind this search want a local conveyancer they can speak to about a live property transaction and compare before instructing.",
+ "needs": [
+  "You have had an offer accepted on a house and need the legal work to start without delay.",
+  "You are selling your home and want the title and contract pack checked before you commit to a buyer.",
+  "You are remortgaging and your lender needs the legal side handled before the new deal can complete.",
+  "You want a conveyancer you can visit or phone easily because you prefer dealing with someone nearby.",
+  "You have been given a quote elsewhere and want to compare it with a local conveyancer before deciding."
+ ],
+ "context_heading": "Checking a conveyancer before you instruct",
+ "context": [
+  "Conveyancing in England and Wales is a reserved legal activity, carried out either by solicitors regulated by the SRA or by licensed conveyancers regulated by the Council for Licensed Conveyancers. Both must hold professional indemnity insurance and follow strict rules on handling client money. In Scotland, property transactions are handled by solicitors under Scottish law.",
+  "If you are buying with a mortgage, many lenders only work with conveyancers on their panel, so check this before you instruct anyone. The Law Society's Conveyancing Quality Scheme is a common accreditation worth asking about. And always verify bank details by phone before sending any money, whatever firm you choose."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say whether you are buying, selling or remortgaging, as the work involved differs.",
+  "Mention the property's location and type, such as a flat or a house, so a suitable local conveyancer can be suggested.",
+  "Tell us whether you have a mortgage offer in place and which lender you are using, so panel membership can be checked.",
+  "Say whether you are also selling at the same time, as this affects the transaction.",
+  "Mention any deadline you are working towards, such as a target completion date or a chain that is waiting.",
+  "Tell us whether you have already had a quote elsewhere and would like to compare."
+ ],
+ "questions_heading": "Questions to ask the conveyancer",
+ "questions": [
+  "Are you regulated by the SRA or the Council for Licensed Conveyancers?",
+  "Are you on my lender's panel for this mortgage?",
+  "Do you hold the Law Society's Conveyancing Quality Scheme accreditation?",
+  "What is included in your quote, and what might be charged separately?",
+  "How will you keep me updated as the transaction progresses?",
+  "How do you handle client money, and how will I verify your bank details before paying?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I choose between several conveyancers near me?",
+   "a": "Compare their quotes and what each includes, check their regulator and panel membership with your lender, and ask how they will communicate with you. A local firm you can reach easily may suit you, but the terms matter more than proximity alone."
+  },
+  {
+   "q": "Do I have to use a conveyancer on my lender's panel?",
+   "a": "Many lenders only work with conveyancers on their panel, so it is worth checking before you instruct. If your preferred local firm is not on the panel, ask the lender whether they will accept it."
+  },
+  {
+   "q": "When should I instruct a conveyancer?",
+   "a": "Instructing early helps avoid delays, particularly once an offer is accepted or you are ready to market your home. Getting the legal work moving promptly gives more time to deal with searches and enquiries."
+  },
+  {
+   "q": "How do I know a conveyancer is properly regulated?",
+   "a": "In England and Wales, conveyancing is a reserved legal activity carried out by solicitors regulated by the SRA or licensed conveyancers regulated by the Council for Licensed Conveyancers. Both must hold professional indemnity insurance and follow rules on handling client money. In Scotland, solicitors handle property transactions under Scottish law."
+  }
+ ],
+ "extra_heading": "What happens when you first speak to a local conveyancer",
+ "extra": [
+  "Once you have a shortlist of conveyancers near you, the first conversation is usually a chance for them to understand your transaction and for you to judge how they work. Expect questions about whether you are buying, selling or remortgaging, the property's address and type, your lender if you have a mortgage, and anyone else in the chain. A good first conversation leaves you clearer about what happens next, not buried in jargon.",
+  "This is also the point to ask what their quote covers and what is charged separately, such as searches, land registration and any leasehold work. Ask who will actually handle your file day to day and how they prefer to be contacted, since some people want to visit an office and others are happy with phone and email. If you are selling as well as buying, say so, because the two sides of the transaction need to be coordinated.",
+  "Before you instruct anyone, confirm their regulator and their panel membership with your lender, and ask about the Law Society's Conveyancing Quality Scheme. Keep in mind that a local firm is only useful if it can act for your lender too, so check this early rather than after you have paid a fee. Always verify bank details by phone before sending money, using a number you have looked up yourself rather than one given in an email."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Is it better to use a conveyancer near me or one further away?",
+   "a": "Proximity can make it easier to visit an office or drop off documents, but it is not the main thing that matters. Check regulation, panel membership, what the quote includes and how they will keep you updated, then decide whether being local adds real value for you."
+  },
+  {
+   "q": "Can I speak to more than one conveyancer near me before choosing?",
+   "a": "Yes. Speaking to a few local conveyancers helps you compare quotes and get a feel for how each one communicates. You are not obliged to instruct the first one you contact, so take the time to ask your questions before deciding."
+  }
+ ]
+}

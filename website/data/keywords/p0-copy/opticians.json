@@ -1,0 +1,69 @@
+{
+ "intro": "You've searched for opticians, so you're likely comparing practices for an eye test, new glasses or contact lenses, or help with a specific eye problem. Whether it's a routine check or something that's bothering you, finding the right optician starts with knowing what you need and what to ask. iComply introduces you to a suitable UK professional who can quote you directly.",
+ "need_heading": "What people searching for opticians usually need",
+ "need_lead": "Most people looking for opticians are after a clear, professional service that fits their situation.",
+ "needs": [
+  "You need a routine eye examination to check your vision and eye health, especially if it's been a while since your last test.",
+  "You're having trouble seeing clearly and want to know whether you need glasses or a new prescription.",
+  "You want to try contact lenses for the first time or update your current lens fit.",
+  "You've noticed a change in your eyes, such as redness, pain or flashes, and want advice on what to do next.",
+  "You're comparing local opticians and want to understand the services each one offers before booking."
+ ],
+ "context_heading": "What to understand when comparing opticians",
+ "context": [
+  "Optometrists and dispensing opticians must be registered with the General Optical Council (GOC), which you can check online. Optometrists carry out eye examinations, while dispensing opticians fit and supply glasses and, with extra training, contact lenses.",
+  "Some optometrists hold extra qualifications that let them manage more eye conditions or prescribe certain medicines. In many areas of the UK, community optometrists provide minor eye condition and urgent eye care services, so it's worth asking what's available locally."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say whether you're due a routine eye test or have a specific concern, such as blurred vision or eye discomfort.",
+  "Mention if you already wear glasses or contact lenses and whether you need a new prescription.",
+  "Explain if you're interested in contact lenses, including whether you've worn them before.",
+  "Let us know if you have any diagnosed eye conditions or if eye problems run in your family.",
+  "Tell us your location and whether you'd prefer a practice that's easy to reach by public transport or has parking.",
+  "Include any preferences, such as wanting an OCT scan or needing help choosing frames."
+ ],
+ "questions_heading": "Questions to ask the optician",
+ "questions": [
+  "What does the eye examination include, and will I get a copy of my prescription?",
+  "Do you offer OCT scans, and is it something you'd recommend for me?",
+  "What experience do you have with contact lens fitting, and what aftercare do you provide?",
+  "If I need to see someone about a specific eye condition, can you advise on the best route?",
+  "How long should I expect the appointment to take, and do I need to bring anything with me?",
+  "What are your charges, and are there any options for paying in instalments?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check if an optician is properly registered?",
+   "a": "You can check the General Optical Council (GOC) online register to confirm that an optometrist or dispensing optician is registered. It's a quick and free way to reassure yourself before booking."
+  },
+  {
+   "q": "What's the difference between an optometrist and a dispensing optician?",
+   "a": "Optometrists carry out eye examinations and can detect eye conditions. Dispensing opticians fit and supply glasses and, with extra training, contact lenses, but they don't perform eye tests."
+  },
+  {
+   "q": "Can I get an eye test if I have a specific eye problem?",
+   "a": "Yes, many optometrists can assess minor eye conditions and urgent eye care, and some have extra qualifications to manage more conditions. If your problem is serious or sudden, seek urgent medical help."
+  },
+  {
+   "q": "What should I bring to an eye test?",
+   "a": "It helps to bring your current glasses or contact lenses, a list of any medications you take, and details of any family history of eye problems. This gives the optometrist a fuller picture of your eye health."
+  }
+ ],
+ "extra_heading": "Comparing several opticians: how to choose",
+ "extra": [
+  "Searching for opticians in the plural suggests you're weighing up more than one practice, perhaps because you've moved area, your usual optician has closed, or you simply want to see what's available. Rather than picking the first name you see, it helps to compare what each practice actually offers beyond the eye test itself.",
+  "When you contact practices, ask what equipment they use and whether they provide additional services such as OCT scans or contact lens fitting. It's also worth asking about the range of frames and lenses they stock and whether they can order in something specific. Charges vary, so ask for a clear breakdown of costs before you book.",
+  "You can check that any optometrist or dispensing optician is registered with the General Optical Council (GOC) by searching the online register. This is a quick way to confirm their professional standing. If you have a particular eye condition or need, ask whether the practice has experience in that area or can refer you appropriately."
+ ],
+ "extra_faqs": [
+  {
+   "q": "How can I compare opticians fairly when I don't know the practices?",
+   "a": "Start by listing what matters to you, such as location, services offered, or experience with contact lenses. Then contact each practice with the same questions and compare their answers. You can also check GOC registration for any optometrist or dispensing optician you're considering."
+  },
+  {
+   "q": "Is it worth travelling further for a particular optician?",
+   "a": "That depends on what you need. For a routine eye test, a local practice is often convenient, but if you have a specific requirement, such as complex contact lens fitting or monitoring of an eye condition, it may be worth travelling to a practice that offers that service. Ask about follow-up appointments and aftercare before deciding."
+  }
+ ]
+}

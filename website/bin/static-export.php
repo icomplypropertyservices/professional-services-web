@@ -207,7 +207,7 @@ $pad = 0;
 while (ps_word_count($hubIndexBody) < 820 && $pad < 8) {
     $hubIndexBody .= '<p>' . ps_h(
         'More guidance (' . ($pad + 1) . '): include your town or postcode when you enquire so matching can respect location and capacity. '
-        . 'iComply is the middleman connecting clients with UK professionals — not a website-design agency and not a substitute for regulated advice.'
+        . 'iComply is the middleman connecting clients with UK professionals. We do not give regulated advice ourselves: the professional you are introduced to does.'
     ) . '</p>';
     $pad++;
 }
@@ -437,7 +437,7 @@ foreach ($locs as $loc) {
 }
 $sitemap .= '</urlset>' . "\n";
 file_put_contents($dist . '/sitemap.xml', $sitemap);
-file_put_contents($dist . '/robots.txt', "User-agent: *\nDisallow: /\n\n# PREVIEW ONLY. Apex domain is not attached.\n");
+file_put_contents($dist . '/robots.txt', "User-agent: *\nAllow: /\n\nSitemap: " . ps_site_url() . '/sitemap.xml' . "\n");
 file_put_contents($dist . '/_redirects', <<<'TXT'
 /pages/contact    /contact/    301
 /pages/keywords/*  /keywords/  301
@@ -446,7 +446,7 @@ file_put_contents($dist . '/_redirects', <<<'TXT'
 /hubs/marketing-consultants  /hubs/  301
 /keywords/*  /keywords/  301
 TXT);
-file_put_contents($dist . '/404.html', '<!DOCTYPE html><html lang="en-GB"><head><meta charset="utf-8"><title>Not found | iComply Professional Services</title><meta name="robots" content="noindex"><link rel="stylesheet" href="/assets/css/site.css"></head><body><p>Page not found. <a href="/">Home</a> · <a href="/contact/">Enquire</a></p></body></html>');
+file_put_contents($dist . '/404.html', '<!DOCTYPE html><html lang="en-GB"><head><meta charset="utf-8"><title>Not found | iComply Professional Services</title><link rel="stylesheet" href="/assets/css/site.css"></head><body><p>Page not found. <a href="/">Home</a> · <a href="/contact/">Enquire</a></p></body></html>');
 
 $report = [
     'brand' => $cfg['brand'],

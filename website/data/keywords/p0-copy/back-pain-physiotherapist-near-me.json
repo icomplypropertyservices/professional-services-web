@@ -1,0 +1,53 @@
+{
+ "intro": "Back pain can make everyday things — sitting at a desk, sleeping, lifting shopping — feel difficult, and searching for a physiotherapist near you is a sensible step towards understanding what is going on. Physiotherapists with an interest in spinal pain assess the cause of back pain and build tailored exercise plans around your situation. We can introduce you to a UK physiotherapist who will quote you directly, so you can compare what is on offer before deciding.",
+ "need_heading": "What people searching for a back pain physiotherapist usually need",
+ "need_lead": "Most people typing this search want a local professional who can look at their back properly and give them a plan they can act on.",
+ "needs": [
+  "You have had back pain for a while and want someone to assess what is causing it rather than guessing.",
+  "A recent twinge or strain has not settled and you want advice on whether to keep moving or rest.",
+  "Your back pain is affecting work, sleep or everyday tasks and you want practical ways to manage it.",
+  "You have been told imaging is not needed and want help understanding what to do next.",
+  "You want a tailored exercise plan you can follow at home or in a gym, rather than a generic routine."
+ ],
+ "context_heading": "Checking who you are booking",
+ "context": [
+  "\"Physiotherapist\" and \"physical therapist\" are protected titles in the UK. Anyone using them must be registered with the Health and Care Professions Council (HCPC), and you can check the HCPC register online. Most physiotherapists are also members of the Chartered Society of Physiotherapy (CSP), shown by the letters MCSP.",
+  "Sports therapists, massage therapists and personal trainers can be helpful for some needs, but they are not physiotherapists. If you are dealing with back pain that may need proper assessment, check that you are booking an HCPC-registered physiotherapist. iComply does not regulate anyone or provide the service itself; we simply introduce you to a professional who quotes you directly."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe where the back pain is and how long it has been going on.",
+  "Mention whether the pain started after a specific event, such as lifting or a fall, or came on gradually.",
+  "Say whether the pain spreads into your leg, hip or elsewhere, and whether you have any numbness or weakness.",
+  "Explain how the pain affects your daily life, including work, sleep and any activities you have had to stop.",
+  "Note any previous treatment, scans or diagnoses related to your back, and any health conditions the physiotherapist should know about.",
+  "Give your location and how far you are willing to travel, since you are looking for someone near you."
+ ],
+ "questions_heading": "Questions to ask the physiotherapist",
+ "questions": [
+  "How will you assess what is causing my back pain?",
+  "Will I need imaging, or can we start with an assessment and exercise plan?",
+  "What will a typical session involve, and how much will it cost?",
+  "Should I keep active while I recover, and are there movements I should avoid?",
+  "Will you give me exercises to do at home, and how often should I do them?",
+  "Can you suggest changes at work or at home that might help my back?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a scan before seeing a physiotherapist about back pain?",
+   "a": "Often imaging is not needed for back pain, and a physiotherapist can assess you and build a plan without it. If a scan is appropriate, they will discuss that with you."
+  },
+  {
+   "q": "Should I rest or stay active with back pain?",
+   "a": "Staying active where possible is generally encouraged, though it depends on your situation. A physiotherapist can advise on what activity is suitable for you."
+  },
+  {
+   "q": "How do I check that someone is a qualified physiotherapist?",
+   "a": "The titles \"physiotherapist\" and \"physical therapist\" are protected, so anyone using them must be registered with the HCPC. You can check the HCPC register online before you book."
+  },
+  {
+   "q": "Can a physiotherapist help with changes at work that might ease my back?",
+   "a": "Physiotherapists can discuss workplace changes and how you sit, lift and move during the day. It is worth mentioning your work setup when you speak to them."
+  }
+ ]
+}

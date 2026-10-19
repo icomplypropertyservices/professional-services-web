@@ -1,0 +1,53 @@
+{
+ "intro": "You've searched for a conservation area architect near you, which usually means you own or are buying a property in a conservation area and need to make changes. The extra planning controls in these areas mean you need someone who understands local character and can guide you through the stricter rules. We can introduce you to architects near you who work with conservation areas, and they will quote you directly.",
+ "need_heading": "What people searching for a conservation area architect usually need",
+ "need_lead": "Most people in this situation are planning some kind of alteration and want to know what's possible before they commit.",
+ "needs": [
+  "You want to extend or alter your home but have discovered that permitted development rights are reduced in a conservation area, so you need to know what needs planning permission.",
+  "You've been told an Article Four direction affects your property, removing some of the usual freedoms, and you need advice on how to proceed.",
+  "You're thinking of replacing windows, doors or roofing and want to use materials and details that will be acceptable to the local planning authority.",
+  "You're buying a property in a conservation area and want to understand what you could and couldn't do before you exchange contracts.",
+  "You've had a planning application refused or received comments from the conservation officer and need help revising your plans."
+ ],
+ "context_heading": "Understanding conservation area controls",
+ "context": [
+  "In a conservation area, the local planning authority has extra powers to protect the area's special character. This means some work that would normally be allowed without planning permission – such as certain extensions, cladding or demolitions – may need consent. Article Four directions can remove further permitted development rights, so it's important to check with the council what applies to your property.",
+  "Materials and details matter a great deal in these areas. The planning authority will expect new work to respect the local building traditions, and something that looks out of place is more likely to be refused. An architect with conservation area experience can help you design something that respects the area while meeting your needs."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "The location of the property, including the name of the conservation area if you know it.",
+  "Whether the property is listed or not, as this affects the level of consent required.",
+  "A clear description of what you want to do – for example, a rear extension, loft conversion, new windows or a change of use.",
+  "Whether you have already checked with the local planning authority about permitted development rights or Article Four directions.",
+  "Any drawings, plans or correspondence you already have from the council or a previous application.",
+  "Your ideal timescale and whether you are ready to appoint an architect now or just exploring options."
+ ],
+ "questions_heading": "Questions to ask the architect",
+ "questions": [
+  "Have you worked on projects in this conservation area or similar areas before?",
+  "How will you approach the design to respect the local character while meeting my needs?",
+  "What is your experience with Article Four directions and the planning process in this area?",
+  "Will you handle the planning application and any negotiations with the conservation officer?",
+  "What information will you need from me to prepare a fee proposal?",
+  "Are you a registered architect with the Architects Registration Board, and do you hold professional indemnity insurance?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I always need planning permission for work in a conservation area?",
+   "a": "Not always, but the rules are stricter than elsewhere. Some work that would normally be permitted development may need planning permission, and Article Four directions can remove further rights. It's best to check with your local planning authority before you start."
+  },
+  {
+   "q": "What is an Article Four direction?",
+   "a": "An Article Four direction is a special planning regulation that removes some permitted development rights in a specific area. It means you may need planning permission for certain changes that would otherwise be allowed without it. Your local planning authority can tell you if one applies to your property."
+  },
+  {
+   "q": "Can I use any architect for a conservation area project?",
+   "a": "You can use any architect, but it's wise to choose one with experience of conservation areas. They will understand the planning constraints and how to design sympathetically. iComply can introduce you to architects who work in this field."
+  },
+  {
+   "q": "How do I check if an architect is properly registered?",
+   "a": "You can check the Architects Registration Board (ARB) register online to confirm someone is a registered architect. Only those on the register can call themselves architects. It's also worth asking for proof of professional indemnity insurance."
+  }
+ ]
+}

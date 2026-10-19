@@ -1,0 +1,73 @@
+{
+ "intro": "Looking for the best vet near you usually means you want good care for an animal you love, whether that's a new puppy or kitten needing its first check, a cat that's gone off its food, or a dog slowing down on walks. You want someone close enough to reach without a long drive and someone you feel you can trust with your pet's health. We can introduce you to a UK veterinary practice that fits what you describe, and they'll quote you directly.",
+ "need_heading": "What people searching for a vet nearby usually need",
+ "need_lead": "Most people searching this way are sorting out practical care for an animal in their household, often for the first time with a particular pet.",
+ "needs": [
+  "You've just brought home a puppy or kitten and want to register with a practice before vaccinations and neutering are due.",
+  "Your pet has a lump, a limp or a change in appetite and you'd rather have it looked at soon rather than wait and worry.",
+  "You've moved house and need a practice within easy reach for routine check-ups, parasite treatment and repeat prescriptions.",
+  "Your older animal needs ongoing care for a long-term condition such as arthritis or kidney trouble, and you want continuity from the same practice.",
+  "You keep a rabbit, guinea pig or other small animal and want a vet who is comfortable treating that species rather than mainly cats and dogs."
+ ],
+ "context_heading": "Judging which practice is best for you",
+ "context": [
+  "Words like best mean different things to different owners. A practice that suits you might be one that explains things clearly, has appointment times that fit around work, or handles nervous animals calmly. It's worth visiting or ringing before you register so you can get a feel for the place and ask how it runs.",
+  "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons, and you can search the RCVS register by name before you book. Veterinary nurses have their own register too. Many practices also join the voluntary RCVS Practice Standards Scheme, which inspects premises, equipment and clinical processes, so you can ask whether a practice you're considering is part of it."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Say which animal you have, including the species, breed and age, so we can introduce you to a practice used to treating it.",
+  "Describe whether you need routine preventive care, a one-off problem or ongoing management of a condition.",
+  "Mention any symptoms you've noticed and how long they've been going on, without expecting a diagnosis from us.",
+  "Tell us roughly where you are and how far you're willing to travel, since a nearby practice matters most when something goes wrong.",
+  "Say whether evenings or weekends are easier for appointments, and whether you'd need out-of-hours cover explained.",
+  "Mention if cost matters to you, such as whether a preventive health plan would help spread routine care, so the practice can quote with that in mind."
+ ],
+ "questions_heading": "Questions worth asking the practice",
+ "questions": [
+  "How do you cover nights, weekends and bank holidays if my pet becomes unwell out of hours?",
+  "Are you part of the RCVS Practice Standards Scheme, and what does that involve for the practice?",
+  "Does the vet treating my animal hold any further qualifications for its species or condition, or would you refer me to someone who does?",
+  "What does a preventive health plan include, and what would it cover for my animal?",
+  "How do you handle nervous or anxious animals during consultations and visits?",
+  "Can you give me a written quote before treatment so I know what to expect?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check that a vet is properly registered?",
+   "a": "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons. You can search the RCVS register by name before you book, and veterinary nurses have their own register too."
+  },
+  {
+   "q": "Should I register before my pet is unwell?",
+   "a": "Registering in advance saves time when something goes wrong, because the practice already has your animal's details on file. It also gives you a chance to ask about out-of-hours arrangements and preventive care before you need them."
+  },
+  {
+   "q": "What does best mean when choosing a vet near me?",
+   "a": "It usually comes down to what suits you and your animal: clear explanations, convenient appointment times, calm handling and a practice you can reach easily. Visiting or ringing beforehand helps you judge that for yourself rather than relying on a label."
+  },
+  {
+   "q": "Can a practice help spread the cost of routine care?",
+   "a": "Many practices offer preventive health plans that spread the cost of routine care such as vaccinations and parasite control. Check exactly what each plan includes and what it leaves out before you sign up."
+  }
+ ],
+ "extra_heading": "What happens at your first visit",
+ "extra": [
+  "A first appointment is usually a chance for the vet to meet your animal while it is well enough to be handled calmly, so bring any paperwork you have about previous vaccinations, treatments or ongoing conditions. The vet will weigh your pet, give it a general once-over and ask about its diet, behaviour and daily routine, which helps build a picture for future visits.",
+  "If you are registering a healthy puppy or kitten, expect the conversation to cover the vaccination schedule, worming and flea treatment, and when neutering would be sensible. For an older animal or one with a lump, a limp or a change in appetite, the vet will focus on the specific worry and explain what they can check there and then and what might need a further visit or test.",
+  "It helps to write down your questions beforehand, because consultations pass quickly and it is easy to forget the thing you most wanted to ask. Ask for the cost of anything proposed before you agree to it, and ask for it in writing if that makes things clearer."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Can I bring my pet to meet the practice before registering?",
+   "a": "Many practices are happy for you to ring or call in to ask about how they work, though a full health check needs a proper appointment. It is worth asking whether you can look round or speak to someone before you commit, especially if your animal is nervous."
+  },
+  {
+   "q": "What should I take to a first appointment?",
+   "a": "Take any vaccination record or paperwork from a previous practice, a list of medicines your animal is on, and notes on symptoms and when they started. If your pet is insured, check what your policy asks for before treatment begins."
+  },
+  {
+   "q": "Why does the wording best vet near me matter when I enquire?",
+   "a": "It tells us you are weighing up a few practices close to you and want help narrowing them down rather than simply finding any vet. The more you tell us about your animal and what matters to you, the better we can match what you describe."
+  }
+ ]
+}

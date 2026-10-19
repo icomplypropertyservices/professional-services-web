@@ -1,0 +1,73 @@
+{
+ "intro": "You're looking for an affordable conveyancer near you, probably because you're buying, selling or remortgaging a home and want the legal work handled without paying over the odds. You want someone local enough to feel reachable, and you want to understand what 'affordable' really means for the service you need. We can introduce you to a conveyancer who will quote you directly, so you can compare and decide.",
+ "need_heading": "What people searching for an affordable conveyancer near me usually need",
+ "need_lead": "Most people in this situation want a clear, no-surprises quote from a conveyancer they can easily contact.",
+ "needs": [
+  "You are buying your first home and need to know what the conveyancing will cost before you commit to a mortgage.",
+  "You are selling a property and want a conveyancer who will keep you informed without charging extra for every phone call.",
+  "You are remortgaging and need the legal work done efficiently, often to meet a lender's deadline.",
+  "You have been quoted a fee elsewhere but are unsure whether it covers everything, and you want a breakdown you can compare.",
+  "You want a conveyancer based near you, so you can drop off documents or speak face to face if that matters to you."
+ ],
+ "context_heading": "Understanding 'affordable' and 'near me' for conveyancing",
+ "context": [
+  "Affordable does not always mean the lowest headline fee. Conveyancers must hold professional indemnity insurance and follow strict rules on handling client money, and those protections are part of what you are paying for. A quote that seems cheap may exclude disbursements such as search fees or Land Registry charges, so ask for a full breakdown before you compare.",
+  "Near me can mean different things now. Many conveyancers work remotely and can act for you wherever you are in England or Wales, but if you prefer a local office for face-to-face contact, that is worth stating. Also check that the firm is on your lender's panel, as many lenders only work with conveyancers they have approved."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Whether you are buying, selling or remortgaging, and whether it is a freehold or leasehold property.",
+  "The approximate property value or purchase price, so the conveyancer can gauge the work involved.",
+  "Your location and how far you are willing to travel to see a conveyancer in person, if at all.",
+  "Any deadline you are working towards, such as a lender's mortgage offer expiry or a planned move date.",
+  "Whether you have already instructed a conveyancer or had a quote you are comparing.",
+  "Any particular concerns you have about cost, such as whether you need help understanding disbursements."
+ ],
+ "questions_heading": "Questions to ask the conveyancer",
+ "questions": [
+  "What exactly does your quote include, and what disbursements will be added?",
+  "Are you on my lender's panel, and if not, can you still act for me?",
+  "How do you handle communication, and will I have a named contact?",
+  "What are your charges if the transaction falls through before completion?",
+  "How do you protect the money I pay you for searches and other costs?",
+  "Can you give me a realistic idea of how long the process is likely to take?"
+ ],
+ "faqs": [
+  {
+   "q": "How can I judge whether a conveyancer is affordable?",
+   "a": "Ask for a full written quote that separates the legal fee from disbursements such as searches and Land Registry fees. Compare the total cost, not just the headline fee, and check what is included. A slightly higher fee that covers more can work out better value than a low quote with extras."
+  },
+  {
+   "q": "Do I need a conveyancer near me?",
+   "a": "Not necessarily. Many conveyancers work remotely and can act for you anywhere in England or Wales. However, if you prefer to meet in person or drop off documents, a local firm may suit you better, so tell us your preference."
+  },
+  {
+   "q": "What is the difference between a solicitor and a licensed conveyancer?",
+   "a": "Both can carry out conveyancing in England and Wales. Solicitors are regulated by the Solicitors Regulation Authority, and licensed conveyancers by the Council for Licensed Conveyancers. Both must hold professional indemnity insurance and follow strict rules on handling client money."
+  },
+  {
+   "q": "Why does my lender's panel matter?",
+   "a": "Many lenders only work with conveyancers on their approved panel. If your chosen conveyancer is not on the panel, your lender may not accept them, which could delay your mortgage. Always check before you instruct."
+  }
+ ],
+ "extra_heading": "Making 'affordable' work for your move",
+ "extra": [
+  "When you search for an affordable conveyancer near me, the word affordable often hides a second question: affordable compared with what? A fee that looks modest on a quote can grow once searches, Land Registry charges and other disbursements are added, so the figure that matters is the total you will actually pay, not the headline legal fee alone.",
+  "A local conveyancer can sometimes keep costs down in practical ways, such as handling ID checks and document signing in person rather than by post, but do not assume a nearby firm will always be cheaper than one working remotely. Ask each conveyancer to explain what is included and what is extra, and compare like with like rather than assuming a lower number is better value.",
+  "It also helps to think about timing. Instructing your conveyancer early, before you commit to a mortgage or agree a completion date, gives you room to compare quotes properly instead of choosing in a rush. If you are selling as well as buying, tell each conveyancer about both transactions, as some price the work together."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Is a local conveyancer always cheaper than a remote one?",
+   "a": "Not necessarily. Fees depend on the firm and the work involved, not just location. A local office may suit you if you want to sign documents in person, but compare total costs from both before deciding."
+  },
+  {
+   "q": "What is the difference between the legal fee and disbursements?",
+   "a": "The legal fee is what the conveyancer charges for their work. Disbursements are costs they pay on your behalf, such as search fees and Land Registry charges, and these are usually listed separately in a quote."
+  },
+  {
+   "q": "Should I wait until my offer is accepted before finding a conveyancer?",
+   "a": "It can help to start comparing before then, so you are ready to instruct once your offer is agreed. Instructing early gives you time to check the quote and confirm the firm is on your lender's panel."
+  }
+ ]
+}

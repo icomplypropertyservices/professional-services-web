@@ -1,0 +1,53 @@
+{
+ "intro": "You've searched for an intellectual property barrister near you, so you're likely facing a dispute or need advice on protecting your ideas, brand or creative work. Barristers specialise in advocacy and complex legal issues, and finding one close to home can make meetings and court appearances easier. We can introduce you to a suitable UK barrister who will quote you directly for your case.",
+ "need_heading": "What people searching for an IP barrister usually need",
+ "need_lead": "An IP barrister can help when your intellectual property is under threat or when you need to enforce your rights.",
+ "needs": [
+  "You've discovered someone copying your product or using your trade mark without permission and want to know how to stop them.",
+  "You've received a cease and desist letter accusing you of infringement and need urgent advice on how to respond.",
+  "You're involved in a dispute over ownership of a patent or design and need representation in court.",
+  "You're planning to license your copyright or trade mark and need help drafting or negotiating the agreement.",
+  "You're facing a claim in the Intellectual Property Enterprise Court (IPEC) and need a barrister experienced in smaller IP claims."
+ ],
+ "context_heading": "Understanding how IP barristers work",
+ "context": [
+  "Barristers in England and Wales are regulated by the Bar Standards Board (BSB). You can check the Barristers' Register to confirm whether a barrister holds a current practising certificate and whether they are authorised to accept instructions directly from the public under the Public Access scheme. In Scotland, the equivalent professionals are advocates, regulated through the Faculty of Advocates.",
+  "Barristers usually work from chambers, with clerks who manage their diaries and fees. Many barristers can be instructed through a solicitor in the traditional way, but those registered for Public Access can be instructed directly by members of the public for suitable matters. This means you may be able to engage a barrister without going through a solicitor first."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Describe the type of intellectual property involved, such as patents, trade marks, copyright, designs or confidential information.",
+  "Explain the nature of your issue, whether it's a dispute, an infringement claim, a licensing agreement or general advice.",
+  "Mention any court or tribunal involvement, including whether the case is in IPEC or another court.",
+  "State your location and how far you're willing to travel to meet a barrister or attend court.",
+  "Indicate whether you've already instructed a solicitor or if you're seeking direct access under the Public Access scheme.",
+  "Provide a brief timeline of events, including any deadlines or hearings you're aware of."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "What is your experience in intellectual property law, particularly with cases like mine?",
+  "Are you authorised to accept instructions directly from the public under the Public Access scheme?",
+  "How do you charge for your services, and what is your estimated fee for this matter?",
+  "Will you be handling my case personally, or will another barrister in chambers be involved?",
+  "What are the next steps you would recommend, and what timeframes should I expect?",
+  "Can you explain the likely costs and risks of taking my case to court?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a solicitor to instruct an IP barrister?",
+   "a": "Not necessarily. Barristers registered under the Public Access scheme can be instructed directly by members of the public for suitable matters. However, some cases may still require a solicitor, and the barrister can advise you on this."
+  },
+  {
+   "q": "How can I check if a barrister is regulated?",
+   "a": "Barristers in England and Wales are regulated by the Bar Standards Board (BSB). You can check the Barristers' Register to confirm their practising certificate and whether they are authorised for direct public access."
+  },
+  {
+   "q": "What is IPEC and does my case qualify?",
+   "a": "IPEC is the Intellectual Property Enterprise Court, which handles smaller IP claims. It is designed to be more accessible for individuals and smaller businesses, with simplified procedures and cost limits."
+  },
+  {
+   "q": "How quickly should I act if my IP is being infringed?",
+   "a": "It's important to act fast on infringement, as delays can affect your ability to enforce your rights. Seek advice as soon as possible to understand your options and any urgent steps you need to take."
+  }
+ ]
+}

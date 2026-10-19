@@ -1,0 +1,69 @@
+{
+ "intro": "Searching for the best IR35 advisor near you usually means you want someone who can look at your actual contract and the way you really work, then tell you plainly where you stand. The word best is doing a lot of work there, so it helps to know what good looks like before you choose. iComply can introduce you to a UK tax adviser who handles IR35 and let them quote you directly.",
+ "need_heading": "What people searching for an IR35 advisor usually need",
+ "need_lead": "Most enquiries come from contractors, freelancers and the clients who engage them, all trying to work out employment status with confidence.",
+ "needs": [
+  "You have been told your contract is inside or outside IR35 and you want a proper look at it before you accept that position.",
+  "Your working practices have drifted from what the contract says, and you need to understand which one HMRC would look at.",
+  "You are a medium or large client and you have to make the status determination for the contractors you engage.",
+  "You disagree with a status determination and want to know how to raise a dispute with the client.",
+  "You are about to sign a new engagement and want the contract checked for IR35 before you commit."
+ ],
+ "context_heading": "Understanding how IR35 status is actually decided",
+ "context": [
+  "Working practices matter as much as the contract. An adviser will want to see both, because the way you actually do the work can carry more weight than the wording on paper.",
+  "For medium and large clients, it is the client that makes the status decision, not the contractor. If you disagree with it, a dispute can be raised with the client, so it is worth understanding the process before things escalate."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say whether you are the contractor or the client making the determination, as the advice differs.",
+  "Describe the engagement briefly, including what you do and how the client engages you.",
+  "Mention whether a status determination has already been made and what it said.",
+  "Explain whether your working practices match the contract or have moved away from it.",
+  "Note whether the client is a medium or large organisation, since that affects who decides status.",
+  "Say whether you are dealing with an existing dispute or want advice before signing."
+ ],
+ "questions_heading": "Questions worth asking the professional",
+ "questions": [
+  "Are you a member of the Chartered Institute of Taxation or the Association of Taxation Technicians, or how else are you qualified in tax?",
+  "How do you supervise your anti-money-laundering obligations, and do you hold professional indemnity insurance?",
+  "Will you look at both my contract and my actual working practices?",
+  "How do you approach a status determination that I think is wrong?",
+  "What would you need from me to give a clear view on my IR35 position?",
+  "Can you explain how a dispute with the client would work if it comes to that?"
+ ],
+ "faqs": [
+  {
+   "q": "Can you tell me who the best IR35 advisor is?",
+   "a": "We cannot say who is best, and nobody honestly could without knowing your situation. Instead, ask about qualifications, supervision and insurance, and judge for yourself whether their explanation of your contract and working practices makes sense."
+  },
+  {
+   "q": "Do I need an advisor near me, or can this be done remotely?",
+   "a": "IR35 advice is largely about documents and conversations, so location matters less than you might think. Being nearby can help if you prefer to meet in person, but what counts most is whether the adviser understands your engagement."
+  },
+  {
+   "q": "Who decides whether my contract is inside or outside IR35?",
+   "a": "For medium and large clients, the client makes the status determination. If you are the contractor and you disagree, you can raise a dispute with the client, and an adviser can help you prepare for that."
+  },
+  {
+   "q": "What should I have ready before I speak to an adviser?",
+   "a": "Have your contract, a clear picture of how you actually work day to day, and any status determination you have received. That lets the adviser compare the paperwork with the reality."
+  }
+ ],
+ "extra_heading": "What to expect at a first IR35 appointment",
+ "extra": [
+  "When you first speak to an IR35 adviser, they will usually start by asking for your contract and a description of how you actually work. This is because IR35 status depends on both the written terms and the reality of the engagement, and an adviser needs to see whether the two match. They may also ask whether a status determination has already been made and by whom, since for medium and large clients it is the client who decides.",
+  "The adviser will then explain how the key tests — such as control, substitution and mutuality of obligation — apply to your situation. They will not give you a simple yes or no without understanding the details, because IR35 is rarely clear-cut. Expect a conversation about the risks and the practical steps you can take, rather than a quick verdict.",
+  "If you are the client making the determination, the adviser will focus on your obligations and how to document your decision properly. If you are a contractor who disagrees with a determination, they will explain how a dispute can be raised with the client. Either way, the first meeting is about gathering facts and setting out your options, not about signing anything on the spot."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Will the adviser tell me definitively if I am inside or outside IR35?",
+   "a": "A good adviser will give you a clear view based on your contract and working practices, but they cannot guarantee an outcome. IR35 depends on the specific facts, and HMRC could take a different view. What they can do is explain the risks and help you present your position clearly."
+  },
+  {
+   "q": "How is an IR35 adviser different from a general accountant?",
+   "a": "Many accountants handle tax returns and general compliance, but IR35 advice requires a detailed understanding of employment status tests and how they apply to contractors and clients. Some tax advisers specialise in this area, so it is worth asking about their experience with IR35 specifically."
+  }
+ ]
+}

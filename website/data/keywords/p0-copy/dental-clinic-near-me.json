@@ -1,0 +1,73 @@
+{
+ "intro": "When you type “dental clinic near me”, you are usually looking for a convenient, local place to get dental care — whether that is a check-up, a specific treatment, or help with a problem that cannot wait. You want to know what is available close by and how to choose a clinic that suits your needs. iComply introduces you to a suitable UK private dentist who can quote you directly, with prices on application.",
+ "need_heading": "What people searching for a dental clinic near me usually need",
+ "need_lead": "Most people want a local clinic that can see them soon and meets their particular dental needs.",
+ "needs": [
+  "You have a toothache or other urgent dental problem and want to find a clinic near you that offers emergency appointments.",
+  "You have moved to a new area and need a private dentist close to home for routine check-ups and cleanings.",
+  "You are looking for a clinic that offers a particular treatment, such as orthodontics or dental implants, without travelling far.",
+  "You want a clinic with convenient opening hours, perhaps early mornings, evenings or weekends, to fit around work or family.",
+  "You need a clinic that can accommodate a family member with additional needs, such as wheelchair access or a dentist experienced with anxious patients."
+ ],
+ "context_heading": "What to understand when choosing a dental clinic near you",
+ "context": [
+  "Private dental clinics vary from single-dentist practices to larger centres with hygienists, specialists and in-house imaging. Larger clinics may offer specialists under one roof, which can be convenient if you need more complex care. It is worth checking opening hours and asking about emergency slots, as these can differ significantly between clinics.",
+  "All dentists, dental hygienists, dental therapists and dental nurses must be registered with the General Dental Council (GDC), and you can check the GDC register online. In England, private clinics providing regulated healthcare must register with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA. If something goes wrong with private dental treatment, start with the practice's complaints process; the Dental Complaints Service can help with private dental complaints that are not resolved."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Tell us the town or postcode area where you need the dental clinic to be, so we can introduce you to a professional nearby.",
+  "Describe the dental issue or treatment you are interested in, such as a check-up, emergency care, orthodontics or implants.",
+  "Mention any preferences you have for opening hours, such as evenings or weekends, or for accessibility features.",
+  "Let us know if you have dental anxiety or need a dentist experienced with nervous patients, so we can match you appropriately.",
+  "If you have a deadline, such as a trip or a special occasion, tell us so we can introduce you to a clinic that can accommodate it.",
+  "Share any other relevant information, such as whether you are looking for a clinic that treats children or offers payment plans."
+ ],
+ "questions_heading": "Questions to ask the dental professional",
+ "questions": [
+  "What treatments do you offer, and do you have any specialists on the team?",
+  "What are your opening hours, and do you reserve time for emergency appointments?",
+  "How do you handle nervous patients, and what sedation options are available?",
+  "Are you currently accepting new private patients?",
+  "What is the process for getting a treatment plan and a quote?",
+  "How do you handle complaints if I am unhappy with the treatment?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check if a dental clinic near me is properly registered?",
+   "a": "You can check that the dentists and other dental professionals are registered with the General Dental Council (GDC) by searching the GDC register online. In England, you can also check whether the clinic is registered with the Care Quality Commission (CQC) and view its inspection rating. In Wales, Scotland and Northern Ireland, the respective regulators are Healthcare Inspectorate Wales, Healthcare Improvement Scotland and the RQIA."
+  },
+  {
+   "q": "What should I do if I have a dental emergency and need a clinic near me?",
+   "a": "If you have a serious dental emergency, such as uncontrolled bleeding or a facial swelling that affects your breathing or swallowing, call 999 or go to A&E. For urgent dental advice, you can call NHS 111. For private care, look for a local clinic that advertises emergency slots, and ask about availability when you contact them."
+  },
+  {
+   "q": "Can iComply help me find a dental clinic that offers a specific treatment, like orthodontics?",
+   "a": "Yes. Tell iComply the treatment you need, such as orthodontics or implants, and we will introduce you to a suitable private dentist who can discuss it with you. They will quote you directly, with prices on application."
+  },
+  {
+   "q": "What if I have a complaint about a private dental clinic near me?",
+   "a": "Start by raising your concern with the practice's complaints process. If it is not resolved, the Dental Complaints Service can help with private dental complaints. They offer advice and can mediate in some cases."
+  }
+ ],
+ "extra_heading": "What happens at a first appointment at a dental clinic near you",
+ "extra": [
+  "A first visit to a private dental clinic near you usually begins with a check-up rather than treatment. The dentist will look at your teeth, gums and mouth, ask about your medical history and any medicines you take, and discuss anything that has been bothering you. It helps to arrive a little early so you can complete any registration forms without feeling rushed.",
+  "From there, the dentist should explain what they have found and set out your options, including what each involves and what it costs. You can ask for the plan and the quote in writing so you have time to think it over, and you are free to go away and consider it rather than deciding on the spot. If you need more complex care, ask whether the clinic handles it in-house or would refer you on.",
+  "It is worth checking a few practical things before you book, since clinics differ in ways that matter day to day. Ask about opening hours, whether emergency slots are kept free for people who are not already registered, and how appointments work for children or for anyone who finds dental visits difficult. These details often shape whether a clinic near you is genuinely convenient, not just close."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Will a dental clinic near me see me if I am not already a patient?",
+   "a": "Many private clinics accept new patients, but availability varies, so it is worth asking when you first contact them. If you need urgent help, say so clearly, as some clinics keep slots aside for emergencies. For urgent dental advice you can also call NHS 111."
+  },
+  {
+   "q": "How do I compare dental clinics close to me?",
+   "a": "Look at what each clinic offers, such as whether specialists or hygienists work there, and check opening hours and emergency arrangements. Ask for a written treatment plan and quote so you can compare like with like. You can also check that the dental professionals are on the General Dental Council register and, in England, whether the clinic is registered with the Care Quality Commission."
+  },
+  {
+   "q": "Can I get a quote before I commit to treatment?",
+   "a": "Yes, you can ask the dentist to explain the options and give you a quote before you agree to anything. Prices are on application, so the figure will come directly from the clinic rather than from iComply. Take your time to consider it and ask questions about anything that is unclear."
+  }
+ ]
+}

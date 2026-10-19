@@ -1,98 +1,40 @@
 ---
 slug: agriculture-solicitor-near-me
 title: Agriculture Solicitor Near Me | iComply Professional Services
-description: Need an agricultural solicitor near you? iComply connects you with a suitable UK law firm. Free, no-obligation matching. Request a quote — POA.
+description: Find an agricultural solicitor near you with iComply: one free enquiry, matched to a suitable UK solicitor. No obligation. Request a quote — POA.
 family: solicitor
 group: legal
 hub: solicitors-lawyers
 profession: solicitor
 service_label: Agricultural solicitor
-og_image: /assets/images/healthcare-consult.jpg
+og_image: /assets/images/finance-desk.jpg
 ---
 
 # Agriculture Solicitor Near Me
 
-If you have typed **agriculture solicitor near me** into a search bar, you are likely looking for help soon and not too far away. Agricultural solicitors advise farmers and landowners on tenancies, land sales, succession, partnerships, rights of way and environmental schemes.
+When you search for an agriculture solicitor near me, you likely need legal help with the land, tenancy or business side of farming. Agricultural solicitors deal with the special rules that apply to farmland, and finding one who understands your situation locally can make a real difference. We introduce you to a suitable UK professional who will quote you directly, with fees on application.
 
-iComply Professional Services is a free matching service. You tell us what you need and where you are; we connect you with a suitable UK solicitor who can quote for the work. The practice provides the service, and every quote is POA.
+Agricultural solicitors advise farmers and landowners on tenancies, land sales, succession, partnerships, rights of way and environmental schemes.
+
+We act as the middleman between you and the professional. Share a short brief and we match you with an agricultural solicitor who has the right experience and capacity. Enquiring is free, and you are under no obligation to accept a quote.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Planning the first appointment after an enquiry for agriculture solicitor near me](/assets/images/healthcare-consult.jpg)
+![Planning the first appointment after an enquiry for agriculture solicitor near me](/assets/images/finance-desk.jpg)
 
-## What solicitors commonly help with
+## What people searching for an agriculture solicitor near me usually need
 
-Every enquiry is different, but these are typical starting points for clients who contact solicitors:
+The situations that lead to this search are often practical and time-sensitive, and they usually involve land, family or money.
 
-- A debt that is owed to you, or one you are being chased for.
-- An injury or a medical treatment that went wrong.
-- A will, a lasting power of attorney or a family member's estate.
-- A dispute with an employer, landlord, business or neighbour.
-- Buying or selling property, or a lease problem.
+- You are taking on or giving up a farm tenancy and need to understand the special legislation that applies to agricultural tenancies.
+- You are planning how to pass the farm on to the next generation and want advice on succession so the farm stays viable.
+- You are buying or selling farmland and need help with the legal side, including rights of way and any environmental schemes attached to the land.
+- You are setting up or dissolving a farming partnership and need the agreement to reflect how the farm actually works.
+- You want to understand agricultural property relief and how it might affect the future of the farm business.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of solicitor fits best.
-
-## Near me: how local matching works
-
-When you search for an agricultural solicitor near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
-
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
-
-## Information that helps us match you
-
-You do not need all of this to enquire, but the more you can share, the better the match:
-
-- Copies of key documents such as contracts, letters or court papers
-- The names of the other people or organisations involved
-- Whether you have legal expenses insurance (often in home or car policies)
-- Whether you may be eligible for legal aid
-- Any deadlines you have been given, especially court dates
-- What outcome you would like
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
-
-**Need an agricultural solicitor?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
-
-## Questions to ask an agricultural solicitor
-
-Once you are introduced, these questions help you decide whether the solicitor is right for you:
-
-- What is your complaints procedure?
-- How much experience do you have with cases like mine?
-- How will you charge: hourly, fixed fee, or another arrangement?
-- How will you keep me updated?
-- What could make costs rise, and how will you warn me?
-- Who will handle my matter day to day, and who supervises them?
-
-## Timing and urgency
+## How long things usually take
 
 Many firms can arrange an initial conversation within a few days. Court deadlines, police interviews and limitation periods are time-critical, so include them in your enquiry. If you have a court hearing in the next few days, contact a solicitor directly as well as enquiring with us.
-
-## What an agricultural solicitor is likely to cost (POA)
-
-Legal fees depend on the type of matter, its complexity and who does the work. Firms commonly charge hourly rates, fixed fees for defined stages, or (in some claims) conditional fee arrangements. Regulated firms in England and Wales must publish pricing information for certain services and give you clear costs information at the outset. iComply does not publish fees; the firm will give you a POA quote.
-
-Ask for a written estimate and for an explanation of what is not included, such as court fees, barristers' fees or experts. Ask too whether legal expenses insurance or legal aid might cover some or all of the cost.
-
-![Next steps after an iComply introduction for an agricultural solicitor](/assets/images/hero-workshop.jpg)
-
-## Checking solicitors are qualified and regulated
-
-Solicitors in England and Wales are regulated by the Solicitors Regulation Authority (SRA), and you can check an individual or firm on the SRA's register. In Scotland solicitors are regulated by the Law Society of Scotland, and in Northern Ireland by the Law Society of Northern Ireland. Regulated firms must hold professional indemnity insurance and have a complaints procedure; if that does not resolve things, the Legal Ombudsman can look at service complaints in England and Wales.
-
-The word "lawyer" is not protected on its own, so check that whoever handles your matter is a solicitor, a chartered legal executive (CILEx) or another authorised professional. Reserved activities such as conducting court litigation and certain probate and conveyancing work can only be carried out by authorised people.
-
-iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
-
-## Before you choose an agricultural solicitor
-
-These practical points are worth knowing before you speak to anyone about an agricultural solicitor:
-
-- Agricultural tenancies have special legislation.
-- Succession planning protects the farm.
-- Ask about agricultural property relief.
-
-A good solicitor will talk you through each of these in plain English.
 
 ## How iComply matches you
 
@@ -103,26 +45,83 @@ A good solicitor will talk you through each of these in plain English.
 
 We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
 
-## Red flags when choosing an agricultural solicitor
+**Need an agricultural solicitor?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-Most professionals are honest and competent, but it is worth knowing the warning signs:
+## What to tell iComply when you enquire
 
-- Requests to send money to an account that changes by email
-- Guarantees about the outcome of a dispute
-- No clear costs information or client care letter
-- Pressure to sign immediately without time to read terms
+A short, clear brief saves time on both sides. Useful details include:
 
-## After the introduction
+- Say where the farm or land is, as agricultural law differs across the UK and a local solicitor may be more familiar with the relevant rules.
+- Describe the type of matter, such as a tenancy, land sale, succession planning, partnership or rights of way issue.
+- Mention any deadlines you are working towards, such as a date for exchanging contracts or a tenancy start date.
+- Explain whether the land is owned or tenanted, and whether any environmental schemes are involved.
+- Include the size of the farm or landholding in general terms, as this can affect the complexity of the work.
+- Note if other family members or business partners are involved, so the solicitor knows who they may need to speak to.
 
-After the introduction, the firm will carry out identity checks and conflict checks and send a client care letter setting out who is acting for you, what they will do and how they charge. Your legal relationship is with the firm. iComply does not give legal advice and does not take part in your case.
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
-![Professional reviewing a client's brief before an introduction for agriculture solicitor near me](/assets/images/finance-desk.jpg)
+## One key thing to understand about agricultural solicitors
 
-## FAQs: an agricultural solicitor
+Agricultural tenancies and farmland have their own body of law, so it helps to speak to a solicitor who regularly advises farmers and landowners rather than one who mainly deals with residential property. In England and Wales, solicitors are regulated by the Solicitors Regulation Authority (SRA), and you can check an individual or firm on the SRA's register. In Scotland the regulator is the Law Society of Scotland, and in Northern Ireland it is the Law Society of Northern Ireland.
 
-### Is a solicitor the same as a lawyer?
+Regulated firms must hold professional indemnity insurance and have a complaints procedure. If a service complaint is not resolved, the Legal Ombudsman can look at it in England and Wales. The word "lawyer" is not protected on its own, so check that whoever handles your matter is a solicitor, a chartered legal executive (CILEx) or another authorised professional. Reserved activities such as conducting court litigation and certain probate and conveyancing work can only be carried out by authorised people.
 
-"Lawyer" is a general word that covers solicitors, barristers, chartered legal executives and others. A solicitor is a specific regulated professional who can advise you, run your case and instruct a barrister if needed.
+![Next steps after an iComply introduction for an agricultural solicitor](/assets/images/insurance-advisory.jpg)
+
+## Checking solicitors are qualified and regulated
+
+Solicitors in England and Wales are regulated by the Solicitors Regulation Authority (SRA), and you can check an individual or firm on the SRA's register. In Scotland solicitors are regulated by the Law Society of Scotland, and in Northern Ireland by the Law Society of Northern Ireland. Regulated firms must hold professional indemnity insurance and have a complaints procedure; if that does not resolve things, the Legal Ombudsman can look at service complaints in England and Wales.
+
+The word "lawyer" is not protected on its own, so check that whoever handles your matter is a solicitor, a chartered legal executive (CILEx) or another authorised professional. Reserved activities such as conducting court litigation and certain probate and conveyancing work can only be carried out by authorised people.
+
+Please note that iComply is a matching service only. We are not regulated as a solicitor, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
+
+## How fees usually work (POA)
+
+Legal fees depend on the type of matter, its complexity and who does the work. Firms commonly charge hourly rates, fixed fees for defined stages, or (in some claims) conditional fee arrangements. Regulated firms in England and Wales must publish pricing information for certain services and give you clear costs information at the outset. The firm will give you a POA quote.
+
+Ask for a written estimate and for an explanation of what is not included, such as court fees, barristers' fees or experts. Ask too whether legal expenses insurance or legal aid might cover some or all of the cost.
+
+## Key things to know about an agricultural solicitor
+
+These practical points are worth knowing before you speak to anyone about an agricultural solicitor:
+
+- Agricultural tenancies have special legislation.
+- Succession planning protects the farm.
+- Ask about agricultural property relief.
+
+A good solicitor will talk you through each of these in plain English.
+
+## Questions to ask the professional
+
+Asking a few direct questions early tells you a lot about how a practice works:
+
+- How much experience do you have with agricultural tenancies and the special legislation that applies to them?
+- What would you need from me to advise on succession planning for the farm?
+- Can you explain how agricultural property relief might apply to our situation?
+- Will you handle the matter yourself or pass it to a colleague, and are they authorised to do this work?
+- What are your fees and how will you keep me informed as the work progresses?
+- How do you approach rights of way and environmental scheme issues on farmland?
+
+![Professional reviewing a client's brief before an introduction for agriculture solicitor near me](/assets/images/hero-workshop.jpg)
+
+## FAQs about agriculture solicitor near me
+
+### Do I need a solicitor who specialises in agriculture rather than a general practice?
+
+Agricultural tenancies have special legislation, and farmland sales often involve rights of way and environmental schemes. A solicitor who regularly advises farmers and landowners will be more familiar with these areas, so it is worth asking about their experience before you instruct them.
+
+### Can iComply recommend a specific agriculture solicitor near me?
+
+We introduce you to a suitable UK professional based on what you tell us, but we do not recommend or endorse any particular solicitor. You decide whether to instruct them after speaking with them and checking their details on the relevant regulator's register.
+
+### How do I check that a solicitor is properly regulated?
+
+In England and Wales, check the Solicitors Regulation Authority (SRA) register. In Scotland, check with the Law Society of Scotland, and in Northern Ireland with the Law Society of Northern Ireland. This confirms whether the individual or firm is regulated and authorised to carry out reserved legal work.
+
+### What information should I have ready before I speak to a solicitor about a farm tenancy?
+
+It helps to have the tenancy agreement, any correspondence about the tenancy, and details of the land involved. If the matter concerns succession or a partnership, bring any existing wills, partnership agreements or family trust documents you have.
 
 ### Can I get legal aid?
 
@@ -132,25 +131,21 @@ Legal aid is still available for some criminal, family (especially where there i
 
 Send us your town or postcode with a short description of what you need. We look for a suitable law firm with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
 
-### Is it free to use iComply?
+### Can I contact you on WhatsApp?
 
-Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
-
-### Do I have to accept a quote?
-
-No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
+Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
 
 ### Is iComply regulated?
 
 iComply is a matching service. We are not a solicitor and we do not give professional advice. The professionals we introduce are registered with their own bodies, and you can check them.
 
-## Related searches
+## People also look for
 
+- [Best solicitor near me](/keywords/best-solicitor-near-me/)
+- [Commercial property lawyers near me](/keywords/commercial-property-lawyers-near-me/)
+- [Charity solicitor near me](/keywords/charity-solicitor-near-me/)
 - [Civil litigation solicitor near me](/keywords/civil-litigation-solicitor-near-me/)
-- [Criminal solicitor near me](/keywords/criminal-solicitor-near-me/)
-- [Patent lawyer near me](/keywords/patent-lawyer-near-me/)
-- [Clinical negligence lawyers near me](/keywords/clinical-negligence-lawyers-near-me/)
-- [Child arrangements lawyers near me](/keywords/child-arrangements-lawyers-near-me/)
+- [Divorce lawyers near me](/keywords/divorce-lawyers-near-me/)
 - [Browse all solicitors](/hubs/solicitors-lawyers/)
 
 ## Ready to be matched?

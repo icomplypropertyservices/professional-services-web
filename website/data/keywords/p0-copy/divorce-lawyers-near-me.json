@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for \"divorce lawyers near me\" usually means you want someone local who can explain the divorce process clearly and help you make decisions about money and children. You may be at the very start, or you may have papers already and need proper legal guidance. We introduce you to a solicitor who handles divorce, and they will quote you directly.",
+ "need_heading": "What people searching for divorce lawyers near me usually need",
+ "need_lead": "Most people want a local solicitor who can guide them through divorce and the practical arrangements that come with it.",
+ "needs": [
+  "You have decided to divorce and want to understand the no-fault process and what happens first.",
+  "You are worried about dividing savings, pensions or the family home and need advice on a financial settlement.",
+  "You need help agreeing arrangements for children, including where they live and how much time they spend with each parent.",
+  "You have received divorce papers or a financial application from your spouse and want to know how to respond.",
+  "You want to explore mediation but need legal advice alongside it, or you need to know when court may be necessary."
+ ],
+ "context_heading": "One key thing to understand about divorce and money",
+ "context": [
+  "Getting divorced does not automatically end your financial claims against each other. To make a financial settlement legally binding, you need a financial order, usually made by consent if you can agree. A solicitor can explain how this works and what full financial disclosure involves.",
+  "Mediation is usually required before you can apply to court about money or children, unless an exemption applies. A local solicitor can talk you through mediation and help you decide whether it is right for your situation."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say whether you are married or in a civil partnership, as the legal process is different.",
+  "Mention whether you have already started the divorce or received papers from your spouse.",
+  "Explain briefly what you need help with, such as the divorce itself, finances, children or all of these.",
+  "Say whether there is a risk of court proceedings or if you have already been to mediation.",
+  "Mention any urgent concerns, such as your spouse moving assets or issues about seeing your children.",
+  "Give your location and how far you are willing to travel, so we can introduce you to a local solicitor."
+ ],
+ "questions_heading": "Questions to ask the solicitor",
+ "questions": [
+  "Are you regulated by the Solicitors Regulation Authority or the relevant body for your part of the UK?",
+  "How will you charge for my divorce, and can you give me an estimate of the likely costs?",
+  "What information and documents will you need from me about our finances?",
+  "How do you approach mediation, and will you help me prepare for it?",
+  "What happens if we cannot agree and the case goes to court?",
+  "How will you keep me informed about progress and deadlines?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a solicitor who is local to me?",
+   "a": "Not necessarily, but many people prefer a solicitor they can visit in person, especially if there are documents to sign or meetings to attend. A local solicitor may also be more familiar with the local court. When you enquire, tell us your location so we can introduce you to someone nearby."
+  },
+  {
+   "q": "What is the difference between a divorce lawyer and a solicitor?",
+   "a": "The word \"lawyer\" is not protected, so it can be used by people who are not solicitors. Solicitors in England and Wales are regulated by the Solicitors Regulation Authority, and you can check an individual or firm on the SRA's register. It is worth confirming that whoever handles your matter is a solicitor or another authorised professional."
+  },
+  {
+   "q": "Will I have to go to court for my divorce?",
+   "a": "Most divorces are dealt with by correspondence and do not require a court attendance. However, if there are disagreements about money or children, the court may become involved, and mediation is usually required first. A solicitor can explain the process for your circumstances."
+  },
+  {
+   "q": "Can we sort out finances without a financial order?",
+   "a": "You can reach an agreement, but it is not legally binding unless it is made into a financial order. A financial order can be made by consent if you both agree, and it protects you both from future claims. A solicitor can advise you on the steps to get one."
+  }
+ ],
+ "extra_heading": "Choosing between local divorce solicitors",
+ "extra": [
+  "Searching for \"divorce lawyers near me\" often brings up several firms within easy reach, and the real task is working out which one suits you. Rather than picking the first name you see, it helps to compare how each firm handles divorce work and what they say about their approach to finances and children.",
+  "Ask each firm whether the person you will actually deal with is a solicitor or another authorised professional, and check them on the Solicitors Regulation Authority's register if you are in England or Wales. Regulated firms must hold professional indemnity insurance and have a complaints procedure, and the Legal Ombudsman can look at service complaints if that does not resolve things.",
+  "Cost is worth raising early, since quotes are usually on application and can vary with how much work your situation involves. Ask how the firm charges, what is included, and what might push the cost up, then weigh that against how clearly they explain the process and whether you feel able to ask questions."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I contact several local divorce solicitors before deciding?",
+   "a": "It can help, because you get a sense of how each one explains the process and answers your questions. Many firms offer an initial conversation, so you can compare approaches before committing. Remember that quotes are on application, so ask about charges at that first contact."
+  },
+  {
+   "q": "What should I bring to a first meeting with a divorce solicitor?",
+   "a": "Bring your marriage or civil partnership certificate if you have it, any papers you have received from your spouse or the court, and a clear picture of your finances, including savings, pensions and the family home. A short list of your questions helps too, especially about financial orders and mediation."
+  },
+  {
+   "q": "Does a local solicitor have to attend court with me?",
+   "a": "Most divorces are handled by correspondence and do not involve a court attendance, so being local is often about convenience for meetings and documents. If disagreements about money or children lead to court, your solicitor can explain who will represent you and what is involved."
+  }
+ ]
+}

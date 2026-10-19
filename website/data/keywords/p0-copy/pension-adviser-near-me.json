@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for a pension adviser near you usually means you want someone you can sit down with, or at least speak to by phone, about a real decision you're facing. Perhaps you're nearing retirement, wondering whether to transfer an old workplace scheme, or simply unsure what your pension will actually give you. A local pension adviser can look at your circumstances and quote you directly for the work.",
+ "need_heading": "What people searching for a pension adviser near me usually need",
+ "need_lead": "Most people behind this search are weighing up a pension decision and want someone local who can explain their options clearly.",
+ "needs": [
+  "You have several old workplace pensions from different jobs and want to know whether bringing them together makes sense for you.",
+  "You are approaching retirement and need help understanding how to take money from your pension without paying more tax than necessary.",
+  "You have been told you may transfer out of a defined benefit or final salary scheme and need advice from someone with the right permissions.",
+  "You want to check the charges on your existing pension and whether the protections attached to it are worth keeping.",
+  "You would like to use your state pension forecast alongside your private savings to plan a retirement income you can rely on."
+ ],
+ "context_heading": "Checking who can advise you on your pension",
+ "context": [
+  "Financial advice in the UK is regulated by the Financial Conduct Authority, so before you go ahead, check that the adviser or firm is authorised, or is an appointed representative of an authorised firm, on the FCA register. If something goes wrong you can complain to the firm, then to the Financial Ombudsman Service, and the Financial Services Compensation Scheme may protect you if an authorised firm fails.",
+  "Some pension decisions carry special rules. Advice on transferring out of a defined benefit scheme above a set value must come from an adviser with pension transfer specialist permissions, and safeguarded benefits deserve particular care. If you are over fifty with a defined contribution pension, free and impartial guidance is also available from Pension Wise, which can help you understand your options before you speak to an adviser."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the pension or pensions you want to discuss, including whether they are workplace schemes, personal pensions, SIPPs or final salary schemes.",
+  "Say roughly what stage you are at, such as still saving, approaching retirement or already drawing a pension.",
+  "Mention whether you have been told you need specialist advice on transferring a defined benefit scheme.",
+  "Explain what you most want to achieve, whether that is reviewing charges, planning withdrawals or understanding your retirement income.",
+  "Say whether you would prefer to meet an adviser locally or are happy to work by phone or online.",
+  "Include your general location so we can introduce you to a suitable UK professional who covers your area."
+ ],
+ "questions_heading": "Questions to ask the pension adviser",
+ "questions": [
+  "Are you authorised by the Financial Conduct Authority, and can you tell me your firm's reference number so I can check the register?",
+  "Do you hold pension transfer specialist permissions if my defined benefit scheme needs advice?",
+  "How are your charges structured, and will you set them out in writing before any work begins?",
+  "Will you look at all my pensions together, including my state pension forecast, before recommending anything?",
+  "How will you help me plan tax-efficient withdrawals from my pension?",
+  "What happens if I want to complain about the advice I receive?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a local pension adviser or can I work with one further away?",
+   "a": "Either can work, but many people prefer someone nearby for face-to-face meetings. If you are happy with phone or video calls, an adviser elsewhere in the UK may suit you just as well, so it is worth saying which you prefer when you enquire."
+  },
+  {
+   "q": "What is Pension Wise and should I use it?",
+   "a": "Pension Wise offers free, impartial guidance for people over fifty with defined contribution pensions. It can help you understand your options before you decide whether to take paid advice from a pension adviser."
+  },
+  {
+   "q": "How do I check that a pension adviser is properly authorised?",
+   "a": "Look up the adviser or firm on the Financial Conduct Authority register to confirm they are authorised, or are an appointed representative of an authorised firm. This is a sensible step before you share any personal or financial details."
+  },
+  {
+   "q": "I have a final salary pension. Can any pension adviser help me transfer it?",
+   "a": "Advice on transferring out of a defined benefit scheme above a set value must come from an adviser with pension transfer specialist permissions. Tell iComply about your scheme when you enquire so you are introduced to someone with the right permissions."
+  }
+ ],
+ "extra_heading": "What happens once you find a pension adviser near you",
+ "extra": [
+  "A first meeting with a local pension adviser is usually a conversation rather than a sales pitch. Expect questions about your age, your health, when you hope to stop working and what income you would like in retirement, along with details of every pension you hold. Nothing should be recommended at that first meeting, so treat it as a chance to judge whether you feel comfortable explaining your situation to this person.",
+  "Before the meeting, gather the paperwork you already have: recent statements for each pension, any letters about safeguarded benefits or scheme protections, and your state pension forecast from GOV.UK. Having these to hand means the adviser can see the whole picture rather than a partial one, and it makes any quote you receive far more meaningful. If a document is missing, say so rather than guessing at figures.",
+  "Choosing between local advisers comes down to more than distance. Ask each one how they are paid, whether they charge a fixed fee or a percentage, and whether that quote is confirmed in writing before work starts. Compare what each will actually do for you, how clearly they explain things, and whether they hold the permissions your particular pension needs. Then decide which one you would be happy to go back to with questions later."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Will a pension adviser near me come to my home?",
+   "a": "Some do, and some prefer to meet at their office or by phone and video call. Ask when you first make contact, and say what would suit you best, because it is a practical point rather than a financial one."
+  },
+  {
+   "q": "Can I bring someone with me to the first appointment?",
+   "a": "Yes, and it is often a good idea, particularly if a partner or family member shares in the decisions or will be affected by them. Having a second pair of ears helps you remember what was said and talk it over afterwards."
+  },
+  {
+   "q": "What if I only have a small pension pot?",
+   "a": "Size alone does not decide whether advice is worthwhile, but it does affect whether paying for it makes sense. Be upfront about roughly what you hold when you enquire, so any adviser can tell you honestly whether their service would suit you."
+  }
+ ]
+}

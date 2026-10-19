@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for a notary near me, you likely need a document notarised for use abroad and want to find a qualified notary public close to you. Notaries authenticate documents, witness signatures and prepare papers for overseas authorities, and they can also arrange legalisation or apostilles through the Foreign, Commonwealth and Development Office. iComply introduces you to a suitable notary in the UK who will quote you directly, with fees given as price on application.",
+ "need_heading": "What people searching for a notary near me usually need",
+ "need_lead": "Most people looking for a notary near me have a document that must be notarised before it can be used in another country.",
+ "needs": [
+  "You have a power of attorney or authorisation that a foreign bank or authority will only accept once a notary has witnessed your signature.",
+  "You need copies of your passport or other identity documents certified as true copies for an overseas visa or residency application.",
+  "You are buying or selling property abroad and the overseas land registry requires your signature to be notarised.",
+  "You have a degree certificate, police record check or company document that needs notarising and possibly an apostille for use in another country.",
+  "You are dealing with an estate or a legal matter that involves documents destined for a country outside the UK and the receiving authority insists on notarisation."
+ ],
+ "context_heading": "What to understand about finding a notary near you",
+ "context": [
+  "Notaries public in England and Wales are qualified lawyers regulated by the Faculty Office of the Archbishop of Canterbury, which keeps a register of practising notaries. They must hold insurance and follow practice rules. In Scotland, notaries are solicitors admitted as notaries public. Because notaries are regulated, you can check that the person you are introduced to appears on the relevant register.",
+  "Notaries do not all offer the same services, and some specialise in particular countries or types of document. When you search for a notary near me, it helps to know that the notary will need to see original documents and may need to arrange legalisation or an apostille through the Foreign, Commonwealth and Development Office. The destination country's requirements will determine exactly what is needed, so it is worth confirming those before your appointment."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the document you need notarised and the country where it will be used, as requirements differ from one country to another.",
+  "Explain whether the receiving authority has asked for an apostille or legalisation as well as notarisation.",
+  "Say whether you need a signature witnessed, copies certified, or a document prepared or authenticated by the notary.",
+  "Mention any deadline you are working towards, such as a visa appointment or a property completion date abroad.",
+  "Confirm that you have the original documents and original identification ready to bring to the appointment.",
+  "Give your location and say how far you are able to travel to see a notary, or whether you need one who can visit you."
+ ],
+ "questions_heading": "Questions to ask the notary",
+ "questions": [
+  "What exactly do you need from me to notarise this document for use in the destination country?",
+  "Will you arrange the apostille or legalisation through the Foreign, Commonwealth and Development Office, or do I need to do that myself?",
+  "How long should I allow for the whole process, including any legalisation?",
+  "What identification and original documents should I bring to the appointment?",
+  "Do you have experience with documents for this particular country and its requirements?",
+  "What are your fees and how will you quote me for the work?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a notary or a solicitor for a document going abroad?",
+   "a": "A notary public is specifically trained to authenticate documents for use abroad, while a solicitor may not have that expertise. If the receiving authority has asked for notarisation, you will usually need a notary. iComply can introduce you to a suitable notary for your needs."
+  },
+  {
+   "q": "What is an apostille and will I need one?",
+   "a": "An apostille is a certificate that confirms the authenticity of a notary's signature and seal for countries that are part of the Hague Apostille Convention. Whether you need one depends on the destination country's requirements, so check with the authority requesting the document. A notary can arrange an apostille through the Foreign, Commonwealth and Development Office."
+  },
+  {
+   "q": "Can a notary come to my home or hospital?",
+   "a": "Some notaries offer mobile appointments, but this varies and may depend on your location and circumstances. When you enquire through iComply, mention if you need a notary who can visit you, and we will try to introduce you to one who can help."
+  },
+  {
+   "q": "How do I know the notary is properly qualified?",
+   "a": "Notaries in England and Wales are regulated by the Faculty Office of the Archbishop of Canterbury, which keeps a register of practising notaries. In Scotland, notaries are solicitors admitted as notaries public. You can check the relevant register to confirm a notary's status before your appointment."
+  }
+ ]
+}

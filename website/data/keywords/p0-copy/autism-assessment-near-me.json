@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for an autism assessment near you usually means you or someone you care about is looking for answers about how they experience the world. You want to understand what an assessment involves, who carries it out, and how to find a service that feels right for your situation. We introduce you to a suitable UK assessment clinic, which will then quote you directly.",
+ "need_heading": "What people searching for an autism assessment near me usually need",
+ "need_lead": "Most people want a clear, respectful process that helps them understand whether autism explains the difficulties they or their child are facing.",
+ "needs": [
+  "You may have noticed differences in social communication or behaviour and want a formal assessment to understand whether autism is part of the picture.",
+  "Your child’s school or nursery may have raised concerns and suggested an autism assessment, and you want to find a local clinic that can see them.",
+  "You might be an adult who has always felt different and now wants to explore an autism diagnosis to make sense of your experiences.",
+  "You may need a report that can support a request for adjustments at work, in education or in accessing support services.",
+  "You could be looking for a clinic that offers support and guidance after a diagnosis, not just the assessment itself."
+ ],
+ "context_heading": "What to understand about autism assessments",
+ "context": [
+  "Autism assessments for children and adults differ in how they are carried out, but both usually involve a detailed developmental history and structured observation. In the UK, assessments should be carried out by suitably qualified clinicians, such as psychiatrists registered with the GMC, practitioner psychologists registered with the HCPC, or multidisciplinary teams following NICE guidance. Clinics providing regulated healthcare in England register with the Care Quality Commission (CQC), and Wales, Scotland and Northern Ireland have their own regulators.",
+  "If you are considering a private assessment, it is worth asking in advance whether your NHS GP will accept a shared care arrangement if medication might be needed later. Policies on this differ between areas and practices, so a conversation with your GP before you book can help you avoid surprises."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say whether the assessment is for a child or an adult, as services often specialise in one or the other.",
+  "Give the age of the person being assessed, since clinics may have different age ranges they work with.",
+  "Mention any previous assessments or diagnoses that are relevant, as this can help the clinic understand your situation.",
+  "Explain what you hope to gain from the assessment, such as a diagnosis, a report for school or work, or access to support.",
+  "Let us know if you have a preference for how the assessment is carried out, for example in person or remotely, if that matters to you.",
+  "Tell us your location so we can introduce you to a clinic that is reasonably near you."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "What qualifications and experience do you have in carrying out autism assessments?",
+  "How long does the assessment process usually take, and what does it involve?",
+  "Will the assessment be carried out by one clinician or a multidisciplinary team?",
+  "What kind of report will I receive, and can it be used to request adjustments at work or in education?",
+  "Do you offer any support or guidance after a diagnosis?",
+  "If medication might be considered later, will you liaise with my NHS GP about shared care?"
+ ],
+ "faqs": [
+  {
+   "q": "What is an autism assessment?",
+   "a": "An autism assessment is a process that uses developmental history and structured observation to consider whether someone is autistic. It is usually carried out by qualified clinicians and may involve one professional or a team."
+  },
+  {
+   "q": "How do I find an autism assessment near me?",
+   "a": "You can search for local clinics, ask your GP for recommendations, or use an introduction service like iComply. We introduce you to a suitable UK professional who will quote you directly."
+  },
+  {
+   "q": "Can I get an autism assessment on the NHS?",
+   "a": "Yes, you can ask your GP for a referral to an NHS autism assessment service. Waiting times can vary, and some people choose to explore private options as well."
+  },
+  {
+   "q": "Will my GP accept a private autism diagnosis?",
+   "a": "Policies vary between GP practices and areas. It is best to ask your GP in advance whether they will accept a private diagnosis and, if relevant, agree to a shared care arrangement for any medication."
+  }
+ ]
+}

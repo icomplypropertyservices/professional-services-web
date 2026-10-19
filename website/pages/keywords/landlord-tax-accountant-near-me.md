@@ -1,36 +1,48 @@
 ---
 slug: landlord-tax-accountant-near-me
 title: Landlord Tax Accountant Near Me | iComply Professional Services
-description: A landlord tax accountant near you: get matched free with a suitable UK accountant via iComply Professional Services. Request a quote — POA.
+description: Need a landlord tax accountant near you? iComply connects you with a suitable UK accountancy practice. Free, no-obligation matching. Request a quote — POA.
 family: accountant
 group: accountancy
 hub: accountants
 profession: accountant
 service_label: Landlord tax accountant
-og_image: /assets/images/finance-desk.jpg
+og_image: /assets/images/insurance-advisory.jpg
 ---
 
 # Landlord Tax Accountant Near Me
 
-Searching for **landlord tax accountant near me**? You probably want someone suitable, available and within reach. Landlord tax accountants focus on income tax, capital gains on disposals and the choice between personal and company ownership.
+You're a landlord looking for a tax accountant near you who understands the specific tax rules that apply to property income, disposals and ownership. You want someone local who can handle your rental accounts, advise on capital gains when you sell, and help you decide whether to hold property personally or through a company. iComply introduces you to a suitable UK accountant who will quote you directly for the work you need.
+
+Landlord tax accountants focus on income tax, capital gains on disposals and the choice between personal and company ownership.
 
 Rather than calling round, you can send one enquiry to iComply. We look at your needs, location and timing, then introduce you to a suitable accountancy practice. They quote you directly, POA, and you decide whether to go ahead.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Next steps after an iComply introduction for a landlord tax accountant](/assets/images/finance-desk.jpg)
+![Next steps after an iComply introduction for a landlord tax accountant](/assets/images/insurance-advisory.jpg)
 
-## Common reasons people contact accountants
+## What landlords searching for a tax accountant usually need
 
-Accountants help clients in many situations. Some of the most common are:
+Landlords often need help with the tax consequences of owning and letting property, from annual income tax returns to big decisions about ownership and disposals.
 
-- A growing business that needs management accounts and cash-flow forecasting.
-- A sole trader filing a first Self Assessment return.
-- A business sale, restructure or investment round that needs proper numbers.
-- A landlord with rental income from one or several properties.
-- A VAT registration or a change of VAT scheme.
+- You rent out a property and need to report the rental income and expenses correctly on your tax return, including any reliefs you're entitled to.
+- You're thinking about selling a residential property and need to understand the capital gains rules and the separate reporting deadline that applies.
+- You own a property jointly with someone else and want to know how the income should be split for tax purposes.
+- You're considering transferring a property into a company and need to understand the tax costs that incorporation can trigger.
+- You've received a letter from HMRC about your property income or a payment on account and want help responding to it.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of accountant fits best.
+## Timing and urgency
+
+Most practices can take on a new client within a few weeks, but capacity tightens sharply in the run-up to the 31 January Self Assessment deadline and around company year ends. If you have a deadline coming up, say so in your enquiry so we can prioritise practices with room to help now.
+
+## One key thing to understand about landlord tax
+
+The word 'accountant' on its own is not a protected title in the UK, so anyone can call themselves an accountant. Protected titles such as Chartered Accountant (ICAEW, ICAS or Chartered Accountants Ireland), Chartered Certified Accountant (ACCA) and Chartered Management Accountant (CIMA) indicate that the holder is bound by their body's ethics, training and complaints rules. It is reasonable to ask which professional body supervises the firm and whether they hold professional indemnity insurance.
+
+Every accountancy practice offering services must also be supervised for anti-money-laundering purposes, either by a professional body or by HMRC. You can ask which body supervises the firm and how complaints are handled. This helps you judge the firm's standing before you engage them.
+
+**Need a landlord tax accountant?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
 ## How to check you are in safe hands
 
@@ -40,120 +52,103 @@ Every practice offering accountancy services must also be supervised for anti-mo
 
 iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
 
-## Finding a landlord tax accountant near you
-
-When you search for a landlord tax accountant near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
-
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
-
-**Need a landlord tax accountant?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
-
-## From enquiry to quote in four steps
-
-1. **Enquire for free** with your town or postcode and a short description.
-1. **We clarify** anything unclear, so the introduction is useful from the start.
-1. **We connect you** with a landlord tax accountant who suits your situation.
-1. **The practice takes over**, confirms scope and fees in writing and does the work.
-
-There is no charge to you for the introduction, and no obligation to accept any quote.
-
-## Warning signs to watch for
-
-Most professionals are honest and competent, but it is worth knowing the warning signs:
-
-- No clear answer about who handles your file day to day
-- Promises of tax savings that sound too good to be true
-- No engagement letter or written scope before work begins
-- Reluctance to say which professional body or AML supervisor they use
-
-## Before you choose a landlord tax accountant
-
-These practical points are worth knowing before you speak to anyone about a landlord tax accountant:
-
-- Capital gains on residential property have their own reporting deadline.
-- Incorporation can trigger tax costs.
-- Joint ownership affects how income is split.
-
-A good accountant will talk you through each of these in plain English.
-
-![Professional reviewing a client's brief before an introduction for landlord tax accountant near me](/assets/images/hero-workshop.jpg)
-
-## Getting ready for your first conversation
-
-You do not need all of this to enquire, but the more you can share, the better the match:
-
-- The deadlines you know about and any letters from HMRC
-- Rough annual turnover or income range
-- Whether you are VAT registered or close to the threshold
-- Your Unique Taxpayer Reference or company number
-- The type of business or income you have (sole trader, partnership, company, landlord, employee)
-- How often you want contact: once a year or monthly
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
-
-## What a landlord tax accountant is likely to cost (POA)
+## Costs and quotes for a landlord tax accountant
 
 Accountancy fees depend on the complexity of your affairs, the quality of your records and how much of the work you want the accountant to take on. Many practices offer fixed monthly or annual packages; others charge for time. Either can be fair if the scope is written down. iComply does not set or publish fees: the practice will quote you, and that quote is POA.
 
 Ask for an engagement letter before work starts. It should list what is included, your responsibilities, deadlines and how extra work is charged. Comparing two or three written scopes is usually more useful than comparing headline prices.
 
-## Typical timescales
+![Accountancy practice ready to take on a new enquiry for landlord tax accountant near me](/assets/images/finance-desk.jpg)
 
-Most practices can take on a new client within a few weeks, but capacity tightens sharply in the run-up to the 31 January Self Assessment deadline and around company year ends. If you have a deadline coming up, say so in your enquiry so we can prioritise practices with room to help now.
+## How our free matching service works
 
-## Your relationship with the practice
+1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
+1. **We review your brief.** We check the type of accountant you need, your location and your timing.
+1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
+1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
 
-After the introduction, the practice will usually run its own onboarding: identity checks required under money-laundering rules, an engagement letter and authority to act with HMRC. From then on the relationship is between you and the accountant. You stay free to change firms later; a professional clearance letter makes handovers straightforward.
+We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
 
-## What to ask before you instruct anyone
+## Questions to ask the professional
 
-Asking a few direct questions early tells you a lot about how a practice works:
+Once you are introduced, these questions help you decide whether the accountant is right for you:
 
-- What is included, and what would be charged as extra work?
-- How do you handle Making Tax Digital requirements?
-- What do you need from me each month or each year?
-- How quickly do you usually reply to emails and calls?
-- Who will actually prepare my accounts, and who reviews them?
-- Are you a member of a professional body, and which one?
+- Are you supervised for anti-money-laundering purposes, and by which body?
+- Do you hold professional indemnity insurance?
+- How do you handle complaints if I'm not happy with your service?
+- What experience do you have with landlord tax affairs and residential property disposals?
+- Can you explain the capital gains reporting deadline for residential property and how it applies to me?
+- What information will you need from me to prepare my rental accounts and tax return?
 
-![Accountancy practice ready to take on a new enquiry for landlord tax accountant near me](/assets/images/insurance-advisory.jpg)
+## Key things to know about a landlord tax accountant
+
+A few points come up again and again with a landlord tax accountant:
+
+- Capital gains on residential property have their own reporting deadline.
+- Incorporation can trigger tax costs.
+- Joint ownership affects how income is split.
+
+Raise any of these with the accountant you are introduced to; they should be happy to explain.
+
+## What to tell iComply when you enquire
+
+A short, clear brief saves time on both sides. Useful details include:
+
+- How many rental properties you own and whether they are let as residential or commercial.
+- Whether you own the properties personally, through a company, or jointly with someone else.
+- Whether you're thinking about selling a property in the near future or have already sold one.
+- Whether you're considering transferring a property into a company or changing how you hold it.
+- Any letters or notices you've received from HMRC about your property income or tax affairs.
+- Whether you need help with a self assessment tax return, capital gains reporting, or general tax planning for your property portfolio.
+
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+
+![Professional reviewing a client's brief before an introduction for landlord tax accountant near me](/assets/images/hero-workshop.jpg)
 
 ## Landlord Tax Accountant Near Me: FAQs
+
+### Do I need a specialist landlord tax accountant?
+
+Landlord tax involves specific rules on income tax, capital gains and ownership structure that a general accountant may not deal with regularly. A specialist can help you avoid common mistakes and plan ahead for disposals or incorporation. iComply introduces you to an accountant who focuses on landlord tax.
+
+### What is the capital gains reporting deadline for residential property?
+
+When you sell a residential property in the UK, you may need to report the gain to HMRC and pay any tax due within a set deadline after completion. The deadline is separate from your self assessment return, so it's important to get advice early. A landlord tax accountant can guide you through the process.
+
+### Should I hold my rental property personally or through a company?
+
+The right choice depends on your circumstances, including your income tax position and plans for the property. Incorporation can trigger tax costs, so it's not always straightforward. A landlord tax accountant can explain the pros and cons for your situation.
+
+### How does joint ownership affect tax on rental income?
+
+If you own a rental property jointly, the income is usually split between the owners for tax purposes. The split may not be equal and can depend on how the property is held. A landlord tax accountant can help you declare the income correctly.
 
 ### Do I need a chartered accountant?
 
 Not always. For simple Self Assessment a qualified, supervised accountant may be enough. For audits, complex group structures or specialist tax work, a chartered or certified firm is often the safer choice. We can match you to either.
 
-### Can I switch accountant part-way through the year?
-
-Yes. Your new accountant will contact the old one for professional clearance and any information they need. Tell us your timing and we will match you with a practice that can take over smoothly.
-
 ### Can you find a landlord tax accountant in my area?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable accountancy practice with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
+
+### Is it free to use iComply?
+
+Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
 
 ### Do I have to accept a quote?
 
 No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
 
-### Can I contact you on WhatsApp?
+## People also look for
 
-Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
-
-### Is iComply regulated?
-
-iComply is a matching service. We are not a accountant and we do not give professional advice. The professionals we introduce are registered with their own bodies, and you can check them.
-
-## Related searches
-
-- [Self assessment accountant near me](/keywords/self-assessment-accountant-near-me/)
-- [LLP accountant near me](/keywords/llp-accountant-near-me/)
 - [Freelance accountant near me](/keywords/freelance-accountant-near-me/)
-- [Non resident accountant near me](/keywords/non-resident-accountant-near-me/)
-- [Dentist accountant near me](/keywords/dentist-accountant-near-me/)
+- [Accountants near me](/keywords/accountants-near-me/)
+- [Corporation tax accountant near me](/keywords/corporation-tax-accountant-near-me/)
+- [Chartered accountants near me](/keywords/chartered-accountants-near-me/)
+- [Freelancer accountant near me](/keywords/freelancer-accountant-near-me/)
 - [Browse all accountants](/hubs/accountants/)
 
-## Ready to be matched?
+## Get a free quote for a landlord tax accountant
 
 One short enquiry is all it takes. We connect you with a landlord tax accountant who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
 

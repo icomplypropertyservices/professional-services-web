@@ -12,7 +12,9 @@ og_image: /assets/images/insurance-advisory.jpg
 
 # ADHD Counselling Near Me
 
-Searching for **ADHD counselling near me**? You probably want someone suitable, available and within reach. ADHD counselling and coaching help with organisation, emotions and the impact of ADHD on work and relationships, before or after diagnosis.
+Searching for ADHD counselling near you usually means you want someone local who understands how ADHD affects daily life — whether you have a diagnosis already or are still working out what is going on. You might be looking for help with focus, emotions, routines or relationships, or simply a space to talk things through. We can introduce you to a counsellor in your area who works with ADHD, and they will quote you directly.
+
+ADHD counselling and coaching help with organisation, emotions and the impact of ADHD on work and relationships, before or after diagnosis.
 
 iComply Professional Services is a free matching service. You tell us what you need and where you are; we connect you with a suitable UK counsellor who can quote for the work. The practice provides the service, and every quote is POA.
 
@@ -20,95 +22,65 @@ iComply Professional Services is a free matching service. You tell us what you n
 
 ![Planning the first appointment after an enquiry for ADHD counselling near me](/assets/images/insurance-advisory.jpg)
 
-## Common reasons people contact counsellors
+## What people searching for ADHD counselling near me often need
 
-Counsellors help clients in many situations. Some of the most common are:
+The reasons people look for ADHD counselling close to home tend to be practical and personal at the same time.
 
-- Stress and burnout at work.
-- Grief after a death or loss.
-- Persistent anxiety, worry or panic.
-- Relationship difficulties or separation.
-- Problems with alcohol, drugs or other habits.
+- You have a diagnosis of ADHD and want help with organisation, motivation or the day-to-day impact it has on work and home life.
+- You recognise ADHD traits in yourself but have not been assessed, and you want somewhere to talk things through before deciding what to do next.
+- You feel overwhelmed by emotions, rejection or frustration and want a regular space to make sense of them with someone who understands ADHD.
+- ADHD is affecting your relationships, and you want support in communicating better with a partner, family or colleagues.
+- You are looking for someone you can see in person nearby, because travelling far or meeting online does not suit you.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of counsellor fits best.
-
-## After the introduction
+## What happens after you are introduced
 
 Once introduced, the therapist will usually offer a short call or first session to see whether you work well together. Therapy is confidential between you and them. iComply does not provide therapy or medical advice.
 
-## Information that helps us match you
+## Costs and quotes for ADHD counselling and coaching
 
-You do not need all of this to enquire, but the more you can share, the better the match:
-
-- Any preference for a practitioner's gender or background
-- Any medication or current support from your GP
-- Your availability, including evenings
-- Whether you have tried therapy before and what helped
-- Whether you prefer in-person, video or phone sessions
-- What you would like help with, in a sentence or two
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
-
-**Need ADHD counselling and coaching?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
-
-## Good questions for your first call
-
-Asking a few direct questions early tells you a lot about how a practice works:
-
-- How long are sessions, and how many might I need?
-- What happens if I need to cancel?
-- How will we review whether therapy is helping?
-- What are your confidentiality rules?
-- Do you offer a short introductory call?
-- What kind of therapy do you offer, and how does it work?
-
-## Finding ADHD counselling and coaching near you
-
-When you search for ADHD counselling and coaching near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
-
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
-
-## Warning signs to watch for
-
-Be cautious if you notice any of the following:
-
-- No clear explanation of confidentiality
-- Promises of a quick cure
-- Pressure to commit to many sessions
-- Blurred professional boundaries or contact outside sessions
-
-![Professional reviewing a client's brief before an introduction for ADHD counselling near me](/assets/images/finance-desk.jpg)
-
-## What ADHD counselling and coaching is likely to cost (POA)
-
-Private therapy is usually charged per session. Fees vary with the therapist's training, experience and location, and some offer reduced rates for people on lower incomes. iComply does not publish prices; the therapist quotes you, POA.
+Private therapy is usually charged per session. Fees vary with the therapist's training, experience and location, and some offer reduced rates for people on lower incomes. The therapist quotes you, POA.
 
 Free talking therapies are also available through the NHS in England, and some employers offer support through an employee assistance programme. Ask your GP or HR team.
 
-## How iComply matches you
+**Need ADHD counselling and coaching?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
-1. **We review your brief.** We check the type of counsellor you need, your location and your timing.
-1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
-1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
+## Questions you could ask the counsellor
 
-There is no charge to you for the introduction, and no obligation to accept any quote.
+Asking a few direct questions early tells you a lot about how a practice works:
 
-## Typical timescales
+- What is your experience of working with people who have ADHD, and how does it shape your sessions?
+- Are you on a register accredited by the Professional Standards Authority, and which one?
+- Do you offer counselling in person near me, and where would sessions take place?
+- How would you describe your approach, and what would a first session involve?
+- How do you handle confidentiality, and what are its limits?
+- How do you work alongside any medical care I already have for ADHD?
 
-Many private therapists can offer a first session within one to two weeks. If you are thinking about harming yourself or feel unsafe, call 999, go to A&E, or contact NHS 111 or Samaritans on 116 123 straight away.
+## What to tell us when you enquire
 
-## Qualifications and registration to look for
+A short, clear brief saves time on both sides. Useful details include:
+
+- Say whether you already have an ADHD diagnosis or are still exploring whether you might have ADHD.
+- Describe the main things you want help with, such as focus, routines, emotions or relationships.
+- Mention whether you would prefer to meet in person, and roughly where you are able to travel to.
+- Explain any preferences about the counsellor, such as experience with adults, young people or a particular approach.
+- Note whether you are looking for short-term support around a specific issue or something more open-ended.
+- Include anything that would help the counsellor understand your situation, such as work pressures or family circumstances.
+
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+
+![Professional reviewing a client's brief before an introduction for ADHD counselling near me](/assets/images/finance-desk.jpg)
+
+## How to check you are in safe hands
 
 "Counsellor" and "psychotherapist" are not protected titles in the UK. To protect yourself, choose a practitioner on a register accredited by the Professional Standards Authority, such as BACP, UKCP or NCPS. Practitioner psychologists, who use titles such as clinical or counselling psychologist, must be registered with the HCPC.
 
 Accredited registers require training, supervision, a code of ethics and a complaints procedure. A good therapist will explain their approach, confidentiality and its limits in the first session.
 
-Please note that iComply is a matching service only. We are not regulated as a counsellor, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
+iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
 
 ## Key things to know about ADHD counselling and coaching
 
-A few points come up again and again with ADHD counselling and coaching:
+These practical points are worth knowing before you speak to anyone about ADHD counselling and coaching:
 
 - Coaching is not a diagnosis.
 - Strategies help daily life.
@@ -116,45 +88,68 @@ A few points come up again and again with ADHD counselling and coaching:
 
 Raise any of these with the counsellor you are introduced to; they should be happy to explain.
 
+## Understanding counselling and ADHD support
+
+ADHD counselling and coaching can help with organisation, emotions and the impact of ADHD on work and relationships, whether that is before or after a diagnosis. Coaching is not a diagnosis, and strategies you learn in sessions are there to help with daily life rather than replace medical care. Decisions about medication are a separate medical matter, so it is worth keeping that in mind when you think about what you want from counselling.
+
+"Counsellor" and "psychotherapist" are not protected titles in the UK, so it pays to check how someone is registered. Choosing a practitioner on a register accredited by the Professional Standards Authority, such as BACP, UKCP or NCPS, is one way to protect yourself.
+
+## From enquiry to quote in four steps
+
+1. **Enquire for free** with your town or postcode and a short description.
+1. **We clarify** anything unclear, so the introduction is useful from the start.
+1. **We connect you** with ADHD counselling and coaching who suits your situation.
+1. **The practice takes over**, confirms scope and fees in writing and does the work.
+
+We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
+
 ![Client explaining what they need before being matched with ADHD counselling and coaching](/assets/images/healthcare-consult.jpg)
 
 ## ADHD Counselling Near Me: FAQs
 
-### What is the difference between counselling and psychotherapy?
+### Do I need a diagnosis before I can have ADHD counselling?
 
-The terms overlap. Counselling often focuses on a specific problem over a shorter period, while psychotherapy may explore deeper patterns over a longer time. A good practitioner will explain their approach.
+No, you do not need a diagnosis to see a counsellor. ADHD counselling and coaching can help before or after a diagnosis, and a counsellor can talk things through with you wherever you are in that process. Coaching is not a diagnosis, though, so if you want an assessment you would need to pursue that separately.
+
+### Is ADHD counselling the same as coaching?
+
+They overlap but are not identical. Coaching tends to focus on practical strategies for organisation and daily life, while counselling often gives more room to emotions, relationships and how ADHD affects you. A good counsellor will explain their approach in the first session so you know what to expect.
+
+### How do I check that a counsellor is properly registered?
+
+Ask which register they are on and whether it is accredited by the Professional Standards Authority. Registers such as BACP, UKCP or NCPS require training, supervision, a code of ethics and a complaints procedure. Practitioner psychologists using titles such as clinical or counselling psychologist must be registered with the HCPC.
+
+### Can counselling replace medication for ADHD?
+
+No, medication is a separate medical decision made with a doctor or specialist, not something a counsellor provides. Counselling and coaching can sit alongside medical care and help with the practical and emotional side of living with ADHD. It is worth telling any counsellor about the care you already receive.
 
 ### Can I get therapy on the NHS?
 
 Yes. In England you can refer yourself to NHS Talking Therapies. Waiting times vary by area, which is why some people choose private therapy.
 
-### How do I find ADHD counselling and coaching near me?
+### Can you find ADHD counselling and coaching in my area?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable counselling practice with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
+
+### Is iComply regulated?
+
+iComply is a matching service. We are not a counsellor and we do not give professional advice. The professionals we introduce are registered with their own bodies, and you can check them.
 
 ### Do I have to accept a quote?
 
 No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
 
-### Is it free to use iComply?
+## Related searches
 
-Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
-
-### Can I contact you on WhatsApp?
-
-Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
-
-## Other services you may need
-
-- [Couples counselling near me](/keywords/couples-counselling-near-me/)
-- [Depression counsellor near me](/keywords/depression-counsellor-near-me/)
-- [Anger management counselling near me](/keywords/anger-management-counselling-near-me/)
+- [Addiction counsellor near me](/keywords/addiction-counsellor-near-me/)
 - [Bereavement counselling near me](/keywords/bereavement-counselling-near-me/)
+- [Anxiety counselling near me](/keywords/anxiety-counselling-near-me/)
+- [Couples counselling near me](/keywords/couples-counselling-near-me/)
 - [Child counselling near me](/keywords/child-counselling-near-me/)
 - [Browse all counsellors](/hubs/private-therapy/)
 
-## Ready to be matched?
+## Request your free quote
 
-Tell us what you need and where you are. We will match you with a suitable counsellor, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
+One short enquiry is all it takes. We connect you with ADHD counselling and coaching who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
 
 [Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

@@ -1,0 +1,69 @@
+{
+ "intro": "You've searched for physiotherapy, so you're likely dealing with pain, stiffness or a movement problem that isn't settling on its own. Whether it's a bad back, a sports injury, recovery after surgery or a longer-term condition, you want to know who can help and what to expect. Physiotherapy is active, hands-on work to get you moving better, and the right professional will assess you properly and build a plan around your goals.",
+ "need_heading": "What people searching for physiotherapy usually need",
+ "need_lead": "Most people looking for physiotherapy want relief from pain and a clear way back to normal movement.",
+ "needs": [
+  "You have persistent back, neck or shoulder pain that has not improved with rest and want a proper assessment.",
+  "You are recovering from a sports injury, such as a sprained ankle or torn muscle, and need guidance on safe rehabilitation.",
+  "You are due to have, or have just had, orthopaedic surgery and need help rebuilding strength and movement afterwards.",
+  "You have a neurological condition, such as after a stroke, and need support with balance, walking or everyday function.",
+  "You have been struggling with a long-term condition like arthritis and want to stay as active and mobile as possible."
+ ],
+ "context_heading": "What to know before you book physiotherapy",
+ "context": [
+  "In the UK, \"physiotherapist\" and \"physical therapist\" are protected titles. Anyone using them must be registered with the Health and Care Professions Council (HCPC), and you can check the register online. Most physiotherapists are also members of the Chartered Society of Physiotherapy, shown by the letters MCSP after their name.",
+  "Physiotherapy works best when it is active: your physiotherapist will assess you, then likely give you exercises and hands-on treatment, and expect you to practise between sessions. Combining clinic visits with home work and checking your progress regularly gives you the best chance of improvement. If you are unsure whether someone is a physiotherapist, ask about their HCPC registration."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the main problem you want help with, such as lower back pain, a knee injury or recovery from a stroke.",
+  "Say how long the problem has been going on and whether it is getting better, worse or staying the same.",
+  "Mention any diagnosis you have been given, or any surgery you have had or are waiting for.",
+  "Explain what you find difficult day to day, like walking upstairs, sitting at a desk or lifting your children.",
+  "Say whether you have seen a physiotherapist before and what helped or did not help.",
+  "Mention any preferences, such as wanting a clinic near your home or someone with experience of your particular condition."
+ ],
+ "questions_heading": "Questions to ask the physiotherapist",
+ "questions": [
+  "Are you registered with the Health and Care Professions Council, and what is your HCPC number?",
+  "What will the first appointment involve, and will you assess my movement and strength?",
+  "How will you decide what treatment I need, and will I get exercises to do at home?",
+  "How often should I expect to come, and how will we check whether it is working?",
+  "Do you have experience of helping people with my specific problem or condition?",
+  "What should I do if my symptoms get worse between appointments?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral from my GP to see a physiotherapist?",
+   "a": "No, you can usually book directly with a physiotherapist without seeing your GP first. However, if your problem is complex or you have other health conditions, it is still sensible to keep your GP informed."
+  },
+  {
+   "q": "What is the difference between a physiotherapist and a sports therapist?",
+   "a": "A physiotherapist is registered with the HCPC and has completed extensive training in assessing and treating movement problems. Sports therapists and massage therapists can help with some soft tissue issues, but they are not physiotherapists and are not regulated in the same way."
+  },
+  {
+   "q": "How many physiotherapy sessions will I need?",
+   "a": "That depends on your problem and how you respond to treatment. Your physiotherapist should explain a likely plan after the first assessment and check your progress regularly, so you know whether you are on track."
+  },
+  {
+   "q": "Can physiotherapy help if I have arthritis?",
+   "a": "Yes, physiotherapy can help you manage pain, keep your joints moving and stay active with arthritis. Your physiotherapist will tailor exercises and advice to your specific joints and goals."
+  }
+ ],
+ "extra_heading": "What a first physiotherapy appointment usually involves",
+ "extra": [
+  "A first physiotherapy appointment is mostly about understanding your problem rather than treating it straight away. Your physiotherapist will ask about your symptoms, how they started and what makes them better or worse, then watch you move and gently test your strength and range of movement. This assessment is what allows them to explain what is likely going on and agree a plan with you.",
+  "You may have some hands-on treatment or be shown a few exercises in that first session, but the main purpose is to set a direction. Expect to leave with a clearer idea of what to work on at home and what progress should look like, plus a sense of how often you should return. If anything about the assessment or plan is unclear, say so before you leave, as you will get more from physiotherapy when you understand the reasoning behind it.",
+  "It helps to arrive prepared: wear or bring clothing you can move in, and have your dates and any scans or letters to hand. If your problem is linked to a job, a sport or a daily task, mention it, because physiotherapy is built around getting you back to the things you actually need to do. The appointment is a conversation as much as an examination, so ask questions as they come to you."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Will I be asked to undress for a physiotherapy assessment?",
+   "a": "You may be asked to remove some clothing so your physiotherapist can see how you move, but you should always be offered privacy and a gown or towel, and you can ask to keep certain items on. Tell them if you feel uncomfortable, as they can usually adapt the assessment."
+  },
+  {
+   "q": "What should I do if physiotherapy makes my pain worse at first?",
+   "a": "Some soreness after exercises or hands-on treatment is not unusual, but you should tell your physiotherapist about it at your next appointment so they can adjust what you are doing. If pain is severe, lasting or worrying, contact them promptly or seek advice from NHS 111 or your GP."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for an osteopath usually means something in your body is asking for attention — a stubborn back, a stiff neck, or joint pain that has not settled. You want to understand what an osteopath does and how to find one who suits you. We introduce people to UK osteopaths who can assess your situation and quote you directly.",
+ "need_heading": "What people looking for an osteopath often need",
+ "need_lead": "Most people who search for an osteopath are dealing with pain or tension that is affecting daily life, and they want hands-on help from a registered professional.",
+ "needs": [
+  "You have persistent lower back pain that makes sitting, standing or sleeping uncomfortable, and you want a proper assessment rather than guesswork.",
+  "A stiff or painful neck, perhaps from long hours at a desk, is limiting how you turn your head and you would like hands-on treatment and advice.",
+  "Joint problems such as a painful knee or shoulder are stopping you from doing the things you enjoy, and you want to know whether osteopathy could help.",
+  "Muscle tension in your back or shoulders has built up over time and you are looking for a professional who can assess it and suggest exercises.",
+  "You have already seen your GP or another practitioner and now want to try osteopathy, but you are not sure how to choose a registered osteopath."
+ ],
+ "context_heading": "What to know before you book an osteopath",
+ "context": [
+  "Osteopathy is a hands-on approach to back pain, neck pain, joint problems and muscle tension. Osteopaths use techniques such as massage, stretching and joint mobilisation, and they also give advice on exercise and posture. They will take a full case history before treating you.",
+  "\"Osteopath\" is a protected title in the UK, so every osteopath must be registered with the General Osteopathic Council (GOsC). The GOsC sets standards and investigates concerns. You can check the register online before you book. If your symptoms need medical investigation, an osteopath should refer you to your GP."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the main problem — for example back pain, neck stiffness or a joint issue — and where you feel it.",
+  "Say how long the problem has been going on and whether it is getting better, worse or staying the same.",
+  "Mention anything that makes the pain better or worse, such as sitting, standing, movement or rest.",
+  "Let us know if you have seen your GP or another health professional about this problem already.",
+  "Tell us your general location so we can introduce you to an osteopath in a convenient area.",
+  "Include any preferences you have, such as a particular day or time for appointments, so the osteopath can quote accurately."
+ ],
+ "questions_heading": "Questions to ask the osteopath",
+ "questions": [
+  "Are you registered with the General Osteopathic Council, and what is your registration number?",
+  "What happens during the first appointment, and will you take a full case history?",
+  "How will you assess whether osteopathy is suitable for my problem?",
+  "What kind of hands-on techniques do you use, and will you explain them before starting?",
+  "Will you give me exercises or advice to use at home between sessions?",
+  "When would you refer me to my GP if my symptoms do not improve?"
+ ],
+ "faqs": [
+  {
+   "q": "What does an osteopath actually do?",
+   "a": "Osteopaths use hands-on techniques such as massage, stretching and joint mobilisation, along with advice on exercise and posture. They assess your medical history first and treat problems like back pain, neck pain, joint issues and muscle tension."
+  },
+  {
+   "q": "Do I need a referral from my GP to see an osteopath?",
+   "a": "You do not usually need a GP referral to see an osteopath. You can book directly, but it is sensible to mention any ongoing medical conditions or recent injuries when you enquire."
+  },
+  {
+   "q": "How do I check that an osteopath is properly registered?",
+   "a": "Every osteopath in the UK must be registered with the General Osteopathic Council (GOsC). You can check the GOsC register online before you book to confirm their registration."
+  },
+  {
+   "q": "Will the osteopath tell me if osteopathy is not right for my problem?",
+   "a": "A registered osteopath will assess your situation and should refer you to your GP if your symptoms need medical investigation. They will explain what they can and cannot help with."
+  }
+ ],
+ "extra_heading": "What happens at your first osteopathy appointment",
+ "extra": [
+  "A first appointment with an osteopath is mostly about understanding your problem before anyone lays hands on you. The osteopath will take a full case history, asking about your pain, your medical background and how the problem affects daily life, then carry out a physical assessment. This is your chance to ask what they think is going on and whether osteopathy is likely to help.",
+  "Treatment usually follows in the same visit if the osteopath decides it is appropriate. They may use massage, stretching or gentle joint mobilisation, and they should explain what they are doing and check you are comfortable throughout. You will normally leave with advice on exercise, posture or activity, so ask them to write down any exercises if you think you might forget them.",
+  "One common misunderstanding is that an osteopath only treats backs. In practice they also see people with neck pain, joint problems and muscle tension, and they should refer you to your GP if your symptoms need medical investigation. Another is that you need a referral to book — you can usually approach an osteopath directly, though it is worth mentioning any ongoing conditions when you enquire."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I see an osteopath or my GP first?",
+   "a": "If you are unsure what is causing your pain, or you have symptoms such as numbness, weakness or pain after an injury, see your GP first for advice. For everyday back, neck or joint pain, you can usually approach a registered osteopath directly, and they should refer you on if your symptoms need medical investigation."
+  },
+  {
+   "q": "How should I prepare for my first osteopathy appointment?",
+   "a": "Make a note of when the problem started, what makes it better or worse, and any medication or medical conditions you have. Wear comfortable clothing you can move in, and be ready to talk about how the pain affects your work, sleep and daily activities."
+  },
+  {
+   "q": "Will I have to undress for osteopathy treatment?",
+   "a": "Osteopaths often need to see and feel the area they are assessing, so you may be asked to remove some clothing. They should explain why, offer a gown or towel to keep you covered, and you can always say if you would prefer to keep something on."
+  }
+ ]
+}

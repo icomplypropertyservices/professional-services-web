@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for a chartered architect near you, you're likely planning a building project and want a qualified professional who can guide you through the process. You might be extending your home, converting a loft, or starting a new build, and you need someone local who understands the area and its planning context. We can introduce you to a suitable RIBA Chartered Architect or practice in your area, who will quote you directly.",
+ "need_heading": "What people searching for a chartered architect near me usually need",
+ "need_lead": "Most people looking for a chartered architect near them are at the start of a building project and need expert help with design, planning and compliance.",
+ "needs": [
+  "You have a clear idea for a home extension, renovation or new build, but you need a professional to turn it into workable plans.",
+  "You want someone who can handle planning permission and building regulations on your behalf, so you don't have to navigate the paperwork alone.",
+  "You are unsure whether you need a full chartered architect or whether an architectural technologist would suffice, and you want clarity on the difference.",
+  "You have a listed building or a property in a conservation area, and you need an architect who understands the additional constraints and approvals required.",
+  "You want a local professional who can visit your site, understand the orientation and surroundings, and liaise with local authorities and contractors."
+ ],
+ "context_heading": "Understanding chartered status and local architects",
+ "context": [
+  "In the UK, the title 'architect' is protected by law, and only those on the Architects Registration Board (ARB) register can call themselves architects. They must follow the ARB code of conduct and hold professional indemnity insurance. Many practices are also RIBA Chartered Practices, which means they meet additional standards for insurance, quality and professional development.",
+  "When searching for a chartered architect near you, it's worth checking that the person or practice is on the ARB register and, if they claim to be chartered, that they are a RIBA Chartered Practice. You can ask for their RIBA practice directory listing and check relevant projects they have completed. Architectural designers and technologists can also do excellent work, but they are not registered architects, so it's important to know which you are hiring."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Describe the type of project you are planning, such as a house extension, loft conversion, renovation or new build.",
+  "Mention the location of the property, including the town or postcode, so we can find a professional near you.",
+  "Explain whether the property is listed, in a conservation area, or has any other special status that might affect planning.",
+  "Let us know if you already have planning permission or building regulations approval, or if you need help with those processes.",
+  "Share your rough budget and timeline, so the professional can tailor their quote to your needs.",
+  "Tell us if you have any preferences for the architect's experience, such as work on similar property types or in your local area."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you on the Architects Registration Board register, and can you provide your registration number?",
+  "Are you a RIBA Chartered Practice, and can I see your practice directory listing?",
+  "Have you worked on projects similar to mine, and can you share examples of relevant projects?",
+  "What is your approach to planning permission and building regulations for a project like mine?",
+  "What are your fees, and how are they structured (for example, a percentage of build cost or a fixed fee)?",
+  "What is your availability, and how long do you estimate the design and planning stages will take?"
+ ],
+ "faqs": [
+  {
+   "q": "What is the difference between a chartered architect and an architectural designer?",
+   "a": "A chartered architect is registered with the Architects Registration Board (ARB) and may also be a member of the Royal Institute of British Architects (RIBA). Architectural designers are not registered architects, although they can offer design services. It's important to check your professional's credentials before appointing them."
+  },
+  {
+   "q": "Do I need a chartered architect for a small home extension?",
+   "a": "Not always, but a chartered architect can help with design, planning permission and building regulations, especially for complex projects. For simple extensions, you might use an architectural technologist, but a chartered architect offers additional assurance of professional standards and insurance."
+  },
+  {
+   "q": "How do I check if an architect is properly qualified?",
+   "a": "You can check the Architects Registration Board (ARB) register online to confirm someone is a registered architect. If they claim to be chartered, you can also ask for their RIBA Chartered Practice listing."
+  },
+  {
+   "q": "What should be included in a written appointment with an architect?",
+   "a": "A written appointment should set out the services the architect will provide, their fees, and the responsibilities of both parties. It's also wise to confirm that they hold professional indemnity insurance and are registered with the ARB."
+  }
+ ]
+}

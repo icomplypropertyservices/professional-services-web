@@ -1,0 +1,73 @@
+{
+ "intro": "You're looking for an ethical financial adviser near you, someone who can help your money reflect your values without ignoring the practical side of investing. Whether you want to avoid certain industries or back positive change, the right adviser will listen to what matters to you and explain the trade-offs clearly.",
+ "need_heading": "What people searching for an ethical financial adviser usually need",
+ "need_lead": "Most people want their investments to align with their principles, but they need help turning that wish into a sensible plan.",
+ "needs": [
+  "You have savings or investments and want to avoid putting money into companies or sectors that conflict with your ethics, such as tobacco, arms or fossil fuels.",
+  "You are considering an ethical or sustainable fund but are unsure how the labels are defined and whether the fund really matches your values.",
+  "You want to invest for the long term, perhaps for retirement, and need to balance your ethical preferences with the level of risk you can comfortably take.",
+  "You have an existing pension or investment portfolio and want to check whether it reflects your values, or you want to move it to a more ethical approach.",
+  "You are new to investing and want guidance from someone who understands ethical finance, so you can start on the right foot without feeling overwhelmed."
+ ],
+ "context_heading": "Understanding ethical investing and regulation",
+ "context": [
+  "Ethical financial advisers build investment plans that reflect your values, often using ESG (environmental, social and governance) and sustainable funds. Labels vary between providers, so it is important to ask how a fund screens companies and what it excludes or includes. The Financial Conduct Authority (FCA) has sustainability disclosure rules that aim to make these labels clearer, but you should still check the details.",
+  "Financial advice in the UK is regulated by the Financial Conduct Authority (FCA). You can check that any adviser or firm is authorised, or is an appointed representative of an authorised firm, on the FCA register. Advisers must tell you whether their advice is independent (considering the whole market) or restricted (limited to certain products or providers), and how they charge. If something goes wrong, you can complain to the firm, then to the Financial Ombudsman Service, and the Financial Services Compensation Scheme may protect you if an authorised firm fails."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the values that matter most to you, such as avoiding fossil fuels, supporting renewable energy or preferring companies with strong labour practices.",
+  "Mention whether you are looking for advice on a lump sum, regular savings, a pension or a general investment account, as this affects the type of adviser you need.",
+  "Say whether you already have investments or a pension that you want to check or move to a more ethical approach.",
+  "Indicate your attitude to risk, for example whether you prefer to play it safe or are comfortable with some ups and downs in pursuit of higher potential returns.",
+  "Explain whether you want ongoing advice or a one-off piece of work, as advisers offer different services and charging structures.",
+  "Let us know if you have a preference for independent advice that considers the whole market, or if you are open to restricted advice."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "How do you define ethical or sustainable investing, and what screening criteria do you use for funds?",
+  "Are you independent or restricted, and which ethical fund providers can you recommend?",
+  "How do you balance my ethical preferences with the need to manage risk and diversify my investments?",
+  "What are your charges, and how will I pay for your advice?",
+  "Can you explain the FCA sustainability disclosure rules and how they affect the funds you suggest?",
+  "What ongoing service do you provide, and how often will we check my investments to ensure they still match my values?"
+ ],
+ "faqs": [
+  {
+   "q": "What does an ethical financial adviser do?",
+   "a": "An ethical financial adviser helps you build an investment plan that reflects your values, often using ESG and sustainable funds. They will discuss your goals, your attitude to risk and the causes you care about, then recommend suitable investments."
+  },
+  {
+   "q": "How can I check that an adviser is properly authorised?",
+   "a": "You can check the FCA register to see if an adviser or firm is authorised or is an appointed representative of an authorised firm. This gives you protection, including access to the Financial Ombudsman Service and potentially the Financial Services Compensation Scheme."
+  },
+  {
+   "q": "Are ethical investments riskier than conventional ones?",
+   "a": "Not necessarily, but ethical funds can be more concentrated in certain sectors, which may affect risk. A good adviser will help you balance your values with diversification and your comfort with risk."
+  },
+  {
+   "q": "What do labels like ESG and sustainable mean?",
+   "a": "ESG stands for environmental, social and governance, and it is a way of assessing a company's impact and practices. Sustainable funds aim to invest in companies that contribute to positive change, but definitions vary, so always ask for details."
+  }
+ ],
+ "extra_heading": "Finding an adviser near you who takes ethics seriously",
+ "extra": [
+  "The words near you suggest you would rather sit down with someone locally than deal entirely at a distance, and that is a reasonable way to weigh up an ethical adviser. A face-to-face conversation makes it easier to explain the causes you care about and to judge whether the adviser genuinely engages with them rather than treating ethics as an afterthought.",
+  "When you compare local options, ask each adviser how they put values into practice rather than simply whether they offer ethical funds. One may screen out certain sectors, another may favour engagement with companies to push for change, and a third may focus on positive themes such as clean energy. These are different approaches with different trade-offs, and it is worth deciding which sits best with you before you choose.",
+  "Bear in mind that an adviser's location does not tell you anything about their approach to ethics, and a nearby firm may simply pass you to a specialist elsewhere in the same business. Ask who will actually handle your case and whether that person has experience of sustainable investing. Regulation is the same wherever the firm sits, so the FCA register check matters just as much for a local adviser."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Does an adviser have to be near me to give good ethical advice?",
+   "a": "No. Location does not determine quality, and many people are advised remotely quite happily. Meeting locally can help you build trust and discuss your values in person, but the important checks are the adviser's authorisation, their independence and how they screen funds."
+  },
+  {
+   "q": "What if my ethical priorities conflict with each other?",
+   "a": "That is common, for example wanting to avoid fossil fuels while also holding broad diversified funds. A good adviser will talk through the trade-offs with you and help you decide which values matter most, rather than pretending there is a perfect fund that meets every wish."
+  },
+  {
+   "q": "Will an ethical adviser try to sell me a particular fund?",
+   "a": "They should explain their recommendations and why they suit your values and your attitude to risk. Advisers must tell you whether their advice is independent or restricted and how they charge, so you can see whether their recommendations are drawn from the whole market or a narrower set of providers."
+  }
+ ]
+}

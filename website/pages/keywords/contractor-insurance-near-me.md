@@ -7,36 +7,42 @@ group: insurance
 hub: insurance-brokers
 profession: insurance broker
 service_label: Contractor insurance
-og_image: /assets/images/finance-desk.jpg
+og_image: /assets/images/hero-workshop.jpg
 ---
 
 # Contractor Insurance Near Me
 
-Looking for **contractor insurance near me** usually starts with a practical problem that needs a qualified person. Contractor insurance protects freelancers and contractors with professional indemnity, public liability and other covers.
+If you work as a contractor or freelancer, you may have found that a client wants proof of cover before they'll sign you up, or that you simply want protection if something goes wrong on a job. Searching for contractor insurance near me suggests you'd like to speak to someone local who understands the covers contractors typically need. We can introduce you to a UK insurance broker who will talk through your situation and quote you directly, with the price on application.
 
-We act as the middleman between you and the professional. Share a short brief and we match you with contractor insurance who has the right experience and capacity. Enquiring is free, and you are under no obligation to accept a quote.
+Contractor insurance protects freelancers and contractors with professional indemnity, public liability and other covers.
+
+Rather than calling round, you can send one enquiry to iComply. We look at your needs, location and timing, then introduce you to a suitable insurance brokerage. They quote you directly, POA, and you decide whether to go ahead.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Planning the first appointment after an enquiry for contractor insurance near me](/assets/images/finance-desk.jpg)
+![Client explaining what they need before being matched with contractor insurance](/assets/images/hero-workshop.jpg)
 
-## Common reasons people contact insurance brokers
+## What people searching for contractor insurance usually need
 
-Every enquiry is different, but these are typical starting points for clients who contact insurance brokers:
+Contractors come to this search with a few common situations in mind.
 
-- Renewal prices that have jumped.
-- High-value homes or contents.
-- A business needing liability, property or specialist cover.
-- New premises, vehicles or staff.
-- A claim history or unusual risk that standard insurers decline.
+- You've been asked by a client to show professional indemnity cover before a contract can start.
+- You want public liability cover in place in case your work affects a client's premises or a member of the public.
+- You're worried about how IR35 rules might affect you and want to understand what insurance is available to help.
+- You've finished a contract and need to check whether run-off cover is needed for work you've already completed.
+- You're not sure which covers apply to your trade and want a broker to explain the options before you commit.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of insurance broker fits best.
+## Choosing a broker you can actually reach
 
-## How long things usually take
+Searching for contractor insurance near me often means you'd rather deal with someone you could meet or phone at short notice, especially when a client is waiting on proof of cover. Distance is only part of it, though: what matters most is whether the broker regularly handles cover for contractors in your trade and can explain the policies in plain terms.
 
-Straightforward quotes can often be arranged within days. Complex business risks or specialist cover may take a few weeks while insurers review information, so start before your renewal date.
+When you compare brokers, ask each one the same set of questions so you can weigh the answers side by side. Find out which covers they'd suggest for your work, what the main exclusions are, whether run-off cover is included, and how they are paid. A broker who answers clearly and puts things in writing is easier to judge than one who only talks in headlines.
 
-## Qualifications and registration to look for
+It also helps to think about how you'd get in touch if something went wrong mid-contract, and whether the broker handles claims themselves or passes you to the insurer. Ask how they prefer to be contacted and what happens outside normal hours. That practical side of the relationship can matter as much as the quote itself.
+
+Remember that iComply isn't regulated and doesn't give advice or arrange cover; we introduce you to a UK insurance broker who quotes you directly, with the price on application.
+
+## How to check you are in safe hands
 
 Insurance brokers and intermediaries in the UK must be authorised by the FCA, or be appointed representatives of an authorised firm. Check them on the FCA register. Many brokers belong to the British Insurance Brokers' Association (BIBA), and some hold Chartered status from the Chartered Insurance Institute.
 
@@ -46,34 +52,7 @@ iComply is not a regulator and does not provide the professional service itself.
 
 **Need contractor insurance?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-## Finding contractor insurance near you
-
-When you search for contractor insurance near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
-
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
-
-## When to think twice
-
-Most professionals are honest and competent, but it is worth knowing the warning signs:
-
-- Unclear fees or commissions
-- Pressure to skip disclosures
-- Reluctance to explain exclusions
-- Not on the FCA register
-
-## Your relationship with the practice
-
-Once introduced, the broker will gather information and approach insurers. Advice and responsibility sit with the authorised broker. iComply does not arrange insurance.
-
-![Client explaining what they need before being matched with contractor insurance](/assets/images/hero-workshop.jpg)
-
-## What contractor insurance is likely to cost (POA)
-
-Brokers are often paid commission by the insurer and sometimes charge a broker fee; they must disclose how they are paid if you ask. Premiums are set by insurers based on risk. iComply does not publish prices; the broker quotes you, POA.
-
-Compare cover, excesses and exclusions, not just the premium. The cheapest policy is not always the best value when you need to claim.
-
-## Key things to know about contractor insurance
+## Before you choose contractor insurance
 
 A few points come up again and again with contractor insurance:
 
@@ -83,78 +62,121 @@ A few points come up again and again with contractor insurance:
 
 Raise any of these with the insurance broker you are introduced to; they should be happy to explain.
 
-## What to prepare before you enquire
+## Who you're dealing with when you buy contractor cover
+
+Insurance brokers and intermediaries in the UK must be authorised by the FCA, or be appointed representatives of an authorised firm, and you can check them on the FCA register. Many brokers belong to the British Insurance Brokers' Association, and some hold Chartered status from the Chartered Insurance Institute.
+
+A broker must understand your demands and needs, explain the key policy features and exclusions, and tell you how they are paid. If a complaint isn't resolved, it can go to the Financial Ombudsman Service. iComply itself isn't regulated and doesn't give advice or provide the insurance; we simply introduce you to a broker who quotes you directly.
+
+## What to tell iComply when you enquire
 
 You do not need all of this to enquire, but the more you can share, the better the match:
 
-- Any contract requirements for cover
-- Claims history for the past five years
-- Values of property, stock or vehicles
-- Health information, for personal protection
-- A description of what needs insuring
-- Turnover and staff numbers, for business cover
+- Describe the type of contracting work you do, including your trade or profession and the sector you work in.
+- Say which covers you've been asked for, such as professional indemnity or public liability, and who is asking.
+- Mention whether IR35 is a concern for you so the broker knows to discuss the cover available.
+- Explain whether you've had cover before and whether you need run-off cover for past work.
+- Give your location, since you searched for contractor insurance near me and may prefer a broker you can speak to locally.
+- Note any deadline from a client for providing proof of cover, so the broker understands your timing.
 
 Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
-## From enquiry to quote in four steps
+![Next steps after an iComply introduction for contractor insurance](/assets/images/insurance-advisory.jpg)
 
-1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
-1. **We review your brief.** We check the type of insurance broker you need, your location and your timing.
-1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
-1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
+## What contractor insurance is likely to cost (POA)
 
-We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
+Brokers are often paid commission by the insurer and sometimes charge a broker fee; they must disclose how they are paid if you ask. Premiums are set by insurers based on risk. The broker quotes you, POA.
 
-## Questions to ask contractor insurance
+Compare cover, excesses and exclusions, not just the premium. The cheapest policy is not always the best value when you need to claim.
 
-Once you are introduced, these questions help you decide whether the insurance broker is right for you:
+## How our free matching service works
 
-- What are the key exclusions in the cover you recommend?
-- Do you offer premium finance, and what does it cost?
-- Are you FCA authorised, and how are you paid?
-- What happens if I disclose something incorrectly?
-- Will you help if I need to make a claim?
-- How many insurers do you approach for a risk like mine?
+1. **Enquire for free** with your town or postcode and a short description.
+1. **We clarify** anything unclear, so the introduction is useful from the start.
+1. **We connect you** with contractor insurance who suits your situation.
+1. **The practice takes over**, confirms scope and fees in writing and does the work.
 
-![Insurance brokerage ready to take on a new enquiry for contractor insurance near me](/assets/images/healthcare-consult.jpg)
+There is no charge to you for the introduction, and no obligation to accept any quote.
 
-## FAQs: contractor insurance
+## Questions to ask the broker
+
+Asking a few direct questions early tells you a lot about how a practice works:
+
+- Which covers do you think my type of contracting work actually needs, and why?
+- Will the policy meet the professional indemnity requirement my client has set?
+- How does IR35 insurance work, and is it included or separate from the rest of the cover?
+- What run-off cover applies if I stop contracting or change direction, and how long does it last?
+- What are the main exclusions on this policy that could affect my work?
+- How are you paid for arranging this cover, and will that be explained to me in writing?
+
+## When to think twice
+
+Be cautious if you notice any of the following:
+
+- No help offered at claim time
+- Unclear fees or commissions
+- Not on the FCA register
+- Pressure to skip disclosures
+
+![Planning the first appointment after an enquiry for contractor insurance near me](/assets/images/finance-desk.jpg)
+
+## Contractor Insurance Near Me: FAQs
+
+### Do I need contractor insurance if my client hasn't asked for it?
+
+Not every contractor is required to hold cover, but some clients make professional indemnity a condition of the contract. A broker can explain what's typical for your trade and let you decide what's right for you.
+
+### What is run-off cover and why does it matter?
+
+Run-off cover keeps protection in place for work you've already completed after a policy ends, which can matter if a claim is made later. It's worth asking the broker whether it's included and how it applies to your contracts.
+
+### Can a broker help me understand IR35 insurance?
+
+IR35 insurance is available, and a broker can explain what it covers and whether it suits your situation. They can talk through the options alongside your other contractor covers.
+
+### How do I check that a broker is properly authorised?
+
+You can also ask whether they belong to the British Insurance Brokers' Association or hold Chartered status from the Chartered Insurance Institute.
+
+### Does a broker need to be near me to arrange contractor insurance?
+
+Not necessarily. Much of the work can be done by phone, email or video, so a broker further away who specialises in contractor cover may suit you better than a local one who doesn't. If meeting in person matters to you, say so when you enquire and we can take that into account.
+
+### What should I have ready before I speak to a broker?
+
+It helps to know the type of contracting work you do, which covers a client has asked for, and any deadline you're working to. Having details of past cover and any claims history to hand will also make the first conversation more useful.
+
+### Can I speak to more than one broker before deciding?
+
+Yes. Nothing stops you from approaching several brokers and comparing what they suggest, how they explain the cover and how they are paid. That gives you a clearer picture before you commit to anything.
 
 ### Is a broker more expensive than buying direct?
 
 Not necessarily. Brokers can access insurers and schemes not available directly, and help with claims. The right choice depends on how complex your needs are.
 
-### What is non-disclosure?
-
-Failing to tell an insurer something relevant. It can reduce or void a claim, so answer questions fully and ask your broker if unsure.
-
 ### How do I find contractor insurance near me?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable insurance brokerage with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
 
-### Can I contact you on WhatsApp?
+### Is iComply regulated?
 
-Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
+iComply is a matching service. We are not an insurance broker and we do not give professional advice. The professionals we introduce are registered with their own bodies, and you can check them.
 
-### How quickly will I hear back?
+### Is it free to use iComply?
 
-Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
+Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
 
-### Do I have to accept a quote?
+## Related searches
 
-No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
-
-## Other services you may need
-
-- [Construction insurance near me](/keywords/construction-insurance-near-me/)
+- [Contents insurance near me](/keywords/contents-insurance-near-me/)
+- [Haulage insurance near me](/keywords/haulage-insurance-near-me/)
+- [Best insurance broker near me](/keywords/best-insurance-broker-near-me/)
 - [Contents insurance broker near me](/keywords/contents-insurance-broker-near-me/)
-- [Insurance broker near me](/keywords/insurance-broker-near-me/)
-- [Care home insurance near me](/keywords/care-home-insurance-near-me/)
-- [Fleet insurance near me](/keywords/fleet-insurance-near-me/)
+- [Dental insurance broker near me](/keywords/dental-insurance-broker-near-me/)
 - [Browse all insurance brokers](/hubs/insurance-brokers/)
 
 ## Ready to be matched?
 
-Tell us what you need and where you are. We will match you with a suitable insurance broker, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
+One short enquiry is all it takes. We connect you with contractor insurance who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
 
 [Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

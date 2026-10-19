@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for ovarian reserve near me usually means you want to understand your egg supply, perhaps before deciding about egg freezing or because you are worried about your fertility. A fertility clinic can carry out the blood test and scan that estimate your ovarian reserve, and a specialist can talk you through what the results mean for you. We can introduce you to a suitable UK clinic, which will quote you directly.",
+ "need_heading": "What people searching for ovarian reserve testing usually need",
+ "need_lead": "Most people typing this search want a clear picture of their egg supply and a proper conversation about what it means.",
+ "needs": [
+  "You are thinking about egg freezing and want to know your ovarian reserve before making a decision.",
+  "You have been trying to conceive and want to understand whether your egg supply could be a factor.",
+  "You have been told your AMH is low or high and want a specialist to explain the result properly.",
+  "You are considering fertility treatment and a clinic has asked for ovarian reserve testing first.",
+  "You want a local clinic where you can have the blood test and scan done and discuss the results face to face."
+ ],
+ "context_heading": "What ovarian reserve testing can and cannot tell you",
+ "context": [
+  "Ovarian reserve testing uses an AMH blood test and an antral follicle scan to estimate how many eggs you have left. It is useful information, particularly if you are considering egg freezing, but it cannot tell you whether you will conceive.",
+  "Clinics offering IVF, donor treatment, egg and embryo freezing and most other fertility treatments must be licensed by the Human Fertilisation and Embryology Authority. The HFEA's Choose a Fertility Clinic tool shows each licensed clinic's inspection ratings, success rates and patient feedback, which can help you compare local options."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Say that you are looking for ovarian reserve testing and whether it is for egg freezing, trying to conceive or another reason.",
+  "Give the town or area you would like the clinic to be near, and how far you are willing to travel.",
+  "Mention whether you have already had an AMH test or antral follicle scan, and what the results were.",
+  "Explain whether you have any diagnosed condition or treatment history that affects your fertility.",
+  "Say whether you would like the results discussed with a specialist rather than just sent to you.",
+  "Tell us whether you have a preference for a clinic licensed by the HFEA for any treatment that might follow."
+ ],
+ "questions_heading": "Questions to ask the clinic",
+ "questions": [
+  "What does the ovarian reserve test involve, and will I have both the blood test and the scan?",
+  "How should I interpret my AMH result, and what are its limits?",
+  "Will a specialist discuss the results with me, and when?",
+  "If I am considering egg freezing, what would my results mean for that decision?",
+  "Is the clinic licensed by the HFEA for the treatments I might go on to have?",
+  "What would the testing cost, and is there a fee for the follow-up consultation?"
+ ],
+ "faqs": [
+  {
+   "q": "Can ovarian reserve testing tell me whether I can get pregnant?",
+   "a": "No. Ovarian reserve testing estimates your egg supply using an AMH blood test and an antral follicle scan, but it cannot predict whether you will conceive. A specialist can explain what your results do and do not mean for you."
+  },
+  {
+   "q": "Do I need to be considering IVF to have ovarian reserve testing?",
+   "a": "Not necessarily. Some people have it before deciding about egg freezing or simply to understand their fertility, and simple blood hormone checks may be offered by clinics outside HFEA licensing. Any treatment involving eggs, sperm or embryos should always be with a licensed centre."
+  },
+  {
+   "q": "How can I compare fertility clinics near me?",
+   "a": "The HFEA's Choose a Fertility Clinic tool shows each licensed clinic's inspection ratings, success rates and patient feedback. That gives you a factual basis for comparing local clinics rather than relying on claims alone."
+  },
+  {
+   "q": "What should I do with my ovarian reserve results?",
+   "a": "Discuss them with a specialist, who can put them in context alongside your age, history and plans. Results on their own can be misleading, so a proper conversation matters."
+  }
+ ]
+}

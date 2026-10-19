@@ -1,7 +1,7 @@
 ---
 slug: property-trust-will-near-me
 title: Property Trust Will Near Me | iComply Professional Services
-description: A property trust will near you: get matched free with a suitable UK wills and probate specialist via iComply Professional Services. Request a quote — POA.
+description: Need a property trust will near you? iComply connects you with a suitable UK wills and probate practice. Free, no-obligation matching. Request a quote — POA.
 family: wills
 group: legal
 hub: wills-probate
@@ -12,149 +12,149 @@ og_image: /assets/images/hero-workshop.jpg
 
 # Property Trust Will Near Me
 
-If you have typed **property trust will near me** into a search bar, you are likely looking for help soon and not too far away. A property trust will places your share of a jointly owned home into trust, often to protect it for children while allowing a partner to live there.
+Searching for a property trust will near you usually means you want to protect a share of your home for the people who matter to you — often children from a previous relationship — while still letting your partner stay there. It is a specific piece of will planning, and it needs someone who understands how trusts, ownership and family circumstances fit together. iComply can introduce you to a UK wills and probate specialist who will discuss your situation and quote you directly.
 
-Rather than calling round, you can send one enquiry to iComply. We look at your needs, location and timing, then introduce you to a suitable wills and probate practice. They quote you directly, POA, and you decide whether to go ahead.
+A property trust will places your share of a jointly owned home into trust, often to protect it for children while allowing a partner to live there.
+
+We act as the middleman between you and the professional. Share a short brief and we match you with a property trust will who has the right experience and capacity. Enquiring is free, and you are under no obligation to accept a quote.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
 ![Professional reviewing a client's brief before an introduction for property trust will near me](/assets/images/hero-workshop.jpg)
 
-## Common reasons people contact wills and probate specialists
+## What people searching for a property trust will usually need
 
-You do not need to have everything worked out. Clients often come to us with situations like these:
+The situations below are the ones that most often bring people to this kind of search.
 
-- A dispute about a will or how an estate is being handled.
-- Business owners who need their shares or partnership covered.
-- Planning for inheritance tax and passing on assets.
-- A first will after buying a home or having children.
-- Dealing with the estate of a parent or partner who has died.
+- You own your home with a partner and want your share to pass to your children rather than follow your partner's wishes later.
+- You are worried that if your partner remarries or has a change of circumstances, your children could lose out on the home.
+- You own the property as joint tenants and have been told that a property trust will needs tenants in common ownership to work.
+- You want your partner to be able to stay in the home for as long as they need it, with the property then passing to your chosen beneficiaries.
+- You are making or updating a will and want clear guidance on who should act as trustees and what they should do.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of wills and probate specialist fits best.
+## Questions to ask the professional
 
-## What to ask before you instruct anyone
+Asking a few direct questions early tells you a lot about how a practice works:
 
-Once you are introduced, these questions help you decide whether the wills and probate specialist is right for you:
+- Do we need to change our ownership from joint tenants to tenants in common before a property trust will can work?
+- How would the trust affect my partner's ability to stay in the home, and what would happen if they wanted to move?
+- What powers and duties would the trustees have, and how would they be guided?
+- Could the arrangement be challenged by family members, and how is that risk managed?
+- Are you regulated, do you hold professional indemnity insurance, and where will my original will be stored?
+- What would happen to the trust if my partner remarried or their circumstances changed?
 
-- How will you check the will is valid and properly signed?
-- How do you estimate the cost of administering an estate?
-- Are you regulated, and by whom?
-- What happens if a family member raises a dispute?
-- Where will the original be stored, and is there a charge?
-- Is the fee fixed for the will, or charged by time?
+## What a property trust will is likely to cost (POA)
 
-## How long things usually take
+Simple wills are often offered at a fixed fee, while trusts, business assets and complex families take more time. Estate administration may be charged by time, as a fixed fee for set stages, or occasionally as a percentage of the estate. The practice will quote you, POA.
 
-A straightforward will can often be drafted within a few weeks of the first meeting. Estates take longer: obtaining a grant, collecting assets and paying debts commonly takes many months, more if property must be sold or there is a dispute.
+Ask for the fee in writing, including storage, VAT and probate court fees. For estate work, ask for an estimate of the total cost and how often you will receive updates.
 
 **Need a property trust will?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-## From enquiry to quote in four steps
+## Warning signs to watch for
 
-1. **Enquire for free** with your town or postcode and a short description.
-1. **We clarify** anything unclear, so the introduction is useful from the start.
-1. **We connect you** with a property trust will who suits your situation.
-1. **The practice takes over**, confirms scope and fees in writing and does the work.
+Most professionals are honest and competent, but it is worth knowing the warning signs:
+
+- No regulation and no professional indemnity insurance
+- Percentage fees for estate work without a clear explanation
+- No proper advice about signing and witnessing
+- Unwillingness to provide a written estimate
+
+## How our free matching service works
+
+1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
+1. **We review your brief.** We check the type of wills and probate specialist you need, your location and your timing.
+1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
+1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
 
 There is no charge to you for the introduction, and no obligation to accept any quote.
 
-## How to check you are in safe hands
+![Wills and probate practice ready to take on a new enquiry for property trust will near me](/assets/images/finance-desk.jpg)
+
+## Checking wills and probate specialists are qualified and regulated
 
 Writing a will is not a reserved legal activity in England and Wales, so some will writers are not regulated. Solicitors (SRA) and chartered legal executives (CILEx) are regulated, insured and covered by the Legal Ombudsman. Many specialists are also members of STEP (the Society of Trust and Estate Practitioners) or Solicitors for the Elderly. Applying for a grant of probate on someone else's behalf for a fee is a reserved activity.
 
 When choosing a provider, ask whether they are regulated, whether they hold professional indemnity insurance and where your original will is stored. Scotland has its own rules on succession and confirmation, so make sure your adviser practises in the right jurisdiction.
 
-iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
+Please note that iComply is a matching service only. We are not regulated as a wills and probate specialist, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
 
-## Warning signs to watch for
+## Why ownership and trusteeship matter here
 
-Be cautious if you notice any of the following:
+A property trust will generally only works if you and your partner own the home as tenants in common, so each of you owns a defined share, rather than as joint tenants. If you are joint tenants, the ownership usually needs to be changed first, and that is something to raise with your adviser early on.
 
-- Percentage fees for estate work without a clear explanation
-- No regulation and no professional indemnity insurance
-- No proper advice about signing and witnessing
-- Pressure to buy add-on trusts or storage you do not need
+The trustees you name will need clear guidance about their role, including how the trust should work and what happens if your partner wants to move or sell. Writing a will is not a reserved legal activity in England and Wales, so some will writers are not regulated; solicitors regulated by the SRA and chartered legal executives regulated by CILEx are insured and covered by the Legal Ombudsman. Many specialists are also members of STEP or Solicitors for the Elderly.
 
-![Wills and probate practice ready to take on a new enquiry for property trust will near me](/assets/images/finance-desk.jpg)
+## Before you choose a property trust will
 
-## What a property trust will is likely to cost (POA)
-
-Simple wills are often offered at a fixed fee, while trusts, business assets and complex families take more time. Estate administration may be charged by time, as a fixed fee for set stages, or occasionally as a percentage of the estate. iComply does not publish fees; the practice will quote you, POA.
-
-Ask for the fee in writing, including storage, VAT and probate court fees. For estate work, ask for an estimate of the total cost and how often you will receive updates.
-
-## Getting ready for your first conversation
-
-You do not need all of this to enquire, but the more you can share, the better the match:
-
-- A list of main assets and roughly what they are worth
-- Questions about care costs or inheritance tax
-- Details of any existing will
-- Pension and life insurance nominations
-- Any property owned jointly, overseas or through a business
-- Who you would like as executors and guardians
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
-
-## Your relationship with the practice
-
-Once introduced, the practice will take instructions, carry out identity checks and confirm the fee in writing. They are responsible for the legal work. iComply does not draft wills or administer estates.
-
-## Near me: how local matching works
-
-When you search for a property trust will near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
-
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
-
-## Key things to know about a property trust will
-
-A few points come up again and again with a property trust will:
+These practical points are worth knowing before you speak to anyone about a property trust will:
 
 - Requires tenants in common ownership.
 - Can protect against remarriage risks.
 - Trustees need clear guidance.
 
-A good wills and probate specialist will talk you through each of these in plain English.
+Raise any of these with the wills and probate specialist you are introduced to; they should be happy to explain.
+
+## What to tell iComply when you enquire
+
+A short, clear brief saves time on both sides. Useful details include:
+
+- Say how you and your partner currently own the home — as joint tenants or as tenants in common.
+- Explain who you want to benefit from your share of the property and who you want to be able to live there.
+- Mention whether either of you has children from a previous relationship, as this often shapes the advice.
+- Say whether you already have a will and whether it has been updated since you bought the property.
+- Describe who you have in mind as trustees, and whether they know about the role.
+- Note whether the property is in England, Wales or Scotland, so you are introduced to someone practising in the right jurisdiction.
+
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
 ![Next steps after an iComply introduction for a property trust will](/assets/images/insurance-advisory.jpg)
 
-## FAQs about property trust will near me
+## FAQs: a property trust will
+
+### Can I put my share of the home into trust if we own it as joint tenants?
+
+Usually not without changing how you own the property first. A property trust will generally relies on tenants in common ownership, so each of you owns a defined share that can be placed into trust.
+
+### Will a property trust will stop my partner from being able to live in the home?
+
+The aim is usually the opposite: to let your partner stay in the home while protecting your share for your chosen beneficiaries. The exact terms depend on how the trust is drafted, so discuss your wishes clearly with your adviser.
+
+### Who should I choose as trustees?
+
+Trustees should be people you trust to follow your wishes and who understand the role. It helps to give them clear guidance, and some people choose a professional alongside family members.
+
+### Does it matter whether the property is in Scotland?
+
+Yes. Scotland has its own rules on succession and confirmation, so you should make sure your adviser practises in the right jurisdiction for the property.
 
 ### What happens if I die without a will?
 
 The intestacy rules decide who inherits, which may not reflect your wishes, especially for unmarried partners and stepchildren. A will lets you choose.
 
-### Do I need a solicitor for probate?
-
-Not always. Executors can apply for probate themselves for simpler estates. Many choose professional help where there is property, inheritance tax, overseas assets or family tension.
-
-### How do I find a property trust will near me?
+### Can you find a property trust will in my area?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable wills and probate practice with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
-
-### Is it free to use iComply?
-
-Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
 
 ### How quickly will I hear back?
 
 Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
 
-### Is iComply regulated?
+### Is it free to use iComply?
 
-iComply is a matching service. We are not a wills and probate specialist and we do not give professional advice. The professionals we introduce are registered with their own bodies, and you can check them.
+Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
 
 ## Other services you may need
 
-- [Complex will near me](/keywords/complex-will-near-me/)
-- [Estate planning solicitor near me](/keywords/estate-planning-solicitor-near-me/)
-- [Best inheritance dispute near me](/keywords/best-inheritance-dispute-near-me/)
+- [Letters of administration near me](/keywords/letters-of-administration-near-me/)
+- [Best estate planning near me](/keywords/best-estate-planning-near-me/)
 - [Will writing near me](/keywords/will-writing-near-me/)
-- [Executor assistance near me](/keywords/executor-assistance-near-me/)
+- [Probate application near me](/keywords/probate-application-near-me/)
+- [Complex will near me](/keywords/complex-will-near-me/)
 - [Browse all wills and probate specialists](/hubs/wills-probate/)
 
-## Request your free quote
+## Get a free quote for a property trust will
 
-One short enquiry is all it takes. We connect you with a property trust will who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
+Tell us what you need and where you are. We will match you with a suitable wills and probate specialist, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
 
 [Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

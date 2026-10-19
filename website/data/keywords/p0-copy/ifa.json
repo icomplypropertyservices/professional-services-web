@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for an IFA, you're likely looking for independent financial advice on a specific matter — perhaps planning for retirement, investing a lump sum, or protecting your family. You want someone who can look across the whole market and recommend what suits you, not just what one provider offers. iComply introduces you to a UK financial adviser who can discuss your needs and quote you directly.",
+ "need_heading": "What people searching for an IFA usually need",
+ "need_lead": "Most people want clear, independent advice on a financial decision that matters to them.",
+ "needs": [
+  "You are approaching retirement and want to understand your pension options, including whether to take tax-free cash or buy an annuity.",
+  "You have received a lump sum or inheritance and want to invest it sensibly for the medium or long term.",
+  "You want to look again at existing investments or pensions that you feel have been neglected or are no longer suitable.",
+  "You need advice on protecting your family with life insurance or critical illness cover, and want to know what is appropriate.",
+  "You are self-employed or a company director and want help with pension planning or tax-efficient ways to save for later life."
+ ],
+ "context_heading": "Understanding independent versus restricted advice",
+ "context": [
+  "An IFA must consider products from across the market when recommending pensions, investments and protection. Advisers must tell you whether their advice is independent or restricted, and explain how they charge, so you can see the difference clearly.",
+  "Financial advice in the UK is regulated by the Financial Conduct Authority (FCA). You can check that any adviser or firm is authorised, or is an appointed representative of an authorised firm, on the FCA register. If something goes wrong, you can complain to the firm and then to the Financial Ombudsman Service, and the Financial Services Compensation Scheme may protect you if an authorised firm fails."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention the specific area you need help with, such as retirement planning, investments, or protection.",
+  "Say whether you already have existing pensions or investments that you want looked at again.",
+  "Indicate your approximate time horizon — for example, whether you need advice for a decision you are making soon or for longer-term planning.",
+  "Share your preference for how you would like to work with an adviser, such as face-to-face, by phone, or online.",
+  "Note whether you have a particular requirement, such as wanting an adviser who is independent rather than restricted.",
+  "Include your location if you would prefer to meet an adviser in person."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you independent or restricted, and what does that mean for the products you can recommend to me?",
+  "How do you charge for your advice, and can you give me an estimate in pounds before I commit?",
+  "What qualifications do you hold, and are you a member of a professional body such as the Chartered Insurance Institute or the Personal Finance Society?",
+  "Can you explain the risks and charges of any product you recommend in plain English?",
+  "How often will we go over my plan, and what happens if my circumstances change?",
+  "What is your process if I am unhappy with the advice or service you provide?"
+ ],
+ "faqs": [
+  {
+   "q": "What does IFA stand for?",
+   "a": "IFA stands for independent financial adviser. An IFA considers products from across the market when recommending pensions, investments and protection."
+  },
+  {
+   "q": "How do I check that an adviser is authorised?",
+   "a": "You can check the Financial Conduct Authority (FCA) register to see if an adviser or firm is authorised, or is an appointed representative of an authorised firm. This helps ensure you have access to the Financial Ombudsman Service and the Financial Services Compensation Scheme if things go wrong."
+  },
+  {
+   "q": "Will I be charged for the introduction?",
+   "a": "iComply is a free introduction service for you. The adviser will quote you directly for their advice, and you can discuss their charges before deciding whether to proceed."
+  },
+  {
+   "q": "What should I have ready for my first conversation with an adviser?",
+   "a": "It helps to have details of your existing pensions, investments, and any protection policies, along with a clear idea of what you want to achieve. The adviser will then be able to give you a more focused discussion."
+  }
+ ],
+ "extra_heading": "What happens at a first meeting with an IFA",
+ "extra": [
+  "A first meeting with an independent financial adviser is usually a conversation rather than a sales pitch. Expect them to ask about your circumstances, your goals and your attitude to risk, and to explain whether their advice would be independent or restricted before you go further.",
+  "It helps to bring details of your existing pensions, investments and protection policies so the adviser can see the whole picture. They should set out how they charge and give you an idea of the cost in pounds before you commit to anything, so you can decide whether to proceed.",
+  "You are under no obligation to go ahead after that first discussion. Take time to compare what you have been told with any other quotes you receive, and ask again about anything that is not clear in plain English."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Is the first meeting with an IFA usually free?",
+   "a": "It varies between firms. Some offer an initial discussion at no cost, while others charge for it, so ask before you book and get any charge confirmed in pounds."
+  },
+  {
+   "q": "Do I have to decide at the first meeting?",
+   "a": "No. The purpose is to understand your situation and explain how the adviser can help, and you are free to think it over and compare before committing."
+  },
+  {
+   "q": "What if I only have a small amount to invest?",
+   "a": "Some advisers set a minimum amount they will take on, and others do not. Tell iComply what you have in mind so you can be introduced to a firm whose approach fits your situation."
+  }
+ ]
+}

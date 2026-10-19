@@ -1,0 +1,73 @@
+{
+ "intro": "You've searched for the best private referral near you, which usually means you need a private GP to write a referral letter so you can see a specialist or get a scan. Perhaps your insurer needs that letter before they'll authorise treatment, or you want to move things along without waiting. We can introduce you to a private GP who can help with that referral, and they'll quote you directly.",
+ "need_heading": "What people searching for a private referral usually need",
+ "need_lead": "A private referral letter from a GP is often the key to unlocking specialist care or insurance cover, and people seek one for several practical reasons.",
+ "needs": [
+  "You've seen your NHS GP but want to see a private specialist sooner, and you need a referral letter to book that appointment.",
+  "Your private health insurer has asked for a GP referral before they will authorise a consultation or scan.",
+  "You're experiencing a symptom that needs specialist investigation and you'd like an open referral so you can choose where to go.",
+  "You've had treatment privately before and need a fresh referral letter for a follow-up or a different specialist.",
+  "You want a referral letter that clearly sets out your history and the reason for referral, to bring to your first private appointment."
+ ],
+ "context_heading": "Understanding private referrals and your choice of GP",
+ "context": [
+  "A private referral letter from a GP is often required by insurers before they will authorise specialist care, and it helps the specialist understand your situation. Some GPs offer an open referral, which gives you more choice about which specialist or hospital you see. It's worth asking about this when you enquire.",
+  "Every doctor practising in the UK must be registered with the General Medical Council (GMC) and hold a licence to practise. GPs also appear on the GMC's GP register, which you can search online by name. In England, private clinics providing regulated healthcare must be registered with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA. Checking these registers can help you feel confident in your choice."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you're looking for a private referral letter and whether your insurer needs it.",
+  "Explain briefly why you need the referral, such as a specific symptom or a specialist you've been advised to see.",
+  "Say whether you'd prefer an open referral or a referral to a particular consultant or hospital.",
+  "Let us know if you have private health insurance and whether the insurer has given any conditions for the referral.",
+  "Share your general location so we can introduce you to a private GP near you.",
+  "Ask about the GP's availability and how quickly they can provide the letter, as timing may matter to you."
+ ],
+ "questions_heading": "Questions to ask the private GP",
+ "questions": [
+  "Will you provide an open referral so I can choose which specialist to see?",
+  "What information will the referral letter include, and will it be addressed to my insurer if needed?",
+  "How long will it take to receive the referral letter after my consultation?",
+  "Do you have experience writing referrals for my specific condition or for the specialist I need to see?",
+  "Will you share the consultation notes with my NHS GP, and how do you handle consent?",
+  "What is the fee for the consultation and the referral letter, and are there any additional costs?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral letter to see a private specialist?",
+   "a": "Many private specialists and hospitals ask for a GP referral letter before booking an appointment, and insurers often require one before authorising treatment. A private GP can provide this letter after a consultation. It helps the specialist understand your history and the reason for referral."
+  },
+  {
+   "q": "Can I get a private referral without seeing my NHS GP?",
+   "a": "Yes, a private GP can write a referral letter for you. They will usually ask about your medical history and may request your consent to share notes with your NHS practice so your records stay complete. This does not replace your NHS GP, but it can be a quicker route to a referral."
+  },
+  {
+   "q": "How do I choose the best private GP for a referral near me?",
+   "a": "You can check that the doctor is on the GMC register and, in England, that the clinic is registered with the CQC. It's also worth asking about their experience with referrals for your specific need and whether they offer open referrals. Reading about the clinic and asking questions can help you decide what's best for you."
+  },
+  {
+   "q": "Will my insurer accept a referral from a private GP?",
+   "a": "Insurers often accept referrals from private GPs, but it's important to check your policy and any conditions they set. Some may require the referral to include specific details, such as your symptoms and the specialist you need to see. It's best to confirm with your insurer before your appointment."
+  }
+ ],
+ "extra_heading": "What to expect at your private referral appointment",
+ "extra": [
+  "When you see a private GP for a referral, the appointment is usually longer than a standard NHS consultation, giving you time to explain your symptoms and history in detail. The GP will ask about your medical background, any treatment you've had, and what you hope to achieve from the referral. This helps them write a letter that accurately reflects your needs and supports your request for specialist care.",
+  "You should bring any relevant information, such as a list of medications, previous test results, and details of your private health insurance if you have it. If your insurer has specific requirements for the referral, let the GP know so they can include the necessary information. The GP may also ask for your consent to share notes with your NHS GP, which helps keep your records complete.",
+  "After the consultation, the GP will prepare the referral letter, which you can then send to your chosen specialist or insurer. Some GPs may offer to send it directly, so ask about the process. It's also worth checking whether the letter will be open or addressed to a specific consultant, as this affects your choice of specialist."
+ ],
+ "extra_faqs": [
+  {
+   "q": "How long does a private referral appointment take?",
+   "a": "Private GP appointments for a referral typically last longer than standard NHS consultations, often around half an hour, but this can vary. The extra time allows the GP to take a full history and discuss your needs thoroughly."
+  },
+  {
+   "q": "Can I get a referral letter for a specialist I've already chosen?",
+   "a": "Yes, a private GP can write a referral letter to a specific consultant or hospital if you have one in mind. Just let them know the details during your appointment so they can address the letter correctly."
+  },
+  {
+   "q": "Will the private GP need to see my medical records?",
+   "a": "The GP may ask about your medical history and any previous treatment, but they won't automatically have access to your NHS records. You can provide relevant information or give consent for them to request records if needed."
+  }
+ ]
+}

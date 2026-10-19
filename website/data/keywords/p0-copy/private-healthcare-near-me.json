@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for private healthcare near me usually means you want to be seen sooner than the NHS can offer, or you want to choose who you see and when. You may be paying for yourself or using health insurance, and you want a clinic that is genuinely close and easy to get to. We can introduce you to a suitable UK private GP or clinic, and they will quote you directly.",
+ "need_heading": "What people searching this usually need",
+ "need_lead": "Most people typing this are looking for a convenient, local route to a GP appointment or a consultation without waiting for an NHS slot.",
+ "needs": [
+  "You have a health concern you would like looked at promptly and want to know which private clinics near you can see you.",
+  "You have health insurance and want to find a local private GP or clinic that works with your insurer.",
+  "You are paying for yourself and want to understand what a consultation or a package might involve before you commit.",
+  "You need a private GP close to home or work because travelling far is difficult or impractical.",
+  "You want a consultation that can share notes with your NHS GP so your records stay joined up."
+ ],
+ "context_heading": "Private care sits alongside the NHS",
+ "context": [
+  "Private healthcare covers GP appointments, specialist consultations, diagnostics and treatment that you or your insurer pay for, and it runs alongside NHS care rather than replacing it. A private GP does not replace your NHS GP, and a good clinic will ask for your consent to share consultation notes with your NHS practice so your records stay complete and medication is prescribed safely.",
+  "Every doctor practising in the UK must be registered and hold a licence to practise with the General Medical Council, and GPs also appear on the GMC's GP register, which you can search by name. Private clinics providing regulated healthcare in England must register with the Care Quality Commission, which inspects and publishes ratings; in Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA. Emergency care stays with the NHS, so for anything urgent use NHS 111 or 999."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Say what you need help with and whether it is a one-off concern or something you want reviewed over time.",
+  "Tell us whether you are paying for yourself or using health insurance, and name your insurer if you have one.",
+  "Give the area or town you want the clinic to be near, and how far you are willing to travel.",
+  "Mention any preference for appointment times, such as evenings or weekends, if that matters to you.",
+  "Explain whether you want the clinic to share notes with your NHS GP.",
+  "Include anything that affects your choice, such as accessibility needs or a preference to see a particular type of clinician."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "What does a first consultation cost, and is it a fixed price or charged by time?",
+  "Are you registered with the General Medical Council and on the GP register?",
+  "Is the clinic registered with the relevant regulator for its nation, and where can I see that?",
+  "Will you share consultation notes with my NHS GP, and how does that work?",
+  "Do you work with my insurer, and what would I need to arrange before the appointment?",
+  "What happens if my concern turns out to need tests or a specialist referral?"
+ ],
+ "faqs": [
+  {
+   "q": "Will a private GP replace my NHS GP?",
+   "a": "No. A private GP does not replace your NHS GP, and private care runs alongside NHS care. A good clinic will ask for consent to share notes with your NHS practice so your records stay complete."
+  },
+  {
+   "q": "Can I use my health insurance for a private GP appointment near me?",
+   "a": "Some insurers cover private GP appointments and some do not, and the self-pay and insured routes differ. It is worth checking with your insurer before you book so you know what is covered."
+  },
+  {
+   "q": "How do I check that a clinic near me is properly regulated?",
+   "a": "You can search the GMC's online register by name to check any doctor's registration and licence to practise. Private clinics providing regulated healthcare in England must register with the Care Quality Commission, and each nation has its own regulator."
+  },
+  {
+   "q": "What should I do in an emergency?",
+   "a": "Emergency care stays with the NHS. For urgent advice use NHS 111, and for a life-threatening emergency call 999."
+  }
+ ],
+ "extra_heading": "Working out what private healthcare near you actually covers",
+ "extra": [
+  "The phrase private healthcare near me is broader than private GP near me. It can lead you to a clinic offering GP appointments, a specialist consultation, scans or tests, and those are priced and arranged in quite different ways. Before you ring round, it helps to be clear which of these you are actually after, because a clinic that suits a quick GP appointment may not be the right place for a specialist opinion.",
+  "When you compare options, ask each clinic what happens after the first appointment. Some will see you, advise you and hand you back to your NHS GP, while others can arrange tests and onward referral within the same setting. Neither approach is automatically better, but knowing which you need stops you paying for a consultation that cannot take you further. It is also worth asking whether the clinician you will see is the one who will handle any follow-up.",
+  "Location matters more than it first appears. A clinic that is close on the map can still be awkward to reach by public transport or at the times you are free, so check opening hours and travel before you commit. If you are using insurance, confirm with the insurer that the specific clinic and clinician are covered before you book, as the insured and self-pay routes work differently."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Is private healthcare near me the same as seeing a private GP?",
+   "a": "Not quite. Private healthcare is the wider category, covering GP appointments, specialist consultations, diagnostics and treatment, while a private GP is one way into it. If you are unsure which you need, describe your concern when you enquire and the professional can tell you whether they are the right starting point."
+  },
+  {
+   "q": "Can I be seen privately for something my NHS GP is already treating?",
+   "a": "Yes, private care runs alongside NHS care rather than replacing it. A good clinic will ask your consent to share notes with your NHS practice so your records stay complete and any medication is prescribed safely."
+  },
+  {
+   "q": "What if my concern turns out to be urgent?",
+   "a": "Emergency care stays with the NHS. For urgent advice use NHS 111, and for a life-threatening emergency call 999 rather than waiting for a private appointment."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for top mortgage brokers near you usually means you want someone local who can compare deals across lenders and steer your application through to offer. Perhaps you're buying your first home, remortgaging, or your current deal is ending and you'd like to know what else is out there. We can introduce you to a suitable UK mortgage broker in your area, and they'll quote you directly — quotes are price on application.",
+ "need_heading": "What people searching this usually need",
+ "need_lead": "Most people typing this are at the start of a property or remortgage decision and want a broker who can do the legwork on lenders.",
+ "needs": [
+  "You're buying your first home and want someone to explain how affordability is assessed and what deposit you'll need.",
+  "You're remortgaging because your current fixed rate is ending and you want to see what other lenders could offer.",
+  "You've had a decision in principle from one lender but want a broker to check whether a different lender suits your circumstances better.",
+  "You're self-employed or have an irregular income and want a broker who understands how lenders assess non-standard earnings.",
+  "You're moving home and want the mortgage arranged alongside the sale so the application keeps pace with the purchase."
+ ],
+ "context_heading": "Judging which broker is right for you",
+ "context": [
+  "Words like top don't have an official meaning for mortgage brokers, so it's worth judging for yourself rather than relying on the label. Mortgage advice is regulated by the Financial Conduct Authority (FCA), and any broker or adviser you use should be authorised, or be an appointed representative of an authorised firm — you can check this on the FCA register. Advisers typically hold a qualification such as CeMAP.",
+  "Brokers must tell you whether they search the whole of the market or a limited panel of lenders, and how they are paid, whether by lender commission, a fee, or both. Ask about this early so you understand the arrangement before you commit. If something goes wrong, you can complain to the firm and then to the Financial Ombudsman Service."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say whether you're buying, remortgaging or moving home, so the broker knows the shape of the job.",
+  "Give your approximate property value and the size of your deposit or existing mortgage.",
+  "Mention whether you're employed, self-employed or have another income pattern, as this affects which lenders may suit you.",
+  "Say whether you already have a decision in principle or an offer in place.",
+  "Explain roughly where the property is, so we can introduce a broker who covers your area.",
+  "Note any particular priorities, such as wanting a broker who searches the whole market or one who can handle a complex income."
+ ],
+ "questions_heading": "Questions to ask the broker",
+ "questions": [
+  "Do you search the whole of the market or a limited panel of lenders?",
+  "How are you paid — by lender commission, a fee, or both — and what will that mean for me?",
+  "Are you authorised by the Financial Conduct Authority, and can you tell me your firm's reference?",
+  "What qualification do you hold, such as CeMAP?",
+  "Should I get a decision in principle before we start looking at properties?",
+  "How will you keep me updated as my application moves towards an offer?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check a mortgage broker is properly authorised?",
+   "a": "Mortgage advice is regulated by the Financial Conduct Authority (FCA). Any broker or adviser should be authorised, or be an appointed representative of an authorised firm, and you can check this on the FCA register before you proceed."
+  },
+  {
+   "q": "What does it mean if a broker says they search the whole market?",
+   "a": "Brokers must tell you whether they search the whole of the market or a limited panel of lenders. If they use a panel, ask which lenders are included and whether that could limit your options."
+  },
+  {
+   "q": "Will a broker charge me a fee?",
+   "a": "Brokers must explain how they are paid, whether by lender commission, a fee, or both. Ask for this in writing before you start so you understand the arrangement."
+  },
+  {
+   "q": "What if I'm unhappy with the service?",
+   "a": "You can complain to the firm first, and if that doesn't resolve things you can take your complaint to the Financial Ombudsman Service. It's worth keeping a record of your communications in case you need them."
+  }
+ ],
+ "extra_heading": "Comparing several brokers before you choose",
+ "extra": [
+  "Searching for top mortgage brokers near me, rather than just one, suggests you'd like to weigh up a few people before settling on someone to handle your application. That's sensible, because the right fit depends on your circumstances — a first-time buyer with a straightforward salary has different needs from someone self-employed or remortgaging a property with an unusual structure. Comparing a handful of brokers on how they work, rather than on any label, will tell you more than any ranking.",
+  "When you speak to each one, ask the same questions so the answers are genuinely comparable. Whether they search the whole of the market or a limited panel, how they're paid, and what qualification they hold are all things they must be able to explain clearly. Notice, too, how well they listen to the details of your situation — a broker who asks about your income pattern, deposit and plans is more likely to find a mortgage that fits than one who quotes a rate straight away.",
+  "A first appointment is usually a conversation about your circumstances and what you can afford, not a commitment to proceed. It's a chance to ask how they'll keep you updated as the application moves towards an offer, and to check you're comfortable with the arrangement before anything is submitted. If the fit doesn't feel right, you're free to speak to someone else."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I speak to more than one mortgage broker?",
+   "a": "It's reasonable to speak to a few so you can compare how they work and how they'd approach your situation. Ask each the same questions about market coverage, fees and qualifications so you can judge them side by side. There's no obligation to proceed with any of them."
+  },
+  {
+   "q": "How can I tell which broker is right for my circumstances?",
+   "a": "Focus on fit rather than labels: whether they've dealt with situations like yours, such as self-employment or a remortgage, and whether their answers are clear. Check they're authorised by the Financial Conduct Authority on the FCA register and that you understand how they're paid. A broker who explains things plainly and listens carefully is often the better sign than one who rushes to a rate."
+  },
+  {
+   "q": "Does choosing a broker near me matter?",
+   "a": "A local broker can be convenient if you'd prefer to meet in person, but much of the work can be done by phone or online. What matters more is whether they search the whole market or a limited panel and how they're paid. When you enquire, tell us roughly where the property is so we can introduce a broker who covers your area."
+  }
+ ]
+}

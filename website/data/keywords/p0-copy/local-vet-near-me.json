@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for a local vet near me, you are usually looking for a practice close to home that can care for your pet, whether for a one-off problem or ongoing health needs. You might be registering a new puppy or kitten, moving to a new area, or worried about a change in your animal's behaviour or appetite. We can introduce you to a suitable UK vet who will quote you directly, with prices on application.",
+ "need_heading": "What people searching for a local vet near me usually need",
+ "need_lead": "Most people want a nearby practice they can reach easily and trust with their animal's health.",
+ "needs": [
+  "You have a new pet and need to register with a practice for vaccinations, microchipping and a general check-up.",
+  "Your pet is showing symptoms such as lethargy, vomiting or a limp, and you want to arrange an appointment without a long journey.",
+  "You are moving house and need to transfer your pet's records to a practice closer to your new home.",
+  "You want advice on preventive care such as flea and worm treatment or neutering, and prefer to speak to someone face to face.",
+  "Your animal has an ongoing condition that needs regular monitoring, and you want a practice that is convenient for repeat visits."
+ ],
+ "context_heading": "What to understand about choosing a local vet",
+ "context": [
+  "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS), and you can search the RCVS register by name before you book. Veterinary nurses have their own RCVS register too. Many practices also join the voluntary RCVS Practice Standards Scheme, which inspects premises, equipment and clinical processes.",
+  "It is worth asking how the practice covers nights and weekends, as many use a dedicated out-of-hours provider. Preventive health plans can spread the cost of routine care, but check what they include. If your animal has a complex or unusual condition, you can ask whether the vet holds further qualifications such as an RCVS certificate or specialist status, or whether they refer to someone who does."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Tell us the type of animal you have, including the species, breed and age, so we can introduce you to a vet suited to its needs.",
+  "Let us know whether you are looking for a practice for routine preventive care, a specific health concern, or both.",
+  "Mention any particular requirements, such as accessibility, parking or opening hours that fit around work.",
+  "Tell us if your pet has an ongoing condition or needs repeat visits, so we can consider a practice convenient for you.",
+  "Say whether you have pet insurance or prefer to pay as you go, as this may affect the questions you ask the vet.",
+  "Include your postcode or the area you would like the practice to be near, so we can introduce you to a local vet."
+ ],
+ "questions_heading": "Questions to ask the vet",
+ "questions": [
+  "Are you registered with the Royal College of Veterinary Surgeons, and can you tell me your registration number?",
+  "How do you cover emergencies at night and at weekends?",
+  "Do you offer a preventive health plan, and what does it include?",
+  "What are your consultation fees, and do you provide a written estimate before treatment?",
+  "Do you have any further qualifications or special interests in the type of animal I have?",
+  "How do you handle repeat prescriptions and follow-up appointments?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check that a vet is properly registered?",
+   "a": "You can search the Royal College of Veterinary Surgeons (RCVS) register by name. Every vet practising in the UK must be registered with the RCVS, and veterinary nurses have their own register too."
+  },
+  {
+   "q": "What should I do if my pet needs urgent care outside normal hours?",
+   "a": "Ask the practice how they cover out-of-hours care before you register, as many use a dedicated emergency provider. If you are unsure whether your pet needs urgent attention, you can call NHS 111 for advice, though this is for human health, or contact the practice for guidance."
+  },
+  {
+   "q": "Can I spread the cost of routine care?",
+   "a": "Many practices offer preventive health plans that spread the cost of vaccinations, parasite control and check-ups. Always check exactly what is included and whether there are any exclusions before you sign up."
+  },
+  {
+   "q": "What if my pet has a complex condition?",
+   "a": "It is reasonable to ask whether the vet treating your pet holds further qualifications such as an RCVS certificate or specialist status, or whether they would refer you to someone who does. You can also ask about the practice's experience with your pet's specific condition."
+  }
+ ],
+ "extra_heading": "Getting to the practice for the first time",
+ "extra": [
+  "Choosing a local vet near me is often about the journey as much as the care, especially if your animal finds car travel stressful or you do not drive. Before you book, think about how you would get there in an emergency as well as for routine visits, and whether parking or public transport makes that realistic at short notice.",
+  "A first appointment is usually a chance for the vet to meet your animal and take a history rather than to solve everything at once. Bring any records you have from a previous practice, such as vaccination dates and details of ongoing medication, and note down symptoms, changes in appetite or behaviour, and the questions you want to ask.",
+  "It helps to ask how the practice handles things that fall outside a standard consultation, such as repeat prescriptions, follow-up checks after treatment, and referral to someone with more experience of your animal's condition. Knowing this before you register means fewer surprises if your pet needs more than a routine visit."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Can I visit the practice before registering my pet?",
+   "a": "Many practices are happy for you to look round or speak to the reception team before you commit, so it is worth asking. This can help you judge whether the journey and the surroundings suit your animal."
+  },
+  {
+   "q": "What should I bring to my pet's first appointment?",
+   "a": "Bring any records from a previous practice, including vaccination history and details of medication, along with notes on symptoms or changes you have noticed. If your animal is insured, it can help to have the policy details to hand."
+  },
+  {
+   "q": "Is a practice close to home always the right choice?",
+   "a": "Convenience matters for repeat visits and emergencies, but it is also reasonable to travel further for a vet with experience of your animal's particular needs. Weigh up the journey against the care on offer and ask how out-of-hours cover works before you decide."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for the \"best solicitor near me\", you are likely facing a legal issue that feels personal and urgent, and you want someone local who can help you resolve it. The right solicitor for you will depend on what your matter is and how you prefer to work, so it is worth thinking about those details before you start.",
+ "need_heading": "What people searching for a solicitor usually need",
+ "need_lead": "Most people looking for a solicitor nearby are dealing with a specific legal problem and want clear advice and a realistic idea of costs.",
+ "needs": [
+  "You are buying or selling a home and need a conveyancing solicitor who can handle the paperwork and keep you informed.",
+  "You are separating from a partner and need advice on arrangements for children or finances.",
+  "You have a dispute with an employer or a business and want to know your rights and options.",
+  "You are dealing with probate after a bereavement and need help with the estate.",
+  "You have received a court claim or letter before action and need urgent advice on how to respond."
+ ],
+ "context_heading": "What 'best' means when choosing a solicitor",
+ "context": [
+  "There is no official ranking of solicitors, so 'best' really means best for your situation. Look for someone who regularly handles the type of legal matter you have, and ask about their experience in that area. Personal fit matters too: you should feel comfortable asking questions and understand the advice you are given.",
+  "Costs can vary, so ask for information about fees at the start. Solicitors in England and Wales are regulated by the Solicitors Regulation Authority (SRA), and you can check an individual or firm on the SRA register. In Scotland, solicitors are regulated by the Law Society of Scotland, and in Northern Ireland by the Law Society of Northern Ireland."
+ ],
+ "tell_heading": "What to tell iComply about your search",
+ "tell": [
+  "Describe the legal issue you need help with, such as a house purchase, a family matter or a dispute.",
+  "Say whether you have any deadlines, such as a court date or a completion date.",
+  "Mention your location and how far you are willing to travel, or whether you would prefer to work remotely.",
+  "Explain whether you have already taken advice or received any documents about the matter.",
+  "State your preferred way of communicating, for example by phone, email or in person.",
+  "Let us know if you have a particular budget in mind or need to understand costs before proceeding."
+ ],
+ "questions_heading": "Questions to ask a solicitor before you instruct them",
+ "questions": [
+  "Do you specialise in the type of legal matter I need help with?",
+  "What are your fees and how will you keep me informed about costs?",
+  "Who will be handling my matter day to day?",
+  "How long do you expect the matter to take, and what are the key stages?",
+  "What information or documents do you need from me to get started?",
+  "What is your complaints procedure if I am unhappy with the service?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check that a solicitor is properly regulated?",
+   "a": "In England and Wales, you can check a solicitor or firm on the Solicitors Regulation Authority (SRA) register. In Scotland, check with the Law Society of Scotland, and in Northern Ireland with the Law Society of Northern Ireland."
+  },
+  {
+   "q": "Can I ask for a quote before I commit?",
+   "a": "Yes, it is sensible to ask for information about fees and what is included before you instruct a solicitor. Many firms will give you an initial indication of costs, though the final amount may depend on how your matter develops."
+  },
+  {
+   "q": "What should I do if I have a complaint about my solicitor?",
+   "a": "First, use the firm's own complaints procedure. If that does not resolve the issue, in England and Wales you can take service complaints to the Legal Ombudsman."
+  },
+  {
+   "q": "Do I need a solicitor who is local to me?",
+   "a": "Not necessarily. Many legal matters can be handled remotely, but some people prefer to meet in person. When you enquire, tell us your preference so we can introduce you to a suitable professional."
+  }
+ ],
+ "extra_heading": "What to expect at your first meeting with a solicitor",
+ "extra": [
+  "When you first meet a solicitor near you, they will usually ask you to explain the legal matter in your own words and will then ask questions to fill in the details. They may ask to see any documents you have, such as a contract, a court letter or correspondence with the other side. This helps them understand your position and advise you on your options.",
+  "You should expect the solicitor to explain the law in a way you can understand and to outline the possible courses of action, including the risks and likely costs of each. They may not be able to give you a complete answer at the first meeting if they need to review documents or research a point, but they should tell you what happens next and when you will hear from them.",
+  "It is also your chance to ask about their experience with cases like yours, who will be handling your matter day to day, and how you will be kept informed. If you feel rushed or unclear about anything, say so. A good solicitor will welcome your questions and make sure you leave with a clear idea of what to do next."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Will the first meeting be free?",
+   "a": "Not necessarily. Some solicitors offer a free initial consultation, but many charge for their time. Always ask about the cost of the first meeting before you book, and check whether any fee will be deducted from later charges if you go on to instruct them."
+  },
+  {
+   "q": "What should I bring to the first appointment?",
+   "a": "Bring any documents relevant to your matter, such as contracts, letters, court forms or emails, and a note of key dates and names. It also helps to write down your questions in advance so you do not forget them."
+  },
+  {
+   "q": "Can I change solicitors if I am not happy?",
+   "a": "Yes, you can change solicitors, but you will need to settle any outstanding fees with the first firm and the new firm will need to obtain your file. It is worth discussing your concerns with your current solicitor first, as many issues can be resolved quickly."
+  }
+ ]
+}

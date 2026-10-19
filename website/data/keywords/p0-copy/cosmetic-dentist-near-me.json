@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for a cosmetic dentist near me usually means you want to change how your teeth look — whitening, veneers, bonding or aligners — and you'd rather see someone local. You want a practice you can get to easily, and you want to know the person doing the work is properly registered. We introduce you to a private dentist who can quote you directly, with prices on application.",
+ "need_heading": "What people searching for a cosmetic dentist near me often need",
+ "need_lead": "Most people who type this search have a specific change in mind and want a local practice that can assess it.",
+ "needs": [
+  "You want whiter teeth and need to know whether whitening is safe for your enamel and gums.",
+  "You have a chipped or uneven tooth and want to discuss bonding or a veneer with someone nearby.",
+  "You are unhappy with crooked teeth and want to ask about clear aligners rather than fixed braces.",
+  "You have old crowns or fillings that show when you smile and want to explore cosmetic alternatives.",
+  "You want a local practice you can reach easily for a consultation and any follow-up appointments."
+ ],
+ "context_heading": "Health comes before cosmetics",
+ "context": [
+  "Cosmetic dentistry is still dentistry, so your general oral health matters first. A good cosmetic dentist will check your teeth and gums before discussing whitening, veneers or aligners, because healthy teeth and gums give the best and safest results.",
+  "Whitening must be done by a dental professional — dentists, dental hygienists and dental therapists are registered with the General Dental Council (GDC), and you can check the GDC register online. Private clinics providing regulated healthcare in England must register with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales it is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say which cosmetic treatment you are interested in, such as whitening, bonding, veneers or aligners.",
+  "Describe what you dislike about your teeth so the dentist can prepare for your consultation.",
+  "Mention any current dental problems, such as sensitivity, bleeding gums or a loose tooth.",
+  "Say whether you have seen a dentist recently and whether you have any ongoing treatment.",
+  "Give your location and how far you are willing to travel to see a cosmetic dentist near you.",
+  "Note any preferences, such as a practice that offers evening appointments or is easy to reach by public transport."
+ ],
+ "questions_heading": "Questions to ask the cosmetic dentist",
+ "questions": [
+  "Are you registered with the General Dental Council, and what is your GDC number?",
+  "Can you show me examples of your own cosmetic work similar to what I am asking for?",
+  "What are the risks and aftercare for the treatment you are recommending?",
+  "Will you check my teeth and gums are healthy before starting cosmetic treatment?",
+  "Who will carry out the whitening or other procedure, and are they registered with the GDC?",
+  "What is the total cost, including any follow-up appointments, and how do I pay?"
+ ],
+ "faqs": [
+  {
+   "q": "Is teeth whitening safe if I do it at home?",
+   "a": "Whitening must be done by a dental professional, so talk to a dentist before using any whitening product. They can check your teeth and gums and advise on the safest option for you."
+  },
+  {
+   "q": "Do I need a check-up before cosmetic treatment?",
+   "a": "Yes, a cosmetic dentist will usually want to check your teeth and gums first. Health comes before cosmetics, and healthy teeth and gums give the best results."
+  },
+  {
+   "q": "What can I do if I am unhappy with private dental treatment?",
+   "a": "Start with the practice's complaints process. If it is not resolved, the Dental Complaints Service can help with private dental complaints."
+  },
+  {
+   "q": "How do I check a cosmetic dentist's registration?",
+   "a": "Dentists, dental hygienists, dental therapists and dental nurses must be registered with the General Dental Council (GDC). You can check the GDC register online, and specialist titles such as orthodontist can only be used by people on a GDC specialist list."
+  }
+ ],
+ "extra_heading": "What happens at a cosmetic consultation",
+ "extra": [
+  "A cosmetic consultation is a conversation before any treatment. The dentist will look at your teeth and gums, ask what you would like to change and talk through which options could suit you, such as whitening, bonding, veneers, aligners or crowns. It is a chance to ask questions rather than a commitment to go ahead.",
+  "You may be offered a check-up or X-rays first, and the dentist should explain the risks, the aftercare and what the treatment involves. Ask to see examples of their own cosmetic cases so you can judge the results for yourself, and ask who will carry out each stage of the work.",
+  "Before you book, compare a few local practices on what they offer and how they explain things, not just on price. Quotes are price on application, so ask what the total includes, such as follow-up visits, and get it in writing. If you are unhappy with private treatment later, start with the practice's complaints process, and the Dental Complaints Service can help if it is not resolved."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Will the dentist pressure me to have treatment at the consultation?",
+   "a": "A consultation should be for information and assessment, not a sales pitch. You can take time to think about the options and ask for a written quote before deciding anything."
+  },
+  {
+   "q": "Can I have cosmetic work if I haven't seen a dentist in a while?",
+   "a": "Yes, but expect the dentist to check your teeth and gums first. Health comes before cosmetics, so any problems may need treating before whitening, veneers or aligners are discussed."
+  },
+  {
+   "q": "What should I bring to a first appointment?",
+   "a": "Bring a note of what you would like to change about your teeth, any current sensitivity or gum problems, and details of past dental treatment. Mention any preferences, such as a practice that is easy to reach from home or work."
+  }
+ ]
+}

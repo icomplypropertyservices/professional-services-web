@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for a \"lawyer near me\", you likely need legal help you can reach in person — someone local who understands your situation and can guide you through the process. Whether it's a family matter, a property issue, or a dispute, finding the right solicitor close to home makes it easier to get the advice you need.",
+ "need_heading": "What people searching for a local lawyer usually need",
+ "need_lead": "Most people want a solicitor they can meet face to face, who specialises in their type of legal issue and is clear about costs from the start.",
+ "needs": [
+  "You need a solicitor who handles family law, such as divorce or child arrangements, and can meet you at an office near your home.",
+  "You are buying or selling a house and want a conveyancing solicitor who knows the local property market and can act quickly.",
+  "You have a dispute with a neighbour or a business and need a solicitor who can advise on your rights and next steps.",
+  "You are dealing with probate after a bereavement and want a local solicitor to guide you through the paperwork.",
+  "You need advice on a employment issue, like a settlement agreement or unfair dismissal, and want to speak to someone nearby."
+ ],
+ "context_heading": "What to check before you instruct a local solicitor",
+ "context": [
+  "The word \"lawyer\" is not protected, so when you search for a \"lawyer near me\", make sure the person you choose is a qualified solicitor or another authorised professional. In England and Wales, solicitors are regulated by the Solicitors Regulation Authority (SRA), and you can check an individual or firm on the SRA register. In Scotland, check with the Law Society of Scotland, and in Northern Ireland with the Law Society of Northern Ireland.",
+  "Regulated firms must hold professional indemnity insurance and have a complaints procedure. If you have a service complaint that is not resolved, you can take it to the Legal Ombudsman in England and Wales. Always ask for costs information at the start so you know what you will be charged."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the legal issue you need help with, such as divorce, conveyancing, probate, or a business dispute.",
+  "Mention any deadlines or court dates you are aware of, so the solicitor can prioritise.",
+  "Say whether you would prefer to meet in person or are happy to work remotely.",
+  "Give your location and how far you are willing to travel to see a solicitor.",
+  "Indicate whether you have a rough budget in mind or need advice on likely costs.",
+  "Share any relevant documents you already have, like contracts or court papers, to help the solicitor understand your situation."
+ ],
+ "questions_heading": "Questions to ask the solicitor you speak to",
+ "questions": [
+  "Are you regulated by the Solicitors Regulation Authority (or the relevant body for my location)?",
+  "Do you specialise in the type of legal issue I have?",
+  "What are your hourly rates or fixed fees, and what might the total cost be?",
+  "How long do you expect my matter to take?",
+  "Will you handle my case personally, or will it be passed to a colleague?",
+  "What is your complaints procedure if I am unhappy with the service?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check if a solicitor is properly qualified?",
+   "a": "In England and Wales, you can check the SRA register online. In Scotland, use the Law Society of Scotland's find a solicitor service, and in Northern Ireland, the Law Society of Northern Ireland has a similar tool."
+  },
+  {
+   "q": "What should I bring to my first meeting with a solicitor?",
+   "a": "Bring any documents related to your matter, such as contracts, letters, court forms, or identification. It also helps to write down a timeline of events and any questions you have."
+  },
+  {
+   "q": "Can I get legal aid for my case?",
+   "a": "Legal aid is available for some types of cases, such as family or criminal matters, subject to eligibility. Ask the solicitor whether they offer legal aid or can help you apply."
+  },
+  {
+   "q": "What is the difference between a solicitor and a barrister?",
+   "a": "Solicitors usually handle legal advice, paperwork, and negotiations, and they may instruct a barrister to represent you in court. Barristers are specialist advocates, but you normally contact them through a solicitor."
+  }
+ ],
+ "extra_heading": "Getting ready for your first meeting nearby",
+ "extra": [
+  "Searching for a \"lawyer near me\" often means you want to sit down with someone soon, so it helps to arrive at that first appointment organised. Bring any letters, contracts, court forms or emails connected to your matter, and write down a short timeline of what has happened and when. That lets the solicitor understand your position quickly and spend the meeting on advice rather than catching up.",
+  "Think about what you want to leave the meeting knowing. It may be whether you have a case worth pursuing, what the likely steps are, and what those steps could cost, so ask for costs information at the start as well as an estimate of what comes next. It is also reasonable to ask whether the person you meet will handle your matter personally or whether a colleague will take it on.",
+  "Before you travel, check practical details such as whether the office has step-free access, whether there is parking or a nearby station, and whether the firm offers meetings by phone or video if getting there is difficult. If your matter is urgent, say so when you first make contact, as some issues need action sooner than others. Where your matter is outside England and Wales, remember that the regulator differs, so confirm which body covers the firm you are visiting."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Can I see a solicitor near me without knowing what area of law I need?",
+   "a": "You can, but it helps to describe your situation in plain terms when you get in touch, such as a house purchase, a family matter or a dispute with an employer. The firm can then tell you whether it handles that kind of work or point you towards someone who does. Choosing a solicitor who specialises in your type of matter is one of the most useful steps you can take."
+  },
+  {
+   "q": "What if the nearest solicitor does not cover my kind of case?",
+   "a": "Local convenience matters less than getting the right advice, so it is fine to look slightly further afield or to work with a solicitor by phone or video. Ask whether the firm handles your type of matter before booking an appointment. You can also check the relevant regulator's register to confirm who is authorised to act for you."
+  },
+  {
+   "q": "Is a free first meeting standard?",
+   "a": "No, there is no standard rule, and some firms charge for an initial appointment while others may offer a short introductory conversation. Ask about this when you book so you know where you stand. Whatever the arrangement, ask for costs information at the start and get it confirmed in writing."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for top solicitors near me usually means you have a legal matter on your hands and you want someone local who knows this area of law well. Perhaps you are buying a house, going through a separation, dealing with a dispute or sorting out a will, and you want to feel confident in who you speak to. We can introduce you to a solicitor suited to your situation, and they will quote you directly.",
+ "need_heading": "What people searching for top solicitors usually need",
+ "need_lead": "Most people typing this search want a solicitor close enough to deal with easily, who genuinely specialises in their kind of problem.",
+ "needs": [
+  "You are buying or selling a home and want a conveyancing solicitor who can handle the paperwork and keep you informed.",
+  "You are separating or divorcing and need advice on finances, children or a clean break.",
+  "You have a dispute with a neighbour, a business or an employer and want to know where you stand before things escalate.",
+  "You are writing a will or dealing with probate after a bereavement and want the estate handled properly.",
+  "You run a small business and need help with a contract, a lease or terms and conditions."
+ ],
+ "context_heading": "How to judge who is top for you",
+ "context": [
+  "Nobody can honestly promise the best solicitor in the country, but you can judge for yourself. Look for someone whose advertised specialism matches your exact matter, ask how much of their work is in that area, and check the firm and the individual on the Solicitors Regulation Authority register if you are in England or Wales, or with the Law Society of Scotland or the Law Society of Northern Ireland if you are elsewhere in the UK.",
+  "\"Near me\" matters most for face-to-face meetings and court attendance, but many solicitors now work by phone, email and video, so a firm slightly further away may still suit you. Ask early what they charge and how they will keep you updated."
+ ],
+ "tell_heading": "What to tell iComply",
+ "tell": [
+  "Describe the legal matter in a sentence or two, such as a house purchase, a divorce or a contract dispute.",
+  "Say where you are based or where the matter is centred, so we can look for a solicitor within reach.",
+  "Mention any deadlines you are working towards, such as a court date or a completion date.",
+  "Explain whether you have already spoken to a solicitor or received any paperwork about the matter.",
+  "Say whether you would prefer to meet in person, or are happy with phone and email contact.",
+  "Note anything that affects how you would like to be contacted, such as working hours or accessibility needs."
+ ],
+ "questions_heading": "Questions to ask the solicitor",
+ "questions": [
+  "How much of your work is in this specific area of law?",
+  "Will you be handling my matter personally, or will someone else in the firm do the day-to-day work?",
+  "How will you charge me, and can you give me an estimate of the likely costs at the outset?",
+  "What do you need from me to get started, and how quickly can you begin?",
+  "How will you keep me updated as things progress?",
+  "What is your complaints procedure if I am unhappy with the service?"
+ ],
+ "faqs": [
+  {
+   "q": "Can iComply tell me who the top solicitors near me are?",
+   "a": "We do not rank or rate solicitors. We take the details of your matter and introduce you to a suitable UK solicitor, who then quotes you directly, so you can judge the fit for yourself."
+  },
+  {
+   "q": "How do I check a solicitor is properly regulated?",
+   "a": "In England and Wales you can check an individual or firm on the Solicitors Regulation Authority register. In Scotland the Law Society of Scotland regulates solicitors, and in Northern Ireland it is the Law Society of Northern Ireland."
+  },
+  {
+   "q": "Will I be charged for the introduction?",
+   "a": "The solicitor quotes you directly for the legal work, so you will know the costs before you commit. Ask them to explain their fees clearly at the start."
+  },
+  {
+   "q": "What if I am unhappy with the service?",
+   "a": "Regulated firms must have a complaints procedure. If that does not resolve things in England and Wales, the Legal Ombudsman can look at service complaints."
+  }
+ ],
+ "extra_heading": "Comparing several local solicitors fairly",
+ "extra": [
+  "Typing top solicitors near me, plural, suggests you are lining up more than one name and want a sensible way to compare them. That is a good instinct, because the solicitor who suits a neighbour's boundary dispute may be quite wrong for your divorce or your commercial lease. Comparing like with like starts with narrowing the field to firms that genuinely work in your area of law.",
+  "Ask each one the same set of questions so the answers sit side by side: how much of their work is in this field, who will handle your file day to day, how costs will be structured, and how they will keep you informed. Be wary of anyone who will not put costs information in writing or who seems vague about specialism. A firm that turns out not to do your kind of work is not being unhelpful by saying so, and it saves you time.",
+  "Distance is only one measure of convenience. For many matters, most of the work happens by phone, email and post, with perhaps a couple of meetings, so a firm a little further away that clearly knows your area of law may serve you better than the closest one on the list. Weigh that alongside cost clarity and how comfortable you feel speaking to them, then decide for yourself."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I contact several solicitors before choosing one?",
+   "a": "It is reasonable to speak to a few so you can compare specialism, costs information and how they communicate. Ask each the same questions, and remember that a first conversation is usually about scope and charges rather than detailed legal advice, which comes once you instruct them."
+  },
+  {
+   "q": "Is a solicitor who is further away worth considering?",
+   "a": "Often yes, if they clearly specialise in your type of matter. Many matters need only occasional in-person attendance, so check how they handle meetings and whether that suits you before ruling them out on distance alone."
+  },
+  {
+   "q": "Does iComply choose the solicitor for me?",
+   "a": "We introduce you to a suitable UK solicitor based on what you tell us, but the choice of who to instruct stays with you. They quote you directly, so you can compare and decide before committing to anything."
+  }
+ ]
+}

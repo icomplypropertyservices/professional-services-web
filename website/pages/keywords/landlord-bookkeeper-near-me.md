@@ -1,7 +1,7 @@
 ---
 slug: landlord-bookkeeper-near-me
 title: Landlord Bookkeeper Near Me | iComply Professional Services
-description: A bookkeeper for landlords near you: get matched free with a suitable UK bookkeeper via iComply Professional Services. Request a quote — POA.
+description: Find a bookkeeper for landlords near you with iComply: one free enquiry, matched to a suitable UK bookkeeper. No obligation. Request a quote — POA.
 family: bookkeeper
 group: accountancy
 hub: bookkeepers
@@ -12,100 +12,35 @@ og_image: /assets/images/finance-desk.jpg
 
 # Landlord Bookkeeper Near Me
 
-If you have typed **landlord bookkeeper near me** into a search bar, you are likely looking for help soon and not too far away. Landlord bookkeepers record rent, letting agent statements, repairs and mortgage costs property by property.
+You're a landlord looking for a bookkeeper near you who understands rental property records. You want someone local who can keep your rent, agent statements, repairs and mortgage costs in order, property by property. iComply introduces you to a suitable UK bookkeeper who will quote you directly.
 
-iComply Professional Services is a free matching service. You tell us what you need and where you are; we connect you with a suitable UK bookkeeper who can quote for the work. The practice provides the service, and every quote is POA.
+Landlord bookkeepers record rent, letting agent statements, repairs and mortgage costs property by property.
+
+We act as the middleman between you and the professional. Share a short brief and we match you with a bookkeeper for landlords who has the right experience and capacity. Enquiring is free, and you are under no obligation to accept a quote.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
 ![Planning the first appointment after an enquiry for landlord bookkeeper near me](/assets/images/finance-desk.jpg)
 
-## Where bookkeepers can help
+## What landlords searching for a bookkeeper usually need
 
-Every enquiry is different, but these are typical starting points for clients who contact bookkeepers:
+Landlords often need help keeping clear, separate records for each property so that tax time is less stressful.
 
-- A business moving from spreadsheets to cloud software.
-- A charity or club that needs clear records for trustees.
-- A landlord who wants rental income and costs kept tidy.
-- A growing team that wants monthly management reports.
-- A sole trader preparing for Making Tax Digital quarterly updates.
-
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of bookkeeper fits best.
-
-## Warning signs to watch for
-
-Be cautious if you notice any of the following:
-
-- No plan for handing records back if you part ways
-- Unclear access arrangements for your bank feeds and software
-- No anti-money-laundering supervision
-- No written agreement about scope and deadlines
-
-## Questions to ask a bookkeeper for landlords
-
-Asking a few direct questions early tells you a lot about how a practice works:
-
-- Will you liaise with my accountant at year end?
-- Do you work remotely, on site, or both?
-- Is the fee based on transaction volume, hours or a fixed package?
-- Which software are you certified or experienced in?
-- Are you supervised for anti-money-laundering, and by whom?
-- What happens to my data if we stop working together?
-
-**Need a bookkeeper for landlords?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
-
-## Your relationship with the practice
-
-Once matched, the bookkeeper will set up access to your software and bank feeds, complete identity checks and agree a routine with you. You keep ownership of your records. We may follow up to check the introduction worked well.
-
-## Typical timescales
-
-Many bookkeepers can start within one to two weeks. Clearing a large backlog takes longer and depends on how organised your paperwork is. If a VAT or payroll deadline is close, include it in your enquiry.
-
-## Looking for a bookkeeper for landlords close to home
-
-When you search for a bookkeeper for landlords near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
-
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
-
-![Client explaining what they need before being matched with a bookkeeper for landlords](/assets/images/hero-workshop.jpg)
-
-## Getting ready for your first conversation
-
-You do not need all of this to enquire, but the more you can share, the better the match:
-
-- Whether you are VAT registered and which scheme you use
-- Whether you already have an accountant for year-end work
-- Which accounting software you use or would like to use
-- The reports you would like to see each month
-- How far behind the records are, if at all
-- Roughly how many bank transactions you have each month
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
-
-## Costs and quotes for a bookkeeper for landlords
-
-Bookkeeping is usually priced on volume and frequency: how many transactions, how many bank accounts and how often you want the books brought up to date. Catch-up work is often quoted separately. iComply does not publish prices; the bookkeeper you are matched with will give you a POA quote based on your records.
-
-A short call where you share a sample month of transactions usually gives the bookkeeper enough to quote fairly. Ask for the scope in writing so you know what is covered.
+- You have rent coming in from several tenants and need each property's income recorded separately.
+- Letting agent statements arrive monthly and you want them reconciled against your bank account.
+- You have repair bills and maintenance costs that need to be matched to the right property.
+- You want to keep capital improvements separate from repairs so your tax records are clear.
+- You are unsure how to record mortgage costs and other expenses in a way that makes sense for your tax return.
 
 ## Key things to know about a bookkeeper for landlords
 
-These practical points are worth knowing before you speak to anyone about a bookkeeper for landlords:
+A few points come up again and again with a bookkeeper for landlords:
 
 - Separate records per property help at tax time.
 - Agent statements need reconciling.
 - Keep capital improvements separate.
 
 Raise any of these with the bookkeeper you are introduced to; they should be happy to explain.
-
-## Checking bookkeepers are qualified and regulated
-
-Bookkeeping is not a regulated title in the UK, but anyone providing bookkeeping services for a fee must be supervised for anti-money-laundering purposes, either by HMRC or by a professional body. Membership of the Institute of Certified Bookkeepers (ICB) or the Association of Accounting Technicians (AAT) shows a bookkeeper has trained to a recognised standard and agreed to a code of conduct.
-
-Ask whether a bookkeeper holds professional indemnity insurance and which body supervises them. Good bookkeepers are also clear about where their work stops and an accountant's starts, for example on year-end accounts and tax advice.
-
-iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
 
 ## How our free matching service works
 
@@ -116,45 +51,121 @@ iComply is not a regulator and does not provide the professional service itself.
 
 There is no charge to you for the introduction, and no obligation to accept any quote.
 
+**Need a bookkeeper for landlords?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
+
+## Costs and quotes for a bookkeeper for landlords
+
+Bookkeeping is usually priced on volume and frequency: how many transactions, how many bank accounts and how often you want the books brought up to date. Catch-up work is often quoted separately. The bookkeeper you are matched with will give you a POA quote based on your records.
+
+A short call where you share a sample month of transactions usually gives the bookkeeper enough to quote fairly. Ask for the scope in writing so you know what is covered.
+
+## How to check you are in safe hands
+
+Bookkeeping is not a regulated title in the UK, but anyone providing bookkeeping services for a fee must be supervised for anti-money-laundering purposes, either by HMRC or by a professional body. Membership of the Institute of Certified Bookkeepers (ICB) or the Association of Accounting Technicians (AAT) shows a bookkeeper has trained to a recognised standard and agreed to a code of conduct.
+
+Ask whether a bookkeeper holds professional indemnity insurance and which body supervises them. Good bookkeepers are also clear about where their work stops and an accountant's starts, for example on year-end accounts and tax advice.
+
+iComply is not a regulator and does not provide the professional service itself. We introduce you to professionals who hold their own registrations, and we encourage you to check them on the public register.
+
+## One key thing to understand about bookkeeping for landlords
+
+Bookkeeping is not a regulated title in the UK, but anyone providing bookkeeping services for a fee must be supervised for anti-money-laundering purposes, either by HMRC or by a professional body. Membership of the Institute of Certified Bookkeepers (ICB) or the Association of Accounting Technicians (AAT) shows a bookkeeper has trained to a recognised standard and agreed to a code of conduct.
+
+Ask whether a bookkeeper holds professional indemnity insurance and which body supervises them. Good bookkeepers are also clear about where their work stops and an accountant's starts, for example on year-end accounts and tax advice.
+
+![Client explaining what they need before being matched with a bookkeeper for landlords](/assets/images/hero-workshop.jpg)
+
+## What to tell iComply when enquiring
+
+A short, clear brief saves time on both sides. Useful details include:
+
+- How many properties you rent out and whether they are residential or commercial.
+- Whether you use letting agents and how often you receive statements from them.
+- What records you already keep and whether they are on paper, in a spreadsheet or in software.
+- Whether you want help with bookkeeping only or also with preparing information for your accountant.
+- Any particular concerns, such as keeping capital improvements separate from repairs.
+- Your preferred way of working with a bookkeeper, for example in person locally or remotely.
+
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+
+## Typical timescales
+
+Many bookkeepers can start within one to two weeks. Clearing a large backlog takes longer and depends on how organised your paperwork is. If a VAT or payroll deadline is close, include it in your enquiry.
+
+## Choosing between local landlord bookkeepers
+
+Searching for a landlord bookkeeper near me suggests you'd value someone you can meet face to face, or at least reach easily by phone, to talk through rent, agent statements and repair bills property by property. Local knowledge can help when you want to hand over a folder of letting agent statements and talk through each property in person. It doesn't make for a better service on its own, so weigh convenience alongside how clearly the bookkeeper explains their approach.
+
+When you compare bookkeepers, ask each one to walk you through how they would set up a separate record for every property, reconcile agent statements and keep capital improvements apart from repairs. A bookkeeper who asks sensible questions about your portfolio and is upfront about where their work stops and an accountant's begins is showing you how they think. Ask which body supervises them for anti-money-laundering purposes and whether they hold professional indemnity insurance, then judge the answers for yourself rather than relying on a label.
+
+At a first meeting, expect to talk through each property, your letting agents and the records you already hold, whether paper, spreadsheet or software. A good bookkeeper will explain what they need from you each month and how they will report back, and will be clear about the boundary with your accountant on year-end accounts and tax advice. Take your time, ask the same questions of more than one bookkeeper, and compare the quotes directly before deciding.
+
+## Questions to ask the bookkeeper
+
+Once you are introduced, these questions help you decide whether the bookkeeper is right for you:
+
+- Which body supervises you for anti-money-laundering purposes?
+- Do you hold professional indemnity insurance?
+- How do you separate records for each property?
+- How do you handle letting agent statements and reconcile them?
+- Where does your work stop and an accountant's begin?
+- What information do you need from me each month to keep my records up to date?
+
 ![Bookkeeping service ready to take on a new enquiry for landlord bookkeeper near me](/assets/images/insurance-advisory.jpg)
 
-## Landlord Bookkeeper Near Me: FAQs
+## FAQs about landlord bookkeeper near me
 
-### What is the difference between a bookkeeper and an accountant?
+### Do I need a bookkeeper if I already have an accountant?
 
-A bookkeeper records day-to-day transactions and keeps your books accurate. An accountant typically prepares year-end accounts, tax returns and gives tax advice. Many businesses use both, and they work best when they talk to each other.
+Many landlords use a bookkeeper to keep day-to-day records in order and an accountant for year-end accounts and tax advice. A bookkeeper can take on the routine recording of rent, agent statements, repairs and mortgage costs, which can reduce the work passed to your accountant.
+
+### How do I find a bookkeeper near me who understands rental property?
+
+Look for a bookkeeper who mentions experience with landlords and rental records, and ask how they keep each property separate. iComply introduces you to a suitable UK bookkeeper based on what you tell us, and they will quote you directly.
+
+### What records should I keep for each property?
+
+Keep rent received, letting agent statements, repair and maintenance costs, and mortgage costs recorded separately for each property. It also helps to keep capital improvements separate from repairs, as they are treated differently for tax.
+
+### Can a bookkeeper help me get ready for my tax return?
+
+A bookkeeper can keep your records organised and provide clear summaries, but tax advice and filing are usually the accountant's role. Ask the bookkeeper where their work stops and an accountant's begins so you know what to expect.
+
+### Is a local landlord bookkeeper better than one working remotely?
+
+Not necessarily. A local bookkeeper may suit you if you prefer to hand over paperwork in person, while a remote one can work just as well if your records are already digital. What matters is that they understand rental property records and are clear about how they will keep each property separate.
+
+### Can a bookkeeper deal with my letting agent directly?
+
+Some bookkeepers will contact letting agents for statements, while others prefer you to pass the statements on. Ask at the outset how they would like to receive agent statements and how they will reconcile them against your bank account. Agreeing this early avoids confusion later.
 
 ### Can a bookkeeper submit my VAT return?
 
 Many can, through Making Tax Digital compatible software, once you authorise them. Check this is included in the scope before you start.
 
-### Can you find a bookkeeper for landlords in my area?
+### How do I find a bookkeeper for landlords near me?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable bookkeeping service with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
-
-### Is iComply regulated?
-
-iComply is a matching service. We are not a bookkeeper and we do not give professional advice. The professionals we introduce are registered with their own bodies, and you can check them.
 
 ### Do I have to accept a quote?
 
 No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
 
-### Is it free to use iComply?
+### Can I contact you on WhatsApp?
 
-Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
+Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
 
-## Other services you may need
+## People also look for
 
-- [Virtual bookkeeper near me](/keywords/virtual-bookkeeper-near-me/)
-- [Sage bookkeeper near me](/keywords/sage-bookkeeper-near-me/)
-- [Xero bookkeeper near me](/keywords/xero-bookkeeper-near-me/)
-- [Retail bookkeeper near me](/keywords/retail-bookkeeper-near-me/)
+- [Contractor bookkeeper near me](/keywords/contractor-bookkeeper-near-me/)
+- [QuickBooks bookkeeper near me](/keywords/quickbooks-bookkeeper-near-me/)
+- [Ecommerce bookkeeper near me](/keywords/ecommerce-bookkeeper-near-me/)
 - [Freelance bookkeeper near me](/keywords/freelance-bookkeeper-near-me/)
+- [Bookkeeper near me](/keywords/bookkeeper-near-me/)
 - [Browse all bookkeepers](/hubs/bookkeepers/)
 
-## Get a free quote for a bookkeeper for landlords
+## Ready to be matched?
 
-One short enquiry is all it takes. We connect you with a bookkeeper for landlords who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
+Tell us what you need and where you are. We will match you with a suitable bookkeeper, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
 
 [Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

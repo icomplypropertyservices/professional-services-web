@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for a consultant appointment near me usually means you want to see a specialist quickly, without waiting for a referral through the NHS. You may have a concern that needs expert assessment, or you may already have a diagnosis and want a second opinion. We introduce you to private consultants who can assess your situation and quote you directly.",
+ "need_heading": "What people searching for a consultant appointment near me usually need",
+ "need_lead": "Most people want a clear pathway to a specialist who can see them soon and explain what happens next.",
+ "needs": [
+  "You have a symptom or condition that your GP has already looked at, and you want a specialist's opinion without a long wait.",
+  "You have private medical insurance and need to find a consultant who works with your insurer and is covered by your policy.",
+  "You want a second opinion on a diagnosis or treatment plan you have already been given.",
+  "You need a consultant who can see you at a private hospital or clinic that is convenient for you to travel to.",
+  "You are paying for yourself and want to understand the likely costs before you commit to an appointment."
+ ],
+ "context_heading": "What to understand about finding a consultant near you",
+ "context": [
+  "Private consultants often work in both the NHS and private practice, so you may find the same specialist in both settings. If you have private medical insurance, check with your insurer first: they may require a GP referral and may only cover consultants or hospitals on their list.",
+  "You can check that a hospital consultant appears on the General Medical Council's specialist register for their field. Private clinics providing regulated healthcare in England must be registered with the Care Quality Commission, which inspects and publishes ratings; in Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the symptom or condition you want assessed, and mention any diagnosis you already have.",
+  "Say whether you have a referral letter from your GP or another professional.",
+  "Explain whether you are paying for yourself or using private medical insurance, and name your insurer if you have one.",
+  "Give the area or postcode where you would like the appointment to take place, so we can look for a consultant nearby.",
+  "Mention any preference for a particular hospital or clinic, if you have one.",
+  "Say whether you need an appointment urgently or can wait a little longer."
+ ],
+ "questions_heading": "Questions to ask the consultant",
+ "questions": [
+  "What tests or investigations are likely to be needed, and when would they happen?",
+  "What are the costs for the consultation, any tests, and follow-up appointments?",
+  "How soon can I be seen, and how long will the appointment last?",
+  "Will you write to my GP about the appointment and any treatment you recommend?",
+  "Do you work with my private medical insurer, and will you bill them directly?",
+  "What are the alternatives to seeing a private consultant, and what are the trade-offs?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral from my GP to see a private consultant?",
+   "a": "Not always, but many private consultants prefer a referral letter so they have your background. If you have private medical insurance, your insurer may require a GP referral before they will cover the appointment, so check with them first."
+  },
+  {
+   "q": "How do I check a consultant's qualifications?",
+   "a": "Hospital consultants should appear on the General Medical Council's specialist register for their field, which you can check online. You can also ask the consultant directly about their experience and specialist registration."
+  },
+  {
+   "q": "Is the private clinic regulated?",
+   "a": "Private clinics providing regulated healthcare in England must register with the Care Quality Commission, which inspects and publishes ratings. In Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA."
+  },
+  {
+   "q": "What should I bring to my appointment?",
+   "a": "Bring any referral letter you have, a list of medications you take, and any previous test results or scan images. It also helps to write down your questions beforehand so you don't forget them."
+  }
+ ],
+ "extra_heading": "Getting ready for your first consultant appointment",
+ "extra": [
+  "A first appointment with a private consultant is usually a conversation as much as an examination. The consultant will ask about your symptoms and history, may examine you, and will then explain what they think is going on and what the next steps could be. It helps to arrive with your main concern clear in your mind, because appointments pass quickly and it is easy to leave without asking the thing that mattered most.",
+  "Bring whatever you already have: a referral letter if your GP has written one, a list of your medicines and doses, and any previous test results, scan images or clinic letters. If you keep a short note of when symptoms started and what makes them better or worse, the consultant can build a clearer picture. Writing your questions down beforehand means you are less likely to forget them once you are in the room.",
+  "It is reasonable to ask at the end what happens next and who will be in touch. Ask whether the consultant will write to your GP, whether any tests are likely and what they would cost, and how you would get the results. If you are paying for yourself, ask for the costs of the consultation, tests and follow-up in writing before you leave, so there are no surprises later."
+ ],
+ "extra_faqs": [
+  {
+   "q": "How long does a private consultant appointment usually last?",
+   "a": "It varies by specialty and by what needs assessing, but first consultations are generally longer than follow-ups because the consultant is taking a full history and examining you. Ask when you book so you can plan your time, and mention if you have several concerns to discuss."
+  },
+  {
+   "q": "What if I don't have a referral letter?",
+   "a": "Many private consultants will still see you without one, though some prefer a letter so they have your background in advance. If your GP has not written one, ask the consultant's secretary whether it would help to get one first, and check with your insurer if you are claiming."
+  },
+  {
+   "q": "Can I choose which consultant I see?",
+   "a": "Yes, you can ask about a particular consultant or hospital when you enquire, and we will take that into account. If you have private medical insurance, check your policy first, as your insurer may only cover consultants and hospitals on its list."
+  }
+ ]
+}

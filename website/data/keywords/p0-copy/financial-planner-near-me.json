@@ -1,0 +1,70 @@
+{
+ "intro": "Searching for a financial planner near you usually means you want someone local to sit down with and look at the whole picture — your goals, savings, pensions, tax and protection — rather than buy a single product. A planner takes a longer view of your finances and helps you decide what to do next. iComply can introduce you to a suitable UK financial adviser who will quote you directly, with the price on application.",
+ "need_heading": "What people searching for a financial planner near me usually need",
+ "need_lead": "Most people who search for a financial planner near me want a proper plan for their money, not just a product recommendation.",
+ "needs": [
+  "You are approaching retirement and want to understand how your pensions, savings and spending will fit together over the coming years.",
+  "You have savings and investments but no clear idea whether they are working towards the goals you actually care about.",
+  "You want to work out how much you can afford to put aside for children, a house move or a change of career.",
+  "You have several pensions from different jobs and want help seeing the whole picture before deciding what to do.",
+  "You want to check your protection arrangements so your family would be looked after if something happened to you."
+ ],
+ "context_heading": "Why local matters less than authorisation",
+ "context": [
+  "Financial advice in the UK is regulated by the Financial Conduct Authority (FCA). Before you speak to anyone, check that the adviser or firm is authorised, or is an appointed representative of an authorised firm, on the FCA register. If something goes wrong you can complain to the firm, then to the Financial Ombudsman Service, and the Financial Services Compensation Scheme may protect you if an authorised firm fails.",
+  "Being near you can make face-to-face meetings easier, but it is not the most important thing to check. Advisers must tell you whether their advice is independent, considering the whole market, or restricted to certain products or providers, and how they charge. Chartered status from the Chartered Insurance Institute or the Personal Finance Society, and certifications such as CFP, show advanced qualifications."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe what prompted you to look for a financial planner now, such as a retirement date, an inheritance or a change in circumstances.",
+  "Say roughly what you want the plan to cover, whether that is pensions, investments, tax, protection or a mix.",
+  "Mention whether you would prefer to meet in person locally or are happy to work remotely.",
+  "Explain whether you already have savings, investments or pensions in place that a planner would need to look at.",
+  "Say whether you have worked with a financial adviser before and how you found the experience.",
+  "Let us know any timing that matters to you, such as a retirement date or a house purchase, so the adviser can prepare."
+ ],
+ "questions_heading": "Questions to ask the financial planner",
+ "questions": [
+  "Are you and your firm authorised by the FCA, and can you show me your entry on the FCA register?",
+  "Will your advice be independent across the whole market or restricted to certain products or providers?",
+  "How do you charge for the initial planning work and for any ongoing meetings, and what will that mean for me?",
+  "How will you build a cash-flow model of my finances, and what will you need from me to do it?",
+  "What qualifications do you hold, and are you working towards Chartered status or a certification such as CFP?",
+  "How often would we go through the plan together, and what happens if my circumstances change in between?"
+ ],
+ "faqs": [
+  {
+   "q": "Is a financial planner the same as an independent financial adviser?",
+   "a": "They overlap but are not identical. Financial planners take a whole-life view linking goals with investments, pensions, tax and protection, while advisers must tell you whether their advice is independent across the whole market or restricted to certain products or providers. Ask any planner you speak to which applies to them."
+  },
+  {
+   "q": "Do I need to have a lot of money to see a financial planner?",
+   "a": "There is no set threshold, but planners vary in the clients they take on and in how they charge. It is worth being upfront about your circumstances when you enquire so you are introduced to someone who works with people like you. Quotes are on application, so you can see the cost before committing."
+  },
+  {
+   "q": "How do I check that a financial planner is properly authorised?",
+   "a": "Look up the adviser or firm on the FCA register to confirm they are authorised, or are an appointed representative of an authorised firm. If something goes wrong you can complain to the firm, then to the Financial Ombudsman Service, and the Financial Services Compensation Scheme may protect you if an authorised firm fails."
+  },
+  {
+   "q": "Will a financial planner near me charge for the first meeting?",
+   "a": "Advisers must tell you how they charge, so ask before you meet whether there is a cost for an initial conversation and what the planning work would cost. Prices are on application and quoted directly by the professional. Getting that clear in advance helps you compare what different planners offer."
+  }
+ ],
+ "extra_heading": "What a first planning meeting involves",
+ "extra": [
+  "A first meeting with a financial planner is usually a getting-to-know-you conversation rather than a sales pitch. The planner will ask about your goals, your income and spending, your pensions, savings, investments and any protection you already have, so they can see how everything fits together. You do not need to arrive with everything neatly organised, but gathering recent statements beforehand helps the conversation go further.",
+  "From there, a planner often builds a cash-flow model, which projects your income and outgoings over the years ahead to test whether your plans hold up. This is the part that goes beyond product advice: it shows how decisions about retirement timing, saving more or paying down debt might affect you later. It also gives you something concrete to react to, rather than abstract figures.",
+  "Planning is rarely a one-off. Ongoing reviews keep the plan on track as your circumstances, the markets and the tax rules change, so ask how often you would meet and what that involves. Before you commit, make sure you understand what the first meeting will cover and whether it is charged for, so there are no surprises.",
+  "If you are searching for a financial planner near me, it is worth saying whether you would rather meet face to face locally or are comfortable working remotely. Many people find a mix works well, with an initial in-person meeting and reviews by phone or video."
+ ],
+ "extra_faqs": [
+  {
+   "q": "What should I bring to my first meeting with a financial planner?",
+   "a": "Bring recent statements for your pensions, savings and investments, along with a rough idea of your income, spending and any debts. You do not need perfect figures, but the more the planner can see, the more useful the first conversation will be."
+  },
+  {
+   "q": "How is financial planning different from just buying a product?",
+   "a": "Financial planning takes a whole-life view, linking your goals with investments, pensions, tax and protection rather than recommending a single product. A cash-flow model often supports the decisions, and ongoing reviews keep the plan on track as things change."
+  }
+ ]
+}

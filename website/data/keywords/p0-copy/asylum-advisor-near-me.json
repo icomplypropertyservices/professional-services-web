@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for an asylum advisor near me usually means you or someone you know is seeking protection in the UK and needs help with the Home Office process. You might be preparing for a screening interview, waiting for a decision, or needing to appeal. A regulated immigration adviser can guide you through the asylum system and help you present your case clearly.",
+ "need_heading": "What people searching for an asylum advisor near me often need",
+ "need_lead": "People looking for an asylum advisor near me typically need local, regulated help with a specific stage of their asylum claim.",
+ "needs": [
+  "You have a screening interview coming up and want to understand what will happen and how to prepare.",
+  "You have already had your asylum interview and need help understanding the questions or the decision.",
+  "You need to gather evidence to support your asylum claim and want advice on what is relevant.",
+  "You are preparing an appeal against a refused asylum decision and need help with the forms and deadlines.",
+  "You want to find a regulated adviser near you who can explain legal aid options for your asylum case."
+ ],
+ "context_heading": "Understanding regulation and legal aid for asylum advice",
+ "context": [
+  "In the UK, it is a criminal offence to give immigration advice unless the adviser is qualified and regulated. Asylum advisers must be registered with the Immigration Advice Authority (IAA, formerly the OISC) at the right level for your matter, or be a solicitor, barrister or chartered legal executive authorised by their own regulator. Before you share documents or pay, check the IAA's adviser finder or the SRA register.",
+  "Legal aid is often available for asylum cases, so it is worth asking whether the adviser offers legal aid and what level of IAA registration they hold. IAA advisers are registered at levels that limit what they can do, from basic applications to appeals and representation, so ask if their level covers your type of case."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the stage of your asylum claim, such as whether you are preparing for a screening interview, waiting for a decision, or appealing a refusal.",
+  "Mention any upcoming deadlines or appointments, such as an interview date or appeal deadline, so we can introduce you to an adviser who can help in time.",
+  "Explain whether you need help with evidence gathering, form filling, interview preparation, or representation at a hearing.",
+  "Say whether you are looking for legal aid or will be paying privately, as this affects which advisers we introduce you to.",
+  "Tell us your location and how far you are able to travel, since you searched for an advisor near me.",
+  "Include any language needs or accessibility requirements so we can introduce you to an adviser who can accommodate them."
+ ],
+ "questions_heading": "Questions to ask the asylum advisor",
+ "questions": [
+  "Are you registered with the Immigration Advice Authority, and at what level?",
+  "Does your registration cover asylum appeals and representation, or only initial applications?",
+  "Do you offer legal aid for asylum cases, and if so, how do I apply?",
+  "What documents should I bring to our first meeting?",
+  "How will you keep me informed about my case and any deadlines?",
+  "Can you explain the asylum process and what happens at each stage?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a regulated adviser to help with my asylum claim?",
+   "a": "Only a qualified and regulated adviser can give immigration advice, and it is a criminal offence for anyone else to do so. You should check that any adviser is registered with the Immigration Advice Authority or is a solicitor, barrister or chartered legal executive."
+  },
+  {
+   "q": "Is legal aid available for asylum advice?",
+   "a": "Legal aid is often available for asylum cases, so it is worth asking the adviser whether they offer it. You may need to provide information about your finances to see if you qualify."
+  },
+  {
+   "q": "What should I do if I have a Home Office letter with a deadline?",
+   "a": "Keep all Home Office letters and note any deadlines. Tell iComply about the deadline when you enquire so we can introduce you to an adviser who can help in time."
+  },
+  {
+   "q": "Can iComply give me advice about my asylum case?",
+   "a": "No, iComply is not regulated and does not give professional advice. We are an introduction service that connects you with a suitable UK professional who can advise you."
+  }
+ ]
+}

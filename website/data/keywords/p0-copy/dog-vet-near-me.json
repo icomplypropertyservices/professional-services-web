@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for a dog vet near me, you are usually looking for a local practice you can get to easily, whether for a one-off concern or ongoing care. Your dog may need vaccinations, a health check, dental advice or help with a breed-specific issue. We introduce you to a UK vet who can quote you directly for the care your dog needs.",
+ "need_heading": "What people searching for a dog vet near me usually need",
+ "need_lead": "Most people want a nearby vet they can reach without a long journey, especially when their dog is unwell or needs regular checks.",
+ "needs": [
+  "You have a new puppy and need to arrange first vaccinations, microchipping and a general health check.",
+  "Your dog has started limping or showing signs of joint stiffness and you want a vet to examine them.",
+  "You are concerned about your flat-faced breed's breathing or other breed-specific health issues and want advice.",
+  "Your dog's teeth look discoloured or they have bad breath, and you want a dental check.",
+  "You need a local vet for regular parasite control, health checks and ongoing care close to home."
+ ],
+ "context_heading": "What to understand when choosing a dog vet near you",
+ "context": [
+  "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS), and you can search the RCVS register by name before you book. Veterinary nurses have their own RCVS register too. Many practices also join the voluntary RCVS Practice Standards Scheme, which inspects premises, equipment and clinical processes.",
+  "Some vets hold further qualifications such as an RCVS certificate, advanced practitioner status or specialist status in a particular species or discipline. If your dog has a complex or unusual condition, it is reasonable to ask whether the vet treating it holds one of these, or whether they refer to someone who does."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Tell us your dog's age, breed and any known health conditions so we can introduce you to a suitable vet.",
+  "Describe the specific concern, such as limping, breathing difficulties, dental issues or a routine check.",
+  "Let us know if you are looking for a practice that offers puppy packages or breed-specific health screening.",
+  "Mention any preference for a practice that is easy to reach from your home or has parking nearby.",
+  "Say whether you need help with vaccinations, parasite control, dental care or a general health check.",
+  "Include any questions you have about the vet's qualifications or the practice's facilities."
+ ],
+ "questions_heading": "Questions to ask the vet",
+ "questions": [
+  "Are you registered with the Royal College of Veterinary Surgeons?",
+  "Do you have experience with my dog's breed and its common health problems?",
+  "What is included in your puppy package, and when should my puppy have their first vaccinations?",
+  "How do you approach dental care, and how often should my dog have a dental check?",
+  "If my dog needs specialist treatment, do you refer to someone with further qualifications?",
+  "What parasite control do you recommend for my dog's lifestyle and age?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check if a vet is properly registered?",
+   "a": "You can search the Royal College of Veterinary Surgeons (RCVS) register by name before you book. Every vet practising in the UK must be registered with the RCVS."
+  },
+  {
+   "q": "What should I look for in a vet for my dog's breed?",
+   "a": "Ask whether the vet has experience with your breed's common problems, such as joint conditions or breathing issues in flat-faced breeds. You can also ask about breed-specific health screening."
+  },
+  {
+   "q": "What is usually included in a puppy package?",
+   "a": "Puppy packages often bundle first vaccinations, microchipping and a health check. Ask the practice what their package includes and when each part should be done."
+  },
+  {
+   "q": "How often should my dog have a dental check?",
+   "a": "Regular dental checks can prevent painful problems later in life. Ask your vet how often they recommend a check based on your dog's age and dental health."
+  }
+ ],
+ "extra_heading": "Getting your dog seen when you need a vet nearby",
+ "extra": [
+  "Searching for a dog vet near me often happens at a particular moment: your dog has started limping, is off their food, or you have just brought a puppy home and realised you have no practice registered. Because dogs are seen by general practice vets rather than at human GP surgeries, you cannot simply turn up, so it helps to know how the first contact usually works. A local practice will normally ask you to register your dog before booking, and they may ask for your dog's vaccination history and any previous records.",
+  "When you ring a nearby practice, ask how they handle urgent problems during the day and what they do outside normal hours, since many practices direct you elsewhere overnight. It is also worth asking whether they see dogs of your breed regularly and whether they would refer to a colleague with further qualifications if your dog's condition turns out to be complex. These questions tell you more about fit than any single description of a practice.",
+  "If several vets are within easy reach, compare them on the things that matter to you: how quickly you can get an appointment, whether the practice is easy to park at or reach on foot, and how clearly they explain what a consultation covers. Prices are usually quoted on application, so ask directly rather than assuming one practice will be cheaper. We introduce you to a UK vet who can quote you for your dog's care."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Do I need to register my dog before booking an appointment?",
+   "a": "Most practices ask you to register your dog before they book you in, and they may request vaccination records or details of previous care. It is worth ringing ahead to check what they need from you so your first visit is not delayed."
+  },
+  {
+   "q": "What should I do if my dog needs help and no local vet can see them today?",
+   "a": "Ask the practice what they advise for urgent problems, as many direct you to an out-of-hours service outside normal hours. For general health advice in England you can also contact NHS 111, though this is for people rather than animals, so your vet remains the right person for your dog."
+  },
+  {
+   "q": "How do I choose between vets that are all close to me?",
+   "a": "Ask each practice how quickly you can be seen, what happens outside normal hours, and whether they have experience with your dog's breed. Compare how clearly they explain things, and ask for a quote on application so you know what a consultation involves."
+  }
+ ]
+}

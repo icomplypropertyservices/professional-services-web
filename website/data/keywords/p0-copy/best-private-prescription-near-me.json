@@ -1,0 +1,73 @@
+{
+ "intro": "You've searched for the best private prescription near you, which usually means you need a medicine quickly or you've been told it isn't available on the NHS. You want a local prescriber you can rely on, without guessing who to contact. We introduce people to private GPs who can assess whether a private prescription is appropriate and explain your options.",
+ "need_heading": "What people searching for a private prescription usually need",
+ "need_lead": "A private prescription is issued by a doctor or other prescriber outside the NHS, and you pay both the prescriber's fee and the pharmacy's price for the medicine.",
+ "needs": [
+  "You need a medicine that your NHS GP has said isn't routinely funded, or you'd rather not wait for an NHS appointment.",
+  "You want a prescriber close to home so you can collect the medicine from a local pharmacy without a long journey.",
+  "You're unsure whether a private prescription will cost more or less than the NHS charge, and you want to compare before deciding.",
+  "You need a medicine that is a controlled drug, which has extra rules, and you want to understand what a prescriber will require.",
+  "You want a consultation first, because a private prescription can only be issued after the prescriber has assessed your situation."
+ ],
+ "context_heading": "Understanding private prescriptions and choosing a prescriber",
+ "context": [
+  "A private prescription is not the same as an NHS prescription. You pay the prescriber's fee for the consultation and the pharmacy's price for the medicine, and some medicines are cheaper this way while others are not. A consultation is always needed first, so the prescriber can check whether the medicine is suitable for you.",
+  "When searching for the best private prescription near you, there is no official ranking of prescribers. Instead, check that the doctor is registered with the General Medical Council (GMC) and, in England, that the clinic is registered with the Care Quality Commission (CQC), which inspects and publishes ratings. A private GP does not replace your NHS GP, and a good clinic will ask for consent to share notes with your NHS practice so your records stay complete."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Name the medicine you need, including the strength and form, if you know them.",
+  "Explain why you are seeking a private prescription rather than an NHS one.",
+  "Say whether you have already seen a doctor about this and what you were told.",
+  "Mention any long-term conditions or other medicines you take, as these affect prescribing.",
+  "Give your location and how far you are willing to travel to see a prescriber or reach a pharmacy.",
+  "State whether the medicine is a controlled drug, if you know, because extra rules apply."
+ ],
+ "questions_heading": "Questions to ask the private GP",
+ "questions": [
+  "What will the consultation and the private prescription cost in total?",
+  "Will you need to see me in person or can this be handled remotely?",
+  "How will you share information with my NHS GP, and will you ask for my consent?",
+  "What happens if the medicine isn't right for me or I have side effects?",
+  "Are there extra rules for this medicine if it is a controlled drug?",
+  "Can you tell me roughly what the pharmacy is likely to charge for this medicine?"
+ ],
+ "faqs": [
+  {
+   "q": "Is a private prescription likely to be cheaper than an NHS prescription?",
+   "a": "It depends on the medicine. Some medicines are cheaper on a private prescription than the NHS charge, while others are not. You pay the prescriber's fee plus the pharmacy's price, so ask for both before you decide."
+  },
+  {
+   "q": "Can I get a private prescription without seeing a doctor first?",
+   "a": "No, a consultation is needed first. The prescriber must assess your situation before issuing a private prescription, whether that consultation is in person or remote."
+  },
+  {
+   "q": "How do I check that a private GP is properly registered?",
+   "a": "Every doctor practising in the UK must be registered and hold a licence to practise with the General Medical Council (GMC), and GPs also appear on the GMC's GP register. You can search the GMC's online register by name, and in England you can check whether the clinic is registered with the Care Quality Commission (CQC)."
+  },
+  {
+   "q": "Will my NHS GP find out about a private prescription?",
+   "a": "A private GP does not replace your NHS GP, and good private clinics will ask for your consent to share consultation notes with your NHS practice. This keeps your records complete and helps medication to be prescribed safely."
+  }
+ ],
+ "extra_heading": "Turning your search into a shortlist you can compare",
+ "extra": [
+  "Searching for the best private prescription near you is really two questions in one: which prescriber is right for the medicine you need, and which is convenient to reach. Rather than looking for a ranking, build a shortlist of private GP clinics within a distance you're happy to travel, then compare them on the things that matter for a prescription: whether they'll discuss the specific medicine, what the consultation and prescription cost together, and whether they can see you in person or remotely.",
+  "It helps to ring or message a few clinics before booking and ask the same questions of each, so you're comparing like with like. Ask what the total will be including the pharmacy's price, whether they'll share notes with your NHS practice with your consent, and what they do if the medicine turns out not to suit you. The answers will quickly show you which clinic communicates clearly and takes your situation seriously.",
+  "Remember that 'best' for a prescription is personal: the right prescriber is one who will assess whether the medicine is appropriate for you, explain the costs plainly, and stay in reach if you have questions afterwards. A clinic that rushes you or won't discuss fees before you book is worth striking off your list, however close it is."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I choose a clinic based on how close it is or on price?",
+   "a": "Both matter, but for a prescription the consultation comes first, so weigh how clearly the clinic explains the process and costs alongside the distance. A slightly further clinic that answers your questions properly may suit you better than the nearest one. Ask each for the full cost before you decide."
+  },
+  {
+   "q": "Can I compare several private GPs before committing to one?",
+   "a": "Yes, and it's sensible to. Contact a few local clinics, ask the same questions about the medicine, fees and sharing notes with your NHS GP, and compare the replies. You are under no obligation to book with the first one you speak to."
+  },
+  {
+   "q": "What if the private GP says the medicine isn't right for me?",
+   "a": "The prescriber must assess your situation before issuing a private prescription, and they may decide it isn't appropriate. Ask in advance what happens in that case and whether any part of the fee is refundable. It's better to know this before you book than afterwards."
+  }
+ ]
+}

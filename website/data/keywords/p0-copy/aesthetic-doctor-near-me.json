@@ -1,0 +1,53 @@
+{
+ "intro": "You're looking for an aesthetic doctor near you, someone who can assess your skin or cosmetic concerns and provide treatments such as anti-wrinkle injections or dermal fillers. Aesthetic doctors are GMC-registered doctors with medical training to manage complications, so finding one close to home makes follow-up care easier. We can introduce you to a suitable UK professional in your area, who will quote you directly.",
+ "need_heading": "What people searching for an aesthetic doctor near me usually need",
+ "need_lead": "Most people want a convenient, safe and professional service for cosmetic treatments, with a doctor who can handle any problems that arise.",
+ "needs": [
+  "You want anti-wrinkle injections and need a prescriber to assess you face to face, as the medicine is prescription-only.",
+  "You're considering dermal fillers and want a doctor who can manage complications such as lumps or vascular occlusion.",
+  "You'd prefer a doctor rather than a non-medical practitioner because you feel more reassured by their medical training.",
+  "You want a clinic that is easy to get to for a consultation and any follow-up appointments.",
+  "You're unsure which treatments are right for you and want a medical opinion before deciding."
+ ],
+ "context_heading": "What to understand about aesthetic doctors near you",
+ "context": [
+  "Aesthetic doctors are registered with the General Medical Council, which means they meet certain standards of training and conduct. They can prescribe prescription-only medicines such as botulinum toxin for anti-wrinkle injections, and they are trained to recognise and manage complications. Dermal fillers are devices rather than medicines, and the government has set out plans for a licensing scheme for non-surgical cosmetic procedures in England.",
+  "Until licensing is in force, choose a clinic carefully. Practitioners on registers such as Save Face or the JCCP, and doctors and nurses registered with the GMC or NMC, offer extra reassurance. Clinics run by regulated healthcare providers may also be registered with the Care Quality Commission. It's worth checking these details before you book."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention the treatment you're interested in, such as anti-wrinkle injections or dermal fillers, so we can introduce you to a suitable professional.",
+  "Tell us your location and how far you're willing to travel to see an aesthetic doctor near you.",
+  "Share any relevant medical history or allergies, as this helps the doctor assess you safely.",
+  "Let us know if you have a preference for a doctor who is on a register such as Save Face or the JCCP.",
+  "Mention if you're looking for a clinic that is registered with the Care Quality Commission.",
+  "Tell us if you have any particular concerns, such as natural-looking results or complication management."
+ ],
+ "questions_heading": "Questions to ask the aesthetic doctor",
+ "questions": [
+  "Are you registered with the General Medical Council, and what is your GMC number?",
+  "What training have you had in managing complications from injectable treatments?",
+  "Which products do you use, and are they prescription-only medicines or CE-marked devices?",
+  "How do you approach natural-looking results, and can you show me examples of your work?",
+  "What is your policy on follow-up appointments and corrective treatment if something goes wrong?",
+  "Are you on a register such as Save Face or the JCCP, and is the clinic registered with the Care Quality Commission?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral to see an aesthetic doctor?",
+   "a": "No, you can usually book a consultation directly with an aesthetic doctor. However, for prescription-only medicines like botulinum toxin, the doctor must assess you face to face before prescribing."
+  },
+  {
+   "q": "What is the difference between an aesthetic doctor and an aesthetic practitioner?",
+   "a": "An aesthetic doctor is a GMC-registered doctor with medical training, while an aesthetic practitioner may have different qualifications. Doctors can prescribe medicines and manage complications, which some people prefer."
+  },
+  {
+   "q": "How can I check if an aesthetic doctor is properly qualified?",
+   "a": "You can check their registration on the General Medical Council's online register. You can also ask if they are on a register such as Save Face or the JCCP, and whether the clinic is registered with the Care Quality Commission."
+  },
+  {
+   "q": "Are dermal fillers regulated in the same way as anti-wrinkle injections?",
+   "a": "No, dermal fillers are devices rather than medicines, so they are not subject to the same prescription rules. The government has set out plans for a licensing scheme for non-surgical cosmetic procedures in England, but until then it's important to choose a clinic carefully."
+  }
+ ]
+}

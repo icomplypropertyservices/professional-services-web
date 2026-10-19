@@ -1,0 +1,53 @@
+{
+ "intro": "You've searched for an IVF clinic near me, so you're likely looking for a licensed fertility centre within reasonable travelling distance that can offer IVF and related treatments. Finding the right clinic involves checking its HFEA licence, comparing success rates and understanding the full cost picture. We can introduce you to a UK fertility clinic that suits your needs, and they will quote you directly.",
+ "need_heading": "What people searching for an IVF clinic near me usually need",
+ "need_lead": "Most people want a convenient, licensed clinic that provides clear information and support throughout treatment.",
+ "needs": [
+  "You want a clinic that is licensed by the HFEA for IVF and any additional treatments you might need, such as ICSI or embryo freezing.",
+  "You need to know how far you'll have to travel for appointments, monitoring scans and the procedure itself, and whether the clinic offers monitoring closer to home.",
+  "You want to understand the total cost of IVF, including consultations, scans, the procedure and any add-on treatments, before you commit.",
+  "You are looking for a clinic that can accommodate your specific circumstances, such as donor treatment or fertility preservation.",
+  "You would like to compare clinics in your area on success rates, inspection ratings and patient feedback using the HFEA's Choose a Fertility Clinic tool."
+ ],
+ "context_heading": "Understanding HFEA licensing for IVF clinics",
+ "context": [
+  "In the UK, any clinic offering IVF, donor treatment, egg and embryo freezing or most other fertility treatments must be licensed by the Human Fertilisation and Embryology Authority (HFEA). The HFEA inspects clinics and publishes inspection ratings, success rates and patient feedback on its Choose a Fertility Clinic tool, so you can compare licensed clinics near you.",
+  "Some simple tests, such as blood hormone checks, may be offered outside HFEA licensing, but any treatment involving eggs, sperm or embryos should always take place at a licensed centre. Checking a clinic's licence is a sensible first step when you're searching for IVF near you."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Mention that you are looking for an IVF clinic near you and give your location or the area you are willing to travel to.",
+  "Explain whether you have already had any fertility investigations or a diagnosis, and whether you have a referral from your GP.",
+  "Say whether you are interested in specific treatments such as ICSI, embryo freezing or donor treatment, as not all clinics offer every service.",
+  "Let us know if you have any preferences about clinic size, monitoring locations or appointment times that would make treatment easier for you.",
+  "Include any questions you have about costs or what is included in a quote, so the clinic can address them directly.",
+  "Tell us if you need any additional support, such as counselling services or accessibility requirements, so we can introduce you to a suitable clinic."
+ ],
+ "questions_heading": "Questions to ask the fertility clinic",
+ "questions": [
+  "Are you licensed by the HFEA for IVF and any additional treatments I might need?",
+  "What are your success rates for people in my age group and with my circumstances?",
+  "Where will my monitoring scans and appointments take place, and how far will I need to travel?",
+  "What is the total cost of an IVF cycle, and what does it include and exclude?",
+  "Do you offer any add-on treatments, and what is the evidence for their effectiveness?",
+  "What support do you provide during treatment, such as counselling or a named contact?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check if an IVF clinic near me is licensed?",
+   "a": "You can use the HFEA's Choose a Fertility Clinic tool to see which clinics are licensed and to view their inspection ratings, success rates and patient feedback. Any clinic offering IVF or treatments involving eggs, sperm or embryos must be HFEA-licensed."
+  },
+  {
+   "q": "What should I consider when comparing IVF clinics near me?",
+   "a": "Look at success rates for people with similar circumstances to yours, the clinic's inspection rating, the location and availability of monitoring appointments, and the total cost of treatment. The HFEA tool provides official data to help you compare."
+  },
+  {
+   "q": "Does iComply provide IVF treatment or advice?",
+   "a": "No, iComply is an introduction service. We introduce you to a suitable UK fertility clinic, and the clinic will provide treatment and advice directly. We do not give professional advice or provide the service itself."
+  },
+  {
+   "q": "How much does IVF cost, and will iComply quote me a price?",
+   "a": "IVF costs vary between clinics and depend on the treatment you need, so prices are on application. The clinic you are introduced to will quote you directly, and you can ask them for a full breakdown of costs."
+  }
+ ]
+}

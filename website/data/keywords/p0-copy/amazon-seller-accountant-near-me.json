@@ -1,0 +1,53 @@
+{
+ "intro": "You're selling on Amazon and want an accountant who understands the particular way Amazon reports sales, fees and refunds. Someone local who can make sense of your settlement reports and keep you right on VAT is what you're after. We introduce you to UK accountants who work with Amazon sellers, and they quote you directly.",
+ "need_heading": "What people searching for an Amazon seller accountant usually need",
+ "need_lead": "Selling on Amazon brings a set of bookkeeping and tax quirks that a general accountant may not see every day.",
+ "needs": [
+  "You need help reconciling Amazon settlement reports so that every sale, fee and refund is accounted for correctly.",
+  "You want to know whether holding stock in fulfilment centres creates a VAT registration requirement, here or abroad.",
+  "You need a clear way to track cost of goods so your profit figures are accurate and you can see what you are really making.",
+  "You are unsure how to treat Amazon fees and refunds in your records, and want someone who deals with these every week.",
+  "You want an accountant near you who can explain things in plain terms and help you stay on top of your obligations as the business grows."
+ ],
+ "context_heading": "What to understand about Amazon selling and accountancy",
+ "context": [
+  "Amazon selling involves settlement reports that bundle sales, fees, refunds and sometimes stock movements, and these need careful reconciliation to produce accurate accounts. If you hold stock in fulfilment centres, especially in other countries, VAT registration may be required, and the rules differ by country. An accountant experienced with Amazon sellers can help you work through these issues.",
+  "In the UK, the word \"accountant\" on its own is not a protected title, so anyone can use it. Titles such as Chartered Accountant (ICAEW, ICAS or Chartered Accountants Ireland), Chartered Certified Accountant (ACCA) and Chartered Management Accountant (CIMA) are protected, and members are bound by their body's ethics, training and complaints rules. Every practice offering accountancy services must also be supervised for anti-money-laundering purposes, either by a professional body or by HMRC. It is reasonable to ask which body supervises a firm, whether they hold professional indemnity insurance, and how complaints are handled."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you sell on Amazon and which marketplaces you sell in, so we can introduce you to an accountant with relevant experience.",
+  "Say whether you hold stock in fulfilment centres and in which countries, as this affects VAT registration needs.",
+  "Tell us roughly how many sales you make a month, so the accountant can gauge the volume of reconciliation work.",
+  "Explain whether you are already VAT registered and whether you file returns yourself or use an agent.",
+  "Let us know if you also sell through other channels, such as your own shop or other online marketplaces, so your records can be kept together.",
+  "Say what you want help with most, whether that is reconciling settlements, VAT, cost of goods tracking or general accounts and tax returns."
+ ],
+ "questions_heading": "Questions to ask the accountant",
+ "questions": [
+  "How do you usually reconcile Amazon settlement reports, and what information do you need from me?",
+  "Have you dealt with VAT registration for stock held in fulfilment centres abroad, and can you explain the process?",
+  "How do you help clients track cost of goods accurately across different products?",
+  "Which professional body supervises your practice for anti-money-laundering purposes?",
+  "Do you hold professional indemnity insurance, and how are complaints handled?",
+  "What do you need from me each month or quarter to keep my records up to date?"
+ ],
+ "faqs": [
+  {
+   "q": "Why does an Amazon seller need a specialist accountant?",
+   "a": "Amazon settlement reports combine sales, fees, refunds and sometimes stock movements in a way that needs careful reconciliation to produce accurate accounts. A specialist understands these reports and can also advise on VAT registration if you hold stock in fulfilment centres abroad."
+  },
+  {
+   "q": "What is the difference between an accountant and a Chartered Accountant?",
+   "a": "In the UK, \"accountant\" is not a protected title, so anyone can call themselves an accountant. Titles such as Chartered Accountant (ICAEW, ICAS or Chartered Accountants Ireland), Chartered Certified Accountant (ACCA) and Chartered Management Accountant (CIMA) are protected, and members are bound by their body's ethics, training and complaints rules."
+  },
+  {
+   "q": "How can I check that an accountant is properly supervised?",
+   "a": "Every practice offering accountancy services must be supervised for anti-money-laundering purposes, either by a professional body or by HMRC. You can ask which body supervises the firm, whether they hold professional indemnity insurance, and how complaints are handled."
+  },
+  {
+   "q": "What should I have ready before I speak to an accountant about my Amazon business?",
+   "a": "It helps to have your recent Amazon settlement reports, details of any stock held in fulfilment centres and where, and a note of your cost of goods for each product. Also gather any VAT registration details and records of other sales channels."
+  }
+ ]
+}

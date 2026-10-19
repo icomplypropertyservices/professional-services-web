@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a donor egg clinic near me usually means you are exploring treatment with donated eggs and want a clinic you can reach without a long journey. This is a big step, and the practicalities of location, waiting and counselling matter as much as the treatment itself. We can introduce you to a suitable UK fertility clinic, which will then quote you directly.",
+ "need_heading": "What people searching for a donor egg clinic nearby usually need",
+ "need_lead": "Most people typing this search are weighing up donor egg treatment and want a clinic that is both licensed and realistically reachable from home.",
+ "needs": [
+  "You have been told that donor eggs may be your route to a pregnancy and want to find a clinic close enough for regular appointments.",
+  "You are thinking about the practical side of donor egg treatment and want to know which clinics near you offer it.",
+  "You would like to understand how matching with a donor works and what a local clinic can arrange for you.",
+  "You are aware that counselling is part of donor treatment and want a clinic that makes this easy to access.",
+  "You want to compare clinics in your area on licensed status and waiting before deciding where to enquire."
+ ],
+ "context_heading": "Licensing and what donor treatment in the UK involves",
+ "context": [
+  "Clinics offering IVF, donor treatment, egg and embryo freezing and most other fertility treatments must be licensed by the Human Fertilisation and Embryology Authority (HFEA). The HFEA's Choose a Fertility Clinic tool shows each licensed clinic's inspection ratings, success rates and patient feedback, which is a sound way to judge a clinic for yourself. Treatment involving eggs, sperm or embryos should always be with a licensed centre.",
+  "Donor treatment in the UK has particular features worth understanding before you choose a clinic. Donors can be identified by children at eighteen, counselling is an important part of the process, and waiting times vary between clinics. Because of this, asking about waiting and counselling at the clinics you are considering is as useful as comparing their location."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say that you are looking for a donor egg clinic and give the towns or areas you could reasonably travel to.",
+  "Mention whether you have had any fertility investigations or treatment already, so the clinic understands your starting point.",
+  "Explain whether you are seeking treatment as a couple or as a single person, as this can affect what a clinic offers.",
+  "Note any preferences you have about donor matching, such as whether you would like an identifiable donor.",
+  "Say whether you have already looked at clinics in your area and what you would like to compare.",
+  "Include anything about your circumstances that affects travel, such as work commitments or caring responsibilities."
+ ],
+ "questions_heading": "Questions to ask the clinic",
+ "questions": [
+  "Is your clinic licensed by the HFEA for donor egg treatment?",
+  "How does your clinic match recipients with egg donors, and what can you tell me about that process?",
+  "What does counselling involve here, and is it built into the donor egg pathway?",
+  "How long is the current wait for donor eggs at your clinic, and how do you keep me informed while I wait?",
+  "What should I expect at the first appointment, and what tests or information will you need from me?",
+  "How will the cost of donor egg treatment be set out for me, and what does the quote cover?"
+ ],
+ "faqs": [
+  {
+   "q": "Do donor egg clinics near me have to be licensed?",
+   "a": "Yes. Clinics offering donor treatment, IVF and most other fertility treatments must be licensed by the Human Fertilisation and Embryology Authority. You can check a clinic's licensed status, inspection ratings and patient feedback using the HFEA's Choose a Fertility Clinic tool."
+  },
+  {
+   "q": "Will the donor be anonymous?",
+   "a": "In the UK, donors can be identified by children at eighteen, so anonymity is not the same as it once was. A clinic can explain what this means for you and for any child born from donated eggs."
+  },
+  {
+   "q": "Why is counselling mentioned so often in donor treatment?",
+   "a": "Counselling is an important part of donor egg treatment and gives you space to think through the implications before you go ahead. Ask each clinic how counselling is arranged and when it takes place in their pathway."
+  },
+  {
+   "q": "How long might I wait for donor eggs?",
+   "a": "Waiting times vary between clinics, so there is no single answer. It is worth asking each clinic you consider about its current wait and how it keeps you updated."
+  }
+ ]
+}

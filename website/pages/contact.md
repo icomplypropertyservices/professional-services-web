@@ -100,7 +100,7 @@ We do not publish fixed package prices. Different needs need different depth.
 We will not:
 
 - Act as your solicitor, barrister, clinician, accountant or FCA-authorised adviser
-- Invent fixed £ prices on this page
+- Invent prices: fees come from the practice, quoted POA
 - Promise a named firm before capacity is checked
 - Ask you to upload entire confidential files in the first enquiry
 

@@ -1,0 +1,53 @@
+{
+ "intro": "You're looking for a business insurance broker near you because your business needs cover that fits how it actually operates, not a generic policy off the shelf. A local broker can talk through your liabilities, premises, stock, vehicles and any specialist risks, then approach insurers on your behalf. iComply introduces you to a suitable UK insurance broker who will quote you directly, with fees agreed between you.",
+ "need_heading": "What people searching for a business insurance broker near me usually need",
+ "need_lead": "Most people typing this search want a broker who understands their trade and can arrange cover without them having to become an insurance expert.",
+ "needs": [
+  "You run a small business and need public liability, employers' liability or professional indemnity cover before a contract or lease can go ahead.",
+  "Your current policy is up for renewal and you want a broker to check whether the sums insured still match what your business owns and earns.",
+  "You've taken on new premises, stock, vehicles or staff and need a package policy that reflects those changes.",
+  "You want someone local who can explain exclusions and key features face to face rather than through a call centre.",
+  "You've had a claim or a near miss and want advice on business interruption cover and how the policy would respond."
+ ],
+ "context_heading": "Why local knowledge matters when choosing a broker",
+ "context": [
+  "A broker near you will usually know the risks common to your area and trade, from flooding to seasonal trade patterns, and can tailor a package accordingly. They must be authorised by the Financial Conduct Authority or be an appointed representative of an authorised firm, so you can check them on the FCA register before you commit.",
+  "Many brokers also belong to the British Insurance Brokers' Association, and some hold Chartered status from the Chartered Insurance Institute. These are useful signals, but they are not a promise of service, so ask how they are paid and what they will do if a claim arises."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe your business activity and the trade you carry out, including any specialist work that standard policies might exclude.",
+  "Say which covers you need, such as public liability, employers' liability, professional indemnity, property, stock or commercial vehicles.",
+  "Give the approximate sums insured for your premises, contents and stock, and the turnover you want covered for business interruption.",
+  "Mention any claims history or convictions that insurers will ask about, as these affect the quotes a broker can obtain.",
+  "Confirm whether you need cover to start straight away or have a renewal date in mind.",
+  "Say whether you would prefer to deal with a broker locally or are happy to work with one further afield."
+ ],
+ "questions_heading": "Questions to ask the broker",
+ "questions": [
+  "Are you authorised by the Financial Conduct Authority, and can you give me your firm reference number so I can check the register?",
+  "How will you be paid for arranging this policy, and will you disclose any commission or fees in writing?",
+  "Will you check my sums insured and business interruption period to make sure they still fit my business?",
+  "Which insurers will you approach for my trade, and what makes your recommended package suitable for my risks?",
+  "What exclusions should I be aware of, and how would the policy respond if I needed to claim?",
+  "If I have a complaint that we cannot resolve, how do I take it to the Financial Ombudsman Service?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a broker near me, or can I use one further away?",
+   "a": "A local broker can be convenient for face-to-face meetings and may know local risks, but distance is not a requirement. What matters is that the broker understands your trade and is authorised by the Financial Conduct Authority."
+  },
+  {
+   "q": "How do I check that a business insurance broker is legitimate?",
+   "a": "Search the Financial Conduct Authority register for the firm's name or reference number. You can also ask whether they are a member of the British Insurance Brokers' Association or hold Chartered status from the Chartered Insurance Institute."
+  },
+  {
+   "q": "Will a broker find me cheaper cover than going direct?",
+   "a": "A broker can compare packages from several insurers and may find a better fit for your risks, but cheaper is not always better. Ask what is included and excluded, and check that the sums insured and business interruption cover are adequate."
+  },
+  {
+   "q": "What information will a broker need from me?",
+   "a": "Expect to provide details of your trade, turnover, premises, stock, vehicles, staff and any claims history. The broker must understand your demands and needs before recommending a policy."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "intro": "Looking for embryo freezing near you usually means you're considering storing embryos created through IVF for use later, perhaps after treatment, a move, or a change in circumstances. You want to find a licensed clinic that suits your location and situation, and understand what's involved before you commit. We can introduce you to a suitable UK fertility clinic that offers embryo freezing, and they will quote you directly.",
+ "need_heading": "What people searching for embryo freezing near me usually need",
+ "need_lead": "Most people want a local clinic that can store embryos safely and explain the process clearly.",
+ "needs": [
+  "You have embryos from a previous IVF cycle and want to store them for a future transfer.",
+  "You are about to start IVF and want to know whether embryo freezing is available at a clinic near you.",
+  "You are moving home and need a clinic closer to your new address that can take over storage.",
+  "You want to understand the consent arrangements for embryo storage, including your partner's role.",
+  "You need to know how storage is renewed and what happens if you move abroad or lose contact with the clinic."
+ ],
+ "context_heading": "Licensing and choosing a clinic",
+ "context": [
+  "Clinics that offer embryo freezing must be licensed by the Human Fertilisation and Embryology Authority (HFEA). The HFEA's Choose a Fertility Clinic tool shows each licensed clinic's inspection ratings, success rates and patient feedback, so you can compare clinics near you on official information rather than claims.",
+  "Embryo freezing is used to store embryos created through IVF for later transfer, and frozen transfers are common. Both partners usually need to consent to storage, and storage needs renewing periodically, so it's worth asking how the clinic handles consent and renewal from the start."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you are looking for embryo freezing near you, and give your town or postcode so we can introduce you to a suitable local clinic.",
+  "Explain whether you already have embryos in storage elsewhere or are planning IVF and want freezing as part of treatment.",
+  "Say whether you are having treatment as a couple or as an individual, as consent requirements differ.",
+  "Let us know if you have any particular timing needs, such as a move or a planned transfer.",
+  "Tell us if you need the clinic to communicate in a particular language or offer specific support.",
+  "Include any questions you already have about storage consent or renewal so the clinic can address them in their quote."
+ ],
+ "questions_heading": "Questions to ask the clinic",
+ "questions": [
+  "Are you licensed by the HFEA for embryo freezing and storage?",
+  "How do you handle consent for storage, and what happens if one partner withdraws consent?",
+  "How often does storage need renewing, and how will you remind us?",
+  "What happens to our embryos if we move away or lose contact with you?",
+  "Can you explain the process for transferring embryos to another clinic if needed?",
+  "What are the costs involved, and what does the quote include?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral to arrange embryo freezing near me?",
+   "a": "Not usually. You can approach a licensed fertility clinic directly to discuss embryo freezing. The clinic will assess your situation and explain what's involved."
+  },
+  {
+   "q": "Is embryo freezing regulated in the UK?",
+   "a": "Yes. Clinics offering embryo freezing must be licensed by the Human Fertilisation and Embryology Authority (HFEA). You can check a clinic's inspection ratings and patient feedback on the HFEA's Choose a Fertility Clinic tool."
+  },
+  {
+   "q": "How long can embryos be stored?",
+   "a": "Storage is usually for a set period and needs renewing. The clinic will explain the current rules and how renewal works, including what consent is required."
+  },
+  {
+   "q": "What should I consider when choosing a clinic near me?",
+   "a": "Look at whether the clinic is HFEA-licensed, how easy it is to travel to, and how they handle consent and storage renewal. The HFEA's Choose a Fertility Clinic tool can help you compare local clinics on official information."
+  }
+ ]
+}

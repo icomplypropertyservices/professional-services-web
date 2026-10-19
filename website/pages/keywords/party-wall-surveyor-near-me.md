@@ -7,102 +7,90 @@ group: property-prof
 hub: surveyors
 profession: surveyor
 service_label: Party wall surveyor
-og_image: /assets/images/finance-desk.jpg
+og_image: /assets/images/insurance-advisory.jpg
 ---
 
 # Party Wall Surveyor Near Me
 
-If you have typed **party wall surveyor near me** into a search bar, you are likely looking for help soon and not too far away. Party wall surveyors deal with notices and awards under the Party Wall etc. Act 1996 when work affects shared walls, boundaries or nearby foundations.
+When you search for a party wall surveyor near me, you likely need someone local who can help with a notice or a party wall agreement under the Party Wall etc. Act. Whether you are the owner doing the work or the neighbour affected, you want clear guidance on the next steps and a surveyor who can act fairly. We introduce you to a suitable UK professional who will quote you directly, with no obligation.
+
+Party wall surveyors deal with notices and awards under the Party Wall etc. Act 1996 when work affects shared walls, boundaries or nearby foundations.
 
 We act as the middleman between you and the professional. Share a short brief and we match you with a party wall surveyor who has the right experience and capacity. Enquiring is free, and you are under no obligation to accept a quote.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Professional reviewing a client's brief before an introduction for party wall surveyor near me](/assets/images/finance-desk.jpg)
+![Next steps after an iComply introduction for a party wall surveyor](/assets/images/insurance-advisory.jpg)
 
-## What surveyors commonly help with
+## What people searching for a party wall surveyor usually need
 
-Every enquiry is different, but these are typical starting points for clients who contact surveyors:
+Most people looking for a party wall surveyor are dealing with a specific building project or a notice they have received.
 
-- A neighbour planning work that affects a shared wall.
-- A commercial tenant at the end of a lease.
-- Insurance needing an accurate rebuild valuation.
-- An owner worried about cracks, damp or roof problems.
-- A dispute over where a boundary lies.
+- You are planning work such as a loft conversion, extension or basement and have been told you need to serve a party wall notice on your neighbour.
+- You have received a party wall notice from a neighbour and want to understand your rights and what happens next.
+- You and your neighbour have agreed to use a single surveyor to prepare a party wall agreement and need someone to act for both of you.
+- You are buying or selling a property and need a party wall agreement or schedule of condition to clarify the state of a shared wall.
+- You need a surveyor who can act impartially and prepare a party wall agreement that protects both sides if there is a dispute.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of surveyor fits best.
-
-## How to check you are in safe hands
-
-Many surveyors are members of the Royal Institution of Chartered Surveyors (RICS), and RICS-regulated firms must follow professional standards, hold insurance and offer a complaints process. Chartered surveyors use the letters MRICS or FRICS. Some specialist roles have their own bodies, such as the Faculty of Party Wall Surveyors or the Property Care Association for damp and timber specialists.
-
-Check the RICS directory, ask which report type you are getting and confirm whether the surveyor is independent of the sale. For asbestos work, look for organisations accredited by UKAS for surveying.
-
-Please note that iComply is a matching service only. We are not regulated as a surveyor, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
-
-## Getting ready for your first conversation
+## What to tell iComply when you enquire
 
 You do not need all of this to enquire, but the more you can share, the better the match:
 
-- Any previous reports or drawings
-- Your lender's requirements, if a mortgage is involved
-- The age of the property, if known
-- Any particular concerns, such as cracks, damp or extensions
-- Access arrangements and who holds the keys
-- Why you need the survey and any deadline
+- Describe the type of work you are planning or the notice you have received, including whether it is for a loft conversion, extension, basement or other structural change.
+- Say whether you are the building owner or the adjoining owner, as this affects what the surveyor will do for you.
+- Mention if you have already spoken to your neighbour and whether they are likely to agree to a single surveyor.
+- Give the location of the property so we can introduce you to a surveyor who works in your area.
+- State whether you need a full party wall agreement or just a schedule of condition.
+- Include any deadlines you are aware of, such as the notice period, so the surveyor can prioritise your enquiry.
 
 Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
-**Need a party wall surveyor?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
+## How fees usually work (POA)
 
-## Red flags when choosing a party wall surveyor
-
-Be cautious if you notice any of the following:
-
-- No professional indemnity insurance
-- Reluctance to discuss findings after the report
-- Links to the selling agent that are not disclosed
-- A report type that does not match the property's age or condition
-
-## Costs and quotes for a party wall surveyor
-
-Survey fees depend on the type of report, the size and age of the property and how far the surveyor must travel. Specialist and commercial work is usually quoted individually. iComply does not publish fees; the surveyor quotes you, POA.
+Survey fees depend on the type of report, the size and age of the property and how far the surveyor must travel. Specialist and commercial work is usually quoted individually. The surveyor quotes you, POA.
 
 Ask for the scope of the inspection in writing, and check whether follow-up calls or additional investigations are included.
 
-## How iComply matches you
+**Need a party wall surveyor?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
-1. **We review your brief.** We check the type of surveyor you need, your location and your timing.
-1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
-1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
+## One key thing to understand about party wall matters
+
+The Party Wall etc. Act sets out the process for work that affects shared walls, boundaries or nearby foundations. Notices must be served before work starts, and if you and your neighbour cannot agree, you each appoint a surveyor or agree on a single surveyor to make a party wall agreement.
+
+A party wall agreement is a legally binding document that sets out how the work should be carried out and protects both parties. Many party wall surveyors are members of the Royal Institution of Chartered Surveyors (RICS), and some belong to the Faculty of Party Wall Surveyors. You can check a surveyor's membership and ask about their experience with the Act.
+
+## Red flags when choosing a party wall surveyor
+
+Most professionals are honest and competent, but it is worth knowing the warning signs:
+
+- No professional indemnity insurance
+- Links to the selling agent that are not disclosed
+- Reluctance to discuss findings after the report
+- Quotes without a clear description of the inspection
+
+![Professional reviewing a client's brief before an introduction for party wall surveyor near me](/assets/images/hero-workshop.jpg)
+
+## How our free matching service works
+
+1. **Enquire for free** with your town or postcode and a short description.
+1. **We clarify** anything unclear, so the introduction is useful from the start.
+1. **We connect you** with a party wall surveyor who suits your situation.
+1. **The practice takes over**, confirms scope and fees in writing and does the work.
 
 We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
 
-![Surveying practice ready to take on a new enquiry for party wall surveyor near me](/assets/images/insurance-advisory.jpg)
-
-## Questions to ask a party wall surveyor
+## Questions to ask the professional
 
 Asking a few direct questions early tells you a lot about how a practice works:
 
-- What will the report cover, and what is excluded?
-- Which type of survey or report do you recommend, and why?
-- Can I call you to talk through the findings?
-- What happens if you find something that needs further investigation?
-- Do you hold professional indemnity insurance?
-- Are you RICS regulated or a member of another relevant body?
+- Are you a member of the Royal Institution of Chartered Surveyors or the Faculty of Party Wall Surveyors?
+- Have you handled many party wall matters for projects like mine?
+- Will you act as a single surveyor for both parties or would you represent only me?
+- What is your process for serving notices and preparing a party wall agreement?
+- How do you handle disagreements between neighbours during the process?
+- What are your fees and what do they cover?
 
-## Near me: how local matching works
-
-When you search for a party wall surveyor near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
-
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
-
-## Timing and urgency
-
-Residential inspections can often be booked within a week or two, with reports following within a few working days. Party wall matters follow statutory notice periods, and specialist investigations may need extra visits.
-
-## Key things to know about a party wall surveyor
+## Practical points about a party wall surveyor
 
 These practical points are worth knowing before you speak to anyone about a party wall surveyor:
 
@@ -112,48 +100,60 @@ These practical points are worth knowing before you speak to anyone about a part
 
 A good surveyor will talk you through each of these in plain English.
 
-## After the introduction
+## Qualifications and registration to look for
 
-Once introduced, the surveyor will confirm terms of engagement before the inspection. The report and professional responsibility for it sit with the surveyor. iComply does not inspect properties.
+Many surveyors are members of the Royal Institution of Chartered Surveyors (RICS), and RICS-regulated firms must follow professional standards, hold insurance and offer a complaints process. Chartered surveyors use the letters MRICS or FRICS. Some specialist roles have their own bodies, such as the Faculty of Party Wall Surveyors or the Property Care Association for damp and timber specialists.
 
-![Planning the first appointment after an enquiry for party wall surveyor near me](/assets/images/healthcare-consult.jpg)
+Check the RICS directory, ask which report type you are getting and confirm whether the surveyor is independent of the sale. For asbestos work, look for organisations accredited by UKAS for surveying.
+
+Please note that iComply is a matching service only. We are not regulated as a surveyor, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
+
+![Planning the first appointment after an enquiry for party wall surveyor near me](/assets/images/finance-desk.jpg)
 
 ## Party Wall Surveyor Near Me: FAQs
 
-### Which survey do I need when buying a home?
+### Do I always need a party wall surveyor?
 
-For a conventional property in reasonable condition, a RICS Level 2 survey is often enough. Older, larger or altered properties often justify a Level 3 building survey. A surveyor can recommend the right level.
+Not always. If the work is minor and your neighbour agrees in writing, you may not need a surveyor. However, for work covered by the Party Wall etc. Act, such as loft conversions or extensions, a surveyor is often needed to prepare a party wall agreement if there is no agreement.
+
+### What is the difference between a party wall agreement and a schedule of condition?
+
+A party wall agreement is a legal document that resolves a dispute and sets out how the work will be carried out. A schedule of condition is a record of the condition of a neighbouring property before work starts, often used to protect against later claims of damage.
+
+### Can my neighbour and I use the same surveyor?
+
+Yes, if you both agree, you can appoint a single surveyor to act impartially for both parties. This is often simpler and less expensive than each appointing your own surveyor.
+
+### How do I find a party wall surveyor near me?
+
+You can search for surveyors in your area through the RICS directory or ask for recommendations. iComply can also introduce you to a suitable local surveyor who will quote you directly.
 
 ### Is a mortgage valuation the same as a survey?
 
 No. A mortgage valuation is carried out for the lender. A survey is carried out for you and looks at the property's condition.
 
-### How do I find a party wall surveyor near me?
+### Can you find a party wall surveyor in my area?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable surveying practice with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
-
-### Do I have to accept a quote?
-
-No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
 
 ### Is iComply regulated?
 
 iComply is a matching service. We are not a surveyor and we do not give professional advice. The professionals we introduce are registered with their own bodies, and you can check them.
 
-### How quickly will I hear back?
+### Can I contact you on WhatsApp?
 
-Straightforward enquiries are usually reviewed within a few working days. Mark urgent needs clearly. Speed also depends on practice capacity near you.
+Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
 
-## Related searches
+## People also look for
 
-- [Project management surveyor near me](/keywords/project-management-surveyor-near-me/)
-- [Surveyor near me](/keywords/surveyor-near-me/)
-- [Homebuyer surveyor near me](/keywords/homebuyer-surveyor-near-me/)
-- [Measured surveyor near me](/keywords/measured-surveyor-near-me/)
+- [Building survey surveyor near me](/keywords/building-survey-surveyor-near-me/)
+- [Building surveyor near me](/keywords/building-surveyor-near-me/)
+- [Chartered surveyor near me](/keywords/chartered-surveyor-near-me/)
 - [Surveyors](/keywords/surveyors/)
+- [Surveyor](/keywords/surveyor/)
 - [Browse all surveyors](/hubs/surveyors/)
 
-## Get a free quote for a party wall surveyor
+## Request your free quote
 
 One short enquiry is all it takes. We connect you with a party wall surveyor who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
 

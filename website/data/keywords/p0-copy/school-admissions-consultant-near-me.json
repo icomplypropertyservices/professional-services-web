@@ -1,0 +1,53 @@
+{
+ "intro": "Looking for a school admissions consultant near you usually means you are trying to get a child into a particular school and want help with the application, the oversubscription criteria or an appeal. It may be a state school place that feels out of reach, or an independent school with its own entry process. A consultant can help you understand what each school is looking for and how to put your case together clearly.",
+ "need_heading": "What people searching for a school admissions consultant usually need",
+ "need_lead": "Most enquiries come from parents or carers facing a school place decision that matters a great deal to their child.",
+ "needs": [
+  "You have been refused a place at your preferred school and want to understand whether an appeal is worth pursuing.",
+  "You are unsure how a school's oversubscription criteria apply to your family's circumstances.",
+  "You are applying to independent schools and want help preparing for entrance assessments or interviews.",
+  "Your child has special educational needs and you want support explaining their needs within an application.",
+  "You are moving to a new area and need to understand how in-year admissions work for the schools nearby."
+ ],
+ "context_heading": "What to understand about school admissions help",
+ "context": [
+  "Education consultancy is not regulated by a single body, so it is worth looking for a consultant with relevant teaching, admissions or special educational needs experience, and asking whether they belong to an organisation such as the Society of Education Consultants. Ask for references and a clear written agreement setting out what they will do.",
+  "For school admission appeals, independent appeal panels follow the School Admission Appeals Code in England. A consultant can help you prepare your case and gather evidence, but the decision is made by the panel."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say which school or schools you are applying to, and whether they are state or independent.",
+  "Explain your child's year group and the point you have reached in the process, such as applying, refused or appealing.",
+  "Describe the reason you think your child should have a place, so we can match you with someone suited to your situation.",
+  "Mention any special educational needs or additional circumstances that affect the application.",
+  "Give your rough location, since you searched for a consultant near you and may prefer to meet in person.",
+  "Say whether you have a deadline such as an appeal date, so the consultant knows how urgent things are."
+ ],
+ "questions_heading": "Questions to ask the consultant",
+ "questions": [
+  "What experience do you have with admissions to the kind of school we are applying to?",
+  "How would you approach our particular refusal or oversubscription issue?",
+  "What evidence would help our case, and how should we gather it?",
+  "What are the fixed timetables we need to work to for an appeal?",
+  "What will you do for us, and how will that be set out in writing?",
+  "Can you provide references from families you have helped with school admissions?"
+ ],
+ "faqs": [
+  {
+   "q": "Can a consultant get my child a school place?",
+   "a": "No one can promise a school place. A consultant can help you understand the criteria, prepare a strong application and put together an appeal, but the decision rests with the school or the independent appeal panel."
+  },
+  {
+   "q": "How do I choose a school admissions consultant near me?",
+   "a": "Look for someone with relevant teaching, admissions or special educational needs experience, and ask about membership of organisations such as the Society of Education Consultants. Ask for references and a clear written agreement before you go ahead."
+  },
+  {
+   "q": "Can you help with an appeal against a refused place?",
+   "a": "Yes, a consultant can help you prepare your case and gather evidence for an appeal. Independent appeal panels follow the School Admission Appeals Code in England, and the outcome is never certain."
+  },
+  {
+   "q": "What should I have ready before I enquire?",
+   "a": "It helps to know which schools you are applying to, your child's year group, where you are in the process and any deadlines. Mentioning special educational needs or other circumstances helps us introduce you to someone suited to your situation."
+  }
+ ]
+}

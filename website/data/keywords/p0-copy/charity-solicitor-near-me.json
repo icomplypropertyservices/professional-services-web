@@ -1,0 +1,53 @@
+{
+ "intro": "You're looking for a charity solicitor near you, probably because you're setting up a charity, sitting on a board of trustees, or dealing with a governance issue that needs legal input. Charity solicitors advise on structure, trustee duties, mergers, property and Charity Commission matters. We can introduce you to a suitable UK solicitor in your area who will quote you directly.",
+ "need_heading": "What people searching for a charity solicitor usually need",
+ "need_lead": "Most people who search for a charity solicitor near them are at a point where a decision or a problem needs proper legal guidance.",
+ "needs": [
+  "You want to set up a new charity and need to choose the right legal structure, such as a charitable incorporated organisation or a company limited by guarantee.",
+  "You are a trustee and want to understand your personal duties and what the role actually requires of you in law.",
+  "Your charity has experienced a serious incident and you need to know what must be reported to the Charity Commission and how to handle it.",
+  "You are considering merging with another charity and need advice on the legal process and what trustees must consider.",
+  "Your charity is dealing with property, whether buying, leasing or selling, and you need a solicitor who understands charity law and land."
+ ],
+ "context_heading": "Understanding charity law and finding the right solicitor",
+ "context": [
+  "Charity solicitors work within a specific legal framework that includes the Charities Act and the requirements of the Charity Commission. They can help you interpret trustee duties, which are personal and can carry liability if things go wrong. They also advise on reporting serious incidents, which is a key responsibility for trustees.",
+  "When looking for a solicitor near you, check that they are regulated by the Solicitors Regulation Authority (in England and Wales), the Law Society of Scotland, or the Law Society of Northern Ireland, depending on where you are. You can verify an individual or firm on the relevant register. Regulated firms must hold professional indemnity insurance and have a complaints procedure; if a service complaint is not resolved, the Legal Ombudsman can look at it in England and Wales."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Whether you are setting up a charity, already run one, or are a trustee needing advice.",
+  "The type of legal structure you have or are considering, if you know it.",
+  "A brief outline of the issue, such as a governance question, a merger, property matter, or serious incident.",
+  "Your location and how far you are willing to travel to see a solicitor.",
+  "Whether you have any deadlines or time pressures, such as a Charity Commission response or a property transaction.",
+  "Any relevant documents you already have, such as governing documents or correspondence from the Charity Commission."
+ ],
+ "questions_heading": "Questions to ask the charity solicitor",
+ "questions": [
+  "What experience do you have advising charities on similar matters?",
+  "How will you charge for this work, and can you give me an estimate of the likely costs?",
+  "Will you be my main point of contact, or will others in your firm handle parts of the work?",
+  "What are the key legal risks I should be aware of in this situation?",
+  "How long do you expect this matter to take, and what are the main steps?",
+  "Do you have a complaints procedure, and are you regulated by the Solicitors Regulation Authority or the relevant body?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a solicitor to set up a charity?",
+   "a": "It is not a legal requirement, but a solicitor can help you choose the right structure, prepare the governing document, and ensure the charity meets Charity Commission requirements. This can save time and reduce the risk of problems later."
+  },
+  {
+   "q": "What are trustee duties in law?",
+   "a": "Trustees have personal duties, including acting in the charity's best interests, managing resources responsibly, and complying with charity law. A solicitor can explain these duties and help you avoid personal liability."
+  },
+  {
+   "q": "When must a serious incident be reported to the Charity Commission?",
+   "a": "Trustees must report serious incidents that have occurred or are likely to occur, such as fraud, financial loss, or harm to beneficiaries. A solicitor can advise on what needs reporting and how to handle the situation."
+  },
+  {
+   "q": "How can I check that a charity solicitor is properly regulated?",
+   "a": "You can check the Solicitors Regulation Authority register for solicitors in England and Wales, the Law Society of Scotland for Scotland, or the Law Society of Northern Ireland for Northern Ireland. This confirms the individual or firm is regulated and holds professional indemnity insurance."
+  }
+ ]
+}

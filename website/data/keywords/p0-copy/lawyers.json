@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for lawyers usually means something in your life has reached a point where you need proper legal help — a contract, a dispute, a family matter, a move or a bereavement. You may be comparing several to work out who is right for your situation and what it might cost. We can introduce you to a UK solicitor who deals with your kind of matter, and they will quote you directly.",
+ "need_heading": "What people searching for lawyers usually need",
+ "need_lead": "Most people looking for lawyers are facing a specific legal problem and want someone qualified to guide them through it.",
+ "needs": [
+  "You are buying or selling a home and need the conveyancing handled properly.",
+  "You are going through a separation or divorce and need advice on finances or arrangements for children.",
+  "You have a dispute with an employer, a business or a neighbour and want to know where you stand.",
+  "You are writing or updating a will and want to be sure it is legally sound.",
+  "You are starting or running a business and need help with contracts, leases or terms."
+ ],
+ "context_heading": "Check who is actually handling your matter",
+ "context": [
+  "The word lawyer is not protected on its own, so it is worth checking that the person dealing with your case is a solicitor, a chartered legal executive or another authorised professional. In England and Wales, solicitors are regulated by the Solicitors Regulation Authority, and you can check an individual or firm on the SRA register; Scotland and Northern Ireland have their own regulators. Reserved activities such as conducting court litigation and certain probate and conveyancing work can only be carried out by authorised people.",
+  "Regulated firms must hold professional indemnity insurance and have a complaints procedure. If a service complaint is not resolved, the Legal Ombudsman can look at it in England and Wales. Ask for costs information at the start so you understand how you will be charged."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Describe the legal matter in your own words, including what has happened so far.",
+  "Say which part of the UK you are in, as regulation and procedure differ between England, Wales, Scotland and Northern Ireland.",
+  "Mention any deadlines or court dates you are aware of.",
+  "Explain whether the matter is personal or for a business.",
+  "Say whether you have already spoken to another solicitor or received legal advice.",
+  "Note anything you especially want from the solicitor, such as help understanding costs or support through a stressful process."
+ ],
+ "questions_heading": "Questions to ask the solicitor",
+ "questions": [
+  "Do you specialise in this type of matter, and how do you usually handle cases like mine?",
+  "Are you a solicitor, and which regulator are you and your firm accountable to?",
+  "How will your fees be calculated, and what costs information can you give me at the outset?",
+  "What are the likely stages of my matter, and what will you need from me at each stage?",
+  "Who in the firm will actually handle my case day to day?",
+  "What is your complaints procedure if I am unhappy with the service?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I choose between several lawyers?",
+   "a": "Look for someone who specialises in your type of matter, ask about their approach and costs at the start, and check the firm on the relevant regulator's register. Speaking to more than one can help you judge who you feel comfortable with."
+  },
+  {
+   "q": "Is a lawyer the same as a solicitor?",
+   "a": "Not necessarily. Lawyer is a broad word that is not protected on its own, while solicitor is a specific regulated title. Check that whoever handles your matter is a solicitor, a chartered legal executive or another authorised professional."
+  },
+  {
+   "q": "Will I know the cost before I start?",
+   "a": "You should ask for costs information at the start so you understand how you will be charged. The solicitor can explain this when they quote you directly."
+  },
+  {
+   "q": "What if I am unhappy with the service?",
+   "a": "Regulated firms must have a complaints procedure, so ask for it. If your complaint is not resolved, the Legal Ombudsman can look at service complaints in England and Wales."
+  }
+ ],
+ "extra_heading": "Comparing lawyers when the word covers so much",
+ "extra": [
+  "Searching for lawyers rather than a specific kind of solicitor suggests you may not yet know which area of law your problem sits in, or you are weighing up several people at once. That is a sensible starting point, because legal work is broad and the person who handles a house purchase is not usually the same person who handles a family separation or a business dispute. Working out roughly what your matter is will help you compare like with like.",
+  "When you speak to more than one, ask each the same questions so the answers are genuinely comparable: what area they specialise in, how they would approach your matter, who would do the day to day work, and how their charges are structured. Charges can be a fixed fee, an hourly rate or a conditional arrangement, and asking how each applies to your situation tells you more than any single figure. It also helps to check each firm on the relevant regulator's register before you commit.",
+  "Bear in mind that a first conversation is often a chance for both sides to decide whether to go further, and you are not obliged to instruct the first lawyer you speak to. If your matter crosses borders within the UK, say so early, because Scotland and Northern Ireland have their own regulators and procedures. Take notes as you go and keep any quotes in writing so you can compare them calmly afterwards."
+ ],
+ "extra_faqs": [
+  {
+   "q": "I don't know what kind of lawyer I need — what should I do?",
+   "a": "Describe what has happened in plain terms when you enquire, and we can introduce you to a solicitor who deals with that kind of matter. You can also ask the solicitor at the outset whether your issue falls within their specialism, and they should tell you honestly if it does not."
+  },
+  {
+   "q": "Can the same lawyer handle several different matters for me?",
+   "a": "Sometimes, but different areas of law call for different expertise, so a firm may pass your matter to a colleague who specialises in it. Ask who will actually handle each piece of work and whether they are a solicitor or another authorised professional."
+  },
+  {
+   "q": "Should I meet a lawyer before deciding?",
+   "a": "Many people find a short initial conversation useful for judging how someone explains things and whether you feel able to ask questions. Ask what that conversation will cost, if anything, so there are no surprises."
+  }
+ ]
+}

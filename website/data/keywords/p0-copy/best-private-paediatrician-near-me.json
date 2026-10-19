@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for the best private paediatrician near me, you're likely worried about your child's health and want expert help quickly, without a long wait. You want to find a children's doctor who can assess and treat conditions such as allergies, growth issues, development concerns, asthma or recurring infections. We at iComply can introduce you to a suitable UK professional who will quote you directly, so you can make an informed choice.",
+ "need_heading": "What parents searching for a private paediatrician usually need",
+ "need_lead": "Most parents are looking for prompt, specialist reassurance about a specific concern, or a second opinion on their child's care.",
+ "needs": [
+  "Your child has a recurring infection, asthma or an allergy that isn't settling with usual GP care, and you want a paediatrician's assessment.",
+  "You're worried about your child's growth, development or behaviour and would like a specialist view sooner than the NHS waiting list allows.",
+  "You need a second opinion on a diagnosis or treatment plan your child has already been given.",
+  "You want a private consultation for convenience, perhaps because you need an appointment outside school hours or at short notice.",
+  "You're looking for a paediatrician near you who can see your child quickly and provide a written summary for your NHS GP."
+ ],
+ "context_heading": "What to understand when choosing a private paediatrician",
+ "context": [
+  "Every doctor practising in the UK must be registered and hold a licence to practise with the General Medical Council (GMC). You can search the GMC's online register by name to check a paediatrician's registration and licence. Private clinics providing regulated healthcare in England must register with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA.",
+  "A private paediatrician does not replace your NHS GP. Good private clinics will ask for consent to share consultation notes with your NHS practice, so your child's records stay complete and any medication is prescribed safely. It's also worth remembering that a GP referral is often preferred, and bringing your child's red book to the appointment helps the paediatrician understand their history."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe your child's main symptoms or concern, such as allergies, growth, development, asthma or recurring infections, and how long it has been going on.",
+  "Mention your child's age and any relevant medical history, including whether they have seen an NHS GP or specialist already.",
+  "Say whether you have a referral from your GP or whether you are approaching a paediatrician directly.",
+  "Explain what you hope to achieve, such as a diagnosis, a second opinion, or help managing a long-term condition.",
+  "Let us know your preferred location and any urgency, so we can introduce you to a suitable professional near you.",
+  "Confirm that you understand the paediatrician will quote you directly and that fees are price on application."
+ ],
+ "questions_heading": "Questions to ask the paediatrician",
+ "questions": [
+  "What is your experience in assessing and treating children with my child's specific condition?",
+  "Will you share your findings with my child's NHS GP, and how do you handle consent?",
+  "What follow-up arrangements do you offer, and are they included in the quote?",
+  "How long will the consultation last, and what does the fee cover?",
+  "Do you have admitting rights to a local hospital if my child needs further care?",
+  "What is your policy on cancellations and rebooking?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a referral from my NHS GP to see a private paediatrician?",
+   "a": "A GP referral is often preferred, but many private paediatricians will see children without one. It helps to bring your child's red book and any relevant medical records to the appointment."
+  },
+  {
+   "q": "How do I check that a private paediatrician is properly qualified?",
+   "a": "You can search the General Medical Council's online register by name to confirm the doctor is registered and holds a licence to practise. You can also check whether the clinic is registered with the relevant regulator, such as the Care Quality Commission in England."
+  },
+  {
+   "q": "Will the private paediatrician replace my NHS GP?",
+   "a": "No, a private paediatrician does not replace your NHS GP. Good private clinics will ask for consent to share consultation notes with your NHS practice, so your child's records stay complete and any medication is prescribed safely."
+  },
+  {
+   "q": "What should I bring to a private paediatric appointment?",
+   "a": "Bring your child's red book, any relevant medical records or test results, and a list of current medications. It's also helpful to note down your main concerns and any questions you want to ask."
+  }
+ ],
+ "extra_heading": "Weighing up 'best' and 'near me' for a children's doctor",
+ "extra": [
+  "Searching for the best private paediatrician near you usually means two things are pulling at once: you want the right doctor for your child, and you want them close enough to reach without a long journey. 'Best' is personal here, because the paediatrician who suits a child with asthma may not be the one who suits a toddler with a growth concern, so think about the specific problem first and let that guide you.",
+  "Because no one can honestly rank paediatricians for you, judge for yourself using what you can check. Look at the doctor's registration and licence to practise on the General Medical Council's online register, and check whether the clinic is registered with the relevant regulator, such as the Care Quality Commission in England. Then ask about their experience with your child's condition, what the appointment will cover, and how follow-up would work.",
+  "Near me matters more than it first seems, because a paediatric appointment often turns into more than one visit, and travelling with a tired or unwell child is hard. Ask how soon they can see your child, whether they offer appointments outside school hours, and where any follow-up would take place. It is also worth asking whether they will write to your NHS GP with your consent, so your child's records stay joined up."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Can I find out which private paediatrician is best for my child's particular problem?",
+   "a": "There is no official ranking of paediatricians, so the most reliable approach is to ask about a doctor's experience with your child's specific condition, such as asthma, allergies, growth or development. Checking their GMC registration and the clinic's regulator, together with a clear conversation about what the appointment will cover, helps you judge for yourself."
+  },
+  {
+   "q": "How close does a private paediatrician need to be?",
+   "a": "Close enough that repeat visits are manageable, especially if your child is unwell or the appointment falls on a school day. Ask where consultations and any follow-up take place before you commit, since a clinic that looks near on a map may still involve a difficult journey."
+  },
+  {
+   "q": "What if my child needs to be seen urgently?",
+   "a": "Private paediatric appointments are arranged directly with the doctor, so ask about availability when you enquire. If your child becomes seriously unwell, contact NHS 111 for advice or 999 in an emergency rather than waiting for a private appointment."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "intro": "You've searched for a bookkeeper, so you're likely looking for someone to take care of the day-to-day recording of your sales, purchases and receipts. Perhaps your books have fallen behind, or you're starting a new business and want to get things right from the start. iComply can introduce you to a bookkeeper who will quote you directly for the work you need.",
+ "need_heading": "What people searching for a bookkeeper usually need",
+ "need_lead": "Most people looking for a bookkeeper want someone to keep their financial records accurate and up to date, often because they are busy running their business.",
+ "needs": [
+  "You run a small business and need help recording sales, purchases, receipts and payments so that your records are accurate all year.",
+  "You are behind with your bookkeeping and want someone to bring everything up to date before the year end.",
+  "You need help preparing VAT returns and want a bookkeeper to handle the calculations and submissions.",
+  "You want to understand your cash flow better and need clean books so you can spot problems early.",
+  "You are starting out and want to set up a simple bookkeeping system that you can maintain each month."
+ ],
+ "context_heading": "One key thing to understand about bookkeeping",
+ "context": [
+  "Bookkeeping is not a regulated title in the UK, but anyone providing bookkeeping services for a fee must be supervised for anti-money-laundering purposes, either by HMRC or by a professional body. Membership of the Institute of Certified Bookkeepers (ICB) or the Association of Accounting Technicians (AAT) shows a bookkeeper has trained to a recognised standard and agreed to a code of conduct.",
+  "Ask whether a bookkeeper holds professional indemnity insurance and which body supervises them. Good bookkeepers are also clear about where their work stops and an accountant's starts, for example on year-end accounts and tax advice."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention the type of business you run, as different bookkeepers have experience with different sectors.",
+  "Say whether you need help with VAT returns, payroll, or both, so the bookkeeper can quote accurately.",
+  "Explain how far behind your books are, if at all, so the bookkeeper knows the scale of the work.",
+  "Describe how you currently record your sales and purchases, for example using spreadsheets or paper receipts.",
+  "Say whether you work with an accountant already and where you see the bookkeeper's role ending.",
+  "Include your preferred way of sharing documents, such as email or cloud accounting software, if you have one."
+ ],
+ "questions_heading": "Questions to ask the bookkeeper",
+ "questions": [
+  "Which body supervises you for anti-money-laundering purposes?",
+  "Do you hold professional indemnity insurance?",
+  "How will we share documents each month?",
+  "Will you prepare and submit VAT returns on my behalf?",
+  "How do you handle payroll, and is that included in your quote?",
+  "Where does your work stop and an accountant's begin, for example on year-end accounts?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a bookkeeper if I already have an accountant?",
+   "a": "Many people use both: a bookkeeper keeps your records up to date during the year, while an accountant handles year-end accounts and tax advice. A bookkeeper can make the year end faster and cheaper by keeping everything accurate."
+  },
+  {
+   "q": "How often should a bookkeeper work on my books?",
+   "a": "Most bookkeepers work monthly, which helps you spot cash-flow problems early and keeps the year end straightforward. You can agree a schedule that suits your business."
+  },
+  {
+   "q": "What is the difference between a bookkeeper and an accountant?",
+   "a": "A bookkeeper records sales, purchases, receipts and payments, reconciles bank accounts and often prepares VAT returns and payroll. An accountant typically handles year-end accounts, tax returns and tax advice."
+  },
+  {
+   "q": "Can a bookkeeper help if my books are already behind?",
+   "a": "Yes, many bookkeepers can bring your records up to date, but it's best to explain how far behind you are when you enquire so they can quote accordingly. They can then help you set up a routine to stay current."
+  }
+ ],
+ "extra_heading": "Choosing a bookkeeper for the first time",
+ "extra": [
+  "Searching for a bookkeeper on its own, rather than for a service like payroll or VAT returns, usually suggests you are setting out to find someone to keep your everyday records in order and are not yet sure what to ask. That is a good moment to think about what you want the arrangement to look like, because a bookkeeper who suits a busy sole trader may not suit a small company with staff on payroll.",
+  "When you compare the quotes you receive, look at what each one covers rather than the headline figure alone. Ask whether bank reconciliations, VAT returns and payroll are included or charged separately, how often they will work on your books, and how they prefer to receive your receipts and invoices. A bookkeeper who explains their process clearly is easier to judge than one who simply names a price.",
+  "It also helps to be honest about the state of your records. If your books are up to date, the work is mostly routine; if they are months behind, the bookkeeper will need to know that before quoting, so the figure you receive reflects the real job. Being clear at the start avoids surprises later and helps you compare like with like."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Can I use a bookkeeper if I am a sole trader with very few transactions?",
+   "a": "Yes. Even with a modest number of sales and purchases, a bookkeeper can keep your records accurate and your bank accounts reconciled, which makes your year end simpler. Some bookkeepers set a minimum charge, so ask how they price smaller jobs before you commit."
+  },
+  {
+   "q": "Should I choose a bookkeeper who is a member of a professional body?",
+   "a": "Bookkeeping is not a regulated title in the UK, so membership of the Institute of Certified Bookkeepers or the Association of Accounting Technicians is one way to see that someone has trained to a recognised standard and agreed to a code of conduct. It is still worth asking which body supervises them for anti-money-laundering purposes and whether they hold professional indemnity insurance."
+  },
+  {
+   "q": "Will a bookkeeper tell me if my records are in a mess?",
+   "a": "A good bookkeeper will be straightforward with you about what needs putting right and how they plan to do it. Explain how far behind you are when you enquire, so the quote reflects the work involved and you can decide whether to go ahead."
+  }
+ ]
+}

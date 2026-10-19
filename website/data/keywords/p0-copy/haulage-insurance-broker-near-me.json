@@ -1,0 +1,73 @@
+{
+ "intro": "You're looking for a haulage insurance broker near you because your work depends on having the right cover for your vehicles, your loads and your liabilities. Whether you run a single truck or a small fleet, a local broker can help you compare policies that fit the way you actually operate.",
+ "need_heading": "What people searching for a haulage insurance broker near me usually need",
+ "need_lead": "Most people searching for a haulage insurance broker near me are running a haulage business and want cover that matches their operation, without guesswork.",
+ "needs": [
+  "You need cover for your HGVs that meets the insurance requirements of your O-licence.",
+  "You want goods in transit cover that protects the loads you carry for your customers.",
+  "You need public liability and employer's liability cover that reflects the risks of running a haulage yard and employing drivers.",
+  "You have drivers with varied histories and need a broker who can explain how that affects your premiums and which insurers will consider you.",
+  "You want to understand exactly what is and isn't covered before you commit, especially exclusions that could leave you exposed."
+ ],
+ "context_heading": "Why goods in transit is separate from your vehicle cover",
+ "context": [
+  "Haulage insurance is not one product but several. Your HGV insurance covers the vehicle itself and third-party liabilities, but the goods you carry are not automatically covered. Goods in transit cover is a separate policy, and if you carry loads for customers you should check whether you need it.",
+  "As an O-licence holder, you must have suitable insurance in place, and the cover you choose should reflect the size and type of your operation. A broker can explain the key features and exclusions of each policy and help you compare what different insurers offer."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Tell us the type and number of vehicles you operate, including whether they are HGVs, vans or a mix.",
+  "Let us know if you hold an O-licence and what type it is.",
+  "Describe the goods you carry and whether you need goods in transit cover.",
+  "Mention your drivers' experience and any claims history, as this affects the cover available.",
+  "Say whether you need cover for a new business or are renewing an existing policy.",
+  "Tell us your rough location so we can introduce you to a broker who works with haulage businesses in your area."
+ ],
+ "questions_heading": "Questions to ask the broker",
+ "questions": [
+  "What experience do you have with haulage insurance and O-licence holders?",
+  "Which insurers do you work with for HGV and goods in transit cover?",
+  "How will you assess my demands and needs and explain the exclusions?",
+  "What information do you need from me about my drivers and their histories?",
+  "How are you paid for arranging my policy, and will you tell me in writing?",
+  "What happens if I need to make a claim, and who will help me with it?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need goods in transit cover if I already have HGV insurance?",
+   "a": "Yes, goods in transit cover is separate from your HGV insurance. Your vehicle policy typically covers the vehicle and third-party liabilities, but not the goods you carry. If you transport customer goods, you should consider a separate goods in transit policy."
+  },
+  {
+   "q": "How does my O-licence affect the insurance I need?",
+   "a": "As an O-licence holder, you must have suitable insurance in place to meet your licence conditions. The cover you need will depend on the type and size of your operation. A broker can help you choose a policy that satisfies your obligations."
+  },
+  {
+   "q": "Will my drivers' history affect my premium?",
+   "a": "Yes, driver history is a key factor that insurers consider when quoting for haulage insurance. Claims, convictions and experience levels can all influence the premium and which insurers will offer cover. A broker can explain how this applies to your situation."
+  },
+  {
+   "q": "How do I check that a broker is authorised?",
+   "a": "Insurance brokers and intermediaries in the UK must be authorised by the Financial Conduct Authority (FCA), or be appointed representatives of an authorised firm. You can check them on the FCA register. Many brokers also belong to the British Insurance Brokers' Association (BIBA)."
+  }
+ ],
+ "extra_heading": "How to weigh up brokers in your area",
+ "extra": [
+  "Searching for a haulage insurance broker near me usually means you want someone you can speak to about your HGVs and loads, and the word near can matter more than you might think. A broker who knows the roads, depots and operating conditions in your part of the UK may already understand the risks your vehicles face, and may already have placed cover with insurers who take on haulage work in your area.",
+  "When you compare brokers, ask each one how they would approach your particular mix of vehicles, loads and driver histories, and ask them to explain the exclusions in plain terms rather than just quoting a price. Check that the firm is on the FCA register, and ask how the broker is paid and whether any fee is separate from the premium. A broker who is happy to put that in writing and to talk you through the trade-offs is easier to judge than one who only gives you a figure.",
+  "The first conversation is usually about your operation rather than about a policy: what you carry, where you run, who drives and what has happened in the past. From there the broker can tell you which cover types they think you need, such as goods in transit alongside your vehicle cover, and can approach insurers on your behalf. Quotes are price on application, so expect to discuss your details before you see any figures."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Does a broker need to be near my depot to arrange haulage cover?",
+   "a": "Not strictly, but a local broker may be more familiar with the routes, customers and conditions your vehicles deal with. It is worth asking any broker how much haulage work they handle in your area before you decide."
+  },
+  {
+   "q": "Can a broker help if my drivers' histories make cover difficult to find?",
+   "a": "Driver history is one of the factors insurers weigh when quoting for haulage, so a broker can explain how yours is likely to be viewed and which insurers may consider it. They may not be able to find cover for every situation, but they can talk you through the options honestly."
+  },
+  {
+   "q": "What should I have ready before I speak to a broker?",
+   "a": "It helps to know your vehicle types, whether you hold an O-licence, the goods you carry and your drivers' experience and claims history. Having these details to hand means the broker can understand your demands and needs properly from the start."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for accountants usually means you want someone to take care of your tax and accounts, or you are comparing a few practices before deciding. You might be self-employed, running a small company, or simply tired of doing it yourself. We introduce you to a suitable UK accountant who will quote you directly, so you can see what they offer before you commit.",
+ "need_heading": "What people searching for accountants usually need",
+ "need_lead": "Most people looking for accountants want help with the essentials of tax and accounts, but the exact need varies with their situation.",
+ "needs": [
+  "You are self-employed and need to file a Self Assessment tax return but are unsure what expenses you can claim.",
+  "You run a limited company and need help with annual accounts, confirmation statements and Corporation Tax.",
+  "You are starting a new business and want an accountant to set things up correctly from the beginning.",
+  "You have received a letter from HMRC or Companies House and need someone to help you respond.",
+  "You want to move from another accountant and need a smooth handover without penalties."
+ ],
+ "context_heading": "One key thing to understand about accountants",
+ "context": [
+  "In the UK, the word \"accountant\" on its own is not a protected title, so anyone can call themselves an accountant. However, titles such as Chartered Accountant (ICAEW, ICAS or Chartered Accountants Ireland), Chartered Certified Accountant (ACCA) and Chartered Management Accountant (CIMA) are protected, and members are bound by their body's ethics, training and complaints rules. Only registered auditors can sign statutory audit reports.",
+  "Every practice offering accountancy services must also be supervised for anti-money-laundering purposes, either by a professional body or by HMRC. It is reasonable to ask which body supervises a firm, whether they hold professional indemnity insurance, and how complaints are handled."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Whether you are self-employed, a limited company director, a landlord or something else, as this affects the work needed.",
+  "Which returns and filings you need help with, such as Self Assessment, annual accounts, VAT returns or payroll.",
+  "Whether you are up to date with HMRC and Companies House or have any overdue filings.",
+  "If you are switching accountants, mention any deadlines coming up so the handover can be planned.",
+  "Whether you use accounting software or keep paper records, as this can affect how the accountant works with you.",
+  "Any specific concerns, such as Making Tax Digital, a tax investigation or planning for growth."
+ ],
+ "questions_heading": "Questions to ask the accountant",
+ "questions": [
+  "Which professional body supervises your practice for anti-money-laundering purposes?",
+  "Do you hold professional indemnity insurance, and can you provide details?",
+  "How do you handle Making Tax Digital for my situation?",
+  "What exactly is included in your fee, and are there any extra charges for additional services?",
+  "How will you help me plan ahead, not just file my returns?",
+  "What is your process for taking over from my current accountant?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a chartered accountant?",
+   "a": "Not necessarily. The word \"accountant\" is not protected, but chartered titles are. If you want the assurance of a protected title, look for Chartered Accountant, Chartered Certified Accountant or Chartered Management Accountant."
+  },
+  {
+   "q": "What is Making Tax Digital and does it affect me?",
+   "a": "Making Tax Digital is HMRC's programme for digital record-keeping and returns. It currently applies to VAT-registered businesses and is being extended, so ask the accountant how they handle it for your circumstances."
+  },
+  {
+   "q": "Can I switch accountants easily?",
+   "a": "Yes, switching is usually straightforward. Your new accountant will contact your old one for handover information, but it helps to check deadlines and ensure all filings are up to date."
+  },
+  {
+   "q": "How do I check an accountant's credentials?",
+   "a": "You can ask which professional body they belong to and check the body's register. Also ask about anti-money-laundering supervision and professional indemnity insurance."
+  }
+ ],
+ "extra_heading": "Comparing several accountants side by side",
+ "extra": [
+  "Searching for accountants in the plural usually means you are weighing up more than one practice rather than looking for a single name. That is a sensible way to go about it, because accountancy fees are quoted on application and the scope of work varies from firm to firm, so the only fair comparison is between detailed quotes for the same job. Ask each practice to set out in writing exactly which returns and filings their fee covers.",
+  "When you compare, look past the headline figure to what sits behind it. Two quotes for the same limited company work can differ because one includes the confirmation statement, payroll or advice calls and the other treats them as extras. It also helps to ask how each practice handles Making Tax Digital and whether they will help you plan ahead rather than simply file what HMRC and Companies House require.",
+  "A good accountant should help you plan, not only file, so use the comparison to judge how well each one explains things and answers your questions. You are not obliged to pick the cheapest or the best known; you are looking for a practice whose scope, communication and way of working suit your situation. Take your time, and do not feel pressured to decide on the first quote you receive."
+ ],
+ "extra_faqs": [
+  {
+   "q": "How many accountants should I compare?",
+   "a": "There is no set number. Comparing a few quotes for the same clearly described work gives you a fair sense of the range on offer, but the right number is the one that lets you feel confident in your choice."
+  },
+  {
+   "q": "Why do accountants quote on application rather than advertise a price?",
+   "a": "Because the work depends on your circumstances, such as whether you are self-employed or run a limited company, and which returns and filings you need. A practice has to understand your situation before it can quote fairly."
+  },
+  {
+   "q": "Should I choose the accountant with the lowest quote?",
+   "a": "Not automatically. Check what each fee covers, whether extra services cost more, and whether the practice explains things in a way you understand. A slightly higher quote that includes more of what you need can work out better."
+  }
+ ]
+}

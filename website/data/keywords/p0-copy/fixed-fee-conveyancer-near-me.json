@@ -1,0 +1,69 @@
+{
+ "intro": "You're looking for a conveyancer who will charge you a fixed fee rather than an hourly rate, and you want one near you. A fixed fee gives you certainty about the legal costs of your property transaction, but it's important to understand what the fee covers. We can introduce you to a conveyancer who works on a fixed fee basis, so you can get a clear quote for your move.",
+ "need_heading": "What people searching for a fixed fee conveyancer near me usually need",
+ "need_lead": "Most people want clarity on costs and a local professional they can easily contact.",
+ "needs": [
+  "You are buying a home and want to know the total legal cost upfront, without worrying about hourly charges adding up.",
+  "You are selling a property and need a conveyancer who will handle the sale for a set fee, so you can budget with confidence.",
+  "You are remortgaging and want a straightforward fixed fee for the legal work, rather than an open-ended bill.",
+  "You have been quoted an hourly rate by another firm and would prefer the certainty of a fixed fee.",
+  "You want a conveyancer based near you, so you can drop off documents or speak face to face if needed."
+ ],
+ "context_heading": "Understanding fixed fees and local conveyancers",
+ "context": [
+  "A fixed fee means the conveyancer charges a set amount for the work, rather than billing by the hour. However, the fee may not include certain costs such as search fees, Stamp Duty Land Tax, or land registry charges, so always ask for a full breakdown. Fixed fees can vary between firms, so it's worth comparing a few quotes.",
+  "Conveyancing in England and Wales must be carried out by a solicitor regulated by the Solicitors Regulation Authority or a licensed conveyancer regulated by the Council for Licensed Conveyancers. Both must hold professional indemnity insurance and follow strict rules on handling client money. If you are buying with a mortgage, check that your chosen conveyancer is on your lender's panel."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Whether you are buying, selling, remortgaging, or doing more than one of these.",
+  "The approximate value of the property or the purchase price, so the conveyancer can give you an accurate fixed fee quote.",
+  "Whether you have a mortgage and which lender you are using, as this affects panel requirements.",
+  "Any particular deadlines you have, such as a target completion date or a related sale or purchase.",
+  "Whether you would prefer a conveyancer within a certain distance of your home or workplace.",
+  "Any specific requirements you have, such as needing a home visit or preferring to communicate by email."
+ ],
+ "questions_heading": "Questions to ask the conveyancer",
+ "questions": [
+  "Does your fixed fee cover all the legal work for my transaction, and what is not included?",
+  "Are there any additional costs such as search fees, VAT, or bank transfer fees that I should budget for?",
+  "Are you on my lender's panel for my mortgage?",
+  "How will you keep me updated on progress, and who will be my main point of contact?",
+  "What is your procedure for handling client money, and how are my funds protected?",
+  "Can you provide a written quote that clearly sets out the fixed fee and any extras?"
+ ],
+ "faqs": [
+  {
+   "q": "What does a fixed fee conveyancer mean?",
+   "a": "A fixed fee conveyancer charges a set price for the conveyancing work, rather than billing by the hour. This gives you certainty about the legal costs, but you should check what the fee includes, as extras like searches and Stamp Duty Land Tax are often separate."
+  },
+  {
+   "q": "How do I find a fixed fee conveyancer near me?",
+   "a": "You can search online or ask for recommendations, but make sure to check that the conveyancer is regulated by the Solicitors Regulation Authority or the Council for Licensed Conveyancers. iComply can introduce you to a conveyancer who offers fixed fees and is local to you."
+  },
+  {
+   "q": "Is a fixed fee always cheaper than an hourly rate?",
+   "a": "Not necessarily; it depends on the complexity of your transaction. A fixed fee gives you cost certainty, but you should compare quotes and check what is included. For straightforward transactions, a fixed fee can be good value, but for complex cases an hourly rate might work out better."
+  },
+  {
+   "q": "Can I use a conveyancer who is not near me?",
+   "a": "Yes, you can use a conveyancer anywhere in England or Wales, as long as they are properly regulated. However, some people prefer a local conveyancer for convenience, especially if they need to deliver documents in person. If you have a mortgage, check that the conveyancer is on your lender's panel."
+  }
+ ],
+ "extra_heading": "What 'fixed fee' really means for your conveyancing quote",
+ "extra": [
+  "A fixed fee conveyancer quotes a set amount for the legal work, but that amount often covers only the basic professional fee. Disbursements such as search fees, Land Registry charges and Stamp Duty Land Tax are usually billed on top, so ask for a full breakdown that separates the fee from these extras.",
+  "Some firms advertise a fixed fee that assumes a straightforward transaction; if your matter becomes more complex, they may charge extra. Clarify in advance what could trigger an additional charge, such as a leasehold property or a tight deadline, so the fixed fee stays fixed.",
+  "When you speak to a conveyancer, ask whether the fixed fee includes VAT and whether there are any other costs you should budget for. A written quote that itemises everything is the best way to compare fixed fee quotes fairly."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Does a fixed fee include search fees and Stamp Duty Land Tax?",
+   "a": "Usually not. Search fees, Land Registry charges and Stamp Duty Land Tax are disbursements paid to third parties, and they are typically added to the fixed fee. Always ask for a breakdown of what the fixed fee covers and what is extra."
+  },
+  {
+   "q": "Can a fixed fee change during my transaction?",
+   "a": "It can if your circumstances change or if the transaction turns out to be more complex than originally assumed. Ask the conveyancer what might cause the fee to increase, and get any changes confirmed in writing before you instruct them."
+  }
+ ]
+}

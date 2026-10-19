@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for an exotic pet vet near me, you're likely looking for a vet who understands the special needs of animals like reptiles, birds or small mammals. These pets often hide signs of illness and have very particular requirements, so finding someone with the right experience matters.",
+ "need_heading": "What people searching for an exotic pet vet usually need",
+ "need_lead": "You want a vet who is confident with your species and can give your pet the right care without unnecessary stress.",
+ "needs": [
+  "You have a snake or lizard that has stopped eating or is behaving unusually, and you need a vet who can assess reptiles properly.",
+  "Your parrot or other bird is showing signs of illness, and you want a vet familiar with avian medicine.",
+  "You keep ferrets or chinchillas and need a vet who understands their specific health risks and handling needs.",
+  "You are worried about the cost of exotic pet care and want to discuss fees before committing to treatment.",
+  "You need a vet practice that can accommodate the practicalities of transporting and examining exotic species safely."
+ ],
+ "context_heading": "What to understand about exotic pet vets",
+ "context": [
+  "Not every vet practice treats exotic species, and those that do may have vets with particular interests or further qualifications. All vets in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS), and you can check the register before you book. Some vets hold RCVS certificates or advanced practitioner status in exotic species medicine, which shows they have pursued additional training.",
+  "Exotic pets often mask illness until they are quite unwell, so it's wise to seek advice early if you notice changes. When you contact a practice, ask which species the vets are confident with and whether they have experience with your particular animal. It's also helpful to bring details of your pet's housing, temperature, lighting and diet, as these are often key to diagnosing problems."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Tell us the species of your pet, including any specific breed or morph if relevant.",
+  "Describe the symptoms or changes you've noticed, and how long they've been going on.",
+  "Mention any details about your pet's enclosure, such as temperature gradients, lighting and humidity for reptiles.",
+  "Let us know your pet's diet and any recent changes to it.",
+  "Tell us if your pet has seen a vet before for this issue or has any known health conditions.",
+  "Share your location and how far you're willing to travel to see a suitable vet."
+ ],
+ "questions_heading": "Questions to ask the vet",
+ "questions": [
+  "Which species are you most experienced with, and do you see many animals like mine?",
+  "Do you hold any further qualifications in exotic animal medicine?",
+  "What should I bring to the appointment, such as photos of the enclosure or a stool sample?",
+  "How do you handle nervous or stressed exotic pets during examinations?",
+  "What are your fees, and will you provide an estimate before treatment?",
+  "Do you have experience with the specific condition my pet might have, or would you refer me to someone who does?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I know if a vet is qualified to treat exotic pets?",
+   "a": "All vets must be registered with the RCVS, which you can check online. Additionally, ask the practice about the vets' experience with your species and whether they hold any relevant further qualifications."
+  },
+  {
+   "q": "My reptile seems fine but is off its food. Should I still see a vet?",
+   "a": "Reptiles often hide illness, and a change in appetite can be an early sign of a problem. It's best to consult a vet experienced with reptiles to rule out issues with temperature, lighting, diet or underlying disease."
+  },
+  {
+   "q": "Can I get an estimate for the cost of treatment before I go?",
+   "a": "Yes, you can ask the practice for an estimate of fees before booking. Costs vary depending on the species, the problem and the treatment needed, so discuss this when you enquire."
+  },
+  {
+   "q": "What should I do to prepare my exotic pet for a vet visit?",
+   "a": "Transport your pet in a secure, temperature-appropriate container. Bring details of its housing, diet and any recent changes, and if possible, a fresh stool sample. This helps the vet get a full picture."
+  }
+ ]
+}

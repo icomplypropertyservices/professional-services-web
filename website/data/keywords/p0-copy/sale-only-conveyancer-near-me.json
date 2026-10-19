@@ -1,0 +1,53 @@
+{
+ "intro": "You're selling a property and want a conveyancer who handles the sale side only, not a full buying and selling service. You've searched for a sale only conveyancer near me, so you want someone local who can act for you on the sale and make the process as smooth as possible. We introduce you to a suitable UK conveyancer who will quote you directly, with no obligation to proceed.",
+ "need_heading": "What people selling a property usually need",
+ "need_lead": "When you're selling, a conveyancer focuses on preparing the legal pack, answering the buyer's enquiries and redeeming your mortgage.",
+ "needs": [
+  "You want a conveyancer who acts only for sellers, so you're not paying for buying-side work you don't need.",
+  "You need help preparing the contract pack and completing the property forms accurately and on time.",
+  "You may need to gather certificates for any works done on the property, such as building regulations sign-off or warranties.",
+  "You want someone to handle enquiries from the buyer's solicitor and keep the sale moving.",
+  "You need your existing mortgage redeemed correctly once the sale completes."
+ ],
+ "context_heading": "What to understand about sale only conveyancing",
+ "context": [
+  "Conveyancing in England and Wales is a reserved legal activity, so it must be carried out by a solicitor regulated by the Solicitors Regulation Authority or a licensed conveyancer regulated by the Council for Licensed Conveyancers. Both must hold professional indemnity insurance and follow strict rules on handling client money. In Scotland, property transactions are handled by solicitors under Scottish law.",
+  "If you have a mortgage, your lender may require the sale to be handled by a conveyancer on its panel. The Law Society's Conveyancing Quality Scheme is a common accreditation, so it's worth checking that any firm you're considering is on your lender's panel before you instruct them."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Confirm that you need a sale only conveyancer, not a combined sale and purchase service.",
+  "Give the property address and whether it's freehold or leasehold.",
+  "Mention if you have a mortgage on the property that will need redeeming.",
+  "Say whether any works have been done that need certificates, such as a new boiler or extension.",
+  "Let us know if you're also buying a new home, so we can note any timing considerations.",
+  "Share your preferred location or radius for the conveyancer, since you searched near me."
+ ],
+ "questions_heading": "Questions to ask the conveyancer",
+ "questions": [
+  "Do you act only for sellers, or do you also handle purchases?",
+  "Are you on my lender's panel for redeeming my mortgage?",
+  "What information and documents will you need from me to prepare the contract pack?",
+  "How will you keep me updated on enquiries from the buyer's solicitor?",
+  "Are you regulated by the SRA or the CLC, and can you confirm your professional indemnity insurance?",
+  "What are your fees and disbursements, and when will I need to pay them?"
+ ],
+ "faqs": [
+  {
+   "q": "What does a sale only conveyancer do?",
+   "a": "A sale only conveyancer acts for you as the seller, preparing the contract pack, answering enquiries from the buyer's solicitor and redeeming your mortgage when the sale completes. They don't handle a purchase for you, which keeps the work focused on the sale."
+  },
+  {
+   "q": "Do I need a conveyancer if I'm selling without buying?",
+   "a": "Yes, in England and Wales conveyancing is a reserved legal activity, so the legal work of selling must be done by a regulated solicitor or licensed conveyancer. Even if you're not buying, you'll need one to transfer the legal title and deal with your mortgage."
+  },
+  {
+   "q": "How do I check a conveyancer is properly regulated?",
+   "a": "Solicitors in England and Wales are regulated by the Solicitors Regulation Authority, and licensed conveyancers by the Council for Licensed Conveyancers. You can check the relevant register to confirm their status before instructing them."
+  },
+  {
+   "q": "What should I have ready before instructing a sale conveyancer?",
+   "a": "It helps to have your ID, details of your mortgage, and any certificates for works done on the property, such as building regulations completion certificates or warranties. Completing the property forms promptly will also help avoid delays."
+  }
+ ]
+}

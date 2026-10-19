@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for an online conveyancer near me usually means you want the legal side of a property move handled remotely, without having to visit an office in person. You might be buying, selling or remortgaging, and you'd like to deal with someone local enough to understand your area but flexible enough to work online. We can introduce you to a suitable conveyancing firm, who will quote you directly.",
+ "need_heading": "What people searching for an online conveyancer near me usually need",
+ "need_lead": "Most people in this situation want a conveyancer who can work remotely while still being within reach if something needs sorting locally.",
+ "needs": [
+  "You are buying a home and want the legal work handled online so you can sign and send documents without visiting an office.",
+  "You are selling a property and need a conveyancer who can act for you remotely, including verifying your identity and handling the paperwork digitally.",
+  "You are remortgaging and your lender needs a conveyancer to act on their behalf, so you want to check the firm is acceptable to them before you start.",
+  "You have a busy schedule and prefer to communicate by email or phone rather than travelling to appointments.",
+  "You want a conveyancer who is familiar with the area where the property is located, even if you are dealing with everything online."
+ ],
+ "context_heading": "What to understand about online conveyancing and local knowledge",
+ "context": [
+  "Conveyancing in England and Wales is a reserved legal activity, carried out by solicitors regulated by the Solicitors Regulation Authority or by licensed conveyancers regulated by the Council for Licensed Conveyancers. Both must hold professional indemnity insurance and follow strict rules on handling client money. In Scotland, property transactions are handled by solicitors under Scottish law.",
+  "Many lenders only work with conveyancers on their panel, and the Law Society's Conveyancing Quality Scheme is a common accreditation. Before you instruct an online conveyancer, check that they are on your lender's panel, and always verify bank details by phone before sending any money."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Whether you are buying, selling or remortgaging, and the property's location.",
+  "If you have a mortgage offer, the name of your lender so we can help you find a conveyancer on their panel.",
+  "Any preference for dealing with a solicitor or a licensed conveyancer.",
+  "How you would like to communicate, such as by email, phone or an online portal.",
+  "Whether you have a deadline, such as a target completion date or a related purchase.",
+  "Any specific requirements, such as needing a conveyancer who can handle a leasehold property or a new build."
+ ],
+ "questions_heading": "Questions to ask the conveyancer",
+ "questions": [
+  "Are you on my lender's panel?",
+  "How do you handle identity checks and signing documents online?",
+  "What is your process for keeping me updated on progress?",
+  "Do you have experience with the type of property I am dealing with, such as leasehold or new build?",
+  "How do you protect my money when I send funds to you?",
+  "Can you provide a clear breakdown of your fees and any additional costs?"
+ ],
+ "faqs": [
+  {
+   "q": "Can I use an online conveyancer if I am buying with a mortgage?",
+   "a": "Yes, but you need to check that the conveyancer is on your lender's panel. Many lenders only work with conveyancers on their approved list, so confirm this before you instruct."
+  },
+  {
+   "q": "How do online conveyancers verify my identity?",
+   "a": "They usually ask for scanned copies of documents such as your passport and a recent utility bill, and may use an online verification service. Always check the firm's own process and make sure you are comfortable with it."
+  },
+  {
+   "q": "Is it safe to send money to an online conveyancer?",
+   "a": "Conveyancers must follow strict rules on handling client money, but fraud is a risk. Always verify bank details by phone before sending any money, using a number you have independently confirmed."
+  },
+  {
+   "q": "Do I need a conveyancer near me if I am working online?",
+   "a": "Not necessarily, but some people prefer a firm with local knowledge of the property's area. You can ask about their experience with the local area and whether they can visit the property if needed."
+  }
+ ],
+ "extra_heading": "Working online without losing the local touch",
+ "extra": [
+  "Choosing an online conveyancer near you is really two wishes in one: the convenience of handling a property move remotely, and the reassurance of a firm that knows the ground your property stands on. Those two things are not in conflict. Many firms work with clients by email, phone and secure online portals while still having a good working knowledge of the local area, its typical property stock and the searches that tend to matter there.",
+  "It helps to be clear about what 'online' should mean day to day. Ask how documents will be signed and returned, how identity checks are carried out, and whether you will have a named person you can call when something needs explaining. A firm that is genuinely set up for remote work will answer these questions plainly, and you should feel able to ask before you instruct anyone.",
+  "Local knowledge still earns its place even when the paperwork is digital. Leasehold terms, new build warranties and the quirks of older housing can vary from place to place, so ask whether the conveyancer has dealt with properties like yours in that area. If they have not, that is not automatically a problem, but it is worth knowing before you commit."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Can an online conveyancer visit the property if needed?",
+   "a": "Some can arrange a visit, and some will not need one because the work is done through searches and documents. Ask about this early if you think a physical visit might be necessary, so you know where you stand before instructing."
+  },
+  {
+   "q": "Will I ever need to meet my conveyancer in person?",
+   "a": "Usually not, because identity checks and signatures can be handled remotely. However, some people prefer at least one face-to-face conversation, so ask whether that is possible and how it would be arranged."
+  },
+  {
+   "q": "Does working online change how quickly things move?",
+   "a": "It can make sending and receiving documents quicker, but the pace of a transaction depends on many things, including searches and other parties. Ask the conveyancer to explain how they keep things moving and how they will update you."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for eating disorder counselling near you usually means you or someone you care about is struggling with food, body image or eating patterns and wants specialist help close to home. You may feel anxious about what to say or unsure whether counselling alone is enough. We can introduce you to a UK counsellor who works with eating disorders, and they will discuss their approach and quote you directly.",
+ "need_heading": "What people searching for eating disorder counselling near me often need",
+ "need_lead": "Eating disorder counselling is about more than food; it is about the feelings and patterns that sit underneath, and finding the right support locally can make it easier to keep going.",
+ "needs": [
+  "You want to speak to someone who understands anorexia, bulimia or binge eating without having to explain the basics from scratch.",
+  "You are looking for a counsellor within reach of your home or work so that regular sessions are practical to attend.",
+  "You may be supporting a family member or friend and want guidance on how to help while they seek counselling themselves.",
+  "You have been put off by waiting lists or feel unsure where to turn, and want to explore what is available locally without pressure.",
+  "You need to know that the counsellor will work alongside any medical monitoring you already have, rather than instead of it."
+ ],
+ "context_heading": "What to understand about eating disorder counselling",
+ "context": [
+  "Eating disorder counselling provides specialist support for anorexia, bulimia, binge eating and related difficulties, but it should sit alongside medical monitoring. Specialist services follow NICE guidance, and your GP can advise on the physical checks that may be needed. Beat, the UK eating disorder charity, offers support and information for people affected.",
+  "Counsellor and psychotherapist are not protected titles in the UK, so it is worth choosing a practitioner on a register accredited by the Professional Standards Authority, such as BACP, UKCP or NCPS. Accredited registers require training, supervision, a code of ethics and a complaints procedure. A good therapist will explain their approach and confidentiality, including its limits, in the first session."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe the eating difficulty you are seeking help with, such as anorexia, bulimia, binge eating or another pattern.",
+  "Say whether the counselling is for you or for someone else, and whether that person knows you are enquiring.",
+  "Mention any medical monitoring or treatment you already have in place, so the counsellor can work alongside it.",
+  "Give your location and how far you are able to travel for sessions, since you are looking for counselling near you.",
+  "Explain any preferences about the counsellor, such as gender, experience with a particular eating disorder, or mode of sessions.",
+  "Share anything that would help the counsellor understand your situation, such as previous counselling or what you hope to gain."
+ ],
+ "questions_heading": "Questions to ask the counsellor",
+ "questions": [
+  "What experience do you have in working with eating disorders, and which ones do you feel most equipped to support?",
+  "How do you work alongside medical monitoring, and will you liaise with my GP or other professionals if needed?",
+  "Which professional register are you on, and is it accredited by the Professional Standards Authority?",
+  "What is your approach to counselling for eating disorders, and how might it help with the thoughts and feelings behind the food?",
+  "What are your confidentiality limits, and when might you need to share information with others?",
+  "How do you usually work with someone who is ambivalent about change or worried about seeking help?"
+ ],
+ "faqs": [
+  {
+   "q": "Is eating disorder counselling enough on its own?",
+   "a": "Eating disorder counselling provides specialist support, but medical monitoring is essential because eating disorders can affect physical health. Counselling should work alongside any medical care you receive, and specialist services follow NICE guidance."
+  },
+  {
+   "q": "How do I know if a counsellor is properly trained to help with eating disorders?",
+   "a": "Counsellor and psychotherapist are not protected titles in the UK, so check whether the practitioner is on a register accredited by the Professional Standards Authority, such as BACP, UKCP or NCPS. Accredited registers require training, supervision, a code of ethics and a complaints procedure."
+  },
+  {
+   "q": "Where can I find additional support for eating disorders?",
+   "a": "Beat, the UK eating disorder charity, offers support and information for people affected by eating disorders. Your GP can also advise on local services and medical checks that may be needed."
+  },
+  {
+   "q": "What should I expect in the first counselling session?",
+   "a": "A good therapist will explain their approach, confidentiality and its limits in the first session. You can ask about their experience with eating disorders and how they work alongside medical monitoring."
+  }
+ ]
+}

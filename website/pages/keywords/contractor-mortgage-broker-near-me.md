@@ -1,79 +1,54 @@
 ---
 slug: contractor-mortgage-broker-near-me
 title: Contractor Mortgage Broker Near Me | iComply Professional Services
-description: Find a contractor mortgage broker near you with iComply: one free enquiry, matched to a suitable UK mortgage broker. No obligation. Request a quote — POA.
+description: Need a contractor mortgage broker near you? iComply connects you with a suitable UK mortgage brokerage. Free, no-obligation matching. Request a quote — POA.
 family: mortgage
 group: finance
 hub: mortgage-advisors
 profession: mortgage broker
 service_label: Contractor mortgage broker
-og_image: /assets/images/finance-desk.jpg
+og_image: /assets/images/insurance-advisory.jpg
 ---
 
 # Contractor Mortgage Broker Near Me
 
-Looking for **contractor mortgage broker near me** usually starts with a practical problem that needs a qualified person. Contractor mortgage brokers know which lenders accept day-rate income and how to present contracts.
+When you work on contracts, your income can look uneven on paper, even when you're earning well. You're looking for a mortgage broker near you who understands day rates, contract gaps and how lenders assess contractor income. iComply introduces you to a suitable UK mortgage broker who can quote you directly.
 
-We act as the middleman between you and the professional. Share a short brief and we match you with a contractor mortgage broker who has the right experience and capacity. Enquiring is free, and you are under no obligation to accept a quote.
+Contractor mortgage brokers know which lenders accept day-rate income and how to present contracts.
+
+Rather than calling round, you can send one enquiry to iComply. We look at your needs, location and timing, then introduce you to a suitable mortgage brokerage. They quote you directly, POA, and you decide whether to go ahead.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Professional reviewing a client's brief before an introduction for contractor mortgage broker near me](/assets/images/finance-desk.jpg)
+![Professional reviewing a client's brief before an introduction for contractor mortgage broker near me](/assets/images/insurance-advisory.jpg)
 
-## Where mortgage brokers can help
+## What people searching for a contractor mortgage broker near me usually need
 
-You do not need to have everything worked out. Clients often come to us with situations like these:
+You want someone local who can make sense of contractor income and present your situation to lenders in the right way.
 
-- A remortgage as a fixed rate ends.
-- A mortgage for a later-life or expat situation.
-- Bridging or development finance for a project.
-- A past credit problem.
-- A first-time buyer working out how much they can borrow.
+- You're on a day rate and worried that a lender will average your income down or treat you as a higher risk than you are.
+- You've had gaps between contracts and want to know how those will be viewed before you apply.
+- You're newly self-employed through your own limited company and unsure which lenders will accept your trading history.
+- You want to buy a home or remortgage and need a broker who can explain how your contract rate translates into a borrowing figure.
+- You'd rather speak to someone face to face or by phone locally who deals with contractor cases regularly.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of mortgage broker fits best.
+## How fees usually work (POA)
 
-## Red flags when choosing a contractor mortgage broker
+Some brokers charge a fee, some are paid only by the lender, and some combine both. They must explain this before they give advice. The broker tells you their charges, POA.
 
-Most professionals are honest and competent, but it is worth knowing the warning signs:
+Ask when any fee is payable and whether it is refundable if the mortgage does not go ahead.
 
-- No explanation of how the broker is paid
-- Fees requested up front with no written terms
-- Advice to give inaccurate information to a lender
-- A firm or adviser not on the FCA register
+## Qualifications and registration to look for
 
-## Typical timescales
+Mortgage advice is regulated by the Financial Conduct Authority (FCA). Any broker or adviser you use should be authorised, or be an appointed representative of an authorised firm, and you can check this on the FCA register. Advisers typically hold a qualification such as CeMAP.
 
-An initial conversation can often happen within a few days. An agreement in principle can follow quickly, and a full mortgage offer usually takes a few weeks once the application and valuation are complete. Start a remortgage review several months before your deal ends.
+Brokers must tell you whether they search the whole of the market or a limited panel of lenders, and how they are paid, whether by lender commission, a fee, or both. If something goes wrong, you can complain to the firm and then to the Financial Ombudsman Service.
+
+A broker works on your behalf to find suitable products from providers. Ask how many providers they compare and how they are paid.
+
+Please note that iComply is a matching service only. We are not regulated as a mortgage broker, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
 
 **Need a contractor mortgage broker?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
-
-## Good questions for your first call
-
-Once you are introduced, these questions help you decide whether the mortgage broker is right for you:
-
-- Can you explain the total cost of each option, not just the rate?
-- Do you also advise on protection insurance?
-- When is any fee payable, and is it refundable?
-- What happens if my circumstances change before completion?
-- Are you FCA authorised, and can I see your entry on the register?
-- Do you search the whole of the market or a panel of lenders?
-
-## Near me: how local matching works
-
-When you search for a contractor mortgage broker near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
-
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
-
-## How iComply matches you
-
-1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
-1. **We review your brief.** We check the type of mortgage broker you need, your location and your timing.
-1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
-1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
-
-There is no charge to you for the introduction, and no obligation to accept any quote.
-
-![Planning the first appointment after an enquiry for contractor mortgage broker near me](/assets/images/hero-workshop.jpg)
 
 ## Practical points about a contractor mortgage broker
 
@@ -85,74 +60,103 @@ A few points come up again and again with a contractor mortgage broker:
 
 Raise any of these with the mortgage broker you are introduced to; they should be happy to explain.
 
-## How to check you are in safe hands
+## Understanding how contractor income is assessed
 
-Mortgage advice is regulated by the Financial Conduct Authority (FCA). Any broker or adviser you use should be authorised, or be an appointed representative of an authorised firm, and you can check this on the FCA register. Advisers typically hold a qualification such as CeMAP.
+Lenders don't all treat contractor income the same way. Some will annualise your day rate, others will look at your company accounts or tax returns, and some are more comfortable with contract gaps than others. A broker who works with contractors regularly will know which lenders take which approach and how to present your contracts and history clearly.
 
-Brokers must tell you whether they search the whole of the market or a limited panel of lenders, and how they are paid, whether by lender commission, a fee, or both. If something goes wrong, you can complain to the firm and then to the Financial Ombudsman Service.
+Brokers must also tell you whether they search the whole of the market or a limited panel of lenders, and how they are paid, whether by lender commission, a fee, or both.
 
-A broker works on your behalf to find suitable products from providers. Ask how many providers they compare and how they are paid.
+![Planning the first appointment after an enquiry for contractor mortgage broker near me](/assets/images/finance-desk.jpg)
 
-Please note that iComply is a matching service only. We are not regulated as a mortgage broker, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
+## When to think twice
 
-## Getting ready for your first conversation
+Be cautious if you notice any of the following:
+
+- Pressure to borrow more than you are comfortable with
+- Fees requested up front with no written terms
+- Advice to give inaccurate information to a lender
+- No explanation of how the broker is paid
+
+## What to tell iComply when you enquire
 
 You do not need all of this to enquire, but the more you can share, the better the match:
 
-- When your current deal ends, if remortgaging
-- Your credit history, including any problems
-- Your income details, such as payslips or accounts
-- Your deposit or equity amount
-- Current debts and credit commitments
-- The property type and price range
+- Mention that you're a contractor and whether you work through a limited company, umbrella company or recruitment intermediary.
+- Give your current day rate and how long you've been contracting.
+- Explain any gaps between contracts and roughly how long they were.
+- Say whether you're looking to buy, remortgage or move home.
+- Include your approximate deposit or equity, if you have one in mind.
+- Mention your location so we can introduce you to a broker near you.
 
 Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
 
-## Costs and quotes for a contractor mortgage broker
+## How our free matching service works
 
-Some brokers charge a fee, some are paid only by the lender, and some combine both. They must explain this before they give advice. iComply does not publish fees; the broker tells you their charges, POA.
+1. **Enquire for free** with your town or postcode and a short description.
+1. **We clarify** anything unclear, so the introduction is useful from the start.
+1. **We connect you** with a contractor mortgage broker who suits your situation.
+1. **The practice takes over**, confirms scope and fees in writing and does the work.
 
-Ask when any fee is payable and whether it is refundable if the mortgage does not go ahead.
+We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
 
-![Mortgage brokerage ready to take on a new enquiry for contractor mortgage broker near me](/assets/images/healthcare-consult.jpg)
+## Questions to ask the professional
 
-## Contractor Mortgage Broker Near Me: FAQs
+Asking a few direct questions early tells you a lot about how a practice works:
+
+- How do you assess contractor income when deciding what I can borrow?
+- Which lenders on your panel are most comfortable with day-rate contractors and contract gaps?
+- Will you search the whole of the market or a limited panel of lenders?
+- How are you paid, and will there be a fee from me as well as lender commission?
+- What documents will you need from me, such as contracts, accounts or tax returns?
+- How will you present my contract history to a lender to give me the best chance?
+
+![Mortgage brokerage ready to take on a new enquiry for contractor mortgage broker near me](/assets/images/hero-workshop.jpg)
+
+## FAQs about contractor mortgage broker near me
+
+### Can I get a mortgage if I've had gaps between contracts?
+
+Yes, many contractors have gaps and still get mortgages. Lenders vary in how they view gaps, so a broker who knows contractor cases can point you to those more likely to accept your history.
+
+### Do I need to have been contracting for a certain length of time?
+
+Some lenders want to see a trading history, while others may accept a current contract. A broker can tell you which lenders are more flexible for your situation.
+
+### How is my day rate used to work out what I can borrow?
+
+Some lenders annualise your day rate, while others look at your company accounts or tax returns. Your broker will explain which approach each lender takes and how it affects your borrowing.
+
+### Is a contractor mortgage broker near me different from a high street broker?
+
+A local broker who regularly deals with contractors will understand day rates, contract gaps and how to present your income. Being near you means you can meet in person if you prefer, but the advice should be the same wherever they are based.
 
 ### Is a broker better than going to my bank?
 
 A broker can compare many lenders and may find options your bank does not offer. Your bank can only offer its own products. Either can suit you; a broker gives you a wider view.
 
-### Will speaking to a broker affect my credit score?
-
-An initial conversation does not. Formal applications usually involve a credit search, and the broker should tell you before that happens.
-
 ### Can you find a contractor mortgage broker in my area?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable mortgage brokerage with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
-
-### Do I have to accept a quote?
-
-No. An introduction is not a contract. You can ask questions, decline, or ask us for another match where capacity allows.
-
-### Is it free to use iComply?
-
-Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
 
 ### Is iComply regulated?
 
 iComply is a matching service. We are not a mortgage broker and we do not give professional advice. The professionals we introduce are registered with their own bodies, and you can check them.
 
+### Is it free to use iComply?
+
+Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
+
 ## Other services you may need
 
 - [Best mortgage adviser near me](/keywords/best-mortgage-adviser-near-me/)
-- [Best mortgage advisers near me](/keywords/best-mortgage-advisers-near-me/)
-- [Local mortgage advisor near me](/keywords/local-mortgage-advisor-near-me/)
-- [Top commercial mortgage near me](/keywords/top-commercial-mortgage-near-me/)
-- [Top expat mortgage near me](/keywords/top-expat-mortgage-near-me/)
+- [Top mortgage broker near me](/keywords/top-mortgage-broker-near-me/)
+- [Mortgage advisor near me](/keywords/mortgage-advisor-near-me/)
+- [Mortgage broker near me](/keywords/mortgage-broker-near-me/)
+- [Best contractor mortgage near me](/keywords/best-contractor-mortgage-near-me/)
 - [Browse all mortgage brokers](/hubs/mortgage-advisors/)
 
-## Request your free quote
+## Get a free quote for a contractor mortgage broker
 
-Tell us what you need and where you are. We will match you with a suitable mortgage broker, and they will quote you directly. It is free to enquire, there is no obligation, and quotes are POA.
+One short enquiry is all it takes. We connect you with a contractor mortgage broker who fits your brief, and you stay in control of whether to go ahead. Free to enquire; quotes are POA.
 
 [Get a free quote](/contact/) · [Message us on WhatsApp](https://wa.me/447517806082) · Call [07517 806082](tel:+447517806082)

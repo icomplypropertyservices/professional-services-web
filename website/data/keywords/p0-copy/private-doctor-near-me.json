@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for a private doctor near me, you're likely looking for medical care that fits around your life — perhaps a quicker appointment, a time outside standard hours, or a consultation that feels unhurried. It often means you want to see a doctor close to home or work, without the wait for a routine NHS slot. We can introduce you to a private GP in your area who will quote you directly, so you can decide what works for you.",
+ "need_heading": "What people searching for a private doctor near me usually need",
+ "need_lead": "Most people want convenient, local access to a doctor for a specific concern, without the uncertainty of waiting lists.",
+ "needs": [
+  "You have a health worry that you'd like looked at soon, and you want to choose a time that suits your schedule rather than waiting for the next available NHS appointment.",
+  "You need a doctor who is easy to get to from home or work, especially if travel or time off makes a distant clinic impractical.",
+  "You want a longer consultation than a standard appointment allows, so you can discuss several symptoms or a complex concern properly.",
+  "You need a private prescription or a sick note for work or travel, and you want to see a doctor quickly to get it sorted.",
+  "You're looking for a doctor who can provide a second opinion or a fresh perspective on a condition you're already discussing with your NHS GP."
+ ],
+ "context_heading": "What to understand before you book a private doctor",
+ "context": [
+  "Every doctor practising in the UK must be registered and hold a licence to practise with the General Medical Council (GMC). GPs also appear on the GMC's GP register. You can search the GMC's online register by name to check any doctor you're considering. In England, private clinics providing regulated healthcare must register with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA.",
+  "A private GP does not replace your NHS GP. Good private clinics will ask for your consent to share consultation notes with your NHS practice, so your records stay complete and medication is prescribed safely. It's worth keeping your NHS GP informed about any private treatment you receive."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention the main reason you're looking for a private doctor, such as a specific symptom, a check-up, or a certificate you need.",
+  "Say roughly where you are and how far you're willing to travel, so we can introduce you to a doctor near you.",
+  "Let us know if you have a preference for a particular day or time, such as evenings or weekends.",
+  "Tell us if you need any accessibility adjustments at the clinic, for example step-free access or an interpreter.",
+  "Mention if you have private health insurance and whether you plan to use it, as this can affect which doctors are suitable.",
+  "Share any other details that would help us match you with the right private GP, such as whether you need a home visit or a video consultation."
+ ],
+ "questions_heading": "Questions to ask the private doctor",
+ "questions": [
+  "What is included in the fee for the consultation, and are there any additional costs for tests or follow-up?",
+  "How long will the appointment last, and will I have time to discuss more than one concern?",
+  "Will you share the notes from this consultation with my NHS GP, and how do you handle my consent?",
+  "What is your process if I need a referral to a specialist or further tests?",
+  "Are you registered with the GMC, and can you tell me your GMC number so I can check it?",
+  "What arrangements do you have for urgent queries outside of appointment times?"
+ ],
+ "faqs": [
+  {
+   "q": "Will a private doctor replace my NHS GP?",
+   "a": "No, a private GP does not replace your NHS GP. Good private clinics will ask for your consent to share consultation notes with your NHS practice, so your records stay complete and medication is prescribed safely."
+  },
+  {
+   "q": "How do I check that a private doctor is properly registered?",
+   "a": "Every doctor practising in the UK must be registered and hold a licence to practise with the General Medical Council (GMC). You can search the GMC's online register by name to confirm their registration and licence status."
+  },
+  {
+   "q": "What does 'price on application' mean for a private doctor?",
+   "a": "It means the doctor will give you a personalised quote based on what you need, rather than advertising a fixed price. When you speak to them, ask what is included in the fee and whether there are any additional costs for tests or follow-up."
+  },
+  {
+   "q": "Can I see a private doctor near me if I need an appointment quickly?",
+   "a": "Private doctors often have shorter waits than NHS routine appointments, but availability varies by clinic. When you enquire, tell iComply your preferred times and how far you can travel, and we can introduce you to a suitable private GP near you."
+  }
+ ],
+ "extra_heading": "Getting to a private doctor near you",
+ "extra": [
+  "Searching for a private doctor near me suggests location is the deciding factor for you, perhaps because you don't drive, you're fitting an appointment around work, or you'd rather not travel far when you're feeling unwell. It helps to think about what near actually means for you — walking distance, a short bus ride, or somewhere with parking — and to say so when you enquire, so we can introduce you to a private GP whose clinic genuinely suits your journey.",
+  "Private GP clinics vary in how they work: some offer appointments outside standard hours, some provide video consultations, and some can arrange blood tests or other investigations on site. When you speak to a doctor, ask what happens on the day, how any test results reach you, and whether a follow-up is included or charged separately. Comparing those practical details matters more than any single headline figure.",
+  "If you're used to NHS care, it's easy to assume a private appointment works the same way. In practice, you'll usually book and pay for the consultation yourself, and it's worth asking in advance how the clinic handles anything urgent that arises afterwards. Your NHS GP remains your main point of contact for ongoing care, and keeping them informed keeps your records joined up."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Can I see a private doctor close to home if I don't have transport?",
+   "a": "Yes, many private GP clinics sit in town centres and are reachable on foot or by public transport. Tell iComply where you are and how you'd prefer to travel, and we can introduce you to a doctor whose location works for you."
+  },
+  {
+   "q": "Is a private doctor near me the same as an NHS walk-in centre?",
+   "a": "No. A private GP appointment is booked and paid for by you, usually with a set appointment time, whereas an NHS walk-in centre is part of NHS services. If you're unsure whether you need urgent NHS help, NHS 111 can advise you."
+  },
+  {
+   "q": "What should I bring to my first private GP appointment?",
+   "a": "Bring a list of any medicines you take, details of your NHS GP practice, and any relevant test results or letters. This helps the doctor understand your history and share notes with your NHS practice, with your consent."
+  }
+ ]
+}

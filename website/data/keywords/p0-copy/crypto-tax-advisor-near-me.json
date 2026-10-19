@@ -1,0 +1,53 @@
+{
+ "intro": "You've been searching for a crypto tax advisor near you, which suggests you have transactions from exchanges, staking, DeFi or NFTs that need to be reported correctly to HMRC. Whether you're behind on disclosures or planning ahead, a specialist can help you work through the rules and avoid costly mistakes.",
+ "need_heading": "What people searching for a crypto tax advisor usually need",
+ "need_lead": "Crypto tax can be complex, and most people want clear guidance on how to report their activity accurately.",
+ "needs": [
+  "You have bought, sold or swapped crypto and are unsure how to calculate gains or losses for your tax return.",
+  "You have earned crypto through staking, mining or DeFi and need to understand how it's taxed.",
+  "You have received crypto as payment for work or services and want to know how to declare it.",
+  "You are worried about past tax years and want to make a voluntary disclosure to HMRC before they contact you.",
+  "You have traded NFTs or used decentralised exchanges and are unsure what records to keep or how to report those transactions."
+ ],
+ "context_heading": "Why keeping complete records matters",
+ "context": [
+  "HMRC receives data from crypto exchanges, so it's important that your records match what has been reported. Gaps or errors can lead to questions, so keeping a full transaction history is essential.",
+  "If you have past gains that weren't disclosed, making a voluntary disclosure can reduce penalties compared with waiting for HMRC to approach you. A crypto tax advisor can help you prepare that disclosure accurately."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention the types of crypto activity you've been involved in, such as trading, staking, DeFi or NFTs.",
+  "Say which tax years you need help with, especially if you're concerned about past years.",
+  "Explain whether you have kept records of your transactions or need help reconstructing them.",
+  "Let us know if you've already been contacted by HMRC about your crypto.",
+  "Mention any specific concerns, such as how to value crypto-to-crypto swaps or how to treat airdrops.",
+  "Include your approximate location so we can introduce you to a professional near you."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "What experience do you have with crypto tax rules, including staking, DeFi and NFTs?",
+  "How will you calculate my gains and losses, and what records will you need from me?",
+  "Can you help me make a voluntary disclosure to HMRC if I have undeclared gains from previous years?",
+  "What qualifications and professional body memberships do you hold?",
+  "Are you supervised for anti-money-laundering purposes, and do you have professional indemnity insurance?",
+  "How do you keep up to date with HMRC's changing guidance on cryptoassets?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a specialist crypto tax advisor, or can my regular accountant help?",
+   "a": "Some accountants are familiar with crypto, but crypto tax can be complex. A specialist can help you apply HMRC's rules correctly, especially for staking, DeFi and NFTs."
+  },
+  {
+   "q": "What should I do if I haven't kept good records of my crypto transactions?",
+   "a": "Try to gather as much information as you can from exchange statements and wallets. A crypto tax advisor can help you reconstruct your transaction history and work out your gains."
+  },
+  {
+   "q": "Is crypto taxed in the UK?",
+   "a": "Yes, HMRC treats cryptoassets as property for tax purposes, and you may need to pay Capital Gains Tax or Income Tax depending on your activity. A tax advisor can explain how the rules apply to your situation."
+  },
+  {
+   "q": "How can I find a reputable crypto tax advisor near me?",
+   "a": "Look for someone with relevant experience and check their qualifications and professional memberships. iComply can introduce you to a suitable professional in your area, and you can ask them about their credentials before proceeding."
+  }
+ ]
+}

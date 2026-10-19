@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for a local conveyancer near me, you're likely in the middle of a property move and want legal help from someone you can easily reach. Whether you're buying, selling, or remortgaging, a conveyancer handles the legal work to transfer ownership. We introduce you to a suitable UK conveyancer who quotes you directly, so you can compare and choose.",
+ "need_heading": "What people searching for a local conveyancer usually need",
+ "need_lead": "You want a conveyancer who is convenient to contact and understands the local property market.",
+ "needs": [
+  "You are buying your first home and need someone to check the title and carry out searches before you exchange contracts.",
+  "You are selling a flat and want a conveyancer who can deal with leasehold enquiries and management packs efficiently.",
+  "You are remortgaging and your lender requires a conveyancer to handle the legal work, so you need one on their panel.",
+  "You have had an offer accepted and want to instruct a conveyancer early to avoid delays with the purchase.",
+  "You prefer to work with a conveyancer you can visit in person or who is familiar with the area where the property is located."
+ ],
+ "context_heading": "Why local matters and what to check",
+ "context": [
+  "Conveyancing in England and Wales is a reserved legal activity, so your conveyancer must be a solicitor regulated by the Solicitors Regulation Authority or a licensed conveyancer regulated by the Council for Licensed Conveyancers. Both must hold professional indemnity insurance and follow strict rules on handling client money. In Scotland, property transactions are handled by solicitors under Scottish law.",
+  "Many lenders only work with conveyancers on their panel, so check that your chosen firm is on your lender's panel before you instruct them. The Law Society's Conveyancing Quality Scheme is a common accreditation, but you should still ask about experience and local knowledge. Always verify bank details by phone before sending any money."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Whether you are buying, selling, remortgaging, or a combination, as this affects the work involved.",
+  "The type of property, such as freehold or leasehold, and whether it is a house or a flat.",
+  "The approximate location of the property so we can introduce you to a conveyancer familiar with the area.",
+  "Whether you have a mortgage and, if so, which lender, as some lenders have specific panel requirements.",
+  "Any time constraints you have, such as a target completion date or a related purchase or sale.",
+  "Whether you have already instructed a conveyancer or had a quote elsewhere, so we can tailor the introduction."
+ ],
+ "questions_heading": "Questions to ask the conveyancer",
+ "questions": [
+  "Are you regulated by the Solicitors Regulation Authority or the Council for Licensed Conveyancers?",
+  "Are you on my lender's panel for this property?",
+  "What are your fees and what do they include, such as searches, VAT, and disbursements?",
+  "How will you keep me updated on progress, and who will be my main point of contact?",
+  "Do you have experience with the type of property I am dealing with, such as leasehold or new build?",
+  "What is your process for handling client money, and how will you confirm your bank details to me?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a local conveyancer, or can I use one further away?",
+   "a": "You can use a conveyancer anywhere in England and Wales, but a local one may have better knowledge of the area and be easier to visit if needed. However, what matters most is that they are regulated and on your lender's panel."
+  },
+  {
+   "q": "How do I check if a conveyancer is regulated?",
+   "a": "You can check the Solicitors Regulation Authority or the Council for Licensed Conveyancers to confirm they are regulated. Both regulators maintain online registers of professionals they regulate."
+  },
+  {
+   "q": "What is the Conveyancing Quality Scheme?",
+   "a": "The Conveyancing Quality Scheme is an accreditation run by the Law Society for conveyancing firms in England and Wales. It indicates that a firm has met certain standards, but you should still ask about their experience and service."
+  },
+  {
+   "q": "When should I instruct a conveyancer?",
+   "a": "It is best to instruct a conveyancer as soon as your offer is accepted, so they can start the legal work and avoid delays. If you are selling, you can instruct before you find a buyer to have the paperwork ready."
+  }
+ ],
+ "extra_heading": "Choosing between local conveyancers you can actually reach",
+ "extra": [
+  "Searching for a local conveyancer near me often means you want someone you could drop into or phone easily if something needs sorting, rather than a firm you only ever deal with by email. Distance is only part of it, though: ask how they prefer to communicate and whether you will speak to the same person each time. A firm nearby that never answers the phone will feel further away than one a few towns over that keeps you informed.",
+  "When you have a shortlist, put the same questions to each so the answers compare fairly. Ask what their quote covers, whether searches and disbursements are included, and who handles the file day to day. It also helps to ask how they deal with leasehold properties or new builds if that is what you are buying, since the work involved differs.",
+  "Bear in mind that a local conveyancer is not automatically the right fit, and one further away is not automatically wrong. What matters is that they are regulated, on your lender's panel if you have a mortgage, and clear about how they will keep you updated. Always confirm their bank details by phone before sending any money, whatever their address."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Can I visit a local conveyancer in person?",
+   "a": "Many conveyancers work largely by phone, email and post, and some do not offer face-to-face meetings at all. If seeing someone in person matters to you, ask about this before you instruct them so there are no surprises."
+  },
+  {
+   "q": "Does a local conveyancer know more about my area?",
+   "a": "A conveyancer familiar with the area may understand local search results and common property quirks more readily, but the legal checks are much the same wherever they are based. Ask about their experience with your type of property rather than assuming location alone tells you enough."
+  },
+  {
+   "q": "What happens at the first conversation with a conveyancer?",
+   "a": "Expect them to ask about the property, whether you are buying, selling or remortgaging, and your lender if you have one. They should explain what their quote covers and what they need from you to get started, so you can judge whether they suit you."
+  }
+ ]
+}

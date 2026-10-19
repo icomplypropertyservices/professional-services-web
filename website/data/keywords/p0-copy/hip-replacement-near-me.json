@@ -1,0 +1,53 @@
+{
+ "intro": "You've been told a hip replacement could help, or you're tired of hip pain limiting your walks and sleep, and you're looking for a private consultant near you. We introduce you to a suitable UK professional who can assess your hip and quote you directly for surgery and aftercare. There's no pressure and no obligation — just a straightforward way to find someone local.",
+ "need_heading": "What people searching for a hip replacement near me usually need",
+ "need_lead": "Most people searching for a hip replacement near me want a clear, local route to a consultant who can relieve hip pain and get them moving again.",
+ "needs": [
+  "You have hip pain from arthritis that has become hard to manage and your GP has suggested a replacement.",
+  "You want a consultant and hospital within reasonable travelling distance for appointments and follow-up.",
+  "You need to understand what a private hip replacement includes — the surgeon's fee, hospital stay, and physiotherapy — before you commit.",
+  "You have private medical insurance and need to check which local consultants and hospitals your policy covers.",
+  "You want to ask about the surgeon's experience with hip replacement and how they measure results."
+ ],
+ "context_heading": "What to understand about hip replacement near you",
+ "context": [
+  "Private hip replacement surgery is usually carried out in a private hospital or clinic. In England, private clinics providing regulated healthcare must be registered with the Care Quality Commission (CQC), which inspects and publishes ratings. In Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA.",
+  "Hospital consultants should appear on the General Medical Council's specialist register for their field, which you can check online. Many private specialists also work in the NHS. If you have private medical insurance, your insurer may require a GP referral and may limit you to certain consultants or hospitals, so check before you book."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Where you live and how far you're willing to travel for appointments and surgery.",
+  "Whether you have private medical insurance and, if so, which insurer and policy type.",
+  "What your GP has said about your hip and whether you have a referral.",
+  "Any other health conditions that might affect surgery or recovery.",
+  "What matters most to you — for example, a short waiting time, a particular hospital, or continuity of care.",
+  "Whether you're looking for a consultation first or are ready to discuss surgery."
+ ],
+ "questions_heading": "Questions to ask the consultant",
+ "questions": [
+  "How many hip replacements do you perform each year, and what are your outcomes?",
+  "What does the package include — the surgeon's fee, hospital stay, physiotherapy, and follow-up appointments?",
+  "What rehabilitation will I need, and who arranges it?",
+  "Which hospital will the surgery take place in, and how is it regulated?",
+  "What are the risks and benefits in my particular case?",
+  "How soon can I be seen for a consultation, and what is the expected waiting time for surgery?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check a consultant's registration?",
+   "a": "You can check the General Medical Council's online register to see if a consultant is on the specialist register for their field. Private clinics in England should also be registered with the Care Quality Commission, which publishes inspection ratings."
+  },
+  {
+   "q": "Will my private medical insurance cover a hip replacement?",
+   "a": "Many insurers cover hip replacement, but they may require a GP referral and may limit you to certain consultants or hospitals. Check your policy and speak to your insurer before you book."
+  },
+  {
+   "q": "What is usually included in the price of a private hip replacement?",
+   "a": "Packages vary, but they often include the surgeon's fee, hospital stay, and some follow-up. Ask the consultant or hospital exactly what is covered, including physiotherapy and any extra costs."
+  },
+  {
+   "q": "How long does recovery take after a hip replacement?",
+   "a": "Recovery varies from person to person, but many people return to normal activities within a few months. Your consultant and physiotherapist will give you a personalised plan."
+  }
+ ]
+}

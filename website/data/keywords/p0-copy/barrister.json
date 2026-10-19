@@ -1,0 +1,73 @@
+{
+ "intro": "You've searched for a barrister, so you're likely facing a legal problem that needs specialist advocacy or advice in court. Barristers are experts in representing people before judges and tribunals, and they can also give written opinions and draft documents. We introduce you to a suitable UK barrister who can quote you directly for the work you need.",
+ "need_heading": "What people searching for a barrister usually need",
+ "need_lead": "Most people looking for a barrister need focused legal help for a court hearing, a tribunal, or a specialist opinion.",
+ "needs": [
+  "You have a court hearing coming up and want a barrister to represent you and present your case clearly.",
+  "You need a written advice or opinion on a legal problem before deciding what to do next.",
+  "You are going through a tribunal, such as an employment or immigration tribunal, and want an advocate who knows that area.",
+  "You want help drafting or settling legal documents, such as a statement or a formal notice.",
+  "You have been referred by a solicitor but would like to explore instructing a barrister directly for a suitable matter."
+ ],
+ "context_heading": "Understanding how barristers work",
+ "context": [
+  "Barristers in England and Wales are regulated by the Bar Standards Board (BSB). You can check the Barristers' Register to see whether someone holds a current practising certificate and whether they are authorised to accept instructions directly from the public. In Scotland, the equivalent professionals are advocates, regulated through the Faculty of Advocates.",
+  "Barristers usually work from chambers, with clerks who manage diaries and fees. Many barristers can be instructed through a solicitor in the traditional way, and those registered under the Public Access scheme can be instructed directly by members of the public for suitable matters."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Describe the legal issue you need help with, including the type of court or tribunal involved if there is one.",
+  "Say whether you already have a solicitor acting for you or whether you are looking to instruct a barrister directly.",
+  "Give any important deadlines, such as a hearing date or a date by which documents must be filed.",
+  "Explain what you need the barrister to do: represent you at a hearing, provide written advice, draft documents, or something else.",
+  "Mention any relevant experience you have had with the legal process so far, such as previous hearings or correspondence.",
+  "State your location and whether you are able to travel or need remote representation."
+ ],
+ "questions_heading": "Questions to ask the barrister",
+ "questions": [
+  "What is your experience in cases like mine?",
+  "Are you authorised to accept instructions directly from the public under the Public Access scheme?",
+  "How will your fees be structured for the work I need?",
+  "What information or documents do you need from me to get started?",
+  "Will you be the person representing me at the hearing, or might that be another barrister?",
+  "How will you keep me informed about the progress of my case?"
+ ],
+ "faqs": [
+  {
+   "q": "Can I instruct a barrister directly without going through a solicitor?",
+   "a": "Yes, if the barrister is registered under the Public Access scheme and your matter is suitable for direct instruction. You can check the Barristers' Register to see whether a barrister is authorised to accept instructions directly from the public."
+  },
+  {
+   "q": "How do I know if a barrister is properly regulated?",
+   "a": "Barristers in England and Wales are regulated by the Bar Standards Board (BSB). You can check the Barristers' Register to confirm that someone holds a current practising certificate."
+  },
+  {
+   "q": "What is the difference between a barrister and a solicitor?",
+   "a": "Barristers are specialist advocates and advisers who represent clients in courts and tribunals, draft legal documents and give expert opinions. Solicitors often handle the preparatory work and may instruct a barrister on your behalf, but you can also instruct a barrister directly for suitable matters."
+  },
+  {
+   "q": "How are barristers' fees usually agreed?",
+   "a": "Fees are usually agreed for a defined piece of work, such as a hearing or a written opinion. The barrister's clerk will discuss the likely cost with you before any work begins."
+  }
+ ],
+ "extra_heading": "Choosing the right barrister for your case",
+ "extra": [
+  "Searching simply for a barrister suggests you have not yet settled on a particular area of law, which is a sensible place to start. Barristers specialise, so the most useful next step is to pin down what kind of matter you have — a criminal hearing, a family dispute, an employment or immigration tribunal, a property issue, or a written opinion on a contract, for example — and then look for someone whose practice covers that field. A barrister who spends their working life in your type of case will understand the procedure and the likely arguments far better than a generalist.",
+  "When you compare barristers, ask about their experience in matters like yours rather than relying on a single impressive-sounding title. It is reasonable to ask how often they handle this kind of case, whether they will be the person appearing for you, and how they prefer to work with you — in person, in writing, or remotely. You can check the Barristers' Register to confirm a current practising certificate and whether the barrister is authorised to accept instructions directly from the public.",
+  "Bear in mind that a barrister's fees are usually quoted for a defined piece of work, such as a hearing, a written opinion or drafting a document, rather than as a single overall figure for the whole matter. Ask the clerk to set out what the quote covers and what might fall outside it, so there are no surprises later. If you are unsure whether your matter is suitable for direct instruction, it is worth raising that question at the outset."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Do I need to know which area of law my problem falls under before I enquire?",
+   "a": "No, but it helps. Describe the situation in plain terms — what has happened, what you want to achieve and any court or tribunal involved — and we can introduce you to a barrister whose specialism fits."
+  },
+  {
+   "q": "Can a barrister take on the whole of my case from start to finish?",
+   "a": "Barristers focus on advocacy, advice and drafting, and their involvement is usually defined around specific pieces of work. For matters needing ongoing case management, a solicitor may be involved alongside them, though direct instruction under Public Access is possible for suitable matters."
+  },
+  {
+   "q": "What should I have ready for a first conversation with a barrister?",
+   "a": "Gather any court or tribunal papers, correspondence, contracts or notices connected to the issue, along with a short summary of what has happened so far. Having key dates and documents to hand helps the barrister assess your matter quickly and quote accurately."
+  }
+ ]
+}

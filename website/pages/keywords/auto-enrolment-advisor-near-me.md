@@ -1,73 +1,46 @@
 ---
 slug: auto-enrolment-advisor-near-me
 title: Auto Enrolment Advisor Near Me | iComply Professional Services
-description: An auto-enrolment adviser near you: get matched free with a suitable UK pension adviser via iComply Professional Services. Request a quote — POA.
+description: Find an auto-enrolment adviser near you with iComply: one free enquiry, matched to a suitable UK pension adviser. No obligation. Request a quote — POA.
 family: pension
 group: finance
 hub: pension-advisors
 profession: pension adviser
 service_label: Auto-enrolment adviser
-og_image: /assets/images/finance-desk.jpg
+og_image: /assets/images/insurance-advisory.jpg
 ---
 
 # Auto Enrolment Advisor Near Me
 
-If you have typed **auto enrolment advisor near me** into a search bar, you are likely looking for help soon and not too far away. Auto-enrolment advisers help employers set up compliant workplace pensions, assess staff and meet Pensions Regulator duties.
+You're looking for an auto enrolment advisor near you because your business has to set up a workplace pension that meets The Pensions Regulator's rules. Whether you're taking on your first member of staff or need help with an existing scheme, a local adviser can guide you through enrolling eligible staff and keeping on top of your duties. We introduce you to a suitable UK pension adviser who will quote you directly, with fees on application.
 
-Rather than calling round, you can send one enquiry to iComply. We look at your needs, location and timing, then introduce you to a suitable pension advice firm. They quote you directly, POA, and you decide whether to go ahead.
+Auto-enrolment advisers help employers set up compliant workplace pensions, assess staff and meet Pensions Regulator duties.
+
+We act as the middleman between you and the professional. Share a short brief and we match you with an auto-enrolment adviser who has the right experience and capacity. Enquiring is free, and you are under no obligation to accept a quote.
 
 **[Get a free quote](/contact/)** — tell us your town or postcode and a line or two about what you need.
 
-![Next steps after an iComply introduction for an auto-enrolment adviser](/assets/images/finance-desk.jpg)
+![Next steps after an iComply introduction for an auto-enrolment adviser](/assets/images/insurance-advisory.jpg)
 
-## Where pension advisers can help
+## What people searching for an auto enrolment advisor near me usually need
 
-You do not need to have everything worked out. Clients often come to us with situations like these:
+Most employers looking for an auto enrolment advisor near me want practical help with the legal duties that come with running a workplace pension.
 
-- Checking whether retirement plans are on track.
-- Making sure pension death benefits go to the right people.
-- Business owners using pensions in tax planning.
-- Deciding how to take money from a pension at retirement.
-- Weighing up an annuity against drawdown.
+- You've just taken on your first employee and need to know whether auto enrolment applies to you and what to do first.
+- You already have a scheme but aren't sure if your payroll is set up correctly to enrol staff and process contributions.
+- You're unsure which staff count as eligible and want help assessing your workforce.
+- You need to complete a declaration of compliance with The Pensions Regulator and want to get it right.
+- You're concerned about keeping records and meeting ongoing duties such as re-enrolment and communicating with staff.
 
-If your situation is not listed, that is fine. Describe it in your own words and we will work out which kind of pension adviser fits best.
+## Choosing an adviser who deals with employers, not just pensions
 
-## Near me: how local matching works
+Your search for an auto enrolment advisor near me suggests you're an employer with duties to meet, not someone sorting out their own retirement pot. That distinction matters, because the help you need is about assessing staff, choosing a qualifying scheme and keeping the paperwork straight with The Pensions Regulator, rather than picking a fund for yourself. Look for someone who regularly works with employers on workplace pensions and is comfortable talking to whoever runs your payroll.
 
-When you search for an auto-enrolment adviser near you, you usually want someone reachable, available and trustworthy. Tell us your town or postcode and we look for suitable practices nearby with capacity to help.
+When you compare advisers, ask how they would handle the practical side: identifying eligible staff, working out when to enrol them, and making sure contributions flow correctly through your payroll. A useful conversation will cover your declaration of compliance and what happens at re-enrolment, so you understand the ongoing duties rather than just the initial setup. Fees are quoted on application, so ask each adviser to set out what they charge and exactly what that covers before you commit.
 
-Near-me searches return lots of results, from directories to adverts. Our role is simpler: understand your brief and introduce a suitable professional, so you do not have to work through the list alone.
+Meeting locally can make it easier to sit down with your payroll paperwork and staff details, but remote help works just as well if that suits you better. At a first appointment, expect questions about your workforce, your existing pension arrangements and any letters from The Pensions Regulator, so have those to hand. It's also worth checking the adviser or firm on the FCA register beforehand, since auto enrolment advice is a regulated activity.
 
-## How long things usually take
-
-Initial meetings are often available within a couple of weeks. Gathering information from pension providers can take several weeks, so start well before you need to make a decision.
-
-**Need an auto-enrolment adviser?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
-
-## How fees usually work (POA)
-
-Pension advice is usually charged as an initial fee, sometimes with an ongoing advice fee. Specialist transfer advice is often charged separately. iComply does not publish fees; the firm quotes you, POA.
-
-Ask whether fees can be taken from the pension, and how that affects its value.
-
-## Questions to ask an auto-enrolment adviser
-
-Once you are introduced, these questions help you decide whether the pension adviser is right for you:
-
-- What are the tax consequences of each option?
-- Are you FCA authorised, and do you hold pension transfer permissions if needed?
-- How do you protect against pension scams?
-- Can you explain annuity and drawdown risks side by side?
-- What happens with ongoing advice and reviews?
-- How do you charge, and is it different if I do not go ahead?
-
-## Your relationship with the practice
-
-Once introduced, the firm will agree terms and gather information from your providers. Advice and responsibility sit with the authorised firm. iComply does not give financial advice. The value of pensions and investments can fall as well as rise.
-
-![Planning the first appointment after an enquiry for auto enrolment advisor near me](/assets/images/hero-workshop.jpg)
-
-## Qualifications and registration to look for
+## How to check you are in safe hands
 
 Financial advice in the UK is regulated by the Financial Conduct Authority (FCA). Check that any adviser or firm is authorised, or is an appointed representative of an authorised firm, on the FCA register. If something goes wrong you can complain to the firm, then to the Financial Ombudsman Service, and the Financial Services Compensation Scheme may protect you if an authorised firm fails.
 
@@ -77,20 +50,9 @@ Adviser and advisor are simply two spellings of the same word. What matters is w
 
 Please note that iComply is a matching service only. We are not regulated as a pension adviser, and we do not give professional advice. The practice you are introduced to is responsible for its own registration and for the work it does.
 
-## Information that helps us match you
+**Need an auto-enrolment adviser?** [Get a free quote](/contact/) or message us on [WhatsApp](https://wa.me/447517806082) — it takes two minutes.
 
-A short, clear brief saves time on both sides. Useful details include:
-
-- Recent statements for every pension you hold
-- Any deadlines on transfer quotes
-- Your state pension forecast from the government's Check your State Pension service
-- Other savings, investments and property
-- Your health, which can affect annuity rates
-- Beneficiary nominations
-
-Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
-
-## Practical points about an auto-enrolment adviser
+## Before you choose an auto-enrolment adviser
 
 These practical points are worth knowing before you speak to anyone about an auto-enrolment adviser:
 
@@ -98,45 +60,98 @@ These practical points are worth knowing before you speak to anyone about an aut
 - Declarations of compliance are required.
 - Payroll integration matters.
 
-Raise any of these with the pension adviser you are introduced to; they should be happy to explain.
+A good pension adviser will talk you through each of these in plain English.
 
-## How our free matching service works
+## How iComply matches you
 
-1. **Enquire for free** with your town or postcode and a short description.
-1. **We clarify** anything unclear, so the introduction is useful from the start.
-1. **We connect you** with an auto-enrolment adviser who suits your situation.
-1. **The practice takes over**, confirms scope and fees in writing and does the work.
+1. **Tell us what you need.** Use the contact form, WhatsApp or phone. A few lines is enough.
+1. **We review your brief.** We check the type of pension adviser you need, your location and your timing.
+1. **We match you.** We introduce a suitable practice with capacity, usually within a few working days.
+1. **You get a quote.** The practice quotes you directly, POA. You decide whether to go ahead.
 
-We are the middleman, not the provider: the professional you choose carries out the work and is responsible for it.
+There is no charge to you for the introduction, and no obligation to accept any quote.
 
-## Warning signs to watch for
+## Typical timescales
 
-Most professionals are honest and competent, but it is worth knowing the warning signs:
+Initial meetings are often available within a couple of weeks. Gathering information from pension providers can take several weeks, so start well before you need to make a decision.
 
-- Overseas investments or unusual schemes
-- Firms not on the FCA register
-- Cold calls about your pension
-- Pressure to transfer quickly
+![Planning the first appointment after an enquiry for auto enrolment advisor near me](/assets/images/finance-desk.jpg)
 
-![Pension advice firm ready to take on a new enquiry for auto enrolment advisor near me](/assets/images/healthcare-consult.jpg)
+## Questions to ask the professional
+
+Asking a few direct questions early tells you a lot about how a practice works:
+
+- Are you authorised by the Financial Conduct Authority, or an appointed representative of an authorised firm?
+- How will you help me assess which staff are eligible for auto enrolment?
+- Can you work with my payroll provider to make sure contributions are processed correctly?
+- What support do you offer for completing the declaration of compliance?
+- How do you charge for your services, and what will be included?
+- What ongoing help do you provide for re-enrolment and record-keeping?
+
+## What to understand about auto enrolment advice
+
+Auto enrolment advice is a regulated activity, so any adviser you speak to should be authorised by the Financial Conduct Authority (FCA) or be an appointed representative of an authorised firm. You can check this on the FCA register. If something goes wrong, you can complain to the firm and then to the Financial Ombudsman Service, and the Financial Services Compensation Scheme may protect you if an authorised firm fails.
+
+Some pension decisions carry special rules: if you're considering transferring out of a defined benefit (final salary) scheme above a set value, the advice must come from an adviser with pension transfer specialist permissions. Safeguarded benefits also deserve particular care. Free, impartial guidance is available from Pension Wise for people over the age of fifty with defined contribution pensions.
+
+## What an auto-enrolment adviser is likely to cost (POA)
+
+Pension advice is usually charged as an initial fee, sometimes with an ongoing advice fee. Specialist transfer advice is often charged separately. The firm quotes you, POA.
+
+Ask whether fees can be taken from the pension, and how that affects its value.
+
+## What to tell iComply when enquiring
+
+A short, clear brief saves time on both sides. Useful details include:
+
+- Say how many staff you employ and whether any are already in a pension scheme.
+- Mention whether you have an existing workplace pension or need to set one up from scratch.
+- Explain whether your payroll is run in-house or by a bureau, as integration matters.
+- Tell us if you've received any correspondence from The Pensions Regulator.
+- Include your preferred location or whether you'd like an adviser who can meet remotely.
+- Note any deadlines you're working towards, such as a declaration of compliance date.
+
+Please do not send confidential records or full files in your first message. The practice will ask for what it needs securely once you are introduced.
+
+![Pension advice firm ready to take on a new enquiry for auto enrolment advisor near me](/assets/images/hero-workshop.jpg)
 
 ## Auto Enrolment Advisor Near Me: FAQs
+
+### Do I need an adviser to set up auto enrolment?
+
+You can set up auto enrolment yourself, but many employers use an adviser to make sure they meet all their duties. An adviser can help you assess staff, choose a scheme and complete your declaration of compliance.
+
+### What does an auto enrolment adviser actually do?
+
+They help employers set up compliant workplace pensions, assess staff and meet Pensions Regulator duties. This includes checking payroll integration and supporting you with declarations of compliance.
+
+### How do I check an adviser is properly authorised?
+
+You can check the FCA register to see if an adviser or firm is authorised, or is an appointed representative of an authorised firm.
+
+### What if I'm unhappy with the advice I receive?
+
+If something goes wrong, you can complain to the firm first. If you're not satisfied, you can then complain to the Financial Ombudsman Service, and the Financial Services Compensation Scheme may protect you if an authorised firm fails.
+
+### Is an auto enrolment adviser the same as a pension adviser for individuals?
+
+Not quite. An auto enrolment adviser helps you as an employer meet your workplace pension duties, such as assessing staff and completing declarations of compliance. A pension adviser for individuals focuses on your own retirement planning instead.
+
+### Can my accountant or payroll bureau handle auto enrolment for me?
+
+Many employers rely on their payroll provider for the mechanics of processing contributions, but the legal duties remain yours as the employer. An adviser can work alongside your payroll to make sure the scheme and the payroll are joined up properly.
+
+### What should I bring to a first meeting about auto enrolment?
+
+Bring details of your staff and their ages and earnings, any existing workplace pension arrangements, and any correspondence from The Pensions Regulator. That lets the adviser understand your position and explain what needs doing next.
 
 ### What is Pension Wise?
 
 A free, impartial government-backed service offering guidance to people over 50 about their options for defined contribution pensions. It is guidance, not personal advice.
 
-### Should I combine my pensions?
-
-Sometimes it makes life simpler and cheaper, but some older pensions have valuable guarantees or low charges. An adviser checks before recommending a transfer.
-
-### Can you find an auto-enrolment adviser in my area?
+### How do I find an auto-enrolment adviser near me?
 
 Send us your town or postcode with a short description of what you need. We look for a suitable pension advice firm with capacity in your area, or one that can help remotely, and introduce you. It is free to enquire.
-
-### Is it free to use iComply?
-
-Yes. Enquiring and being matched is free for you. If a practice quotes for its professional work, that quote is between you and the practice, and it is POA.
 
 ### Do I have to accept a quote?
 
@@ -146,13 +161,13 @@ No. An introduction is not a contract. You can ask questions, decline, or ask us
 
 Yes. You can message us on WhatsApp or call us, as well as using the enquiry form. Please keep sensitive details for the practice once you are introduced.
 
-## Other services you may need
+## Related searches
 
-- [Retirement planner near me](/keywords/retirement-planner-near-me/)
-- [Best CETV advice near me](/keywords/best-cetv-advice-near-me/)
 - [Retirement advisor near me](/keywords/retirement-advisor-near-me/)
+- [Drawdown pension advisor near me](/keywords/drawdown-pension-advisor-near-me/)
+- [Pension transfer advisor near me](/keywords/pension-transfer-advisor-near-me/)
 - [Pension adviser near me](/keywords/pension-adviser-near-me/)
-- [Annuity advisor near me](/keywords/annuity-advisor-near-me/)
+- [Pension consolidation advisor near me](/keywords/pension-consolidation-advisor-near-me/)
 - [Browse all pension advisers](/hubs/pension-advisors/)
 
 ## Request your free quote

@@ -1,0 +1,53 @@
+{
+ "intro": "You're looking for a life cover advisor near you because you want to make sure your family would be financially secure if you weren't around. You might be thinking about a mortgage, children, or simply covering everyday bills. A local advisor can help you work out what you need and find a suitable policy.",
+ "need_heading": "What people searching for a life cover advisor near me usually need",
+ "need_lead": "Most people want straightforward, local help to protect the people who depend on them.",
+ "needs": [
+  "You want to make sure your mortgage would be paid off if you died, so your family wouldn't have to worry about losing the home.",
+  "You have young children and want to leave enough to cover childcare or everyday living costs while they grow up.",
+  "You're self-employed or have a job without death-in-service benefits, and you need to put your own cover in place.",
+  "You've been putting off sorting out life cover because it feels confusing, and you'd rather talk it through face to face with someone nearby.",
+  "You already have some cover but your circumstances have changed, and you want to check whether it's still right for you."
+ ],
+ "context_heading": "What to understand about life cover advice",
+ "context": [
+  "Life cover advisers work out how much protection you need and compare insurers. They must be authorised by the Financial Conduct Authority (FCA) or be appointed representatives of an authorised firm, so you can check them on the FCA register. Many also belong to the British Insurance Brokers' Association (BIBA), and some hold Chartered status from the Chartered Insurance Institute.",
+  "Advisers must understand your demands and needs, explain key policy features and exclusions, and tell you how they are paid. If you have a complaint that isn't resolved, you can take it to the Financial Ombudsman Service. Joint and single policies differ, your health affects premiums, and putting a policy in trust can speed up payouts."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Whether you want cover for yourself alone or for you and a partner jointly.",
+  "The main reason you need cover, such as a mortgage, children, or general family protection.",
+  "Any health conditions or lifestyle factors that might affect your premiums.",
+  "Whether you already have life cover through work or a personal policy.",
+  "Your rough budget and whether you'd prefer a local advisor you can meet in person.",
+  "Any deadline you're working towards, such as a house purchase or a change in circumstances."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you authorised by the FCA, and can you show me how to check on the FCA register?",
+  "How do you work out how much cover I need?",
+  "Will you compare policies from different insurers?",
+  "How are you paid for your advice, and will you tell me in writing?",
+  "Should the policy be written in trust, and what difference would that make?",
+  "What happens if I need to make a claim?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need life cover if I already have cover through my job?",
+   "a": "It depends on what your employer provides. Death-in-service benefits are often a multiple of your salary, but they may not be enough to cover a mortgage or long-term family costs. An advisor can help you compare what you have with what you might need."
+  },
+  {
+   "q": "Will my health affect what I pay for life cover?",
+   "a": "Yes, your health and lifestyle can affect your premiums. Advisors will ask about your medical history and may need to approach insurers who specialise in certain conditions. Being honest is important so your policy pays out when needed."
+  },
+  {
+   "q": "What's the difference between a joint policy and single policies?",
+   "a": "A joint policy covers two people and usually pays out once, on the first death. Single policies are separate, so each person has their own cover, which can be more flexible but may cost more. An advisor can explain which suits your situation."
+  },
+  {
+   "q": "Should I put my life cover in trust?",
+   "a": "Putting a policy in trust can help ensure the payout goes to the people you choose without waiting for probate, which can speed things up. It can also have inheritance tax benefits. An advisor can tell you whether it's appropriate for you."
+  }
+ ]
+}

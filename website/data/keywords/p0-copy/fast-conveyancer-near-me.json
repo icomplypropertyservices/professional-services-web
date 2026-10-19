@@ -1,0 +1,73 @@
+{
+ "intro": "You've searched for a fast conveyancer near you, which usually means a property move is already underway or you're keen to get one started without losing time. Speed matters most when a chain is waiting, a deadline is looming or a lender needs the legal work moving. iComply is a free introduction service: tell us what you need and we'll introduce you to a suitable UK conveyancer, who will quote you directly.",
+ "need_heading": "What people searching for a fast conveyancer usually need",
+ "need_lead": "Most people typing this phrase want the legal side of a property move to start quickly and keep moving, without cutting corners on the checks that protect them.",
+ "needs": [
+  "You've had an offer accepted and want the legal work to begin before the other side loses patience.",
+  "You're selling and need the paperwork ready so your buyer isn't left waiting on you.",
+  "You're in a chain and the other parties are pressing for dates, so any delay in your conveyancing holds everyone up.",
+  "Your lender or a deadline tied to a mortgage offer means the legal work needs attention sooner rather than later.",
+  "You've been let down by slow communication and want a conveyancer who will keep you informed from the outset."
+ ],
+ "context_heading": "Speed and safety go together in conveyancing",
+ "context": [
+  "Conveyancing in England and Wales is a reserved legal activity, carried out either by solicitors regulated by the SRA or by licensed conveyancers regulated by the Council for Licensed Conveyancers. Both must hold professional indemnity insurance and follow strict rules on handling client money, so asking who regulates a firm is a fair question when you're choosing quickly.",
+  "Many lenders only work with conveyancers on their panel, and the Law Society's Conveyancing Quality Scheme is a common accreditation, so check your lender's panel before you instruct anyone. Whoever you choose, always verify bank details by phone before sending money, because fraudsters target property transactions."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say whether you are buying, selling or remortgaging, and whether you are doing more than one of these.",
+  "Describe the property briefly, including whether it is leasehold or freehold and whether it is a new build.",
+  "Explain why speed matters, such as a chain, a deadline or a lender requirement.",
+  "Confirm whether your lender has a panel of conveyancers you must use.",
+  "Say where the property is, so we can introduce you to a conveyancer who covers that area.",
+  "Mention how you prefer to be contacted and any times you are not available."
+ ],
+ "questions_heading": "Questions to ask the conveyancer",
+ "questions": [
+  "How soon could you start work on my file once I instruct you?",
+  "Are you on my lender's panel, and if not, how would that affect the mortgage?",
+  "Who will handle my file day to day, and how will you keep me updated on progress?",
+  "What information or documents will you need from me first so nothing holds up the start?",
+  "How do you handle searches and enquiries so the process keeps moving?",
+  "What are your fees and what do they cover, and are there costs that might arise later?"
+ ],
+ "faqs": [
+  {
+   "q": "How quickly can a conveyancer start work?",
+   "a": "That depends on the firm's current workload and on how quickly you can provide the documents they need. Instructing early and having your paperwork ready helps avoid delays once you've chosen."
+  },
+  {
+   "q": "Does a fast conveyancer cost more?",
+   "a": "Fees vary between firms and depend on the property and the work involved, so ask for a written quote and compare what each one covers. iComply does not set or take fees; the conveyancer quotes you directly."
+  },
+  {
+   "q": "Can I use any conveyancer if I have a mortgage?",
+   "a": "Many lenders only work with conveyancers on their panel, so check before you instruct. If your chosen firm is not on the panel, your lender may not accept them."
+  },
+  {
+   "q": "How do I check a conveyancer is properly regulated?",
+   "a": "Solicitors are regulated by the SRA and licensed conveyancers by the Council for Licensed Conveyancers. You can check a firm's status with the relevant regulator before instructing them."
+  }
+ ],
+ "extra_heading": "Why \"fast\" and \"near me\" pull in different directions",
+ "extra": [
+  "A conveyancer close by is not automatically the quicker choice. Much of the work is done by phone, email and post, and searches and enquiries go to the local authority and other bodies wherever the property is, so a firm in the next town can often move your file along just as briskly as one on your high street.",
+  "What usually decides the pace is the firm's current workload and how promptly it can reach you when something needs a decision. When you speak to a conveyancer, ask how they handle a file that is already under time pressure and how they will let you know the moment a search or enquiry comes back.",
+  "Being near still has its uses: it can make it easier to drop off or sign documents in person and to sit down with someone if the transaction becomes complicated. Weigh that convenience against how responsive the firm seems when you first get in touch, because that first conversation often tells you a lot."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Is a local conveyancer always faster than one further away?",
+   "a": "Not necessarily. Most conveyancing is handled remotely, and the searches and enquiries depend on other organisations rather than on distance. What matters more is how organised the firm is and how quickly it responds to you."
+  },
+  {
+   "q": "Can I switch conveyancers if mine is too slow?",
+   "a": "You can change firms, but it usually means the new conveyancer has to pick up the file and may need to repeat some work, which can cost time and money. It is worth raising your concerns with your current conveyancer first and asking for a clear plan."
+  },
+  {
+   "q": "What should I have ready so my conveyancer can start straight away?",
+   "a": "Gather proof of identity and address, your mortgage offer or lender details if you have one, and any documents about the property you already hold. Having these ready when you instruct helps the legal work begin without waiting on paperwork."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for an audiologist near me usually means you've noticed a change in your hearing or you're worried about a child's hearing, and you want to see someone local. You might be struggling to follow conversations, hearing a ringing in your ears, or needing ear wax removed. We can introduce you to a suitable UK professional who will quote you directly.",
+ "need_heading": "What people searching for an audiologist near me often need",
+ "need_lead": "Most people looking for an audiologist near me are dealing with a specific hearing concern and want to know who can help locally.",
+ "needs": [
+  "You've been turning the TV up louder than before and family have commented on it.",
+  "You struggle to hear in crowded places like cafes or family gatherings.",
+  "You have a constant ringing or buzzing in your ears that is affecting your sleep.",
+  "You need ear wax removed and want to see a professional rather than try remedies yourself.",
+  "You're considering hearing aids and want to talk through the options with someone who fits and adjusts them."
+ ],
+ "context_heading": "What to understand when looking for an audiologist near you",
+ "context": [
+  "Hearing aid dispensers must be registered with the Health and Care Professions Council (HCPC), and you can check the register online. Clinical audiologists may also be registered through the Academy for Healthcare Science or other recognised registers, and many are members of the British Society of Audiology or the British Society of Hearing Aid Audiologists.",
+  "If you have sudden hearing loss, pain, discharge or hearing loss in one ear only, you should see a doctor promptly, as some causes need medical treatment. For urgent advice you can call NHS 111."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Describe what you've noticed about your hearing and how long it has been going on.",
+  "Mention if you have any pain, discharge, sudden hearing loss or hearing loss in one ear only.",
+  "Say whether you already have hearing aids or have been told you need them.",
+  "Let us know if you have tinnitus and how it affects you.",
+  "Tell us your location so we can introduce you to a professional near you.",
+  "Mention any preference for a home visit or a clinic appointment if that matters to you."
+ ],
+ "questions_heading": "Questions to ask the audiologist",
+ "questions": [
+  "Are you registered with the Health and Care Professions Council, and what is your registration number?",
+  "What does a hearing assessment involve and how long will it take?",
+  "Do you offer trial periods for hearing aids, and what are the terms?",
+  "What aftercare do you provide, including follow-up appointments and adjustments?",
+  "How do you handle wax removal, and is it included in the price?",
+  "What should I do if I experience sudden hearing loss or pain before my appointment?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check if an audiologist is properly registered?",
+   "a": "Hearing aid dispensers must be registered with the Health and Care Professions Council (HCPC), and you can check the register online. Clinical audiologists may also be registered through the Academy for Healthcare Science or other recognised registers."
+  },
+  {
+   "q": "What should I do if I have sudden hearing loss?",
+   "a": "If you have sudden hearing loss, pain, discharge or hearing loss in one ear only, you should see a doctor promptly, as some causes need medical treatment."
+  },
+  {
+   "q": "What does an audiologist do?",
+   "a": "Audiologists assess hearing, fit and adjust hearing aids, help with tinnitus and provide wax removal and hearing protection."
+  },
+  {
+   "q": "Will I be able to try hearing aids before buying?",
+   "a": "Many audiologists offer trial periods for hearing aids, so it's worth asking about this and the terms before you commit."
+  }
+ ]
+}

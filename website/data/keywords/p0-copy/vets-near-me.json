@@ -1,0 +1,73 @@
+{
+ "intro": "When you search for vets near me, you're likely looking for a local practice you can trust with your animal's health, whether it's a routine check-up, an unexpected illness, or ongoing care. Finding the right vet is about more than just convenience—it's about feeling confident that your pet will be well looked after. We can introduce you to a suitable UK vet who will quote you directly, so you can compare options and make an informed choice.",
+ "need_heading": "What people searching for vets near me usually need",
+ "need_lead": "Most people searching for a vet need a local practice that can provide reliable care for their animal, often at short notice or for a specific concern.",
+ "needs": [
+  "You've just moved to a new area and need to register your pet with a local vet before any health issues arise.",
+  "Your pet has started showing symptoms that worry you, and you want to get them seen by a vet as soon as possible.",
+  "You're looking for a practice that offers preventive care such as vaccinations, flea and worm treatment, and neutering.",
+  "You need a vet who can provide emergency or out-of-hours care, or at least advise you on where to go when the practice is closed.",
+  "You're considering a preventive health plan to spread the cost of routine care and want to find a local practice that offers one."
+ ],
+ "context_heading": "What to understand when choosing a local vet",
+ "context": [
+  "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS), and you can search the RCVS register by name before you book. Veterinary nurses also have their own RCVS register. Many practices join the voluntary RCVS Practice Standards Scheme, which inspects premises, equipment and clinical processes, so you can ask whether a practice is part of it.",
+  "If your animal has a complex or unusual condition, it's reasonable to ask whether the vet treating it holds further qualifications such as an RCVS certificate, advanced practitioner status or specialist status in a particular species or discipline, or whether they would refer you to someone who does. Also ask how the practice covers nights and weekends, as many use a dedicated out-of-hours provider."
+ ],
+ "tell_heading": "What to tell iComply when enquiring",
+ "tell": [
+  "Tell us the type of animal you have, including the species and breed if relevant, so we can introduce you to a vet with the right experience.",
+  "Let us know whether you're looking for a routine check-up, preventive care, or help with a specific health concern.",
+  "Mention if you need a practice that offers out-of-hours cover or emergency care, or if you require a practice with particular facilities.",
+  "Tell us your location and how far you're willing to travel to find a suitable vet.",
+  "If your animal has an ongoing condition, share details so we can match you with a vet who has relevant knowledge.",
+  "Let us know if you're interested in a preventive health plan or spreading the cost of routine care, so we can introduce you to practices that offer this."
+ ],
+ "questions_heading": "Questions to ask the vet",
+ "questions": [
+  "Are you registered with the Royal College of Veterinary Surgeons, and can you tell me your registration number?",
+  "How do you handle out-of-hours emergencies, and is there an additional charge for that service?",
+  "What is included in your preventive health plan, and are there any exclusions I should be aware of?",
+  "Do you have any further qualifications or special interests in the type of animal I have?",
+  "What is your approach to diagnosing and treating the specific concern I have about my pet?",
+  "Can you provide a written estimate for any planned treatment or procedure before it goes ahead?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I check if a vet is properly qualified?",
+   "a": "You can search the Royal College of Veterinary Surgeons (RCVS) register by name to confirm that a vet is registered to practise in the UK. Veterinary nurses also have their own RCVS register. It's a good idea to do this before you book an appointment."
+  },
+  {
+   "q": "What should I do if my pet needs urgent care outside normal hours?",
+   "a": "Many practices use a dedicated out-of-hours provider for nights and weekends, so ask your vet how they cover emergencies when the practice is closed. If you're unsure, you can call NHS 111 for advice, but for animal emergencies, contact your vet's out-of-hours service directly."
+  },
+  {
+   "q": "Is it worth joining a preventive health plan?",
+   "a": "Preventive health plans can spread the cost of routine care such as vaccinations and parasite control, but it's important to check exactly what is included and whether there are any exclusions. Ask the practice for a clear breakdown of what the plan covers and any additional costs."
+  },
+  {
+   "q": "Can I ask for a vet with a specialist qualification for my pet's condition?",
+   "a": "Yes, if your animal has a complex or unusual condition, you can ask whether the vet treating it holds an RCVS certificate, advanced practitioner status or specialist status in a particular species or discipline, or whether they would refer you to someone who does. It's reasonable to seek a vet with relevant expertise."
+  }
+ ],
+ "extra_heading": "Comparing a few vets nearby before you decide",
+ "extra": [
+  "Searching for vets near me in the plural usually means you are weighing up more than one practice rather than simply taking the closest one. That is a sensible approach, because distance matters most in an emergency, while day-to-day care depends on how a practice works and whether you feel able to ask questions there. We can introduce you to a suitable UK vet who will quote you directly, so you have something concrete to compare.",
+  "Start with the practicalities that differ between practices: which species each one treats, whether they see your animal at the same site each time, and how they hand over to an out-of-hours provider when they close. Then look at how they communicate, such as whether they explain treatment options and costs before going ahead. It is reasonable to ring a practice and ask these things before you register, and their answers will tell you a lot about what they would be like to deal with.",
+  "When you visit for the first time, expect the vet to ask about your animal's history, diet, behaviour and any previous treatment, and to give a general health check. Bring any paperwork you have, such as vaccination records or details of medicines, and write down your questions beforehand so you do not forget them in the consulting room. If a preventive health plan is mentioned, ask what it covers and what it does not before you sign up."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I register with more than one practice?",
+   "a": "Most people register with one practice so their animal's records stay in one place, which helps the vet see the full history. If you travel often or have a second home, it is worth asking how the practice handles records if you need care elsewhere."
+  },
+  {
+   "q": "What if I cannot get an appointment quickly at my nearest practice?",
+   "a": "Ask the practice what they do when they are fully booked, as some keep slots for urgent cases. If your animal needs help outside opening hours, ask who covers their nights and weekends before you need it."
+  },
+  {
+   "q": "Does a home visit count as a vet near me?",
+   "a": "Some practices offer home visits for animals that find travel difficult, though not all do and it may not suit every problem. Ask when you enquire whether a home visit is possible for your situation and how it is arranged."
+  }
+ ]
+}

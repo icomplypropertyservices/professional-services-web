@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for an egg freezing clinic near me usually means you are weighing up whether to freeze your eggs, and you want to find a licensed clinic within reach that can talk you through it. This is a personal decision, often taken for medical or life reasons, and the right starting point is a proper conversation with a clinic that holds the correct licence. We can introduce you to a suitable UK fertility clinic, which will quote you directly, with prices on application.",
+ "need_heading": "What people searching for an egg freezing clinic near me usually need",
+ "need_lead": "Most people behind this search want a licensed clinic close enough to attend for appointments, scans and the procedure itself.",
+ "needs": [
+  "You have decided to look into egg freezing and want a clinic you can realistically travel to for monitoring appointments and the egg collection.",
+  "You have a medical reason, such as treatment that may affect your fertility, and you need to move reasonably quickly to discuss egg freezing.",
+  "You are thinking about freezing your eggs for personal or life reasons and want to understand what the process involves before committing.",
+  "You have already had some initial tests elsewhere and want a licensed clinic to look over them and explain your options.",
+  "You want to compare what nearby clinics offer, including how they store eggs and what happens if you later want to use them."
+ ],
+ "context_heading": "Understanding licensing when you look for a clinic near you",
+ "context": [
+  "Clinics that freeze eggs must be licensed by the Human Fertilisation and Embryology Authority (HFEA). The HFEA's Choose a Fertility Clinic tool lets you look up each licensed clinic and see its inspection ratings, success rates and patient feedback, which is a useful way to check a clinic you are considering near you.",
+  "Some simple tests, such as blood hormone checks, may be offered outside HFEA licensing, but anything involving eggs, sperm or embryos should always be with a licensed centre. It is worth confirming the licence before you book anything, especially if a clinic is convenient but unfamiliar to you."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say where you are based and how far you are willing to travel, so we can introduce you to a clinic that is genuinely near you.",
+  "Explain briefly why you are considering egg freezing, whether for medical or personal reasons, as this helps a clinic respond usefully.",
+  "Mention any relevant medical history or upcoming treatment that has prompted your enquiry.",
+  "Let us know whether you have already had fertility tests or a consultation elsewhere.",
+  "Say whether you are enquiring for yourself or on behalf of someone else.",
+  "Include any preferences that matter to you, such as appointment times or how you would like to be contacted."
+ ],
+ "questions_heading": "Questions to ask the clinic",
+ "questions": [
+  "Is this clinic licensed by the HFEA for egg freezing and storage?",
+  "What does the egg freezing process involve from first consultation through to storage?",
+  "What are your storage fees, and how and when are they charged?",
+  "What do you know about thaw survival rates for eggs frozen at this clinic?",
+  "What do the consent forms cover, particularly around storage and what happens if I move or stop paying?",
+  "Who will I see for scans and monitoring, and how many visits should I expect?"
+ ],
+ "faqs": [
+  {
+   "q": "Do egg freezing clinics need a licence?",
+   "a": "Yes. Clinics that freeze eggs must be licensed by the Human Fertilisation and Embryology Authority (HFEA). You can check any clinic you are considering using the HFEA's Choose a Fertility Clinic tool."
+  },
+  {
+   "q": "How do I judge a clinic near me?",
+   "a": "Look at the HFEA's inspection ratings, success rates and patient feedback for each licensed clinic you are considering. It also helps to ask about storage fees and thaw survival rates directly, so you can compare on the things that matter to you."
+  },
+  {
+   "q": "What should I ask about storage?",
+   "a": "Ask what the storage fees are, how they are charged and what the consent forms say about storage. It is worth understanding what happens if you later want to use your eggs or move them elsewhere."
+  },
+  {
+   "q": "Will iComply advise me on egg freezing?",
+   "a": "No. We are an introduction service and do not give professional advice or provide treatment. We introduce you to a suitable UK fertility clinic, which will discuss your situation and quote you directly, with prices on application."
+  }
+ ]
+}

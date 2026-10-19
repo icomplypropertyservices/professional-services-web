@@ -1,0 +1,73 @@
+{
+ "intro": "Searching for a CIS tax advisor near me usually means you're working in construction and want someone local who understands the Construction Industry Scheme without travelling far. Whether you're a subcontractor chasing a refund or a contractor worried about deductions and compliance, a specialist can look at your actual position. We introduce you to a suitable UK tax adviser who quotes you directly, and you decide whether to go ahead.",
+ "need_heading": "What people searching for a CIS tax advisor usually need",
+ "need_lead": "Most people behind this search want clear, local help with how the Construction Industry Scheme affects their tax.",
+ "needs": [
+  "You're a subcontractor and want to check that the deductions taken from your payments have been handled correctly and whether a refund is due.",
+  "You're a contractor and need help working out when to deduct from subcontractors and when gross payment status applies.",
+  "You want to apply for gross payment status and need to understand what HMRC expects of your compliance record.",
+  "You've had a CIS return or payment go in late and want to know what penalties might follow and how to put things right.",
+  "You're unsure whether the people you pay are genuinely self-employed subcontractors and want to verify them properly before paying."
+ ],
+ "context_heading": "Understanding who can help with CIS",
+ "context": [
+  "\"Tax adviser\" is not a protected title in the UK, so anyone can use it. The main specialist bodies are the Chartered Institute of Taxation, for the CTA qualification, and the Association of Taxation Technicians, for ATT, and their members follow a shared code called Professional Conduct in Relation to Taxation. Many accountants and solicitors also advise on CIS matters.",
+  "Tax advisers who charge a fee must be supervised for anti-money-laundering purposes, and HMRC has been tightening standards for paid tax agents. It is therefore reasonable to ask about qualifications, supervision and professional indemnity insurance before you go ahead. Because quotes are on application, you can compare what each adviser offers before committing."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Say whether you're a subcontractor, a contractor, or both, as the help you need differs.",
+  "Describe your trade and the kind of construction work involved, so the right adviser is suggested.",
+  "Mention whether you currently hold gross payment status or are paid under deduction.",
+  "Explain what's prompting the enquiry, such as a refund check, a late return, or a planned application.",
+  "Note roughly where you're based and how far you're willing to travel, since you searched for someone near you.",
+  "Include anything HMRC has already sent you, such as a penalty notice or a compliance letter, in general terms."
+ ],
+ "questions_heading": "Questions to ask the tax adviser",
+ "questions": [
+  "What qualifications and professional body memberships do you hold for CIS work?",
+  "How are you supervised for anti-money-laundering purposes, and do you hold professional indemnity insurance?",
+  "Have you dealt with gross payment status applications and the compliance record HMRC looks at?",
+  "How will you check that the deductions on my payments or returns have been calculated correctly?",
+  "What would you need from me to look into a possible CIS refund?",
+  "How do you charge for CIS work, and will you confirm the basis before starting?"
+ ],
+ "faqs": [
+  {
+   "q": "Can a local tax adviser help me claim back CIS deductions?",
+   "a": "Yes, a CIS tax adviser can look at the deductions taken from your payments and check whether a refund is due. They can also help you gather the records HMRC needs and deal with any queries that arise."
+  },
+  {
+   "q": "What does gross payment status require?",
+   "a": "Gross payment status generally needs a clean compliance record, including filing returns and paying tax on time. A CIS adviser can explain what HMRC looks at and help you prepare an application."
+  },
+  {
+   "q": "What happens if my CIS return is late?",
+   "a": "Late returns can attract penalties, so it is worth acting promptly. An adviser can explain the position, help you file what's outstanding and discuss how to avoid repeat issues."
+  },
+  {
+   "q": "Do I need to check subcontractors before paying them?",
+   "a": "Yes, it is sensible to verify subcontractors before paying them so you apply the correct treatment under the scheme. A CIS adviser can talk you through the verification process and what records to keep."
+  }
+ ],
+ "extra_heading": "What happens at a first CIS appointment",
+ "extra": [
+  "A first meeting with a CIS tax adviser usually starts with your status under the scheme. Expect them to ask whether you're a subcontractor, a contractor, or both, and to look at the payments and deductions recorded on your paperwork. Bringing your HMRC correspondence and payment records helps them see the whole picture quickly.",
+  "From there, the adviser will often work through your compliance record, because gross payment status depends on filing and paying on time. If you're a contractor, they may also talk you through verifying subcontractors before you pay them and what records to keep. You should leave with a clear idea of what needs attention and what happens next.",
+  "It's also your chance to ask how they work and what they'll need from you. Because quotes are on application, the first conversation is a good moment to agree the basis on which they'll charge before anything goes further. A local adviser can also tell you how they'll keep in touch and whether they'll deal with HMRC on your behalf."
+ ],
+ "extra_faqs": [
+  {
+   "q": "I searched for a CIS tax advisor near me but I'm not sure whether I need an adviser at all. Can I check first?",
+   "a": "Yes. A short initial conversation can help you see whether your situation needs professional help or whether you can sort it out yourself. There's no obligation to go ahead once you've been quoted."
+  },
+  {
+   "q": "Do I need to live close to my CIS tax adviser?",
+   "a": "Not necessarily. Many CIS matters can be handled remotely, but searching near you often means you'd prefer to meet face to face or have someone who knows your local area. It's worth saying which you'd prefer when you enquire."
+  },
+  {
+   "q": "What records should I gather before speaking to a CIS tax adviser?",
+   "a": "Gather your CIS payment and deduction statements, any returns you've filed, and letters or notices from HMRC. These let the adviser check your position and spot anything that needs putting right."
+  }
+ ]
+}

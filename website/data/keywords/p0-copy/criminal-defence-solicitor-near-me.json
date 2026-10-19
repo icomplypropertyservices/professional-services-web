@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for a criminal defence solicitor near you, you likely need someone who can protect your rights during a police investigation or prepare your defence against a prosecution. You may be facing a voluntary interview, a charge, or a court date, and you want a solicitor who understands the local courts and can guide you through the process. We introduce you to a suitable UK solicitor who quotes you directly, with fees on application.",
+ "need_heading": "What people searching for a criminal defence solicitor near me usually need",
+ "need_lead": "A criminal defence solicitor helps you navigate the criminal justice system, from the first contact with police to representation in court.",
+ "needs": [
+  "You have been invited to a voluntary police interview and want legal advice before you attend.",
+  "You have been arrested or charged with an offence and need someone to advise you on your plea and next steps.",
+  "You are already facing court proceedings and need a solicitor to prepare your defence and instruct a barrister if needed.",
+  "You are unsure whether you qualify for legal aid and want to understand your options for funding legal representation.",
+  "You need help understanding bail conditions or what happens if you breach them."
+ ],
+ "context_heading": "Understanding regulation and legal aid in criminal defence",
+ "context": [
+  "Solicitors in England and Wales are regulated by the Solicitors Regulation Authority (SRA), and you can check an individual or firm on the SRA's register. In Scotland, solicitors are regulated by the Law Society of Scotland, and in Northern Ireland by the Law Society of Northern Ireland. Regulated firms must hold professional indemnity insurance and have a complaints procedure; if that does not resolve things, the Legal Ombudsman can look at service complaints in England and Wales.",
+  "Legal aid may be available for criminal cases, depending on your financial circumstances and the type of case. Ask the solicitor about legal aid eligibility and whether they offer it. If you do not qualify, you can ask for a quote for private representation."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Whether you are under investigation, have been charged, or have a court date, and what the alleged offence is.",
+  "The police station or court you are dealing with, so we can introduce you to a solicitor familiar with that area.",
+  "Whether you have already been interviewed or have an interview scheduled, and if you have had any legal advice so far.",
+  "Your financial situation if you want to know about legal aid eligibility, such as whether you receive benefits or have a low income.",
+  "Any bail conditions you are subject to, and whether you need advice on complying with them.",
+  "Your contact details and the best time to reach you, so the solicitor can respond promptly."
+ ],
+ "questions_heading": "Questions to ask the criminal defence solicitor",
+ "questions": [
+  "Are you regulated by the Solicitors Regulation Authority (or the relevant body in Scotland or Northern Ireland)?",
+  "Do you offer legal aid for my type of case, and can you help me check if I am eligible?",
+  "What are your fees if I do not qualify for legal aid, and how will you keep me updated on costs?",
+  "Will you be able to attend the police station with me if I am interviewed?",
+  "Have you handled cases at the court I will be attending?",
+  "What is your approach to preparing a defence and will you instruct a barrister if needed?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a solicitor for a voluntary police interview?",
+   "a": "It is strongly advisable to speak to a solicitor before any voluntary interview. A solicitor can explain your rights and help you avoid saying something that could harm your case."
+  },
+  {
+   "q": "Can I get legal aid for a criminal defence solicitor?",
+   "a": "Legal aid may be available for criminal cases, depending on your financial circumstances and the seriousness of the case. Ask the solicitor about eligibility and whether they offer legal aid."
+  },
+  {
+   "q": "What should I do if I have bail conditions?",
+   "a": "You must follow any bail conditions set by the police or court. If you are unsure what they mean or need to ask for a variation, speak to a solicitor promptly."
+  },
+  {
+   "q": "How do I check if a solicitor is regulated?",
+   "a": "In England and Wales, you can check a solicitor or firm on the Solicitors Regulation Authority (SRA) register. In Scotland, check with the Law Society of Scotland, and in Northern Ireland with the Law Society of Northern Ireland."
+  }
+ ]
+}

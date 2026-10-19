@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for a private counsellor near you usually means you want to speak to someone face to face, without a long wait. You might be looking for help with anxiety, relationships, grief or a specific issue, and you'd like to find a counsellor in your area who offers the kind of sessions you need. We can introduce you to a UK counsellor who works locally or online, and they will quote you directly.",
+ "need_heading": "What people searching for a private counsellor near me usually need",
+ "need_lead": "Most people want a counsellor they can reach easily and see without delay, but the reasons behind that search vary.",
+ "needs": [
+  "You want to see a counsellor in person, so you're looking for someone whose practice is within easy travelling distance of your home or workplace.",
+  "You've been struggling with worry, low mood or a difficult life event and would like to start talking to someone soon, rather than waiting for NHS talking therapies.",
+  "You'd prefer a counsellor who works privately because you want more choice over the type of therapy, the frequency of sessions or the time of day you meet.",
+  "You need sessions outside standard working hours, such as evenings or weekends, and you're looking for a local counsellor who can offer that flexibility.",
+  "You've had counselling before and want to find a different counsellor nearby who feels like a better fit for you this time."
+ ],
+ "context_heading": "What to understand about finding a private counsellor near you",
+ "context": [
+  "In the UK, the titles 'counsellor' and 'psychotherapist' are not protected, which means anyone can use them. To protect yourself, look for a practitioner on a register accredited by the Professional Standards Authority, such as BACP, UKCP or NCPS. Practitioner psychologists, who use titles like clinical or counselling psychologist, must be registered with the HCPC.",
+  "Accredited registers require training, supervision, a code of ethics and a complaints procedure. A good therapist will explain their approach, confidentiality and its limits in the first session. It's also worth asking about fees and cancellation before you commit, so you know what to expect."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you're looking for a private counsellor near you, and give your town or postcode so we can introduce you to someone local.",
+  "Describe briefly what you'd like help with, such as anxiety, depression, relationships, grief or stress, so we can match you with a counsellor who works with that issue.",
+  "Say whether you'd prefer face-to-face sessions, online or telephone counselling, or a mix, and whether you need evening or weekend appointments.",
+  "Let us know if you have a preference for a particular type of therapy, such as person-centred, cognitive behavioural or psychodynamic counselling.",
+  "Tell us if you've had counselling before and what worked or didn't work for you, so we can introduce you to someone whose approach might suit you better.",
+  "Include any accessibility needs or practical considerations, such as step-free access or parking, that would affect where you can attend sessions."
+ ],
+ "questions_heading": "Questions to ask the counsellor",
+ "questions": [
+  "What is your approach to counselling, and how does it work in practice?",
+  "Are you on a register accredited by the Professional Standards Authority, such as BACP, UKCP or NCPS?",
+  "What are your fees, and how do you handle cancellations or missed sessions?",
+  "How many sessions do you usually suggest, and how often would we meet?",
+  "What are your arrangements for confidentiality, and in what circumstances would you share information?",
+  "Do you offer sessions online or by telephone if I can't attend in person?"
+ ],
+ "faqs": [
+  {
+   "q": "How do I find a private counsellor near me?",
+   "a": "You can search online, ask your GP or look at accredited registers such as BACP, UKCP or NCPS. iComply can also introduce you to a UK counsellor in your area, who will then quote you directly."
+  },
+  {
+   "q": "What should I check before choosing a private counsellor?",
+   "a": "Check that the counsellor is on a register accredited by the Professional Standards Authority, such as BACP, UKCP or NCPS. Ask about their training, approach, fees and cancellation policy, and make sure you feel comfortable talking to them."
+  },
+  {
+   "q": "Can I see a private counsellor for anxiety or depression?",
+   "a": "Yes, private counsellors work with a wide range of issues including anxiety and depression. They will discuss your needs with you and explain how they can help, and you can decide together whether to proceed."
+  },
+  {
+   "q": "Do I need a referral from my GP to see a private counsellor?",
+   "a": "No, you can approach a private counsellor directly without a GP referral. However, if you have significant health concerns, it's still a good idea to keep your GP informed."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "intro": "Looking for an equine vet near you usually means you have a horse, pony or donkey who needs attention, whether that's a routine visit or something that can't wait. You want someone who can come out to the yard and who knows your animal's history. We can introduce you to a UK equine vet in your area, and they'll quote you directly.",
+ "need_heading": "What people searching for an equine vet usually need",
+ "need_lead": "Most people searching for an equine vet near them have a specific horse in mind and a practical reason for finding someone local.",
+ "needs": [
+  "Your horse has gone lame and you need a vet to assess it, possibly at the yard rather than at a clinic.",
+  "You're worried about colic and want to know who covers emergencies out of hours before you need them.",
+  "Your horse or pony is due vaccinations or a dental check and you'd like a local vet who can come to the yard.",
+  "You're buying a horse and need a pre-purchase examination carried out by an equine vet.",
+  "You've moved to a new area and need to register your horse with a practice that covers your yard."
+ ],
+ "context_heading": "Knowing who you're dealing with",
+ "context": [
+  "Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons (RCVS), and you can search the RCVS register by name before you book. Many practices also join the voluntary RCVS Practice Standards Scheme, which inspects premises, equipment and clinical processes, so it's worth asking whether the practice you're considering is part of it.",
+  "Some equine vets hold further qualifications such as an RCVS certificate, advanced practitioner status or specialist status. If your horse has a complex or unusual condition, it's reasonable to ask whether the vet treating it holds one of these, or whether they would refer you to someone who does."
+ ],
+ "tell_heading": "What to tell us when you enquire",
+ "tell": [
+  "Tell us roughly where your yard is, so we can look for an equine vet who covers that area.",
+  "Say what the visit is for, such as lameness, colic, dentistry, vaccinations or a pre-purchase examination.",
+  "Mention how many horses or ponies you have and whether they are all registered with a practice already.",
+  "Let us know if this is urgent, so we understand how quickly you need to speak to someone.",
+  "Say whether you'd prefer a vet who can come to the yard or whether you're happy to travel to a clinic.",
+  "Tell us if your horse has a complex or unusual condition, as that may affect which vet is right for you."
+ ],
+ "questions_heading": "Questions to ask the equine vet",
+ "questions": [
+  "How are emergency colic calls covered at night and at weekends?",
+  "Do you have a clinic with imaging or surgical facilities, or would you refer me elsewhere for those?",
+  "Which stages of a pre-purchase examination would you recommend for the horse I'm buying?",
+  "Do you hold any further RCVS qualifications in equine work, or would you refer complex cases on?",
+  "Do you cover my yard area, and is there a call-out charge for visits?",
+  "How do you prefer to handle repeat prescriptions and routine vaccinations for horses on my yard?"
+ ],
+ "faqs": [
+  {
+   "q": "Can I check an equine vet's registration before booking?",
+   "a": "Yes. Every vet practising in the UK must be registered with the Royal College of Veterinary Surgeons, and you can search the RCVS register by name. Veterinary nurses have their own RCVS register too, so you can check them as well."
+  },
+  {
+   "q": "What happens at a pre-purchase examination?",
+   "a": "Pre-purchase vettings follow a standard format, and it's worth agreeing with the vet which stages you need for the horse you're buying. The vet will examine the horse and report their findings so you can make an informed decision."
+  },
+  {
+   "q": "Should I ask about out-of-hours cover for colic?",
+   "a": "Yes, it's sensible to ask how emergency colic calls are covered at night before you need them. Colic can become serious quickly, so knowing who to call and where your horse might be seen matters."
+  },
+  {
+   "q": "What if my horse needs imaging or surgery?",
+   "a": "It's worth checking whether the practice has a clinic for imaging or surgery, or whether they would refer you to another practice for those. Asking this in advance helps you plan if your horse needs more than a yard visit."
+  }
+ ]
+}

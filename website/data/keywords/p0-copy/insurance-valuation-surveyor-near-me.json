@@ -1,0 +1,53 @@
+{
+ "intro": "When you search for an insurance valuation surveyor near me, you are likely thinking about whether your buildings insurance would actually cover the cost of rebuilding your home. It is a sensible concern, because rebuild costs are not the same as market value. iComply can introduce you to a surveyor who works out that reinstatement figure for you.",
+ "need_heading": "What people searching for an insurance valuation surveyor usually need",
+ "need_lead": "Most people who look for an insurance valuation surveyor want a clear, professional figure for rebuilding their property so their insurance is set correctly.",
+ "needs": [
+  "You have bought a home and the mortgage lender or insurer has asked for a rebuild cost figure before cover can start.",
+  "You have had building work done, extended your home or changed its layout, and your existing insurance valuation may no longer reflect what it would cost to rebuild.",
+  "You are renewing your buildings insurance and the sum insured was set years ago, so you want an up-to-date reinstatement figure.",
+  "You are unsure whether your current policy would cover a full rebuild because the sum insured was based on market value rather than rebuild cost.",
+  "You want an independent surveyor near you to assess the property rather than rely on a rough online calculator."
+ ],
+ "context_heading": "Why rebuild cost is not the same as market value",
+ "context": [
+  "Insurance valuation surveyors calculate the reinstatement cost of rebuilding a property for buildings insurance. That figure covers things like materials, labour and professional fees needed to rebuild, and it can be very different from what the property would sell for. Under-insurance can reduce claims, so getting the figure right matters.",
+  "Rebuild costs change over time, so it is wise to check your valuation periodically, especially after alterations or if you have held the same policy for several years. Many surveyors are members of the Royal Institution of Chartered Surveyors (RICS), and RICS-regulated firms must follow professional standards, hold insurance and offer a complaints process. You can check the RICS directory and ask which report type you are getting."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "The full address and property type, including whether it is a house, flat, bungalow or something else.",
+  "The approximate age of the property and any unusual construction features, such as a thatched roof or listed status.",
+  "Details of any extensions, loft conversions or major alterations that could affect rebuild cost.",
+  "Whether you need the valuation for a new policy, a renewal or because your circumstances have changed.",
+  "Any deadline you are working towards, such as a mortgage or insurance start date.",
+  "Your preferred area or how far you are willing to travel for a surveyor to visit."
+ ],
+ "questions_heading": "Questions to ask the surveyor",
+ "questions": [
+  "What exactly does your insurance valuation report include and will it give a reinstatement cost figure?",
+  "Are you a member of the Royal Institution of Chartered Surveyors, and is your firm RICS-regulated?",
+  "How do you calculate rebuild cost, and do you account for professional fees and demolition costs?",
+  "Will you visit the property in person or is the valuation based on desktop information?",
+  "How long will the report take to complete, and what is the cost?",
+  "What should I do if my property changes, for example if I extend or renovate after the valuation?"
+ ],
+ "faqs": [
+  {
+   "q": "How often should I get an insurance valuation?",
+   "a": "Rebuild costs can change over time, so it is sensible to check your valuation periodically, especially after building work or if your policy is several years old. Your insurer may also ask for an updated figure at renewal."
+  },
+  {
+   "q": "Is a rebuild cost the same as my home's market value?",
+   "a": "No, rebuild cost is what it would take to reconstruct the property from scratch, including materials and labour, while market value is what it would sell for. They are calculated differently and can be very different amounts."
+  },
+  {
+   "q": "What happens if I am under-insured?",
+   "a": "Under-insurance can reduce claims, meaning your insurer may not pay out the full amount needed to rebuild. A professional valuation helps you set the sum insured correctly."
+  },
+  {
+   "q": "Do I need a surveyor to visit my property?",
+   "a": "For an accurate insurance valuation, a visit is often needed so the surveyor can assess the property's construction, size and any special features. Some surveyors may offer a desktop valuation, but you should ask what is included."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "intro": "Searching for health screening near me usually means you want a private check-up without waiting for an NHS appointment, or you'd like to keep an eye on things like cholesterol and blood pressure on your own terms. A private GP clinic near you can run those checks and talk you through what the results mean. iComply is a free introduction service: tell us what you're looking for and we'll introduce you to a suitable UK private GP, who will quote you directly.",
+ "need_heading": "What people searching for health screening near me usually need",
+ "need_lead": "Most people typing this search want a convenient, local private GP clinic that can carry out a health check and explain the results properly.",
+ "needs": [
+  "You'd like a general check-up covering things like cholesterol, blood sugar and blood pressure, without waiting for an NHS appointment.",
+  "You have a family history or a personal concern you'd like to look into privately and discuss with a doctor.",
+  "You want the tests chosen around your own risks rather than a standard package that may not suit you.",
+  "You'd like someone to sit down and explain what your results actually mean, rather than just receiving a printout.",
+  "You want a clinic you can get to easily, whether that's on foot, by car or on public transport."
+ ],
+ "context_heading": "Understanding private health screening",
+ "context": [
+  "Private health screening checks markers such as cholesterol, blood sugar and blood pressure, along with other tests depending on the package. More tests are not always better, so it's worth choosing what you have based on your own risks and talking it through with a clinician first.",
+  "Every doctor practising in the UK must be registered and hold a licence to practise with the General Medical Council (GMC), and GPs also appear on the GMC's GP register, which you can search online by name. Private clinics providing regulated healthcare in England must register with the Care Quality Commission (CQC), which inspects and publishes ratings; in Wales the regulator is Healthcare Inspectorate Wales, in Scotland Healthcare Improvement Scotland, and in Northern Ireland the RQIA. A private GP does not replace your NHS GP, and good private clinics will ask for consent to share consultation notes with your NHS practice so your records stay complete."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you're looking for health screening near you, and roughly where you are so we can introduce you to a suitable local private GP.",
+  "Say what prompted the search — a routine check-up, a family history, or a specific concern you'd like looked into.",
+  "Tell us whether you'd prefer a general screening package or tests chosen around your own risks.",
+  "Let us know if you have any existing conditions or medication, so the clinic can advise on what's appropriate.",
+  "Say whether you'd like the results explained in a face-to-face appointment or are happy with a phone or video consultation.",
+  "Mention any access needs, such as step-free entry or evening appointments, so we can introduce you to a clinic that suits you."
+ ],
+ "questions_heading": "Questions to ask the private GP",
+ "questions": [
+  "Which tests would you recommend for me, and why those rather than a standard package?",
+  "Will you explain my results to me in person, and what happens if something needs following up?",
+  "Will you share your consultation notes with my NHS GP, and do you need my consent for that?",
+  "Are you registered with the General Medical Council, and is the clinic registered with the relevant regulator?",
+  "What does the screening involve on the day, and do I need to prepare in any way beforehand?",
+  "How will I receive my results, and who should I contact if I have questions afterwards?"
+ ],
+ "faqs": [
+  {
+   "q": "Is private health screening the same as an NHS health check?",
+   "a": "No — a private GP clinic runs its own screening, usually with tests chosen around your risks, and you pay for it directly. Your NHS GP still looks after your routine care, and a good private clinic will share notes with your NHS practice so your records stay complete."
+  },
+  {
+   "q": "How do I judge which clinic to choose?",
+   "a": "You can search the GMC's online register by name to check that a doctor is registered and licensed, and check the clinic's registration and inspection rating with the relevant regulator for your nation. It's also worth asking which tests are included and why, and how results will be explained to you."
+  },
+  {
+   "q": "Are more tests always better?",
+   "a": "Not necessarily — tests should be chosen based on your own risks, and a clinician can help you decide what's worthwhile. Extra tests can sometimes raise questions that need following up, so it's worth discussing the package before you book."
+  },
+  {
+   "q": "Will the private GP take over from my NHS GP?",
+   "a": "No — a private GP does not replace your NHS GP. Good private clinics will ask for your consent to share consultation notes with your NHS practice, so your records stay complete and any medication is prescribed safely."
+  }
+ ]
+}

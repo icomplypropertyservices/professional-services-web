@@ -1,0 +1,73 @@
+{
+ "intro": "You're looking for a retirement financial adviser near you because you want to turn your savings and pensions into a reliable income for later life. Retirement planning brings together pensions, savings, property and tax, and the choices you make now can shape your income for years. A local adviser can help you understand your options and build a plan that suits your circumstances.",
+ "need_heading": "What people searching for a retirement financial adviser near me usually need",
+ "need_lead": "Most people at this stage want clear, local guidance on how to make their money last through retirement.",
+ "needs": [
+  "You have several pension pots from different jobs and want to understand how they work together to provide an income.",
+  "You are approaching retirement and need to decide when to start taking money from your pensions and how much to withdraw each year.",
+  "You want to coordinate your State Pension with your private savings so you know what income you can expect and when.",
+  "You own property or other assets and want to understand how they fit into your retirement income and any tax implications.",
+  "You have a defined benefit (final salary) pension and are considering transferring it, which requires specialist advice."
+ ],
+ "context_heading": "What to understand about retirement financial advice",
+ "context": [
+  "Financial advice in the UK is regulated by the Financial Conduct Authority (FCA). You can check that any adviser or firm is authorised, or is an appointed representative of an authorised firm, on the FCA register. If something goes wrong, you can complain to the firm and then to the Financial Ombudsman Service, and the Financial Services Compensation Scheme may protect you if an authorised firm fails.",
+  "Some pension decisions carry special rules. Advice on transferring out of a defined benefit (final salary) scheme above a set value must come from an adviser with pension transfer specialist permissions, and safeguarded benefits deserve particular care. Free, impartial guidance is available from Pension Wise for people over the age of fifty with defined contribution pensions."
+ ],
+ "tell_heading": "What to tell iComply when you enquire",
+ "tell": [
+  "Mention that you are looking for a retirement financial adviser near you and say what you hope to achieve.",
+  "List the pensions and savings you have, including any workplace or personal pensions and whether any are defined benefit (final salary) schemes.",
+  "Explain when you plan to retire or if you have already retired, and whether you need income now or later.",
+  "Say whether you have any safeguarded benefits or pension transfer specialist needs.",
+  "Include your approximate age and whether you are over the age of fifty, as this affects access to free guidance from Pension Wise.",
+  "Describe any other assets such as property or investments that you want to include in your planning."
+ ],
+ "questions_heading": "Questions to ask the professional",
+ "questions": [
+  "Are you authorised by the Financial Conduct Authority to give retirement advice, and what permissions do you hold?",
+  "How do you charge for your services, and will you provide a written quote?",
+  "What approach do you take to coordinating pensions, savings, property and tax for a sustainable retirement income?",
+  "How do you decide on the sequence of withdrawals from my pensions and savings?",
+  "Can you explain how State Pension timing might affect my overall plan?",
+  "How often will we go over the plan, and what happens if my circumstances change?"
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a financial adviser to retire?",
+   "a": "Not always, but many people find it helpful to get professional advice when deciding how to take an income from their pensions and savings. A retirement financial adviser can help you understand the options and avoid costly mistakes."
+  },
+  {
+   "q": "What is Pension Wise and can it help me?",
+   "a": "Pension Wise is a free and impartial government service that offers guidance to people over the age of fifty with defined contribution pensions. It can help you understand your options before you make a decision."
+  },
+  {
+   "q": "How do I check if an adviser is authorised?",
+   "a": "You can check the Financial Conduct Authority (FCA) register to see if an adviser or firm is authorised or is an appointed representative of an authorised firm. This is important because it gives you access to the Financial Ombudsman Service and the Financial Services Compensation Scheme if things go wrong."
+  },
+  {
+   "q": "What should I have ready for my first meeting?",
+   "a": "It helps to gather details of all your pensions, savings, investments and property, along with any State Pension forecasts. Also think about your retirement goals and when you want to stop working."
+  }
+ ],
+ "extra_heading": "Choosing between local advisers for retirement income",
+ "extra": [
+  "Searching for a retirement financial adviser near you suggests you would rather sit down with someone in person than work through a pension decision on your own. That is a reasonable instinct, because turning pensions and savings into an income involves several choices that affect each other, and it helps to talk them through with someone who can see your whole picture. It also means you can compare a few local firms before deciding who to work with.",
+  "When you weigh up the advisers you find, the first thing to check is the Financial Conduct Authority register, which shows whether a firm is authorised and what permissions it holds. Then ask how each one charges, whether that is a fixed fee, an hourly rate or a percentage of your money, and ask for the quote in writing so you can compare like with like. A good adviser will be happy to explain their approach to coordinating pensions, savings, property and tax before you commit to anything.",
+  "It also helps to ask how they would plan the order in which you draw on different pots, and how they take your State Pension timing into account, since these decisions can make a real difference to how long your money lasts. Ask how often they would review the plan with you, because a retirement income needs revisiting as markets, tax rules and your own circumstances change. None of this tells you who is best for you, but it gives you a fair basis for judging."
+ ],
+ "extra_faqs": [
+  {
+   "q": "Should I choose an adviser who is close to home?",
+   "a": "Meeting in person can make it easier to talk through your full situation, so a local firm may suit you well. Many advisers also work by phone or video, so distance need not rule someone out if their approach and quote suit you better."
+  },
+  {
+   "q": "How do I compare quotes from different retirement advisers?",
+   "a": "Ask each one to set out in writing what they will do, how they charge and what the quote covers, then compare those like for like. A lower quote is not automatically better value if the service it covers is narrower."
+  },
+  {
+   "q": "Can an adviser help if I have already retired?",
+   "a": "Yes. Retirement income planning is not only for the point of retiring, and an adviser can review how you are drawing on your pensions and savings and whether your plan still fits. Reviews matter because tax rules and your own needs can change over time."
+  }
+ ]
+}
